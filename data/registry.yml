@@ -26,10 +26,10 @@
 properties:
   # G-VV117EV9ZT — the "apps" property: every Shiny app, plus db-query.
   apps: "509537765"
-  # G-0HVK8TDMCF — the site property: calcofi.io itself, docs, pkgdown sites,
-  # and the static Pages sites tagged in 2026-07.
-  # TODO: fill in — see the note above; a Stream ID will not work here.
-  site: ""
+  # G-0HVK8TDMCF (display name "html", stream 4625567227) — the site property:
+  # calcofi.io itself, docs, pkgdown sites, and the static Pages sites tagged
+  # in 2026-07.
+  site: "353746301"
 
 products:
   # ── apps ───────────────────────────────────────────────────────────────────
