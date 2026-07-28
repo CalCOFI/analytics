@@ -121,7 +121,22 @@ gcloud logging read \
   --format="value(timestamp, severity, jsonPayload.status, httpRequest.status)"
 ```
 
-`UNAUTHENTICATED` / `401` there means the header holds no valid token. Fix with:
+The two failures look alike in the job status but mean opposite things:
+
+| log line | meaning | fix |
+|---|---|---|
+| `UNAUTHENTICATED` `401` | no valid token in the header — e.g. `<PAT>` pasted literally | set a real token (below) |
+| `PERMISSION_DENIED` `403` | the token IS valid, but is not allowed to dispatch **this repo** | grant it access to `CalCOFI/analytics` |
+
+A 403 is almost always a fine-grained PAT scoped to another repo: it
+authenticates across the org but only acts on the repos in its access list, so
+the token behind `calcofi-uptime-dispatch` works there and 403s here. Add
+`CalCOFI/analytics` to that token's repository access with **Contents: read and
+write**, or use a classic PAT with `repo` / `public_repo`, which needs no
+per-repo step. (If `calcofi-uptime-dispatch` is still succeeding with the same
+token, org SAML is not the cause — it is repo access.)
+
+Set or replace the token with:
 
 ```bash
 gcloud scheduler jobs update http calcofi-analytics-dispatch \
