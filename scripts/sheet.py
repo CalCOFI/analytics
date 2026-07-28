@@ -19,8 +19,10 @@ how often they fail, and which deployed build produced them.
 from __future__ import annotations
 
 import collections
+import datetime as dt
 import json
 import os
+import re
 import statistics
 
 from googleapiclient.discovery import build as gbuild
@@ -43,11 +45,35 @@ def _rows(sheet_id: str, tab: str) -> tuple[list[str], list[list[str]]]:
     )
     svc = gbuild("sheets", "v4", credentials=creds, cache_discovery=False)
     resp = svc.spreadsheets().values().get(
-        spreadsheetId=sheet_id, range=f"'{tab}'!A:P").execute()
+        spreadsheetId=sheet_id, range=f"'{tab}'!A:P",
+        # UNFORMATTED: the timestamp column holds real Date cells, which the API
+        # otherwise renders in the SHEET's locale ("7/28/2026 16:25:40"). Slicing
+        # ten characters off that yields "7/28/2026 " — a broken day key that
+        # silently shifts with whoever owns the spreadsheet. Unformatted gives a
+        # serial number, which is locale-proof.
+        valueRenderOption="UNFORMATTED_VALUE").execute()
     values = resp.get("values", [])
     if not values:
         return [], []
     return values[0], values[1:]
+
+
+# Sheets serial epoch: day 1 is 1899-12-31, so day 0 is 1899-12-30
+_SHEETS_EPOCH = dt.date(1899, 12, 30)
+
+
+def _day(v) -> str:
+    """The ISO day of a timestamp cell, whatever form it arrives in."""
+    if isinstance(v, (int, float)) and v > 0:
+        return (_SHEETS_EPOCH + dt.timedelta(days=int(v))).isoformat()
+    s = str(v or "").strip()
+    if len(s) >= 10 and s[4] == "-" and s[7] == "-":      # 2026-07-28T…
+        return s[:10]
+    m = re.match(r"(\d{1,2})/(\d{1,2})/(\d{4})", s)        # 7/28/2026 …
+    if m:
+        mo, dd, yy = (int(x) for x in m.groups())
+        return f"{yy:04d}-{mo:02d}-{dd:02d}"
+    return ""
 
 
 def _num(v):
@@ -81,7 +107,7 @@ def summarize(sheet_id: str, tab: str = "db-viz-hex") -> dict:
     versions = collections.defaultdict(lambda: {"n": 0, "first": "", "last": ""})
 
     for r in rows:
-        day = (cell(r, "timestamp") or "")[:10]
+        day = _day(cell(r, "timestamp"))
         if not day:
             continue
         ev = cell(r, "event") or "(none)"

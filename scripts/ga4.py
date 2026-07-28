@@ -80,6 +80,13 @@ def run(cli, property_id: str, dimensions: list[str], metrics: list[str],
         for row in resp.rows:
             rec = {d: row.dimension_values[i].value for i, d in enumerate(dimensions)}
             rec.update({m: row.metric_values[i].value for i, m in enumerate(metrics)})
+            # GA4 returns `date` as YYYYMMDD. Everything downstream compares
+            # dates as ISO strings, and "20260728" sorts ABOVE every ISO date
+            # ("0" > "-"), so leaving it raw silently emptied every window and
+            # reported 0 users from a full pull.
+            d = rec.get("date", "")
+            if len(d) == 8 and d.isdigit():
+                rec["date"] = f"{d[:4]}-{d[4:6]}-{d[6:]}"
             out.append(rec)
         offset += len(resp.rows)
         if offset >= resp.row_count or not resp.rows:

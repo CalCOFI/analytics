@@ -88,11 +88,19 @@ def main() -> int:
         if not rep:
             continue
 
-        # time series: content-group rows first, then path rows for anything the
-        # group did not cover (untagged history, Quarto/pkgdown pages)
-        rows = [r for r in rep["daily_group"] if matches(prod, r)]
-        rows += [r for r in rep["daily_path"] if matches(prod, r)]
-        daily = collapse(rows, ["date"], ga4.METRICS)
+        # Time series: content group is authoritative; page paths fill in only
+        # the dates it does not cover (history from before the product was
+        # tagged, and Quarto/pkgdown pages that emit no group of ours).
+        #
+        # These must NOT be summed. A tagged product matches its own content
+        # group AND its own path prefix, so adding them double-counts every
+        # day — which looks plausible on a chart and is wrong by 2x.
+        grp = collapse([r for r in rep["daily_group"] if matches(prod, r)],
+                       ["date"], ga4.METRICS)
+        pth = collapse([r for r in rep["daily_path"] if matches(prod, r)],
+                       ["date"], ga4.METRICS)
+        covered = {r["date"] for r in grp}
+        daily = grp + [r for r in pth if r["date"] not in covered]
         if daily:
             upsert_csv(DATA / "daily" / f"{slug}.csv", daily, ["date"], DAILY_FIELDS)
 
