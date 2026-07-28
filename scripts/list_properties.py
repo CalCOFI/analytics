@@ -58,13 +58,27 @@ def main() -> int:
               "(OPERATIONS.md step 4) has not landed.", file=sys.stderr)
         return 1
 
-    print(f"{'PROPERTY ID':<14} {'DISPLAY NAME':<40} ACCOUNT")
+    print(f"{'PROPERTY ID':<14} {'DISPLAY NAME':<24} {'MEASUREMENT ID':<16} "
+          f"{'STREAM ID':<12} ACCOUNT")
     for acct in summaries:
         for p in acct.property_summaries:
             pid = p.property.split("/")[-1]      # "properties/509537765"
-            print(f"{pid:<14} {p.display_name:<40} {acct.display_name}")
-    print("\nPut the one matching G-0HVK8TDMCF into data/registry.yml → "
-          "properties.site, and push.")
+            # print each stream too: the measurement id is what a site's gtag
+            # snippet carries, so this is what lets you match a property to the
+            # G-… you actually know
+            try:
+                streams = list(client.list_data_streams(parent=p.property))
+            except Exception:
+                streams = []
+            if not streams:
+                print(f"{pid:<14} {p.display_name:<24} {'—':<16} {'—':<12} {acct.display_name}")
+            for s in streams:
+                w = getattr(s, "web_stream_data", None)
+                print(f"{pid:<14} {p.display_name:<24} "
+                      f"{(w.measurement_id if w else '—'):<16} "
+                      f"{s.name.split('/')[-1]:<12} {acct.display_name}")
+    print("\nMatch on MEASUREMENT ID, then put that row's PROPERTY ID into "
+          "data/registry.yml → properties.site, and push.")
     return 0
 
 
