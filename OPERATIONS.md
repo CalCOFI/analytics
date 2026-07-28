@@ -5,11 +5,17 @@ key. This is that checklist, plus the things that will confuse you later.
 
 ## One-time Google setup
 
-1. **Find the site property's numeric id.** GA4 → Admin → Property Settings; the
-   ID sits top-right. Put it in `data/registry.yml` under
-   `properties.site` (the apps property, `509537765`, is already there).
+1. **Find the site property's numeric id — and commit it.** GA4 → Admin →
+   Property Settings; the ID sits top-right. Put it in `data/registry.yml` under
+   `properties.site`, replacing the empty `""` (the apps property, `509537765`,
+   is already there), and **push that change** — the workflow reads the
+   committed file, not your working copy.
+
    Measurement IDs (`G-…`) are *not* property ids and the Data API will not take
-   them.
+   them. Until `site` is filled, the daily run finishes **red** with
+   `! property 'site' has no id` and the eight calcofi.io products (db-schema,
+   docs, workflows, calcofi4r, calcofi4db, db-viz-station, ucla-monitoring-map,
+   hypoxia-story) stay empty, while the apps property still publishes normally.
 
 2. **Create a dedicated service account — do not reuse `calcofi-admin@`.**
 
@@ -52,6 +58,16 @@ key. This is that checklist, plus the things that will confuse you later.
 
 9. **First run**: Actions → "Refresh usage data" → Run workflow, with
    **backfill** ticked. Subsequent runs only re-read 35 days.
+
+   A run goes red if *either* property is unreachable, but the data it did get
+   is still committed and published — the commit and build steps run on failure
+   by design. So a red first run with real numbers on the site usually means one
+   property is misconfigured, not that nothing worked. Read the
+   `! property '<name>' … failed:` line for which and why.
+
+   How far back the backfill actually reaches is set by each property's data
+   retention (step 6), not by the request: the API accepts no start date earlier
+   than **2015-08-14**, and `scripts/ga4.py` clamps to it.
 
 ## ⚠️ The daily trigger is Cloud Scheduler, not GitHub cron
 

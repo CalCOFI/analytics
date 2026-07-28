@@ -62,12 +62,23 @@ def main() -> int:
     props = reg["properties"]
 
     cli = ga4.client()
-    pulled = {}
+    pulled, failed = {}, []
     for name, pid in props.items():
         if not pid:
-            print(f"! property '{name}' has no id in registry.yml — skipped", file=sys.stderr)
+            print(f"! property '{name}' has no id in registry.yml — skipped. "
+                  f"Its products will show no data; see OPERATIONS.md step 1.",
+                  file=sys.stderr)
+            failed.append(name)
             continue
-        pulled[name] = ga4.fetch_all(cli, pid, backfill)
+        try:
+            pulled[name] = ga4.fetch_all(cli, pid, backfill)
+        except Exception as e:
+            # one property being misconfigured (wrong id, Viewer not granted)
+            # must not cost the other its daily pull — carry on and go red at
+            # the end, with the commit step still running on failure
+            print(f"! property '{name}' ({pid}) failed: {e}", file=sys.stderr)
+            failed.append(name)
+            continue
         print(f"  {name}: " + ", ".join(f"{k}={len(v)}" for k, v in pulled[name].items()),
               file=sys.stderr)
 
@@ -115,6 +126,13 @@ def main() -> int:
     s = build.build()
     print(f"built {s['n_products']} products, {s['totals_28d']['activeUsers']:.0f} "
           f"active users in 28d", file=sys.stderr)
+
+    if failed:
+        # whatever was pulled is already written and will still be committed
+        # (the commit step runs on failure); exiting non-zero is what makes a
+        # half-configured pipeline visible instead of quietly partial
+        print(f"! incomplete: {', '.join(failed)}", file=sys.stderr)
+        return 1
     return 0
 
 

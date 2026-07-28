@@ -36,6 +36,13 @@ METRICS = [
 
 PAGE_SIZE = 100_000
 
+# GA4 itself did not exist before this date and the Data API hard-rejects any
+# earlier start_date with
+#   "start_date = ... must be greater than 2015-08-13"
+# — a 400, not an empty result, so a backfill that reaches back "far enough to
+# be safe" fails the whole run. This is the earliest date the API accepts.
+GA4_EPOCH = "2015-08-14"
+
 
 def client() -> BetaAnalyticsDataClient:
     """Auth from the GCP_SA_KEY secret (raw JSON, not a path)."""
@@ -56,6 +63,10 @@ def client() -> BetaAnalyticsDataClient:
 def run(cli, property_id: str, dimensions: list[str], metrics: list[str],
         start: str, end: str = "today") -> list[dict]:
     """Run one report, following offset pagination to the end."""
+    # clamp rather than trust the caller: an out-of-range start is a 400 that
+    # kills the run, and the only sane response is the earliest legal date
+    if start < GA4_EPOCH:
+        start = GA4_EPOCH
     out: list[dict] = []
     offset = 0
     while True:
@@ -86,7 +97,7 @@ def fetch_all(cli, property_id: str, backfill: bool) -> dict[str, list[dict]]:
     run only re-reads a trailing 35-day window, because GA4 keeps revising the
     last couple of days as late hits arrive.
     """
-    start_ts = "2015-01-01" if backfill else since(35)
+    start_ts = GA4_EPOCH if backfill else since(35)
     return {
         # 1. usage over time, by content group
         "daily_group": run(cli, property_id, ["date", "contentGroup"], METRICS, start_ts),

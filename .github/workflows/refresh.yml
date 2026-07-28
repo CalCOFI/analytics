@@ -55,7 +55,11 @@ jobs:
         run: |
           python3 scripts/refresh.py ${{ inputs.backfill && '--backfill' || '' }}
 
+      # always(): a partially-successful pull (one property misconfigured) still
+      # produced real data for the other — keep it, and let the red run be what
+      # signals that something needs fixing
       - name: Commit if changed
+        if: always()
         run: |
           git config user.name  "calcofi-bot"
           git config user.email "bot@calcofi.io"
@@ -70,6 +74,8 @@ jobs:
 
   build:
     needs: refresh
+    # publish whatever landed, even if one property failed — see above
+    if: always()
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
