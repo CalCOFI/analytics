@@ -4,27 +4,162 @@
  "live_url": "https://app.calcofi.io/SaferSeafood/",
  "property": "apps",
  "has_data": true,
- "first_day": "20260507",
+ "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 0,
-  "newUsers": 0,
-  "sessions": 0,
-  "engagedSessions": 0,
-  "screenPageViews": 0,
-  "eventCount": 0,
-  "userEngagementDuration": 0,
-  "avgEngagementSeconds": 0,
-  "engagedSessionRate": 0,
-  "viewsPerUser": 0
+  "activeUsers": 19.0,
+  "newUsers": 13.0,
+  "sessions": 29.0,
+  "engagedSessions": 22.0,
+  "screenPageViews": 29.0,
+  "eventCount": 208.0,
+  "userEngagementDuration": 1928.0,
+  "avgEngagementSeconds": 101.5,
+  "engagedSessionRate": 0.8,
+  "viewsPerUser": 1.5
  },
  "delta_28d": {
-  "activeUsers": null,
-  "sessions": null,
-  "avgEngagementSeconds": null,
-  "screenPageViews": null
+  "activeUsers": 72.7,
+  "sessions": 70.6,
+  "avgEngagementSeconds": 187.5,
+  "screenPageViews": 107.1
  },
  "daily": [
+  {
+   "date": "2026-05-07",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-05-08",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-05-12",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-05-20",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-05-24",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-05-26",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-05-27",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-03",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-05",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-06-08",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-06-10",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-16",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-18",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-06-20",
+   "activeUsers": 5.0,
+   "sessions": 8.0
+  },
+  {
+   "date": "2026-07-07",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-09",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-10",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-07-11",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-13",
+   "activeUsers": 3.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-07-14",
+   "activeUsers": 1.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-07-15",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-16",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-18",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-20",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-07-23",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-25",
+   "activeUsers": 2.0,
+   "sessions": 4.0
+  },
+  {
+   "date": "2026-07-27",
+   "activeUsers": 3.0,
+   "sessions": 5.0
+  },
   {
    "date": "20260507",
    "activeUsers": 2.0,
@@ -168,6 +303,33 @@
   1.5,
   1.4,
   1.5,
+  1.43,
+  1.29,
+  1.29,
+  1.29,
+  1.14,
+  1.14,
+  1.0,
+  1.57,
+  1.57,
+  1.57,
+  1.71,
+  1.71,
+  2.0,
+  2.0,
+  1.43,
+  1.29,
+  1.29,
+  1.29,
+  1.29,
+  1.14,
+  1.43,
+  1.57,
+  1.71,
+  1.71,
+  1.71,
+  1.71,
+  1.71,
   1.43,
   1.29,
   1.29,

@@ -4,27 +4,127 @@
  "live_url": "https://app.calcofi.io/marmam/",
  "property": "apps",
  "has_data": true,
- "first_day": "20260507",
+ "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 0,
-  "newUsers": 0,
-  "sessions": 0,
-  "engagedSessions": 0,
-  "screenPageViews": 0,
-  "eventCount": 0,
-  "userEngagementDuration": 0,
-  "avgEngagementSeconds": 0,
-  "engagedSessionRate": 0,
-  "viewsPerUser": 0
+  "activeUsers": 3.0,
+  "newUsers": 1.0,
+  "sessions": 5.0,
+  "engagedSessions": 2.0,
+  "screenPageViews": 3.0,
+  "eventCount": 12.0,
+  "userEngagementDuration": 30.0,
+  "avgEngagementSeconds": 10.0,
+  "engagedSessionRate": 0.4,
+  "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": null,
-  "sessions": null,
-  "avgEngagementSeconds": null,
-  "screenPageViews": null
+  "activeUsers": -78.6,
+  "sessions": -72.2,
+  "avgEngagementSeconds": -50.7,
+  "screenPageViews": -78.6
  },
  "daily": [
+  {
+   "date": "2026-05-07",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-05-12",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-05-13",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-05-19",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-05-20",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-05-28",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-05-29",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-06-04",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-06-08",
+   "activeUsers": 3.0,
+   "sessions": 4.0
+  },
+  {
+   "date": "2026-06-18",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-06-22",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-23",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-06-24",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-29",
+   "activeUsers": 3.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-06-30",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-07-01",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-13",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-16",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-17",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-27",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
   {
    "date": "20260507",
    "activeUsers": 1.0,
@@ -133,6 +233,26 @@
   1.25,
   1.0,
   1.17,
+  1.14,
+  1.29,
+  1.57,
+  1.71,
+  1.57,
+  1.86,
+  1.57,
+  1.86,
+  1.71,
+  1.29,
+  1.14,
+  1.14,
+  0.86,
+  1.0,
+  0.71,
+  0.71,
+  0.86,
+  1.0,
+  0.86,
+  1.14,
   1.14,
   1.29,
   1.57,

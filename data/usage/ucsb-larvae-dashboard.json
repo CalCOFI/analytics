@@ -4,19 +4,19 @@
  "live_url": "https://app.calcofi.io/2026-ucsb-larvae-dashboard/",
  "property": "apps",
  "has_data": true,
- "first_day": "20260727",
+ "first_day": "2026-07-27",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 0,
-  "newUsers": 0,
-  "sessions": 0,
-  "engagedSessions": 0,
-  "screenPageViews": 0,
-  "eventCount": 0,
-  "userEngagementDuration": 0,
-  "avgEngagementSeconds": 0,
-  "engagedSessionRate": 0,
-  "viewsPerUser": 0
+  "activeUsers": 1.0,
+  "newUsers": 0.0,
+  "sessions": 2.0,
+  "engagedSessions": 2.0,
+  "screenPageViews": 1.0,
+  "eventCount": 4.0,
+  "userEngagementDuration": 0.0,
+  "avgEngagementSeconds": 0.0,
+  "engagedSessionRate": 1.0,
+  "viewsPerUser": 1.0
  },
  "delta_28d": {
   "activeUsers": null,
@@ -26,13 +26,19 @@
  },
  "daily": [
   {
+   "date": "2026-07-27",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
    "date": "20260727",
    "activeUsers": 2.0,
    "sessions": 4.0
   }
  ],
  "daily_mean7": [
-  2.0
+  1.0,
+  1.5
  ],
  "geo_country": [
   {

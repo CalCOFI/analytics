@@ -4,19 +4,19 @@
  "live_url": "https://app.calcofi.io/db-viz-hex/",
  "property": "apps",
  "has_data": true,
- "first_day": "20260701",
+ "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 0,
-  "newUsers": 0,
-  "sessions": 0,
-  "engagedSessions": 0,
-  "screenPageViews": 0,
-  "eventCount": 0,
-  "userEngagementDuration": 0,
-  "avgEngagementSeconds": 0,
-  "engagedSessionRate": 0,
-  "viewsPerUser": 0
+  "activeUsers": 32.0,
+  "newUsers": 11.0,
+  "sessions": 57.0,
+  "engagedSessions": 37.0,
+  "screenPageViews": 79.0,
+  "eventCount": 397.0,
+  "userEngagementDuration": 1904.0,
+  "avgEngagementSeconds": 59.5,
+  "engagedSessionRate": 0.6,
+  "viewsPerUser": 2.5
  },
  "delta_28d": {
   "activeUsers": null,
@@ -25,6 +25,76 @@
   "screenPageViews": null
  },
  "daily": [
+  {
+   "date": "2026-07-01",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-06",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-10",
+   "activeUsers": 4.0,
+   "sessions": 7.0
+  },
+  {
+   "date": "2026-07-14",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-07-15",
+   "activeUsers": 1.0,
+   "sessions": 5.0
+  },
+  {
+   "date": "2026-07-16",
+   "activeUsers": 4.0,
+   "sessions": 8.0
+  },
+  {
+   "date": "2026-07-17",
+   "activeUsers": 2.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-07-18",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-07-20",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-07-21",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-07-22",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-07-23",
+   "activeUsers": 5.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-07-26",
+   "activeUsers": 0.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-07-27",
+   "activeUsers": 5.0,
+   "sessions": 8.0
+  },
   {
    "date": "20260701",
    "activeUsers": 1.0,
@@ -103,6 +173,20 @@
   1.75,
   1.6,
   2.0,
+  2.0,
+  2.14,
+  2.29,
+  2.0,
+  2.14,
+  2.71,
+  2.14,
+  2.57,
+  2.43,
+  2.29,
+  2.57,
+  2.43,
+  1.86,
+  2.43,
   2.0,
   2.14,
   2.29,
@@ -202,6 +286,78 @@
  ],
  "log": {
   "daily": [
+   {
+    "date": "2026-07-15",
+    "events": "24",
+    "distinct_sessions": "0",
+    "distinct_clients": "0",
+    "errors": "0",
+    "p50_ms": "19570.8",
+    "p95_ms": "236937.2"
+   },
+   {
+    "date": "2026-07-16",
+    "events": "18",
+    "distinct_sessions": "0",
+    "distinct_clients": "0",
+    "errors": "0",
+    "p50_ms": "20481.8",
+    "p95_ms": "32474.8"
+   },
+   {
+    "date": "2026-07-17",
+    "events": "5",
+    "distinct_sessions": "0",
+    "distinct_clients": "0",
+    "errors": "0",
+    "p50_ms": "21179.0",
+    "p95_ms": "50520.9"
+   },
+   {
+    "date": "2026-07-20",
+    "events": "22",
+    "distinct_sessions": "0",
+    "distinct_clients": "0",
+    "errors": "0",
+    "p50_ms": "122.8",
+    "p95_ms": "315.4"
+   },
+   {
+    "date": "2026-07-23",
+    "events": "4",
+    "distinct_sessions": "0",
+    "distinct_clients": "0",
+    "errors": "0",
+    "p50_ms": "121.5",
+    "p95_ms": "277.3"
+   },
+   {
+    "date": "2026-07-24",
+    "events": "4",
+    "distinct_sessions": "0",
+    "distinct_clients": "0",
+    "errors": "0",
+    "p50_ms": "105.9",
+    "p95_ms": "257.0"
+   },
+   {
+    "date": "2026-07-27",
+    "events": "9",
+    "distinct_sessions": "4",
+    "distinct_clients": "3",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
+    "date": "2026-07-28",
+    "events": "13",
+    "distinct_sessions": "3",
+    "distinct_clients": "2",
+    "errors": "0",
+    "p50_ms": "33145.9",
+    "p95_ms": "47975.9"
+   },
    {
     "date": "7/15/2026 ",
     "events": "24",
@@ -383,32 +539,32 @@
    {
     "app_version": "1758474",
     "n": "2",
-    "first_seen": "7/27/2026 ",
-    "last_seen": "7/27/2026 "
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27"
    },
    {
     "app_version": "5ce687f",
     "n": "2",
-    "first_seen": "7/27/2026 ",
-    "last_seen": "7/27/2026 "
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27"
    },
    {
     "app_version": "aa0f9b6",
     "n": "17",
-    "first_seen": "7/27/2026 ",
-    "last_seen": "7/28/2026 "
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-28"
    },
    {
     "app_version": "latest",
     "n": "1",
-    "first_seen": "7/27/2026 ",
-    "last_seen": "7/27/2026 "
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27"
    },
    {
     "app_version": "test",
     "n": "1",
-    "first_seen": "7/15/2026 ",
-    "last_seen": "7/15/2026 "
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15"
    }
   ]
  }

@@ -4,27 +4,52 @@
  "live_url": "https://app.calcofi.io/pollutants/",
  "property": "apps",
  "has_data": true,
- "first_day": "20260507",
+ "first_day": "2026-05-07",
  "last_day": "20260713",
  "totals_28d": {
-  "activeUsers": 0,
-  "newUsers": 0,
-  "sessions": 0,
-  "engagedSessions": 0,
-  "screenPageViews": 0,
-  "eventCount": 0,
-  "userEngagementDuration": 0,
-  "avgEngagementSeconds": 0,
-  "engagedSessionRate": 0,
-  "viewsPerUser": 0
+  "activeUsers": 1.0,
+  "newUsers": 0.0,
+  "sessions": 1.0,
+  "engagedSessions": 1.0,
+  "screenPageViews": 1.0,
+  "eventCount": 4.0,
+  "userEngagementDuration": 14.0,
+  "avgEngagementSeconds": 14.0,
+  "engagedSessionRate": 1.0,
+  "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": null,
-  "sessions": null,
-  "avgEngagementSeconds": null,
-  "screenPageViews": null
+  "activeUsers": -50.0,
+  "sessions": -66.7,
+  "avgEngagementSeconds": 12.0,
+  "screenPageViews": -50.0
  },
  "daily": [
+  {
+   "date": "2026-05-07",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-05-08",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-08",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-06-20",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-13",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
   {
    "date": "20260507",
    "activeUsers": 1.0,
@@ -52,6 +77,11 @@
   }
  ],
  "daily_mean7": [
+  1.0,
+  1.0,
+  1.0,
+  1.0,
+  1.0,
   1.0,
   1.0,
   1.0,
