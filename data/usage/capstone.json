@@ -3,9 +3,9 @@
  "title": "Capstone App",
  "live_url": "https://app.calcofi.io/capstone/",
  "property": "apps",
- "has_data": false,
- "first_day": "",
- "last_day": "",
+ "has_data": true,
+ "first_day": "20260507",
+ "last_day": "20260721",
  "totals_28d": {
   "activeUsers": 0,
   "newUsers": 0,
@@ -24,8 +24,160 @@
   "avgEngagementSeconds": null,
   "screenPageViews": null
  },
- "daily": [],
- "daily_mean7": [],
+ "daily": [
+  {
+   "date": "20260507",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260511",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260512",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260519",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260521",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260522",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260526",
+   "activeUsers": 3.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "20260531",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260602",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260604",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260605",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260608",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "20260610",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260611",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260615",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260616",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260617",
+   "activeUsers": 0.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260623",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260703",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260706",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260712",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260713",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "20260719",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260720",
+   "activeUsers": 3.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "20260721",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  }
+ ],
+ "daily_mean7": [
+  1.0,
+  1.5,
+  1.33,
+  1.5,
+  1.4,
+  1.33,
+  1.57,
+  1.43,
+  1.14,
+  1.29,
+  1.14,
+  1.29,
+  1.29,
+  1.0,
+  1.14,
+  1.29,
+  1.0,
+  1.14,
+  1.0,
+  1.0,
+  1.0,
+  1.14,
+  1.14,
+  1.57,
+  1.43
+ ],
  "geo_country": [],
  "geo": [],
  "events": []

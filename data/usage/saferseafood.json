@@ -3,9 +3,9 @@
  "title": "SaferSeafood App",
  "live_url": "https://app.calcofi.io/SaferSeafood/",
  "property": "apps",
- "has_data": false,
- "first_day": "",
- "last_day": "",
+ "has_data": true,
+ "first_day": "20260507",
+ "last_day": "20260727",
  "totals_28d": {
   "activeUsers": 0,
   "newUsers": 0,
@@ -24,8 +24,172 @@
   "avgEngagementSeconds": null,
   "screenPageViews": null
  },
- "daily": [],
- "daily_mean7": [],
+ "daily": [
+  {
+   "date": "20260507",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "20260508",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260512",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260520",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260524",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260526",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260527",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260603",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260605",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260608",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260610",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260616",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260618",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260620",
+   "activeUsers": 5.0,
+   "sessions": 8.0
+  },
+  {
+   "date": "20260707",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260709",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260710",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260711",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260713",
+   "activeUsers": 3.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "20260714",
+   "activeUsers": 1.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "20260715",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260716",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260718",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260720",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260723",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260725",
+   "activeUsers": 2.0,
+   "sessions": 4.0
+  },
+  {
+   "date": "20260727",
+   "activeUsers": 3.0,
+   "sessions": 5.0
+  }
+ ],
+ "daily_mean7": [
+  2.0,
+  1.5,
+  1.33,
+  1.5,
+  1.4,
+  1.5,
+  1.43,
+  1.29,
+  1.29,
+  1.29,
+  1.14,
+  1.14,
+  1.0,
+  1.57,
+  1.57,
+  1.57,
+  1.71,
+  1.71,
+  2.0,
+  2.0,
+  1.43,
+  1.29,
+  1.29,
+  1.29,
+  1.29,
+  1.14,
+  1.43
+ ],
  "geo_country": [],
  "geo": [],
  "events": []

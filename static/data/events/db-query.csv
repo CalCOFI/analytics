@@ -1,0 +1,9 @@
+eventName,eventCount,activeUsers
+click,1,1
+download,2,1
+form_start,1,1
+page_view,1,1
+query_success,1,1
+query_view,1,1
+scroll,1,1
+user_engagement,1,1

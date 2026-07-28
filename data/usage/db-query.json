@@ -3,9 +3,9 @@
  "title": "db-query",
  "live_url": "https://calcofi.io/db-query/",
  "property": "apps",
- "has_data": false,
- "first_day": "",
- "last_day": "",
+ "has_data": true,
+ "first_day": "20260519",
+ "last_day": "20260728",
  "totals_28d": {
   "activeUsers": 0,
   "newUsers": 0,
@@ -24,9 +24,269 @@
   "avgEngagementSeconds": null,
   "screenPageViews": null
  },
- "daily": [],
- "daily_mean7": [],
- "geo_country": [],
- "geo": [],
- "events": []
+ "daily": [
+  {
+   "date": "20260519",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260520",
+   "activeUsers": 1.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "20260525",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260601",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260602",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260605",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260608",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260609",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260611",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260612",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260615",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260616",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260619",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260622",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260623",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260625",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260626",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260627",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260629",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260701",
+   "activeUsers": 14.0,
+   "sessions": 15.0
+  },
+  {
+   "date": "20260703",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260706",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260707",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260710",
+   "activeUsers": 3.0,
+   "sessions": 4.0
+  },
+  {
+   "date": "20260712",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260713",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260714",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260715",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260716",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260720",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260721",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260723",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260727",
+   "activeUsers": 1.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "20260728",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  }
+ ],
+ "daily_mean7": [
+  1.0,
+  1.0,
+  0.67,
+  0.75,
+  0.8,
+  0.83,
+  1.0,
+  1.14,
+  1.14,
+  1.43,
+  1.43,
+  1.43,
+  1.43,
+  1.14,
+  1.0,
+  1.0,
+  0.86,
+  0.86,
+  0.86,
+  2.71,
+  2.86,
+  3.0,
+  3.0,
+  3.29,
+  3.29,
+  3.43,
+  1.71,
+  1.71,
+  1.57,
+  1.57,
+  1.29,
+  1.29,
+  1.14,
+  1.14
+ ],
+ "geo_country": [
+  {
+   "country": "United States",
+   "countryId": "US",
+   "activeUsers": 1.0
+  }
+ ],
+ "geo": [
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Other",
+   "activeUsers": 1.0
+  }
+ ],
+ "events": [
+  {
+   "name": "download",
+   "count": 2.0,
+   "users": 1.0
+  },
+  {
+   "name": "click",
+   "count": 1.0,
+   "users": 1.0
+  },
+  {
+   "name": "form_start",
+   "count": 1.0,
+   "users": 1.0
+  },
+  {
+   "name": "page_view",
+   "count": 1.0,
+   "users": 1.0
+  },
+  {
+   "name": "query_success",
+   "count": 1.0,
+   "users": 1.0
+  },
+  {
+   "name": "query_view",
+   "count": 1.0,
+   "users": 1.0
+  },
+  {
+   "name": "scroll",
+   "count": 1.0,
+   "users": 1.0
+  },
+  {
+   "name": "user_engagement",
+   "count": 1.0,
+   "users": 1.0
+  }
+ ]
 }

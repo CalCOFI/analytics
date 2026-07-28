@@ -3,9 +3,9 @@
  "title": "Larvae Dashboard",
  "live_url": "https://app.calcofi.io/2026-ucsb-larvae-dashboard/",
  "property": "apps",
- "has_data": false,
- "first_day": "",
- "last_day": "",
+ "has_data": true,
+ "first_day": "20260727",
+ "last_day": "20260727",
  "totals_28d": {
   "activeUsers": 0,
   "newUsers": 0,
@@ -24,9 +24,51 @@
   "avgEngagementSeconds": null,
   "screenPageViews": null
  },
- "daily": [],
- "daily_mean7": [],
- "geo_country": [],
- "geo": [],
- "events": []
+ "daily": [
+  {
+   "date": "20260727",
+   "activeUsers": 2.0,
+   "sessions": 4.0
+  }
+ ],
+ "daily_mean7": [
+  2.0
+ ],
+ "geo_country": [
+  {
+   "country": "Italy",
+   "countryId": "IT",
+   "activeUsers": 1.0
+  }
+ ],
+ "geo": [
+  {
+   "country": "Italy",
+   "countryId": "IT",
+   "region": "Other",
+   "activeUsers": 1.0
+  }
+ ],
+ "events": [
+  {
+   "name": "page_view",
+   "count": 1.0,
+   "users": 1.0
+  },
+  {
+   "name": "scroll",
+   "count": 1.0,
+   "users": 1.0
+  },
+  {
+   "name": "session_start",
+   "count": 1.0,
+   "users": 1.0
+  },
+  {
+   "name": "user_engagement",
+   "count": 1.0,
+   "users": 1.0
+  }
+ ]
 }

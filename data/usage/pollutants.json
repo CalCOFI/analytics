@@ -3,9 +3,9 @@
  "title": "pollutants",
  "live_url": "https://app.calcofi.io/pollutants/",
  "property": "apps",
- "has_data": false,
- "first_day": "",
- "last_day": "",
+ "has_data": true,
+ "first_day": "20260507",
+ "last_day": "20260713",
  "totals_28d": {
   "activeUsers": 0,
   "newUsers": 0,
@@ -24,8 +24,40 @@
   "avgEngagementSeconds": null,
   "screenPageViews": null
  },
- "daily": [],
- "daily_mean7": [],
+ "daily": [
+  {
+   "date": "20260507",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260508",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260608",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "20260620",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "20260713",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  }
+ ],
+ "daily_mean7": [
+  1.0,
+  1.0,
+  1.0,
+  1.0,
+  1.0
+ ],
  "geo_country": [],
  "geo": [],
  "events": []
