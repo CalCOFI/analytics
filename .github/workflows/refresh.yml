@@ -21,7 +21,11 @@ on:
         type: boolean
         default: false
   schedule:
-    - cron: "17 11 * * *"     # 03:17 PT — after GA4 has settled the previous day
+    # Deliberately NOT the scheduler's 11:17 — when both fire in the same
+    # minute the second run's `git push` races the first and goes red for no
+    # reason. This is the fallback for a dead dispatcher, so it wants a
+    # different time of day, not the same one.
+    - cron: "47 23 * * *"     # 15:47 PT
   repository_dispatch:
     types: [analytics]
 
@@ -69,6 +73,9 @@ jobs:
           else
             # NO [skip ci]: the build job below is what publishes this commit
             git commit -m "data: refresh usage from GA4"
+            # rebase before pushing: a human commit (or a second refresh run)
+            # landing mid-job otherwise rejects this push and loses the pull
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
             git push
           fi
 

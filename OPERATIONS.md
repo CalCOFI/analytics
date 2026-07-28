@@ -101,6 +101,34 @@ gcloud scheduler jobs create http calcofi-analytics-dispatch \
   --message-body='{"event_type":"analytics"}'
 ```
 
+`<PAT>` is a literal placeholder — substitute a real token. A classic PAT needs
+`repo` (or `public_repo`); a fine-grained one needs **Contents: read and write**
+*and* `CalCOFI/analytics` in its repository access, so the token that drives
+`calcofi-uptime-dispatch` will not work here unless this repo was added to it.
+
+**Verify it, don't assume it.** A bad token fails silently — Cloud Scheduler
+records the error and nothing else surfaces:
+
+```bash
+gcloud scheduler jobs run calcofi-analytics-dispatch \
+  --project=ucsd-sio-calcofi --location=us-central1
+# expect a new event=repository_dispatch run within ~15s:
+gh run list -R CalCOFI/analytics -L 3 --json databaseId,event,name
+# and if not, the reason:
+gcloud logging read \
+  'resource.type="cloud_scheduler_job" AND resource.labels.job_id="calcofi-analytics-dispatch"' \
+  --project=ucsd-sio-calcofi --limit=3 \
+  --format="value(timestamp, severity, jsonPayload.status, httpRequest.status)"
+```
+
+`UNAUTHENTICATED` / `401` there means the header holds no valid token. Fix with:
+
+```bash
+gcloud scheduler jobs update http calcofi-analytics-dispatch \
+  --project=ucsd-sio-calcofi --location=us-central1 \
+  --update-headers="Authorization=Bearer <real-token>"
+```
+
 **If the numbers look frozen, that job is the first place to check.** The site
 footer stamps "data as of …" and turns warn-colored past 48 hours precisely so a
 dead scheduler is visible on the page instead of quietly showing stale figures.
