@@ -99,6 +99,11 @@ jobs:
 
   deploy:
     needs: build
+    # `needs: build` is NOT enough: a job's implicit condition is success(),
+    # which evaluates over every ANCESTOR — so a failed `refresh` skipped this
+    # deploy even though `build` succeeded, and the freshly-committed data sat
+    # in the repo unpublished. Publish whatever built; the red run is the signal.
+    if: always() && needs.build.result == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

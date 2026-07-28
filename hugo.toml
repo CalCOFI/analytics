@@ -9,9 +9,9 @@
 # Sheet), writes data/usage/*.json + static/data/**.csv, and regenerates
 # content/products/*.md from data/registry.yml. Do not hand-edit those.
 
-baseURL      = "https://calcofi.io/analytics/"
-languageCode = "en-us"
-title        = "CalCOFI Usage"
+baseURL = "https://calcofi.io/analytics/"
+locale  = "en-us"        # `languageCode` was deprecated in Hugo v0.158
+title   = "CalCOFI Usage"
 
 # a project page under an org whose user page owns the apex domain, exactly
 # like calcofi.io/db-schema/ — hence the /analytics/ path in baseURL
