@@ -15,12 +15,20 @@
 # `content_groups` is a LIST because the app id and the card slug are not always
 # the same string — see ucsb-larvae-dashboard.
 
+# These are numeric PROPERTY ids — the `p`-prefixed number in a GA4 URL
+# (analytics.google.com/analytics/web/#/p509537765/…), shown top-right under
+# Admin → Property Settings.
+#
+# NOT the Measurement ID (G-0HVK8TDMCF) and NOT the Stream ID (e.g. 4625567227,
+# the stream behind G-0HVK8TDMCF). Both are numbers you will meet first in the
+# GA4 UI, and neither works: the Data API rejects them. Run the "List GA4
+# properties" workflow to have the service account print the ids it can read.
 properties:
   # G-VV117EV9ZT — the "apps" property: every Shiny app, plus db-query.
   apps: "509537765"
   # G-0HVK8TDMCF — the site property: calcofi.io itself, docs, pkgdown sites,
   # and the static Pages sites tagged in 2026-07.
-  # TODO: fill in from GA4 → Admin → Property Settings (see OPERATIONS.md).
+  # TODO: fill in — see the note above; a Stream ID will not work here.
   site: ""
 
 products:

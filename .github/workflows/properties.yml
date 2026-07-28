@@ -1,0 +1,24 @@
+name: List GA4 properties
+
+# One-off diagnostic: prints the property ids the service account can see, so
+# data/registry.yml gets the right number instead of a Stream or Measurement ID.
+# Also the quickest way to confirm a Viewer grant actually landed.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install google-analytics-admin google-auth
+      - env:
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+        run: python3 scripts/list_properties.py

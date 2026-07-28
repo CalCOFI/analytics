@@ -11,8 +11,23 @@ key. This is that checklist, plus the things that will confuse you later.
    is already there), and **push that change** — the workflow reads the
    committed file, not your working copy.
 
-   Measurement IDs (`G-…`) are *not* property ids and the Data API will not take
-   them. Until `site` is filled, the daily run finishes **red** with
+   ⚠️ **GA4 shows three numbers and only one of them works here.** For the
+   calcofi.io site stream they are:
+
+   | | value | used by |
+   |---|---|---|
+   | Measurement ID | `G-0HVK8TDMCF` | the gtag snippet on each site |
+   | Stream ID | `4625567227` | nothing in this pipeline |
+   | **Property ID** | *what you need* | the Data API, `registry.yml` |
+
+   The Stream ID is the one the Data Streams screen shows you first, and it is
+   *not* interchangeable. The Property ID is the `p`-prefixed number in a GA4
+   URL (`analytics.google.com/analytics/web/#/p509537765/…`). If you would
+   rather not hunt for it, run the **List GA4 properties** workflow (Actions →
+   Run workflow): the service account prints every property id it can read,
+   which doubles as a check that step 4's Viewer grant landed.
+
+   Until `site` is filled, the daily run finishes **red** with
    `! property 'site' has no id` and the eight calcofi.io products (db-schema,
    docs, workflows, calcofi4r, calcofi4db, db-viz-station, ucla-monitoring-map,
    hypoxia-story) stay empty, while the apps property still publishes normally.

@@ -77,6 +77,12 @@ def main() -> int:
             # must not cost the other its daily pull — carry on and go red at
             # the end, with the commit step still running on failure
             print(f"! property '{name}' ({pid}) failed: {e}", file=sys.stderr)
+            # the overwhelmingly common cause: GA4 shows three numbers and only
+            # one of them is the property id
+            print(f"  NOTE: '{pid}' must be the numeric PROPERTY id — not the "
+                  f"Stream ID, and not the G-… Measurement ID. Run the "
+                  f"'List GA4 properties' workflow to see the ids this service "
+                  f"account can read.", file=sys.stderr)
             failed.append(name)
             continue
         print(f"  {name}: " + ", ".join(f"{k}={len(v)}" for k, v in pulled[name].items()),
