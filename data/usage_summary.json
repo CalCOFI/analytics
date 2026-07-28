@@ -1,0 +1,173 @@
+{
+ "generated": "2026-07-28T15:11:11+00:00",
+ "has_data": false,
+ "n_products": 18,
+ "totals_28d": {
+  "activeUsers": 0,
+  "sessions": 0
+ },
+ "products": [
+  {
+   "slug": "db-viz-hex",
+   "title": "db-viz-hex",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "db-viz-cruise",
+   "title": "db-viz-cruise",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "ctd-viz",
+   "title": "ctd-viz",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "oceano",
+   "title": "oceano",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "pollutants",
+   "title": "pollutants",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "db-viz-station",
+   "title": "db-viz-station",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "db-query",
+   "title": "db-query",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "db-schema",
+   "title": "db-schema",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "workflows",
+   "title": "workflows",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "calcofi4r",
+   "title": "calcofi4r",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "calcofi4db",
+   "title": "calcofi4db",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "docs",
+   "title": "docs",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "ucsb-larvae-dashboard",
+   "title": "Larvae Dashboard",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "ucla-monitoring-map",
+   "title": "CA Ocean & Coastal Monitoring Map",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "marmam",
+   "title": "Marine Mammal App",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "hypoxia-story",
+   "title": "Hypoxia Story",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "saferseafood",
+   "title": "SaferSeafood App",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  },
+  {
+   "slug": "capstone",
+   "title": "Capstone App",
+   "activeUsers": 0,
+   "sessions": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": []
+  }
+ ]
+}

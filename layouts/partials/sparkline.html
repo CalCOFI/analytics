@@ -1,0 +1,20 @@
+{{/* 90-day trend, one hue, no axes — read as shape, with the table cell beside
+     it carrying the number. ctx: dict "values" (slice) "label" */}}
+{{ $v := .values }}
+{{ $n := len $v }}
+{{ if lt $n 2 }}
+  <span class="muted small">—</span>
+{{ else }}
+  {{ $max := 1.0 }}
+  {{ range $v }}{{ if gt . $max }}{{ $max = . }}{{ end }}{{ end }}
+  {{ $d := "" }}
+  {{ range $i, $y := $v }}
+    {{ $x := mul (div (float $i) (sub $n 1)) 100.0 }}
+    {{ $py := sub 20.0 (mul (div $y $max) 20.0) }}
+    {{ $d = printf "%s%s %.2f,%.2f" $d (cond (eq $i 0) "M" " L") $x $py }}
+  {{ end }}
+  <svg class="spark" viewBox="0 0 100 20" preserveAspectRatio="none" role="img"
+       aria-label="{{ .label }} trend, peak {{ printf "%.0f" $max }} users per day">
+    <path d="{{ $d }}" vector-effect="non-scaling-stroke" />
+  </svg>
+{{ end }}

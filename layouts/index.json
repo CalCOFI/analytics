@@ -1,0 +1,3 @@
+{{- $s := .Site.Data.usage_summary -}}
+{{- /* slug manifest so calcofi.io can verify every `usage:` link resolves */ -}}
+{{- dict "generated" $s.generated "slugs" (apply $s.products "index" "." "slug") | jsonify -}}

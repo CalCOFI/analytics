@@ -1,0 +1,38 @@
+# CalCOFI usage analytics — https://calcofi.io/analytics/
+#
+# Hugo (not Jekyll like its siblings db-schema / db-query / CalCOFI.github.io):
+# this is the org's first Hugo site and the reference for migrating the others.
+# Layouts deliberately mirror the Jekyll ones (same palette, same pre-paint
+# theme script, same dual-logo header) so that port stays mostly mechanical.
+#
+# Content is GENERATED: scripts/refresh.py pulls GA4 (and the db-viz-hex usage
+# Sheet), writes data/usage/*.json + static/data/**.csv, and regenerates
+# content/products/*.md from data/registry.yml. Do not hand-edit those.
+
+baseURL      = "https://calcofi.io/analytics/"
+languageCode = "en-us"
+title        = "CalCOFI Usage"
+
+# a project page under an org whose user page owns the apex domain, exactly
+# like calcofi.io/db-schema/ — hence the /analytics/ path in baseURL
+canonifyURLs        = false
+enableRobotsTXT     = true
+disableKinds        = ["taxonomy", "term", "rss"]
+timeZone            = "America/Los_Angeles"
+
+[params]
+  description   = "Which CalCOFI apps, sites and services people actually use — refreshed daily from Google Analytics."
+  # the GA4 tag for this site itself (site property). Same production-only
+  # intent as the siblings: the hostname guard in the partial does the gating.
+  ga_tag        = "G-0HVK8TDMCF"
+  content_group = "analytics"
+  # pinned CDN lib versions, mirroring db-schema's _config.yml convention
+  leaflet_version = "1.9.4"
+  # how stale the data may get before the footer flags it (hours)
+  stale_hours   = 48
+
+[markup.goldmark.renderer]
+  unsafe = true   # allow raw HTML in content/_index.md
+
+[outputs]
+  home = ["HTML", "JSON"]   # JSON = index.json, the slug manifest others can check

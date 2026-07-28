@@ -1,0 +1,135 @@
+{{ define "main" }}
+{{ $u := index .Site.Data.usage .Params.product }}
+
+<div class="lede">
+  <h1>{{ .Title }}</h1>
+  <p class="mono muted">
+    {{ with $u.live_url }}<a href="{{ . }}">{{ . }}</a> · {{ end }}
+    <a href="https://status.calcofi.io/history/{{ .Params.product }}">status</a> ·
+    <a href="{{ "" | relURL }}">all products</a>
+  </p>
+</div>
+
+{{ if not $u.has_data }}
+<div class="notice">
+  <strong>No data yet</strong> for <span class="mono">{{ .Params.product }}</span>.
+  Either the daily refresh has not run, or this product was tagged recently and
+  Google Analytics has not reported a full day for it.
+</div>
+{{ else }}
+
+<section class="hero-figure">
+  <div class="hero-value">{{ lang.FormatNumberCustom 0 $u.totals_28d.activeUsers }}</div>
+  <div class="hero-label muted">active users · last 28 days</div>
+</section>
+
+<section class="tiles">
+  {{ partial "stat-tile.html" (dict "label" "sessions"
+      "value" (lang.FormatNumberCustom 0 $u.totals_28d.sessions)
+      "delta" $u.delta_28d.sessions) }}
+  {{ partial "stat-tile.html" (dict "label" "avg engagement / user"
+      "value" (partial "duration.html" $u.totals_28d.avgEngagementSeconds)
+      "delta" $u.delta_28d.avgEngagementSeconds) }}
+  {{ partial "stat-tile.html" (dict "label" "views"
+      "value" (lang.FormatNumberCustom 0 $u.totals_28d.screenPageViews)
+      "delta" $u.delta_28d.screenPageViews) }}
+  {{ partial "stat-tile.html" (dict "label" "engaged sessions"
+      "value" (printf "%.0f%%" (mul $u.totals_28d.engagedSessionRate 100.0))
+      "hint" "sessions lasting >10s, with an event or 2+ views") }}
+</section>
+
+<section>
+  <h2>Daily active users</h2>
+  <p class="blurb">Since {{ $u.first_day }}. The line is a 7-day mean.</p>
+  {{ partial "chart-area.html" (dict "daily" $u.daily "mean" $u.daily_mean7 "id" "daily") }}
+</section>
+
+{{ with $u.geo_country }}
+<section>
+  <h2>Where people are</h2>
+  <p class="blurb">
+    Active users by country over the last 365 days. Google resolves geography on
+    its own servers — no address reaches this site. Regions with fewer than 10
+    users are folded into “Other”.
+  </p>
+  <div class="geo">
+    {{/* the centroid table is site-root-relative; deriving it from
+         document.baseURI in JS would resolve against /<slug>/ and 404 */}}
+    <div id="geo-map" class="map"
+         data-centroids="{{ "img/country_centroids.json" | relURL }}"
+         data-points="{{ jsonify (first 200 .) }}"></div>
+    {{ $rows := slice }}
+    {{ range (first 12 .) }}{{ $rows = $rows | append (dict "label" (.country | default "(unknown)") "value" .activeUsers) }}{{ end }}
+    <div class="geo-rank">{{ partial "chart-bars.html" (dict "rows" $rows "unit" "users") }}</div>
+  </div>
+
+  <details class="table-twin">
+    <summary>table — by region</summary>
+    <table class="mono">
+      <thead><tr><th>country</th><th>region</th><th class="n">active users</th></tr></thead>
+      <tbody>
+        {{ range $u.geo }}
+        <tr><td>{{ .country }}</td><td>{{ .region | default "—" }}</td><td class="n">{{ printf "%.0f" .activeUsers }}</td></tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </details>
+</section>
+{{ end }}
+
+{{ with $u.events }}
+<section>
+  <h2>What people do</h2>
+  <p class="blurb">Events over the last 90 days.</p>
+  {{ $rows := slice }}
+  {{ range . }}{{ $rows = $rows | append (dict "label" .name "value" .count) }}{{ end }}
+  {{ partial "chart-bars.html" (dict "rows" $rows "unit" "events") }}
+</section>
+{{ end }}
+
+{{ with $u.log }}
+<section>
+  <h2>Query log</h2>
+  <p class="blurb">
+    This app also writes a server-side log of every query — the detail Google
+    Analytics buckets into “(other)” once past its cardinality limit. Counts and
+    percentiles only; the log’s <span class="mono">ip</span> and
+    <span class="mono">user_agent</span> columns are dropped before anything is
+    published.
+  </p>
+
+  {{ with .params }}
+  <h3>Most-requested</h3>
+  {{ $rows := slice }}
+  {{ range (first 15 .) }}{{ $rows = $rows | append (dict "label" (printf "%s: %s" .param .value) "value" (float .n)) }}{{ end }}
+  {{ partial "chart-bars.html" (dict "rows" $rows "unit" "queries") }}
+  {{ end }}
+
+  {{ with .events }}
+  <h3>Timing by event</h3>
+  <table class="rank">
+    <thead><tr><th>event</th><th class="n">n</th><th class="n">median</th><th class="n">p95</th><th class="n">errors</th></tr></thead>
+    <tbody>
+      {{ range . }}
+      <tr>
+        <td class="mono">{{ .event }}</td>
+        <td class="n mono">{{ .n }}</td>
+        <td class="n mono">{{ with .p50_ms }}{{ . }} ms{{ else }}—{{ end }}</td>
+        <td class="n mono">{{ with .p95_ms }}{{ . }} ms{{ else }}—{{ end }}</td>
+        <td class="n mono">{{ printf "%.1f%%" (mul (float .error_rate) 100.0) }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+  {{ end }}
+</section>
+{{ end }}
+
+{{ end }}
+
+<p class="muted small">
+  Raw numbers:
+  <a href="{{ printf "data/daily/%s.csv" .Params.product | relURL }}">daily.csv</a>{{ with $u.geo }} ·
+  <a href="{{ printf "data/geo/%s.csv" $.Params.product | relURL }}">geo.csv</a>{{ end }}
+</p>
+{{ end }}

@@ -1,0 +1,174 @@
+# Which product is which, in GA4 terms. HAND-MAINTAINED — the one file to edit
+# when a product is added, renamed or retired.
+#
+# `slug` must match the `usage:` value on the product's card in
+# CalCOFI.github.io/_data/products.yml, because that is what the card links to:
+#   https://calcofi.io/analytics/<slug>/
+#
+# ATTRIBUTION — a GA4 row belongs to a product if either matches:
+#   1. contentGroup ∈ content_groups   (preferred; set by the site/app itself)
+#   2. hostName == host AND pagePath starts with any of path_prefixes
+# The path leg is not redundant: `docs` is built by Quarto and `calcofi4r` /
+# `calcofi4db` by pkgdown, none of which emit a content group we control, and
+# every product's history *before* it was tagged is path-only.
+#
+# `content_groups` is a LIST because the app id and the card slug are not always
+# the same string — see ucsb-larvae-dashboard.
+
+properties:
+  # G-VV117EV9ZT — the "apps" property: every Shiny app, plus db-query.
+  apps: "509537765"
+  # G-0HVK8TDMCF — the site property: calcofi.io itself, docs, pkgdown sites,
+  # and the static Pages sites tagged in 2026-07.
+  # TODO: fill in from GA4 → Admin → Property Settings (see OPERATIONS.md).
+  site: ""
+
+products:
+  # ── apps ───────────────────────────────────────────────────────────────────
+  - slug: db-viz-hex
+    title: db-viz-hex
+    property: apps
+    content_groups: [db-viz-hex]
+    live_url: https://app.calcofi.io/db-viz-hex/
+    path_prefixes: ["/db-viz-hex/"]
+    # the only product with a server-side query log (see scripts/sheet.py)
+    sheet_tab: db-viz-hex
+
+  - slug: db-viz-cruise
+    title: db-viz-cruise
+    property: apps
+    content_groups: [db-viz-cruise]
+    live_url: https://app.calcofi.io/db-viz-cruise/
+    path_prefixes: ["/db-viz-cruise/", "/datacheck/"]
+
+  - slug: ctd-viz
+    title: ctd-viz
+    property: apps
+    content_groups: [ctd-viz]
+    live_url: https://app.calcofi.io/ctd/
+    path_prefixes: ["/ctd/"]
+
+  - slug: oceano
+    title: oceano
+    property: apps
+    content_groups: [oceano]
+    live_url: https://app.calcofi.io/oceano/
+    path_prefixes: ["/oceano/"]
+
+  - slug: pollutants
+    title: pollutants
+    property: apps
+    content_groups: [pollutants]
+    live_url: https://app.calcofi.io/pollutants/
+    path_prefixes: ["/pollutants/"]
+
+  - slug: db-viz-station
+    title: db-viz-station
+    property: site
+    content_groups: [db-viz-station]
+    live_url: https://calcofi.io/db-viz-station/
+    host: calcofi.io
+    path_prefixes: ["/db-viz-station/"]
+
+  # ── developer ──────────────────────────────────────────────────────────────
+  - slug: db-query
+    title: db-query
+    property: apps          # db-query reports to the APPS property, not site
+    content_groups: [db-query]
+    live_url: https://calcofi.io/db-query/
+    host: calcofi.io
+    path_prefixes: ["/db-query/", "/query/"]
+
+  - slug: db-schema
+    title: db-schema
+    property: site
+    content_groups: [db-schema]
+    live_url: https://calcofi.io/db-schema/
+    host: calcofi.io
+    path_prefixes: ["/db-schema/", "/schema/"]
+
+  - slug: workflows
+    title: workflows
+    property: site
+    content_groups: [workflows]
+    live_url: https://calcofi.io/workflows/
+    host: calcofi.io
+    # only the landing index is tagged; the rendered Quarto notebooks are not,
+    # so the path prefix is what captures them
+    path_prefixes: ["/workflows/"]
+
+  - slug: calcofi4r
+    title: calcofi4r
+    property: site
+    content_groups: [calcofi4r]
+    live_url: https://calcofi.io/calcofi4r/
+    host: calcofi.io
+    path_prefixes: ["/calcofi4r/"]
+
+  - slug: calcofi4db
+    title: calcofi4db
+    property: site
+    # NOTE: the content_group edit to calcofi4db's _pkgdown.yml was lost to a
+    # concurrent push and has not been re-applied; until it is, this product is
+    # attributed by path only, which works fine.
+    content_groups: [calcofi4db]
+    live_url: https://calcofi.io/calcofi4db/
+    host: calcofi.io
+    path_prefixes: ["/calcofi4db/"]
+
+  # ── documentation ──────────────────────────────────────────────────────────
+  - slug: docs
+    title: docs
+    property: site
+    # Quarto emits its own gtag config call; no content group to join on
+    content_groups: []
+    live_url: https://calcofi.io/docs/
+    host: calcofi.io
+    path_prefixes: ["/docs/"]
+
+  # ── student contributions ──────────────────────────────────────────────────
+  - slug: ucsb-larvae-dashboard
+    title: Larvae Dashboard
+    property: apps
+    # the app id differs from the card slug — map it here rather than renaming
+    # the app and orphaning its GA4 history
+    content_groups: [larvae-dashboard]
+    live_url: https://app.calcofi.io/2026-ucsb-larvae-dashboard/
+    path_prefixes: ["/2026-ucsb-larvae-dashboard/"]
+
+  - slug: ucla-monitoring-map
+    title: CA Ocean & Coastal Monitoring Map
+    property: site
+    content_groups: [ucla-monitoring-map]
+    live_url: https://calcofi.io/2026-ucla-cal-ocean-coastal-monitoring-map/
+    host: calcofi.io
+    path_prefixes: ["/2026-ucla-cal-ocean-coastal-monitoring-map/"]
+
+  - slug: marmam
+    title: Marine Mammal App
+    property: apps
+    content_groups: [marmam]
+    live_url: https://app.calcofi.io/marmam/
+    path_prefixes: ["/marmam/"]
+
+  - slug: hypoxia-story
+    title: Hypoxia Story
+    property: site
+    content_groups: [hypoxia-story]
+    live_url: https://calcofi.io/hypoxia-story/
+    host: calcofi.io
+    path_prefixes: ["/hypoxia-story/"]
+
+  - slug: saferseafood
+    title: SaferSeafood App
+    property: apps
+    content_groups: [saferseafood]
+    live_url: https://app.calcofi.io/SaferSeafood/
+    path_prefixes: ["/SaferSeafood/"]
+
+  - slug: capstone
+    title: Capstone App
+    property: apps
+    content_groups: [capstone]
+    live_url: https://app.calcofi.io/capstone/
+    path_prefixes: ["/capstone/"]

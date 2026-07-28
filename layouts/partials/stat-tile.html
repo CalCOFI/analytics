@@ -1,0 +1,20 @@
+{{/*
+  One headline number + its 28-day change. The delta is the only place a
+  non-accent color appears, and it always ships with a ▲/▼ glyph and a worded
+  title, so the meaning never rests on color alone.
+
+  ctx: dict "label" "value" "delta" (percent or nil) "hint"
+*/}}
+<div class="tile">
+  <div class="tile-label muted">{{ .label }}</div>
+  <div class="tile-value">{{ .value }}</div>
+  {{ with .delta }}
+  <div class="tile-delta {{ cond (ge . 0.0) "up" "down" }}"
+       title="{{ cond (ge . 0.0) "up" "down" }} {{ math.Abs . }}% vs the previous 28 days">
+    {{ cond (ge . 0.0) "▲" "▼" }} {{ math.Abs . }}%
+  </div>
+  {{ else }}
+  <div class="tile-delta muted" title="no previous 28-day period to compare against">—</div>
+  {{ end }}
+  {{ with .hint }}<div class="tile-hint muted small">{{ . }}</div>{{ end }}
+</div>

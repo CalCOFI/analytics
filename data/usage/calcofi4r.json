@@ -1,0 +1,32 @@
+{
+ "slug": "calcofi4r",
+ "title": "calcofi4r",
+ "live_url": "https://calcofi.io/calcofi4r/",
+ "property": "site",
+ "has_data": false,
+ "first_day": "",
+ "last_day": "",
+ "totals_28d": {
+  "activeUsers": 0,
+  "newUsers": 0,
+  "sessions": 0,
+  "engagedSessions": 0,
+  "screenPageViews": 0,
+  "eventCount": 0,
+  "userEngagementDuration": 0,
+  "avgEngagementSeconds": 0,
+  "engagedSessionRate": 0,
+  "viewsPerUser": 0
+ },
+ "delta_28d": {
+  "activeUsers": null,
+  "sessions": null,
+  "avgEngagementSeconds": null,
+  "screenPageViews": null
+ },
+ "daily": [],
+ "daily_mean7": [],
+ "geo_country": [],
+ "geo": [],
+ "events": []
+}

@@ -1,0 +1,83 @@
+{{/*
+  Daily active users: ONE series, so no legend — the heading names it.
+
+  The 7-day mean rides on top in the SAME hue, distinguished by mark type
+  (solid stroke over a soft area) plus a direct end label. That is deliberate:
+  --accent and --muted as two peer series measure ΔE 13.2 for normal vision,
+  below the 15 floor, so hue alone would not separate them for anyone. Mark
+  type + direct label is the secondary encoding that makes it readable.
+
+  Rendered at build time as inline SVG — no chart library, nothing to parse on
+  the client. viewBox units are 1000×200 and the SVG scales to its container.
+
+  ctx: dict "daily" (slice of {date, activeUsers}) "mean" (slice of float) "id"
+*/}}
+{{ $daily := .daily }}
+{{ $mean  := .mean }}
+{{ $id    := .id }}
+{{ $n     := len $daily }}
+
+{{ if lt $n 2 }}
+  <p class="muted small">Not enough data yet to plot — the daily refresh needs at least two days.</p>
+{{ else }}
+  {{ $max := 1.0 }}
+  {{ range $daily }}{{ if gt .activeUsers $max }}{{ $max = .activeUsers }}{{ end }}{{ end }}
+  {{ $W := 1000.0 }}{{ $H := 200.0 }}
+  {{ $dx := div $W (sub $n 1) }}
+
+  <figure class="chart" id="{{ $id }}">
+    <svg viewBox="0 0 1000 200" preserveAspectRatio="none" role="img"
+         aria-label="Daily active users over time">
+      {{/* recessive gridlines at 0 / 50 / 100% of max */}}
+      {{ range $g := slice 0.0 0.5 1.0 }}
+        <line class="grid" x1="0" x2="1000" y1="{{ mul (sub 1.0 $g) $H }}" y2="{{ mul (sub 1.0 $g) $H }}" />
+      {{ end }}
+
+      {{/* area under the raw daily series */}}
+      {{ $area := printf "M 0,%.1f" $H }}
+      {{ range $i, $d := $daily }}
+        {{ $x := mul (float $i) $dx }}
+        {{ $y := sub $H (mul (div $d.activeUsers $max) $H) }}
+        {{ $area = printf "%s L %.1f,%.1f" $area $x $y }}
+      {{ end }}
+      {{ $area = printf "%s L %.1f,%.1f Z" $area $W $H }}
+      <path class="area" d="{{ $area }}" />
+
+      {{/* 7-day mean */}}
+      {{ $line := "" }}
+      {{ range $i, $m := $mean }}
+        {{ $x := mul (float $i) $dx }}
+        {{ $y := sub $H (mul (div $m $max) $H) }}
+        {{ $line = printf "%s%s %.1f,%.1f" $line (cond (eq $i 0) "M" " L") $x $y }}
+      {{ end }}
+      <path class="line" d="{{ $line }}" vector-effect="non-scaling-stroke" />
+    </svg>
+
+    {{/* hover targets sit in a normal-coordinate overlay so the tooltip can be
+         positioned without undoing the viewBox stretch */}}
+    <div class="hit-layer" aria-hidden="true">
+      {{ range $i, $d := $daily }}
+      <span class="hit" style="left:{{ printf "%.3f" (mul (div (float $i) (sub $n 1)) 100.0) }}%"
+            data-tip="{{ $d.date }} · {{ printf "%.0f" $d.activeUsers }} users"></span>
+      {{ end }}
+    </div>
+
+    <figcaption class="axis mono muted">
+      <span>{{ (index $daily 0).date }}</span>
+      <span class="peak">peak {{ printf "%.0f" $max }}/day</span>
+      <span>{{ (index $daily (sub $n 1)).date }}</span>
+    </figcaption>
+  </figure>
+
+  <details class="table-twin">
+    <summary>table</summary>
+    <table class="mono">
+      <thead><tr><th>date</th><th class="n">active users</th><th class="n">sessions</th></tr></thead>
+      <tbody>
+        {{ range (first 400 (sort $daily "date" "desc")) }}
+        <tr><td>{{ .date }}</td><td class="n">{{ printf "%.0f" .activeUsers }}</td><td class="n">{{ printf "%.0f" .sessions }}</td></tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </details>
+{{ end }}

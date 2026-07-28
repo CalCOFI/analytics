@@ -1,0 +1,122 @@
+"""Daily entry point: GA4 → CSVs → (Sheet → CSVs) → Hugo data → page stubs.
+
+    GCP_SA_KEY=... USAGE_SHEET_ID=... python3 scripts/refresh.py [--backfill]
+
+Attribution happens here, once, so the site never has to reason about it: each
+GA4 row is assigned to a product by content group, else by host + path prefix
+(see data/registry.yml). A row that matches nothing is ignored rather than
+guessed at.
+"""
+
+from __future__ import annotations
+
+import os
+import sys
+
+import ga4
+from common import DATA, load_registry, upsert_csv
+
+DAILY_FIELDS = ["date"] + ga4.METRICS
+GEO_FIELDS = ["country", "countryId", "region", "activeUsers", "sessions"]
+EVENT_FIELDS = ["eventName", "eventCount", "activeUsers"]
+
+# below this many active users a region row is folded into "Other": GA4 already
+# thresholds small cells, and a named region with a handful of users says more
+# about one person than about usage
+MIN_REGION_USERS = 10
+
+
+def matches(prod: dict, row: dict) -> bool:
+    cg = row.get("contentGroup", "")
+    if cg and cg in (prod.get("content_groups") or []):
+        return True
+    host, path = row.get("hostName", ""), row.get("pagePath", "")
+    if not path:
+        return False
+    if prod.get("host") and host and host != prod["host"]:
+        return False
+    return any(path.startswith(pfx) for pfx in (prod.get("path_prefixes") or []))
+
+
+def collapse(rows: list[dict], keys: list[str], metrics: list[str]) -> list[dict]:
+    """Sum metrics over duplicate key tuples (many paths → one product-day)."""
+    acc: dict[tuple, dict] = {}
+    for r in rows:
+        k = tuple(r.get(x, "") for x in keys)
+        cur = acc.setdefault(k, {**{x: r.get(x, "") for x in keys},
+                                 **{m: 0.0 for m in metrics}})
+        for m in metrics:
+            try:
+                cur[m] += float(r.get(m) or 0)
+            except ValueError:
+                pass
+    for v in acc.values():
+        for m in metrics:
+            v[m] = int(v[m]) if float(v[m]).is_integer() else round(v[m], 2)
+    return list(acc.values())
+
+
+def main() -> int:
+    backfill = "--backfill" in sys.argv
+    reg = load_registry()
+    props = reg["properties"]
+
+    cli = ga4.client()
+    pulled = {}
+    for name, pid in props.items():
+        if not pid:
+            print(f"! property '{name}' has no id in registry.yml — skipped", file=sys.stderr)
+            continue
+        pulled[name] = ga4.fetch_all(cli, pid, backfill)
+        print(f"  {name}: " + ", ".join(f"{k}={len(v)}" for k, v in pulled[name].items()),
+              file=sys.stderr)
+
+    for prod in reg["products"]:
+        slug, pname = prod["slug"], prod.get("property")
+        rep = pulled.get(pname)
+        if not rep:
+            continue
+
+        # time series: content-group rows first, then path rows for anything the
+        # group did not cover (untagged history, Quarto/pkgdown pages)
+        rows = [r for r in rep["daily_group"] if matches(prod, r)]
+        rows += [r for r in rep["daily_path"] if matches(prod, r)]
+        daily = collapse(rows, ["date"], ga4.METRICS)
+        if daily:
+            upsert_csv(DATA / "daily" / f"{slug}.csv", daily, ["date"], DAILY_FIELDS)
+
+        geo = collapse([r for r in rep["geo"] if matches(prod, r)],
+                       ["country", "countryId", "region"], ["activeUsers", "sessions"])
+        # small-cell suppression, on top of GA4's own: a named region carrying a
+        # handful of users describes a person more than it describes usage
+        for g in geo:
+            if g.get("region") and float(g.get("activeUsers") or 0) < MIN_REGION_USERS:
+                g["region"] = "Other"
+        geo = collapse(geo, ["country", "countryId", "region"], ["activeUsers", "sessions"])
+        if geo:
+            upsert_csv(DATA / "geo" / f"{slug}.csv", geo,
+                       ["country", "countryId", "region"], GEO_FIELDS)
+
+        ev = collapse([r for r in rep["events"] if matches(prod, r)],
+                      ["eventName"], ["eventCount", "activeUsers"])
+        if ev:
+            upsert_csv(DATA / "events" / f"{slug}.csv", ev, ["eventName"], EVENT_FIELDS)
+
+    sheet_id = os.environ.get("USAGE_SHEET_ID", "").strip()
+    if sheet_id:
+        import sheet
+        tab = next((p["sheet_tab"] for p in reg["products"] if p.get("sheet_tab")), None)
+        if tab:
+            print(f"  sheet: {sheet.summarize(sheet_id, tab)}", file=sys.stderr)
+    else:
+        print("! USAGE_SHEET_ID unset — skipping the db-viz-hex query log", file=sys.stderr)
+
+    import build
+    s = build.build()
+    print(f"built {s['n_products']} products, {s['totals_28d']['activeUsers']:.0f} "
+          f"active users in 28d", file=sys.stderr)
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

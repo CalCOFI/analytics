@@ -1,0 +1,7 @@
+{{/* seconds → "3m 42s" / "48s". Engagement time is the one metric where the raw
+     number (218.4) reads worse than the formatted one. */}}
+{{ $s := . | float }}
+{{ if lt $s 1.0 }}—
+{{ else if lt $s 60.0 }}{{ printf "%.0fs" $s }}
+{{ else }}{{ printf "%dm %02ds" (int (div $s 60)) (int (math.Mod $s 60)) }}
+{{ end }}

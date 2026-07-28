@@ -1,0 +1,27 @@
+{{/*
+  Horizontal bars for magnitude with long labels (event names, countries).
+  One hue, ranked descending, value direct-labelled at the end of each bar —
+  so no axis is needed and no legend exists to read.
+
+  ctx: dict "rows" (slice of {label, value}) "unit" "empty"
+*/}}
+{{ $rows := .rows }}
+{{ $unit := .unit }}
+{{ if not $rows }}
+  <p class="muted small">{{ .empty | default "No data yet." }}</p>
+{{ else }}
+  {{ $max := 1.0 }}
+  {{ range $rows }}{{ if gt .value $max }}{{ $max = .value }}{{ end }}{{ end }}
+  <div class="bars">
+    {{ range $rows }}
+    <div class="bar-row">
+      <span class="bar-label mono">{{ .label }}</span>
+      <span class="bar-track">
+        <span class="bar" style="width:{{ printf "%.2f" (mul (div .value $max) 100.0) }}%"
+              data-tip="{{ .label }} · {{ lang.FormatNumberCustom 0 .value }} {{ $unit }}"></span>
+      </span>
+      <span class="bar-value mono">{{ lang.FormatNumberCustom 0 .value }}</span>
+    </div>
+    {{ end }}
+  </div>
+{{ end }}

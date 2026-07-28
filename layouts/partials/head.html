@@ -1,0 +1,39 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ .Site.Params.description }}">
+
+  <!-- apply saved theme before stylesheet load to avoid a flash -->
+  <script>
+    document.documentElement.dataset.theme =
+      localStorage.getItem("theme") || "dark";
+  </script>
+
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "img/favicon-32x32.png" | relURL }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "img/favicon-16x16.png" | relURL }}">
+  {{ $css := resources.Get "css/style.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+
+  <!-- Google tag (gtag.js) — CalCOFI site property.
+       Byte-identical to snippets/gtag-site.html, which every other CalCOFI
+       static site copies; only content_group differs. The hostname guard keeps
+       local previews out of the property. -->
+  <script>
+    window.__CC_GA = location.hostname.endsWith("calcofi.io");
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.ga_tag }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    if (window.__CC_GA) {
+      gtag('js', new Date());
+      gtag('config', '{{ .Site.Params.ga_tag }}', { content_group: '{{ .Site.Params.content_group }}' });
+    }
+  </script>
+
+  {{ if .Params.product }}
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@{{ .Site.Params.leaflet_version }}/dist/leaflet.css">
+  <script defer src="https://unpkg.com/leaflet@{{ .Site.Params.leaflet_version }}/dist/leaflet.js"></script>
+  {{ end }}
+</head>

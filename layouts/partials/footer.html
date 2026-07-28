@@ -1,0 +1,28 @@
+{{/*
+  The "data as of" stamp is load-bearing, not decoration: the daily refresh runs
+  on a schedule GitHub is known to drop, so a silently-dead cron would otherwise
+  show frozen numbers that look current. Past stale_hours it turns warn-colored.
+*/}}
+{{ $s := .Site.Data.usage_summary }}
+<footer class="app-footer">
+  <p>
+    {{ with $s.generated }}
+    <span class="stamp mono" data-generated="{{ . }}" data-stale-hours="{{ $.Site.Params.stale_hours }}">
+      data as of <span class="stamp-when">{{ . }}</span>
+    </span>
+    ·
+    {{ end }}
+    Source · <a href="https://github.com/CalCOFI/analytics">CalCOFI/analytics</a>
+    · See also · <a href="https://calcofi.io/db-schema/">db-schema</a>
+    · <a href="https://calcofi.io/db-query/">db-query</a>
+    · <a href="https://calcofi.io/docs/">docs</a>
+    · <a href="https://status.calcofi.io/">status</a>
+  </p>
+  <p class="muted small">
+    Aggregate counts only. Google Analytics resolves visitor geography on its
+    own servers and never exposes an address to this pipeline; the db-viz-hex
+    query log is stripped of its <code>ip</code> and <code>user_agent</code>
+    columns before anything is written here. See
+    <a href="https://github.com/CalCOFI/analytics#privacy">what is collected</a>.
+  </p>
+</footer>
