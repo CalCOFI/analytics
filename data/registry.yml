@@ -116,9 +116,6 @@ products:
   - slug: calcofi4db
     title: calcofi4db
     property: site
-    # NOTE: the content_group edit to calcofi4db's _pkgdown.yml was lost to a
-    # concurrent push and has not been re-applied; until it is, this product is
-    # attributed by path only, which works fine.
     content_groups: [calcofi4db]
     live_url: https://calcofi.io/calcofi4db/
     host: calcofi.io
