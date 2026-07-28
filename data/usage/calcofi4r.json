@@ -3,29 +3,379 @@
  "title": "calcofi4r",
  "live_url": "https://calcofi.io/calcofi4r/",
  "property": "site",
- "has_data": false,
- "first_day": "",
- "last_day": "",
+ "has_data": true,
+ "first_day": "2026-05-07",
+ "last_day": "2026-07-27",
  "totals_28d": {
-  "activeUsers": 0,
-  "newUsers": 0,
-  "sessions": 0,
-  "engagedSessions": 0,
-  "screenPageViews": 0,
-  "eventCount": 0,
-  "userEngagementDuration": 0,
-  "avgEngagementSeconds": 0,
-  "engagedSessionRate": 0,
-  "viewsPerUser": 0
+  "activeUsers": 74.0,
+  "newUsers": 51.0,
+  "sessions": 85.0,
+  "engagedSessions": 32.0,
+  "screenPageViews": 86.0,
+  "eventCount": 263.0,
+  "userEngagementDuration": 1142.0,
+  "avgEngagementSeconds": 15.4,
+  "engagedSessionRate": 0.4,
+  "viewsPerUser": 1.2
  },
  "delta_28d": {
-  "activeUsers": null,
-  "sessions": null,
-  "avgEngagementSeconds": null,
-  "screenPageViews": null
+  "activeUsers": -14.0,
+  "sessions": -8.6,
+  "avgEngagementSeconds": -8.9,
+  "screenPageViews": -13.1
  },
- "daily": [],
- "daily_mean7": [],
+ "daily": [
+  {
+   "date": "2026-05-07",
+   "activeUsers": 4.0,
+   "sessions": 4.0
+  },
+  {
+   "date": "2026-05-09",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-05-12",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-05-13",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-05-15",
+   "activeUsers": 3.0,
+   "sessions": 5.0
+  },
+  {
+   "date": "2026-05-16",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-05-17",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-05-18",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-05-19",
+   "activeUsers": 8.0,
+   "sessions": 14.0
+  },
+  {
+   "date": "2026-05-20",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-05-21",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-05-23",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-05-26",
+   "activeUsers": 3.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-05-27",
+   "activeUsers": 3.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-05-28",
+   "activeUsers": 6.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-06-02",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-03",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-04",
+   "activeUsers": 4.0,
+   "sessions": 4.0
+  },
+  {
+   "date": "2026-06-05",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-08",
+   "activeUsers": 4.0,
+   "sessions": 4.0
+  },
+  {
+   "date": "2026-06-09",
+   "activeUsers": 6.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-06-11",
+   "activeUsers": 3.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-06-12",
+   "activeUsers": 3.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-06-13",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-14",
+   "activeUsers": 6.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-06-15",
+   "activeUsers": 7.0,
+   "sessions": 7.0
+  },
+  {
+   "date": "2026-06-16",
+   "activeUsers": 6.0,
+   "sessions": 8.0
+  },
+  {
+   "date": "2026-06-17",
+   "activeUsers": 7.0,
+   "sessions": 7.0
+  },
+  {
+   "date": "2026-06-18",
+   "activeUsers": 6.0,
+   "sessions": 7.0
+  },
+  {
+   "date": "2026-06-19",
+   "activeUsers": 3.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-06-20",
+   "activeUsers": 6.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-06-21",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-06-22",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-24",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-06-25",
+   "activeUsers": 4.0,
+   "sessions": 4.0
+  },
+  {
+   "date": "2026-06-26",
+   "activeUsers": 6.0,
+   "sessions": 7.0
+  },
+  {
+   "date": "2026-06-29",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-06-30",
+   "activeUsers": 8.0,
+   "sessions": 8.0
+  },
+  {
+   "date": "2026-07-01",
+   "activeUsers": 5.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-07-02",
+   "activeUsers": 5.0,
+   "sessions": 5.0
+  },
+  {
+   "date": "2026-07-03",
+   "activeUsers": 6.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-07-04",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-07-06",
+   "activeUsers": 3.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-07-08",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-07-12",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-13",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-14",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-15",
+   "activeUsers": 5.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-07-16",
+   "activeUsers": 12.0,
+   "sessions": 14.0
+  },
+  {
+   "date": "2026-07-17",
+   "activeUsers": 3.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-07-18",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-20",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-21",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-07-22",
+   "activeUsers": 5.0,
+   "sessions": 5.0
+  },
+  {
+   "date": "2026-07-23",
+   "activeUsers": 14.0,
+   "sessions": 18.0
+  },
+  {
+   "date": "2026-07-24",
+   "activeUsers": 4.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-07-26",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-27",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  }
+ ],
+ "daily_mean7": [
+  4.0,
+  3.0,
+  2.33,
+  2.0,
+  2.2,
+  2.0,
+  2.0,
+  1.57,
+  2.43,
+  2.57,
+  2.57,
+  2.29,
+  2.57,
+  2.71,
+  3.43,
+  2.43,
+  2.14,
+  2.57,
+  2.43,
+  2.57,
+  3.0,
+  2.57,
+  2.86,
+  3.0,
+  3.29,
+  4.29,
+  4.57,
+  4.71,
+  5.14,
+  5.14,
+  5.86,
+  5.29,
+  4.43,
+  3.86,
+  3.43,
+  3.43,
+  3.14,
+  3.43,
+  3.86,
+  4.43,
+  5.0,
+  4.71,
+  4.29,
+  4.43,
+  3.43,
+  2.86,
+  2.29,
+  2.14,
+  3.57,
+  3.57,
+  3.43,
+  3.43,
+  3.57,
+  4.14,
+  5.43,
+  4.29,
+  4.0,
+  3.86
+ ],
  "geo_country": [],
  "geo": [],
  "events": []
