@@ -139,7 +139,11 @@ def build() -> dict:
                 doc["log"] = {
                     "daily": log_daily,
                     "events": read_csv(DATA / "hex_log" / "events.csv"),
-                    "params": read_csv(DATA / "hex_log" / "params.csv"),
+                    # ranked here, not in the template: the CSV is grouped by
+                    # param name, so rendering it in file order puts a count of
+                    # 2 above a count of 23 in the same bar chart
+                    "params": sorted(read_csv(DATA / "hex_log" / "params.csv"),
+                                     key=lambda r: -num(r.get("n"))),
                     "versions": read_csv(DATA / "hex_log" / "versions.csv"),
                 }
 
