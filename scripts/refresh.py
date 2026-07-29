@@ -127,6 +127,20 @@ def main() -> int:
         if ev:
             upsert_csv(DATA / "events" / f"{slug}.csv", ev, ["eventName"], EVENT_FIELDS)
 
+    # ── request counts from the Caddy access logs ─────────────────────────────
+    # GA4 cannot see erddap or storage: their traffic is curl/R/Python pulling
+    # .csv/.nc/parquet, which runs no JavaScript. The server aggregates its own
+    # access logs nightly to a public JSON (no IPs, no user agents — see
+    # CalCOFI/server scripts/caddy_usage.py); fetch it and keep it as a series
+    # alongside, never blended into, the page-view numbers.
+    import requests_log
+    try:
+        n = requests_log.fetch_and_store(reg)
+        print(f"  caddy: {n} host-days", file=sys.stderr)
+    except Exception as e:
+        # a stale summary is not worth failing the GA4 pull over
+        print(f"! caddy usage fetch failed: {e}", file=sys.stderr)
+
     sheet_id = os.environ.get("USAGE_SHEET_ID", "").strip()
     if sheet_id:
         import sheet

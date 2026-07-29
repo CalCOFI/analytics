@@ -133,6 +133,29 @@ def build() -> dict:
                         "users": num(e.get("activeUsers"))} for e in events],
         }
 
+        # server-side request counts, for products GA4 cannot see. Kept in its
+        # own key and rendered as its own figure — requests and page views count
+        # different things and must never be added together.
+        req = sorted(read_csv(DATA / "requests" / f"{slug}.csv"), key=lambda r: r["date"])
+        if req:
+            cur_r = window(req, 28)
+            doc["requests"] = {
+                "daily": [{"date": r["date"], "requests": num(r.get("requests")),
+                           "bytes": num(r.get("bytes"))} for r in req],
+                "totals_28d": {
+                    "requests": sum(num(r.get("requests")) for r in cur_r),
+                    "bytes": sum(num(r.get("bytes")) for r in cur_r),
+                    "clients": max([num(r.get("clients")) for r in cur_r] or [0]),
+                    "tool": sum(num(r.get("tool")) for r in cur_r),
+                    "browser": sum(num(r.get("browser")) for r in cur_r),
+                },
+                "first_day": req[0]["date"],
+            }
+            tp = DATA / "requests" / "_top_paths.json"
+            if tp.exists():
+                host = p.get("request_host", "")
+                doc["requests"]["top_paths"] = json.loads(tp.read_text()).get(host, {}).get("top_paths", [])
+
         # the query log exists for db-viz-hex alone
         if p.get("sheet_tab"):
             log_daily = read_csv(DATA / "hex_log" / "daily.csv")

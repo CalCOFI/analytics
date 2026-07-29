@@ -78,6 +78,28 @@ products:
     host: calcofi.io
     path_prefixes: ["/db-viz-station/"]
 
+  # ── services ───────────────────────────────────────────────────────────────
+  # `request_host` opts a product into server-side request counts from the
+  # Caddy access logs — the only way to see machine traffic, which is most of
+  # what these two serve. Rendered separately from page views, never summed.
+  - slug: erddap
+    title: erddap
+    property: site
+    content_groups: [erddap]
+    live_url: https://erddap.calcofi.io/
+    host: erddap.calcofi.io
+    path_prefixes: ["/erddap/"]
+    request_host: erddap.calcofi.io
+
+  - slug: storage
+    title: storage
+    property: site
+    content_groups: [storage]
+    live_url: https://storage.calcofi.io/
+    host: storage.calcofi.io
+    path_prefixes: ["/"]
+    request_host: storage.calcofi.io
+
   # ── developer ──────────────────────────────────────────────────────────────
   - slug: db-query
     title: db-query

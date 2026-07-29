@@ -100,6 +100,47 @@
 </section>
 {{ end }}
 
+{{ with $u.requests }}
+<section>
+  <h2>Requests</h2>
+  <p class="blurb">
+    Counted from the server's own access logs since {{ .first_day }}, because
+    Google Analytics cannot see this one: most of its traffic is scripts
+    fetching data, which never run JavaScript. <strong>These are requests, not
+    people</strong> — a different thing from the page views above, so the two
+    are shown apart rather than added.
+  </p>
+
+  <section class="tiles">
+    {{ partial "stat-tile.html" (dict "label" "requests"
+        "value" (lang.FormatNumberCustom 0 .totals_28d.requests)
+        "hint" "last 28 days") }}
+    {{ partial "stat-tile.html" (dict "label" "data served"
+        "value" (printf "%.1f GB" (div .totals_28d.bytes 1073741824.0))
+        "hint" "last 28 days") }}
+    {{ partial "stat-tile.html" (dict "label" "from scripts"
+        "value" (printf "%.0f%%" (mul (div .totals_28d.tool (add .totals_28d.requests 0.0001)) 100.0))
+        "hint" "no Accept: text/html — i.e. not a browser") }}
+    {{ partial "stat-tile.html" (dict "label" "distinct clients"
+        "value" (lang.FormatNumberCustom 0 .totals_28d.clients)
+        "hint" "busiest day; addresses are counted, never stored") }}
+  </section>
+
+  {{ with .top_paths }}
+  <h3>Most-requested paths</h3>
+  {{ $rows := slice }}
+  {{ range . }}{{ $rows = $rows | append (dict "label" .path "value" (float .n)) }}{{ end }}
+  {{ partial "chart-bars.html" (dict "rows" $rows "unit" "requests") }}
+  {{ end }}
+
+  <p class="muted small">
+    <a href="{{ printf "data/requests/%s.csv" $.Params.product | relURL }}">requests.csv</a>
+    · aggregated nightly by <a href="https://github.com/CalCOFI/server/blob/main/scripts/caddy_usage.py">caddy_usage.py</a>;
+    no addresses or user agents are published.
+  </p>
+</section>
+{{ end }}
+
 {{ with $u.log }}
 <section>
   <h2>Query log</h2>

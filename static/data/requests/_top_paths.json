@@ -1,0 +1,28 @@
+{
+ "erddap.calcofi.io": {
+  "date": "2026-07-29",
+  "top_paths": [
+   {
+    "path": "/erddap/tabledap/calcofi_ctd_thin_nc.ncCF",
+    "n": 7
+   },
+   {
+    "path": "/erddap/index.html",
+    "n": 1
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_zooplankton.subset",
+    "n": 1
+   }
+  ]
+ },
+ "storage.calcofi.io": {
+  "date": "2026-07-29",
+  "top_paths": [
+   {
+    "path": "/",
+    "n": 1
+   }
+  ]
+ }
+}
