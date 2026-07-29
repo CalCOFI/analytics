@@ -19,11 +19,24 @@
 {{ else }}
 
 <section class="hero-figure">
-  <div class="hero-value">{{ lang.FormatNumberCustom 0 $u.totals_28d.activeUsers }}</div>
-  <div class="hero-label muted">active users · last 28 days</div>
+  <div class="hero-value">{{ lang.FormatNumberCustom 0 $u.totals_28d.engagedSessions }}</div>
+  <div class="hero-label muted">engaged sessions · last 28 days</div>
+  {{ if and (ge $u.totals_28d.activeUsers 20.0) (lt $u.totals_28d.engagedSessionRate 0.10) }}
+  <p class="notice small hero-note">
+    <strong>Mostly automated.</strong> This product saw
+    {{ lang.FormatNumberCustom 0 $u.totals_28d.activeUsers }} active users but
+    engaged almost none of them — the signature of a crawler sweeping the site,
+    which mints a fresh “user” per page fetched. Read the engaged figures here;
+    the raw user count is inflated.
+  </p>
+  {{ end }}
 </section>
 
 <section class="tiles">
+  {{ partial "stat-tile.html" (dict "label" "active users"
+      "value" (lang.FormatNumberCustom 0 $u.totals_28d.activeUsers)
+      "delta" $u.delta_28d.activeUsers
+      "hint" "includes automated traffic") }}
   {{ partial "stat-tile.html" (dict "label" "sessions"
       "value" (lang.FormatNumberCustom 0 $u.totals_28d.sessions)
       "delta" $u.delta_28d.sessions) }}

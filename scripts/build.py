@@ -117,7 +117,8 @@ def build() -> dict:
             "last_day": rows[-1]["date"] if rows else "",
             "totals_28d": t28,
             "delta_28d": {k: delta(t28.get(k, 0), p28.get(k, 0))
-                          for k in ("activeUsers", "sessions", "avgEngagementSeconds", "screenPageViews")},
+                          for k in ("activeUsers", "sessions", "engagedSessions",
+                                    "avgEngagementSeconds", "screenPageViews")},
             "daily": [{"date": r["date"],
                        "activeUsers": num(r.get("activeUsers")),
                        "sessions": num(r.get("sessions"))} for r in rows],
@@ -153,23 +154,35 @@ def build() -> dict:
 
         table.append({
             "slug": slug, "title": p.get("title", slug),
+            # engagedSessions leads: a crawler sweeping a docs site mints one
+            # "active user" per page fetch (no cookie, so a fresh client id each
+            # time) and engages with none of them, which put calcofi4db at the
+            # top of this table on 219 users and 3.2% engagement. Engaged
+            # sessions are the ones a person actually spent time in.
+            "engagedSessions": t28.get("engagedSessions", 0),
             "activeUsers": t28.get("activeUsers", 0),
             "sessions": t28.get("sessions", 0),
+            "engagementRate": t28.get("engagedSessionRate", 0),
             "avgEngagementSeconds": t28.get("avgEngagementSeconds", 0),
-            "delta": doc["delta_28d"]["activeUsers"],
+            "delta": doc["delta_28d"]["engagedSessions"],
             "spark": [d["activeUsers"] for d in doc["daily"][-90:]],
+            # enough traffic to judge, and almost none of it engaged
+            "mostly_automated": (t28.get("activeUsers", 0) >= 20
+                                 and t28.get("engagedSessionRate", 0) < 0.10),
         })
 
-    table.sort(key=lambda r: -r["activeUsers"])
+    table.sort(key=lambda r: (-r["engagedSessions"], -r["activeUsers"]))
     summary = {
         # stamped so the footer can flag a cron that has silently stopped
         "generated": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "has_data": any_data,
         "n_products": len(prods),
         "totals_28d": {
+            "engagedSessions": sum(r["engagedSessions"] for r in table),
             "activeUsers": sum(r["activeUsers"] for r in table),
             "sessions": sum(r["sessions"] for r in table),
         },
+        "n_mostly_automated": sum(1 for r in table if r["mostly_automated"]),
         "products": table,
     }
     (USAGE.parent / "usage_summary.json").write_text(json.dumps(summary, indent=1))

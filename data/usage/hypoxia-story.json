@@ -21,6 +21,7 @@
  "delta_28d": {
   "activeUsers": 250.0,
   "sessions": 133.3,
+  "engagedSessions": null,
   "avgEngagementSeconds": 6100.0,
   "screenPageViews": 350.0
  },

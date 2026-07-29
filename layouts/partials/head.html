@@ -20,7 +20,8 @@
        static site copies; only content_group differs. The hostname guard keeps
        local previews out of the property. -->
   <script>
-    window.__CC_GA = location.hostname.endsWith("calcofi.io");
+    window.__CC_GA = location.hostname.endsWith("calcofi.io")
+                   && !navigator.webdriver;   // skip Playwright/Puppeteer/shot-scraper
   </script>
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.ga_tag }}"></script>
   <script>

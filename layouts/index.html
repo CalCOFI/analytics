@@ -21,8 +21,19 @@
 {{ else }}
 
 <section class="hero-figure">
-  <div class="hero-value">{{ lang.FormatNumberCustom 0 $s.totals_28d.activeUsers }}</div>
-  <div class="hero-label muted">active users across all products · last 28 days</div>
+  <div class="hero-value">{{ lang.FormatNumberCustom 0 $s.totals_28d.engagedSessions }}</div>
+  <div class="hero-label muted">
+    engaged sessions across all products · last 28 days
+  </div>
+  <p class="muted small hero-note">
+    Engaged means someone stayed past ten seconds, viewed a second page, or did
+    something — Google's definition. It is the headline here instead of raw
+    users because a crawler sweeping a docs site mints a fresh “user” per page
+    it fetches and engages with none of them. Those
+    {{ lang.FormatNumberCustom 0 $s.totals_28d.activeUsers }} active users
+    include that traffic;
+    {{ if gt $s.n_mostly_automated 0 }}{{ $s.n_mostly_automated }} product{{ if gt $s.n_mostly_automated 1 }}s are{{ else }} is{{ end }} flagged below as almost entirely automated{{ else }}none of the products look automated right now{{ end }}.
+  </p>
 </section>
 
 {{ end }}
@@ -30,8 +41,8 @@
 <section>
   <h2>Products <span class="count">{{ $s.n_products }}</span></h2>
   <p class="blurb">
-    Ranked by active users over the last 28 days. Sort by any column; the trend
-    is the last 90 days.
+    Ranked by engaged sessions over the last 28 days. Sort by any column; the
+    trend is active users over the last 90 days.
   </p>
 
   {{/* A table, not 18 colored lines: past ~7 series a multi-line chart stops
@@ -41,8 +52,9 @@
     <thead>
       <tr>
         <th data-sort="s">product</th>
+        <th data-sort="n" class="n">engaged sessions</th>
         <th data-sort="n" class="n">active users</th>
-        <th data-sort="n" class="n">sessions</th>
+        <th data-sort="n" class="n">engaged</th>
         <th data-sort="n" class="n">avg engagement</th>
         <th data-sort="n" class="n">28d change</th>
         <th>trend (90d)</th>
@@ -50,10 +62,16 @@
     </thead>
     <tbody>
       {{ range $s.products }}
-      <tr>
-        <td><a href="{{ printf "%s/" .slug | relURL }}">{{ .title }}</a></td>
-        <td class="n mono" data-v="{{ .activeUsers }}">{{ lang.FormatNumberCustom 0 .activeUsers }}</td>
-        <td class="n mono" data-v="{{ .sessions }}">{{ lang.FormatNumberCustom 0 .sessions }}</td>
+      <tr{{ if .mostly_automated }} class="automated"{{ end }}>
+        <td>
+          <a href="{{ printf "%s/" .slug | relURL }}">{{ .title }}</a>
+          {{- if .mostly_automated }}
+          <span class="badge-auto" title="Almost no engaged sessions across sizeable traffic — this is very likely crawlers, not readers.">automated</span>
+          {{- end }}
+        </td>
+        <td class="n mono" data-v="{{ .engagedSessions }}">{{ lang.FormatNumberCustom 0 .engagedSessions }}</td>
+        <td class="n mono muted" data-v="{{ .activeUsers }}">{{ lang.FormatNumberCustom 0 .activeUsers }}</td>
+        <td class="n mono muted" data-v="{{ .engagementRate }}">{{ printf "%.0f%%" (mul .engagementRate 100.0) }}</td>
         <td class="n mono" data-v="{{ .avgEngagementSeconds }}">{{ partial "duration.html" .avgEngagementSeconds }}</td>
         <td class="n mono {{ with .delta }}{{ cond (ge . 0.0) "up" "down" }}{{ end }}"
             data-v="{{ .delta | default 0 }}">

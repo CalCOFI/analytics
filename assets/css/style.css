@@ -158,3 +158,16 @@ th { color: var(--muted); font-weight: 600; font-size: 0.78rem; }
   white-space: nowrap; box-shadow: 0 2px 10px rgba(0,0,0,0.3);
 }
 #chart-tooltip.on { opacity: 1; }
+
+/* automated-traffic flag: a product whose sizeable user count produces almost
+   no engaged sessions. Dimmed rather than hidden — the traffic is real, it is
+   just not people, and pretending it does not exist would be its own kind of
+   lie. The badge carries the word, so the dimming is never the only signal. */
+.rank tr.automated td { opacity: 0.65; }
+.badge-auto {
+  font-family: var(--mono); font-size: 0.66rem;
+  border: 1px solid var(--border); border-radius: 999px;
+  padding: 0.02rem 0.4rem; margin-left: 0.35rem;
+  color: var(--muted); white-space: nowrap;
+}
+.hero-note { max-width: 62ch; margin-top: 0.5rem; }
