@@ -3,9 +3,14 @@ download:bundle,21,32084.3,47183.8,0.0,16.0
 download:integrated_bundle,19,19439.7,300486.6,0.0,12.0
 download_bundle,2,44998.6,48214.1,0.0,21.0
 download_integrated_bundle,2,21739.3,23750.4,0.0,12.0
+filter_submit,2,,,0.0,
 map:get_env,18,25.4,34.8,0.0,
 map:get_sp,18,230.5,318.9,0.0,
-select_tab,5,,,0.0,
-session_start,8,,,0.0,
-start_tour,5,,,0.0,
+map_query_env,2,26.6,27.7,0.0,
+map_query_sp,2,251.7,253.4,0.0,
+open_filters,3,,,0.0,
+open_layers,1,,,0.0,
+select_tab,9,,,0.0,
+session_start,9,,,0.0,
+start_tour,6,,,0.0,
 test:log_query,1,842.1,842.1,0.0,13319.0
