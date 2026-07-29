@@ -12,9 +12,11 @@
 
 {{ if not $u.has_data }}
 <div class="notice">
-  <strong>No data yet</strong> for <span class="mono">{{ .Params.product }}</span>.
+  <strong>No page views yet</strong> for <span class="mono">{{ .Params.product }}</span>.
   Either the daily refresh has not run, or this product was tagged recently and
   Google Analytics has not reported a full day for it.
+  {{ with $u.requests }}Its server-side request counts are below — for this
+  product those are the meaningful number anyway.{{ end }}
 </div>
 {{ else }}
 
@@ -100,6 +102,46 @@
 </section>
 {{ end }}
 
+{{ with $u.log }}
+<section>
+  <h2>Query log</h2>
+  <p class="blurb">
+    This app also writes a server-side log of every query — the detail Google
+    Analytics buckets into “(other)” once past its cardinality limit. Counts and
+    percentiles only; the log’s <span class="mono">ip</span> and
+    <span class="mono">user_agent</span> columns are dropped before anything is
+    published.
+  </p>
+
+  {{ with .params }}
+  <h3>Most-requested</h3>
+  {{ $rows := slice }}
+  {{ range (first 15 .) }}{{ $rows = $rows | append (dict "label" (printf "%s: %s" .param .value) "value" (float .n)) }}{{ end }}
+  {{ partial "chart-bars.html" (dict "rows" $rows "unit" "queries") }}
+  {{ end }}
+
+  {{ with .events }}
+  <h3>Timing by event</h3>
+  <table class="rank">
+    <thead><tr><th>event</th><th class="n">n</th><th class="n">median</th><th class="n">p95</th><th class="n">errors</th></tr></thead>
+    <tbody>
+      {{ range . }}
+      <tr>
+        <td class="mono">{{ .event }}</td>
+        <td class="n mono">{{ .n }}</td>
+        <td class="n mono">{{ with .p50_ms }}{{ . }} ms{{ else }}—{{ end }}</td>
+        <td class="n mono">{{ with .p95_ms }}{{ . }} ms{{ else }}—{{ end }}</td>
+        <td class="n mono">{{ printf "%.1f%%" (mul (float .error_rate) 100.0) }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+  {{ end }}
+</section>
+{{ end }}
+
+{{ end }}
+
 {{ with $u.requests }}
 <section>
   <h2>Requests</h2>
@@ -139,46 +181,6 @@
     no addresses or user agents are published.
   </p>
 </section>
-{{ end }}
-
-{{ with $u.log }}
-<section>
-  <h2>Query log</h2>
-  <p class="blurb">
-    This app also writes a server-side log of every query — the detail Google
-    Analytics buckets into “(other)” once past its cardinality limit. Counts and
-    percentiles only; the log’s <span class="mono">ip</span> and
-    <span class="mono">user_agent</span> columns are dropped before anything is
-    published.
-  </p>
-
-  {{ with .params }}
-  <h3>Most-requested</h3>
-  {{ $rows := slice }}
-  {{ range (first 15 .) }}{{ $rows = $rows | append (dict "label" (printf "%s: %s" .param .value) "value" (float .n)) }}{{ end }}
-  {{ partial "chart-bars.html" (dict "rows" $rows "unit" "queries") }}
-  {{ end }}
-
-  {{ with .events }}
-  <h3>Timing by event</h3>
-  <table class="rank">
-    <thead><tr><th>event</th><th class="n">n</th><th class="n">median</th><th class="n">p95</th><th class="n">errors</th></tr></thead>
-    <tbody>
-      {{ range . }}
-      <tr>
-        <td class="mono">{{ .event }}</td>
-        <td class="n mono">{{ .n }}</td>
-        <td class="n mono">{{ with .p50_ms }}{{ . }} ms{{ else }}—{{ end }}</td>
-        <td class="n mono">{{ with .p95_ms }}{{ . }} ms{{ else }}—{{ end }}</td>
-        <td class="n mono">{{ printf "%.1f%%" (mul (float .error_rate) 100.0) }}</td>
-      </tr>
-      {{ end }}
-    </tbody>
-  </table>
-  {{ end }}
-</section>
-{{ end }}
-
 {{ end }}
 
 <p class="muted small">
