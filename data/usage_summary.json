@@ -1,19 +1,19 @@
 {
- "generated": "2026-07-29T01:10:03+00:00",
+ "generated": "2026-07-29T11:17:41+00:00",
  "has_data": true,
  "n_products": 18,
  "totals_28d": {
-  "activeUsers": 371.0,
-  "sessions": 427.0
+  "activeUsers": 374.0,
+  "sessions": 430.0
  },
  "products": [
   {
    "slug": "calcofi4db",
    "title": "calcofi4db",
-   "activeUsers": 171.0,
-   "sessions": 171.0,
+   "activeUsers": 169.0,
+   "sessions": 169.0,
    "avgEngagementSeconds": 0.1,
-   "delta": 350.0,
+   "delta": 344.7,
    "spark": [
     2.0,
     1.0,
@@ -52,16 +52,16 @@
     1.0,
     47.0,
     1.0,
-    3.0
+    1.0
    ]
   },
   {
    "slug": "calcofi4r",
    "title": "calcofi4r",
-   "activeUsers": 71.0,
-   "sessions": 82.0,
-   "avgEngagementSeconds": 16.4,
-   "delta": -22.0,
+   "activeUsers": 70.0,
+   "sessions": 80.0,
+   "avgEngagementSeconds": 16.3,
+   "delta": -23.1,
    "spark": [
     4.0,
     2.0,
@@ -121,7 +121,7 @@
     4.0,
     1.0,
     0.0,
-    2.0
+    1.0
    ]
   },
   {
@@ -166,10 +166,10 @@
   {
    "slug": "docs",
    "title": "docs",
-   "activeUsers": 24.0,
-   "sessions": 25.0,
-   "avgEngagementSeconds": 4.8,
-   "delta": -45.5,
+   "activeUsers": 26.0,
+   "sessions": 27.0,
+   "avgEngagementSeconds": 4.4,
+   "delta": -40.9,
    "spark": [
     4.0,
     1.0,
@@ -209,7 +209,7 @@
     1.0,
     2.0,
     5.0,
-    3.0
+    5.0
    ]
   },
   {
@@ -554,12 +554,26 @@
   {
    "slug": "workflows",
    "title": "workflows",
-   "activeUsers": 3.0,
-   "sessions": 3.0,
-   "avgEngagementSeconds": 7.0,
+   "activeUsers": 5.0,
+   "sessions": 5.0,
+   "avgEngagementSeconds": 13.2,
    "delta": null,
    "spark": [
-    3.0
+    4.0,
+    1.0
+   ]
+  },
+  {
+   "slug": "ctd-viz",
+   "title": "ctd-viz",
+   "activeUsers": 4.0,
+   "sessions": 5.0,
+   "avgEngagementSeconds": 40.5,
+   "delta": null,
+   "spark": [
+    2.0,
+    2.0,
+    4.0
    ]
   },
   {
@@ -610,18 +624,6 @@
     1.0,
     0.0,
     2.0
-   ]
-  },
-  {
-   "slug": "ctd-viz",
-   "title": "ctd-viz",
-   "activeUsers": 2.0,
-   "sessions": 2.0,
-   "avgEngagementSeconds": 69.0,
-   "delta": null,
-   "spark": [
-    2.0,
-    4.0
    ]
   },
   {
