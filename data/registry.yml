@@ -141,6 +141,14 @@ products:
     live_url: https://app.calcofi.io/2026-ucsb-larvae-dashboard/
     path_prefixes: ["/2026-ucsb-larvae-dashboard/"]
 
+  - slug: ucsb-station-portal
+    title: Station Data Portal
+    property: site
+    content_groups: [ucsb-station-portal]
+    live_url: https://calcofi.io/2026-ucsb-station-data-portal/
+    host: calcofi.io
+    path_prefixes: ["/2026-ucsb-station-data-portal/"]
+
   - slug: ucla-monitoring-map
     title: CA Ocean & Coastal Monitoring Map
     property: site
