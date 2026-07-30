@@ -1,6 +1,6 @@
 param,value,n
 env_var,ph,2
-env_var,temperature,25
+env_var,temperature,27
 taxa,Market squid (species: Doryteuthis opalescens),2
-taxa,Pacific sardine (pilchard) (species: Sardinops sagax),27
+taxa,Pacific sardine (pilchard) (species: Sardinops sagax),29
 taxa,Sardinops sagax,1

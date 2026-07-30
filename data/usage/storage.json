@@ -34,21 +34,58 @@
   "daily": [
    {
     "date": "2026-07-29",
-    "requests": 1.0,
-    "bytes": 4889.0
+    "requests": 329.0,
+    "bytes": 3331430624.0
+   },
+   {
+    "date": "2026-07-30",
+    "requests": 15.0,
+    "bytes": 32591.0
    }
   ],
   "totals_28d": {
-   "requests": 1.0,
-   "bytes": 4889.0,
-   "clients": 1.0,
-   "tool": 1.0,
-   "browser": 0.0
+   "requests": 344.0,
+   "bytes": 3331463215.0,
+   "clients": 45.0,
+   "tool": 289.0,
+   "browser": 55.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
+    "n": 6
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.17/ctd-cast.nc",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/",
+    "n": 1
+   },
+   {
+    "path": "/favicon.ico",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/_index/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.17/",
     "n": 1
    }
   ]

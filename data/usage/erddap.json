@@ -34,29 +34,58 @@
   "daily": [
    {
     "date": "2026-07-29",
-    "requests": 9.0,
-    "bytes": 63815.0
+    "requests": 2682.0,
+    "bytes": 2585031.0
+   },
+   {
+    "date": "2026-07-30",
+    "requests": 184.0,
+    "bytes": 259567.0
    }
   ],
   "totals_28d": {
-   "requests": 9.0,
-   "bytes": 63815.0,
-   "clients": 2.0,
-   "tool": 9.0,
-   "browser": 0.0
+   "requests": 2866.0,
+   "bytes": 2844598.0,
+   "clients": 119.0,
+   "tool": 2761.0,
+   "browser": 105.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/tabledap/calcofi_ctd_thin_nc.ncCF",
-    "n": 7
+    "n": 165
    },
    {
     "path": "/erddap/index.html",
+    "n": 6
+   },
+   {
+    "path": "/erddap/files/documentation.html",
+    "n": 4
+   },
+   {
+    "path": "/robots.txt",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd_thin.iso19115",
     "n": 1
    },
    {
-    "path": "/erddap/tabledap/calcofi_zooplankton.subset",
+    "path": "/erddap/files/calcofi_euphausiids/",
+    "n": 1
+   },
+   {
+    "path": "/erddap/metadata/iso19115/xml/calcofi_ctd_measurement_iso19115.xml",
+    "n": 1
+   },
+   {
+    "path": "/erddap/convert/units.txt",
+    "n": 1
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd_thin.html",
     "n": 1
    }
   ]
