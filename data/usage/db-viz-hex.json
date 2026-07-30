@@ -7,22 +7,22 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 34.0,
+  "activeUsers": 35.0,
   "newUsers": 12.0,
-  "sessions": 61.0,
+  "sessions": 62.0,
   "engagedSessions": 37.0,
   "screenPageViews": 85.0,
-  "eventCount": 448.0,
-  "userEngagementDuration": 2345.0,
-  "avgEngagementSeconds": 69.0,
+  "eventCount": 449.0,
+  "userEngagementDuration": 2368.0,
+  "avgEngagementSeconds": 67.7,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 2.5
+  "viewsPerUser": 2.4
  },
  "delta_28d": {
-  "activeUsers": 3300.0,
-  "sessions": 6000.0,
+  "activeUsers": 3400.0,
+  "sessions": 6100.0,
   "engagedSessions": 3600.0,
-  "avgEngagementSeconds": 263.2,
+  "avgEngagementSeconds": 256.3,
   "screenPageViews": 8400.0
  },
  "daily": [
@@ -105,6 +105,11 @@
    "date": "2026-07-29",
    "activeUsers": 2.0,
    "sessions": 3.0
+  },
+  {
+   "date": "2026-07-30",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   },
   {
    "date": "20260701",
@@ -196,10 +201,11 @@
   2.43,
   2.29,
   2.14,
-  2.0,
+  1.57,
   2.14,
   1.57,
-  2.0,
+  1.57,
+  1.86,
   2.0,
   2.14,
   2.29,
@@ -287,12 +293,12 @@
    "users": 4.0
   },
   {
-   "name": "download_bundle",
-   "count": 3.0,
+   "name": "user_engagement",
+   "count": 4.0,
    "users": 1.0
   },
   {
-   "name": "user_engagement",
+   "name": "download_bundle",
    "count": 3.0,
    "users": 1.0
   }

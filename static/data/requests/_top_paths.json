@@ -4,39 +4,43 @@
   "top_paths": [
    {
     "path": "/erddap/tabledap/calcofi_ctd_thin_nc.ncCF",
-    "n": 165
+    "n": 1767
    },
    {
     "path": "/erddap/index.html",
-    "n": 6
-   },
-   {
-    "path": "/erddap/files/documentation.html",
-    "n": 4
+    "n": 49
    },
    {
     "path": "/robots.txt",
-    "n": 4
+    "n": 37
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd_thin.iso19115",
-    "n": 1
+    "path": "/erddap/files/documentation.html",
+    "n": 16
+   },
+   {
+    "path": "/",
+    "n": 8
+   },
+   {
+    "path": "/ip",
+    "n": 6
+   },
+   {
+    "path": "/erddap",
+    "n": 5
    },
    {
     "path": "/erddap/files/calcofi_euphausiids/",
-    "n": 1
+    "n": 4
    },
    {
-    "path": "/erddap/metadata/iso19115/xml/calcofi_ctd_measurement_iso19115.xml",
-    "n": 1
+    "path": "/erddap/wms/index.htmlTable",
+    "n": 4
    },
    {
-    "path": "/erddap/convert/units.txt",
-    "n": 1
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd_thin.html",
-    "n": 1
+    "path": "/erddap/tabledap/pmelTaoDySst.das",
+    "n": 4
    }
   ]
  },
@@ -45,39 +49,43 @@
   "top_paths": [
    {
     "path": "/",
-    "n": 6
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.17/ctd-cast.nc",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/",
-    "n": 1
-   },
-   {
-    "path": "/favicon.ico",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/_index/",
-    "n": 1
+    "n": 46
    },
    {
     "path": "/calcofi-files-public/netcdf/",
-    "n": 1
+    "n": 8
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast/manifests.json",
+    "n": 6
+   },
+   {
+    "path": "/favicon.ico",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.30/ctd-cast.nc",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.17/ctd-cast.nc",
+    "n": 4
    },
    {
     "path": "/calcofi-files-public/netcdf/ctd-cast/",
-    "n": 1
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.17/",
-    "n": 1
+    "path": "/calcofi-files-public/netcdf/ctd-cast_full/manifests.json",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast_full/v2026.07.30/ctd-cast_full.nc",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast_full/",
+    "n": 3
    }
   ]
  }

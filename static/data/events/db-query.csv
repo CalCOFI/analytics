@@ -2,10 +2,10 @@ eventName,eventCount,activeUsers
 click,1,1
 download,2,1
 form_start,1,1
-page_view,5,2
-query_run,4,2
-query_success,4,2
-query_view,10,2
-scroll,5,2
-session_start,2,1
-user_engagement,3,2
+page_view,6,2
+query_run,5,2
+query_success,5,2
+query_view,12,2
+scroll,6,2
+session_start,4,2
+user_engagement,5,2

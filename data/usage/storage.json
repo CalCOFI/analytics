@@ -3,20 +3,20 @@
  "title": "storage",
  "live_url": "https://storage.calcofi.io/",
  "property": "site",
- "has_data": false,
- "first_day": "",
- "last_day": "",
+ "has_data": true,
+ "first_day": "2026-07-29",
+ "last_day": "2026-07-29",
  "totals_28d": {
-  "activeUsers": 0,
-  "newUsers": 0,
-  "sessions": 0,
-  "engagedSessions": 0,
-  "screenPageViews": 0,
-  "eventCount": 0,
-  "userEngagementDuration": 0,
-  "avgEngagementSeconds": 0,
-  "engagedSessionRate": 0,
-  "viewsPerUser": 0
+  "activeUsers": 3.0,
+  "newUsers": 2.0,
+  "sessions": 6.0,
+  "engagedSessions": 4.0,
+  "screenPageViews": 24.0,
+  "eventCount": 82.0,
+  "userEngagementDuration": 208.0,
+  "avgEngagementSeconds": 69.3,
+  "engagedSessionRate": 0.7,
+  "viewsPerUser": 8.0
  },
  "delta_28d": {
   "activeUsers": null,
@@ -25,11 +25,74 @@
   "avgEngagementSeconds": null,
   "screenPageViews": null
  },
- "daily": [],
- "daily_mean7": [],
- "geo_country": [],
- "geo": [],
- "events": [],
+ "daily": [
+  {
+   "date": "2026-07-29",
+   "activeUsers": 3.0,
+   "sessions": 6.0
+  }
+ ],
+ "daily_mean7": [
+  3.0
+ ],
+ "geo_country": [
+  {
+   "country": "United States",
+   "countryId": "US",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Italy",
+   "countryId": "IT",
+   "activeUsers": 1.0
+  }
+ ],
+ "geo": [
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Italy",
+   "countryId": "IT",
+   "region": "Other",
+   "activeUsers": 1.0
+  }
+ ],
+ "events": [
+  {
+   "name": "user_engagement",
+   "count": 28.0,
+   "users": 1.0
+  },
+  {
+   "name": "page_view",
+   "count": 24.0,
+   "users": 3.0
+  },
+  {
+   "name": "scroll",
+   "count": 23.0,
+   "users": 3.0
+  },
+  {
+   "name": "session_start",
+   "count": 4.0,
+   "users": 3.0
+  },
+  {
+   "name": "first_visit",
+   "count": 2.0,
+   "users": 2.0
+  },
+  {
+   "name": "click",
+   "count": 1.0,
+   "users": 1.0
+  }
+ ],
  "requests": {
   "daily": [
    {
@@ -39,54 +102,58 @@
    },
    {
     "date": "2026-07-30",
-    "requests": 15.0,
-    "bytes": 32591.0
+    "requests": 101.0,
+    "bytes": 130162274.0
    }
   ],
   "totals_28d": {
-   "requests": 344.0,
-   "bytes": 3331463215.0,
-   "clients": 45.0,
-   "tool": 289.0,
-   "browser": 55.0
+   "requests": 430.0,
+   "bytes": 3461592898.0,
+   "clients": 54.0,
+   "tool": 351.0,
+   "browser": 79.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 6
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.17/ctd-cast.nc",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/",
-    "n": 1
-   },
-   {
-    "path": "/favicon.ico",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/_index/",
-    "n": 1
+    "n": 46
    },
    {
     "path": "/calcofi-files-public/netcdf/",
-    "n": 1
+    "n": 8
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast/manifests.json",
+    "n": 6
+   },
+   {
+    "path": "/favicon.ico",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.30/ctd-cast.nc",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.17/ctd-cast.nc",
+    "n": 4
    },
    {
     "path": "/calcofi-files-public/netcdf/ctd-cast/",
-    "n": 1
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.17/",
-    "n": 1
+    "path": "/calcofi-files-public/netcdf/ctd-cast_full/manifests.json",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast_full/v2026.07.30/ctd-cast_full.nc",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/ctd-cast_full/",
+    "n": 3
    }
   ]
  }
