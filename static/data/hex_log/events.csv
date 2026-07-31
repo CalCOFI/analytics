@@ -11,6 +11,6 @@ map_query_sp,3,252.3,259.0,0.0,
 open_filters,4,,,0.0,
 open_layers,1,,,0.0,
 select_tab,11,,,0.0,
-session_start,14,,,0.0,
-start_tour,10,,,0.0,
+session_start,15,,,0.0,
+start_tour,11,,,0.0,
 test:log_query,1,842.1,842.1,0.0,13319.0

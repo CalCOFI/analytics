@@ -267,10 +267,16 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 15.0
+   "activeUsers": 30.0
   }
  ],
  "geo": [
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "(not set)",
+   "activeUsers": 15.0
+  },
   {
    "country": "Singapore",
    "countryId": "SG",
