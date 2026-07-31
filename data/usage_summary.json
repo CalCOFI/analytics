@@ -1,11 +1,11 @@
 {
- "generated": "2026-07-31T01:14:25+00:00",
+ "generated": "2026-07-31T11:17:47+00:00",
  "has_data": true,
  "n_products": 21,
  "totals_28d": {
-  "engagedSessions": 196.0,
-  "activeUsers": 397.0,
-  "sessions": 475.0
+  "engagedSessions": 203.0,
+  "activeUsers": 403.0,
+  "sessions": 484.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -279,12 +279,12 @@
   {
    "slug": "docs",
    "title": "docs",
-   "engagedSessions": 18.0,
+   "engagedSessions": 19.0,
    "activeUsers": 30.0,
-   "sessions": 31.0,
+   "sessions": 32.0,
    "engagementRate": 0.6,
    "avgEngagementSeconds": 6.3,
-   "delta": -21.7,
+   "delta": -17.4,
    "spark": [
     4.0,
     1.0,
@@ -365,14 +365,29 @@
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 8.0,
-   "activeUsers": 4.0,
-   "sessions": 8.0,
+   "engagedSessions": 9.0,
+   "activeUsers": 5.0,
+   "sessions": 9.0,
    "engagementRate": 1.0,
-   "avgEngagementSeconds": 536.0,
+   "avgEngagementSeconds": 451.4,
    "delta": null,
    "spark": [
     2.0,
+    3.0
+   ],
+   "mostly_automated": false
+  },
+  {
+   "slug": "storage",
+   "title": "storage",
+   "engagedSessions": 7.0,
+   "activeUsers": 5.0,
+   "sessions": 9.0,
+   "engagementRate": 0.8,
+   "avgEngagementSeconds": 61.0,
+   "delta": null,
+   "spark": [
+    3.0,
     2.0
    ],
    "mostly_automated": false
@@ -381,10 +396,10 @@
    "slug": "oceano",
    "title": "oceano",
    "engagedSessions": 6.0,
-   "activeUsers": 7.0,
-   "sessions": 7.0,
-   "engagementRate": 0.9,
-   "avgEngagementSeconds": 116.6,
+   "activeUsers": 8.0,
+   "sessions": 8.0,
+   "engagementRate": 0.8,
+   "avgEngagementSeconds": 102.1,
    "delta": 20.0,
    "spark": [
     1.0,
@@ -405,6 +420,7 @@
     1.0,
     1.0,
     1.0,
+    1.0,
     2.0,
     1.0,
     2.0,
@@ -414,21 +430,6 @@
     1.0,
     1.0,
     2.0
-   ],
-   "mostly_automated": false
-  },
-  {
-   "slug": "storage",
-   "title": "storage",
-   "engagedSessions": 6.0,
-   "activeUsers": 4.0,
-   "sessions": 8.0,
-   "engagementRate": 0.8,
-   "avgEngagementSeconds": 76.2,
-   "delta": null,
-   "spark": [
-    3.0,
-    1.0
    ],
    "mostly_automated": false
   },
@@ -512,12 +513,27 @@
    "mostly_automated": false
   },
   {
+   "slug": "ucla-monitoring-map",
+   "title": "CA Ocean & Coastal Monitoring Map",
+   "engagedSessions": 5.0,
+   "activeUsers": 4.0,
+   "sessions": 5.0,
+   "engagementRate": 1.0,
+   "avgEngagementSeconds": 72.2,
+   "delta": null,
+   "spark": [
+    2.0,
+    2.0
+   ],
+   "mostly_automated": false
+  },
+  {
    "slug": "hypoxia-story",
    "title": "Hypoxia Story",
    "engagedSessions": 4.0,
    "activeUsers": 8.0,
-   "sessions": 8.0,
-   "engagementRate": 0.5,
+   "sessions": 9.0,
+   "engagementRate": 0.4,
    "avgEngagementSeconds": 54.2,
    "delta": null,
    "spark": [
@@ -617,14 +633,14 @@
   {
    "slug": "erddap",
    "title": "erddap",
-   "engagedSessions": 3.0,
-   "activeUsers": 2.0,
-   "sessions": 3.0,
+   "engagedSessions": 4.0,
+   "activeUsers": 3.0,
+   "sessions": 4.0,
    "engagementRate": 1.0,
-   "avgEngagementSeconds": 19.5,
+   "avgEngagementSeconds": 13.0,
    "delta": null,
    "spark": [
-    2.0
+    3.0
    ],
    "mostly_automated": false
   },
@@ -730,20 +746,6 @@
     1.0,
     1.0,
     0.0,
-    2.0
-   ],
-   "mostly_automated": false
-  },
-  {
-   "slug": "ucla-monitoring-map",
-   "title": "CA Ocean & Coastal Monitoring Map",
-   "engagedSessions": 2.0,
-   "activeUsers": 2.0,
-   "sessions": 2.0,
-   "engagementRate": 1.0,
-   "avgEngagementSeconds": 10.5,
-   "delta": null,
-   "spark": [
     2.0
    ],
    "mostly_automated": false

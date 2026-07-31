@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260728",
  "totals_28d": {
-  "activeUsers": 7.0,
-  "newUsers": 2.0,
-  "sessions": 7.0,
+  "activeUsers": 8.0,
+  "newUsers": 3.0,
+  "sessions": 8.0,
   "engagedSessions": 6.0,
-  "screenPageViews": 102.0,
-  "eventCount": 157.0,
-  "userEngagementDuration": 816.0,
-  "avgEngagementSeconds": 116.6,
-  "engagedSessionRate": 0.9,
-  "viewsPerUser": 14.6
+  "screenPageViews": 104.0,
+  "eventCount": 163.0,
+  "userEngagementDuration": 817.0,
+  "avgEngagementSeconds": 102.1,
+  "engagedSessionRate": 0.8,
+  "viewsPerUser": 13.0
  },
  "delta_28d": {
-  "activeUsers": 40.0,
-  "sessions": 40.0,
+  "activeUsers": 60.0,
+  "sessions": 60.0,
   "engagedSessions": 20.0,
-  "avgEngagementSeconds": 855.7,
-  "screenPageViews": 292.3
+  "avgEngagementSeconds": 736.9,
+  "screenPageViews": 300.0
  },
  "daily": [
   {
@@ -93,6 +93,11 @@
   },
   {
    "date": "2026-07-30",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-07-31",
    "activeUsers": 1.0,
    "sessions": 1.0
   },
@@ -181,6 +186,7 @@
   1.0,
   1.0,
   1.0,
+  1.0,
   1.14,
   1.14,
   1.29,
@@ -193,12 +199,23 @@
  ],
  "geo_country": [
   {
+   "country": "Cyprus",
+   "countryId": "CY",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 1.0
   }
  ],
  "geo": [
+  {
+   "country": "Cyprus",
+   "countryId": "CY",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
   {
    "country": "Italy",
    "countryId": "IT",
@@ -209,21 +226,26 @@
  "events": [
   {
    "name": "page_view",
-   "count": 2.0,
-   "users": 1.0
+   "count": 4.0,
+   "users": 2.0
   },
   {
    "name": "scroll",
-   "count": 1.0,
-   "users": 1.0
+   "count": 2.0,
+   "users": 2.0
   },
   {
    "name": "session_start",
-   "count": 1.0,
-   "users": 1.0
+   "count": 2.0,
+   "users": 2.0
   },
   {
    "name": "user_engagement",
+   "count": 2.0,
+   "users": 2.0
+  },
+  {
+   "name": "first_visit",
    "count": 1.0,
    "users": 1.0
   }

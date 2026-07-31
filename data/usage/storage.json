@@ -7,16 +7,16 @@
  "first_day": "2026-07-29",
  "last_day": "2026-07-30",
  "totals_28d": {
-  "activeUsers": 4.0,
+  "activeUsers": 5.0,
   "newUsers": 2.0,
-  "sessions": 8.0,
-  "engagedSessions": 6.0,
-  "screenPageViews": 46.0,
-  "eventCount": 141.0,
+  "sessions": 9.0,
+  "engagedSessions": 7.0,
+  "screenPageViews": 47.0,
+  "eventCount": 142.0,
   "userEngagementDuration": 305.0,
-  "avgEngagementSeconds": 76.2,
+  "avgEngagementSeconds": 61.0,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 11.5
+  "viewsPerUser": 9.4
  },
  "delta_28d": {
   "activeUsers": null,
@@ -33,19 +33,19 @@
   },
   {
    "date": "2026-07-30",
-   "activeUsers": 1.0,
-   "sessions": 2.0
+   "activeUsers": 2.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
   3.0,
-  2.0
+  2.5
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 2.0
+   "activeUsers": 3.0
   },
   {
    "country": "Italy",
@@ -58,7 +58,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 2.0
+   "activeUsers": 3.0
   },
   {
    "country": "Italy",
@@ -70,8 +70,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 46.0,
-   "users": 3.0
+   "count": 47.0,
+   "users": 4.0
   },
   {
    "name": "user_engagement",
@@ -108,58 +108,63 @@
    },
    {
     "date": "2026-07-30",
-    "requests": 101.0,
-    "bytes": 130162274.0
+    "requests": 2281.0,
+    "bytes": 193377234.0
+   },
+   {
+    "date": "2026-07-31",
+    "requests": 249.0,
+    "bytes": 575616.0
    }
   ],
   "totals_28d": {
-   "requests": 430.0,
-   "bytes": 3461592898.0,
-   "clients": 54.0,
-   "tool": 351.0,
-   "browser": 79.0
+   "requests": 2859.0,
+   "bytes": 3525383474.0,
+   "clients": 121.0,
+   "tool": 2547.0,
+   "browser": 312.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 53
+   },
+   {
+    "path": "/robots.txt",
+    "n": 7
    },
    {
     "path": "/calcofi-files-public/netcdf/",
-    "n": 8
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/ctd-cast/manifests.json",
-    "n": 6
-   },
-   {
-    "path": "/favicon.ico",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.30/ctd-cast.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.17/ctd-cast.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/ctd-cast/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/ctd-cast_full/manifests.json",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/ctd-cast_full/v2026.07.30/ctd-cast_full.nc",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/ctd-cast_full/",
-    "n": 3
+    "path": "/calcofi-projects/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.07.30/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-projects/2026-ucsb-capstone/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/",
+    "n": 2
    }
   ]
  }

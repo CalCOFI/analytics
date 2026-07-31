@@ -7,16 +7,16 @@
  "first_day": "2026-07-30",
  "last_day": "2026-07-30",
  "totals_28d": {
-  "activeUsers": 2.0,
+  "activeUsers": 3.0,
   "newUsers": 0.0,
-  "sessions": 3.0,
-  "engagedSessions": 3.0,
-  "screenPageViews": 6.0,
-  "eventCount": 13.0,
+  "sessions": 4.0,
+  "engagedSessions": 4.0,
+  "screenPageViews": 7.0,
+  "eventCount": 15.0,
   "userEngagementDuration": 39.0,
-  "avgEngagementSeconds": 19.5,
+  "avgEngagementSeconds": 13.0,
   "engagedSessionRate": 1.0,
-  "viewsPerUser": 3.0
+  "viewsPerUser": 2.3
  },
  "delta_28d": {
   "activeUsers": null,
@@ -28,35 +28,35 @@
  "daily": [
   {
    "date": "2026-07-30",
-   "activeUsers": 2.0,
-   "sessions": 3.0
+   "activeUsers": 3.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
-  2.0
+  3.0
  ],
  "geo_country": [
   {
-   "country": "Italy",
-   "countryId": "IT",
-   "activeUsers": 1.0
-  },
-  {
    "country": "United States",
    "countryId": "US",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Italy",
+   "countryId": "IT",
    "activeUsers": 1.0
   }
  ],
  "geo": [
   {
-   "country": "Italy",
-   "countryId": "IT",
-   "region": "Other",
-   "activeUsers": 1.0
-  },
-  {
    "country": "United States",
    "countryId": "US",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Italy",
+   "countryId": "IT",
    "region": "Other",
    "activeUsers": 1.0
   }
@@ -64,8 +64,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 6.0,
-   "users": 2.0
+   "count": 7.0,
+   "users": 3.0
   },
   {
    "name": "user_engagement",
@@ -73,13 +73,13 @@
    "users": 2.0
   },
   {
-   "name": "session_start",
+   "name": "scroll",
    "count": 2.0,
-   "users": 1.0
+   "users": 2.0
   },
   {
-   "name": "scroll",
-   "count": 1.0,
+   "name": "session_start",
+   "count": 2.0,
    "users": 1.0
   }
  ],
@@ -92,16 +92,21 @@
    },
    {
     "date": "2026-07-30",
-    "requests": 2095.0,
-    "bytes": 6008006.0
+    "requests": 5273.0,
+    "bytes": 12124865.0
+   },
+   {
+    "date": "2026-07-31",
+    "requests": 2293.0,
+    "bytes": 2941441.0
    }
   ],
   "totals_28d": {
-   "requests": 4777.0,
-   "bytes": 8593037.0,
-   "clients": 213.0,
-   "tool": 4604.0,
-   "browser": 173.0
+   "requests": 10248.0,
+   "bytes": 17651337.0,
+   "clients": 401.0,
+   "tool": 9899.0,
+   "browser": 349.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -111,38 +116,38 @@
    },
    {
     "path": "/erddap/index.html",
-    "n": 49
+    "n": 47
    },
    {
     "path": "/robots.txt",
-    "n": 37
+    "n": 39
    },
    {
-    "path": "/erddap/files/documentation.html",
-    "n": 16
-   },
-   {
-    "path": "/",
+    "path": "/584062352875874akp.php",
     "n": 8
    },
    {
-    "path": "/ip",
-    "n": 6
+    "path": "/",
+    "n": 7
    },
    {
     "path": "/erddap",
-    "n": 5
-   },
-   {
-    "path": "/erddap/files/calcofi_euphausiids/",
     "n": 4
    },
    {
-    "path": "/erddap/wms/index.htmlTable",
+    "path": "/erddap/tabledap/calcofi_ctd_measurement.graph",
     "n": 4
    },
    {
-    "path": "/erddap/tabledap/pmelTaoDySst.das",
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "n": 4
+   },
+   {
+    "path": "/this_is_a_new_hello_world.php",
+    "n": 4
+   },
+   {
+    "path": "/xstelth.php",
     "n": 4
    }
   ]
