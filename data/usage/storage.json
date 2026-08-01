@@ -113,45 +113,54 @@
    },
    {
     "date": "2026-07-31",
-    "requests": 249.0,
-    "bytes": 575616.0
+    "requests": 1117.0,
+    "bytes": 2886872.0
+   },
+   {
+    "date": "2026-08-01",
+    "requests": 721.0,
+    "bytes": 2130159.0
    }
   ],
   "totals_28d": {
-   "requests": 2859.0,
-   "bytes": 3525383474.0,
-   "clients": 121.0,
-   "tool": 2547.0,
-   "browser": 312.0
+   "requests": 4448.0,
+   "bytes": 3529824889.0,
+   "clients": 142.0,
+   "tool": 2699.0,
+   "browser": 1749.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 53
+    "n": 51
    },
    {
     "path": "/robots.txt",
     "n": 7
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 3
+    "path": "/sitemap.xml",
+    "n": 6
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/",
+    "path": "/favicon.ico",
     "n": 2
    },
    {
-    "path": "/calcofi-projects/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0602JD_CTDFinalQC/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.07.30/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1810SR_CTDFinalQC/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/",
     "n": 2
    },
    {
@@ -159,11 +168,7 @@
     "n": 2
    },
    {
-    "path": "/calcofi-projects/2026-ucsb-capstone/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/swfsc.noaa.gov/",
     "n": 2
    }
   ]

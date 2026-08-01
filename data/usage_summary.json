@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-01T01:14:54+00:00",
+ "generated": "2026-08-01T11:17:38+00:00",
  "has_data": true,
  "n_products": 21,
  "totals_28d": {
   "engagedSessions": 207.0,
-  "activeUsers": 398.0,
-  "sessions": 480.0
+  "activeUsers": 400.0,
+  "sessions": 482.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -58,10 +58,10 @@
    "slug": "calcofi4r",
    "title": "calcofi4r",
    "engagedSessions": 30.0,
-   "activeUsers": 57.0,
-   "sessions": 67.0,
+   "activeUsers": 58.0,
+   "sessions": 68.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 19.8,
+   "avgEngagementSeconds": 19.4,
    "delta": 50.0,
    "spark": [
     4.0,
@@ -122,6 +122,7 @@
     4.0,
     1.0,
     0.0,
+    1.0,
     1.0
    ],
    "mostly_automated": false
@@ -367,14 +368,15 @@
    "slug": "db-viz-station",
    "title": "db-viz-station",
    "engagedSessions": 9.0,
-   "activeUsers": 5.0,
-   "sessions": 9.0,
-   "engagementRate": 1.0,
-   "avgEngagementSeconds": 451.4,
+   "activeUsers": 6.0,
+   "sessions": 10.0,
+   "engagementRate": 0.9,
+   "avgEngagementSeconds": 376.2,
    "delta": null,
    "spark": [
     2.0,
-    3.0
+    3.0,
+    1.0
    ],
    "mostly_automated": false
   },

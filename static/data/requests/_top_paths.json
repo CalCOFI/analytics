@@ -1,78 +1,82 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "top_paths": [
    {
     "path": "/erddap/tabledap/calcofi_ctd_thin_nc.ncCF",
-    "n": 1767
+    "n": 1766
    },
    {
     "path": "/erddap/index.html",
-    "n": 47
-   },
-   {
-    "path": "/robots.txt",
-    "n": 39
-   },
-   {
-    "path": "/584062352875874akp.php",
-    "n": 8
-   },
-   {
-    "path": "/",
-    "n": 7
-   },
-   {
-    "path": "/erddap",
-    "n": 4
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd_measurement.graph",
-    "n": 4
-   },
-   {
-    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 4
-   },
-   {
-    "path": "/this_is_a_new_hello_world.php",
-    "n": 4
-   },
-   {
-    "path": "/xstelth.php",
-    "n": 4
-   }
-  ]
- },
- "storage.calcofi.io": {
-  "date": "2026-07-31",
-  "top_paths": [
-   {
-    "path": "/",
     "n": 53
    },
    {
     "path": "/robots.txt",
+    "n": 34
+   },
+   {
+    "path": "/",
+    "n": 15
+   },
+   {
+    "path": "/erddap",
+    "n": 10
+   },
+   {
+    "path": "/about.php",
+    "n": 8
+   },
+   {
+    "path": "/inputs.php",
+    "n": 8
+   },
+   {
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "n": 6
+   },
+   {
+    "path": "/this_is_a_new_hello_world.php",
+    "n": 6
+   },
+   {
+    "path": "/xstelth.php",
+    "n": 6
+   }
+  ]
+ },
+ "storage.calcofi.io": {
+  "date": "2026-08-01",
+  "top_paths": [
+   {
+    "path": "/",
+    "n": 51
+   },
+   {
+    "path": "/robots.txt",
     "n": 7
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 3
+    "path": "/sitemap.xml",
+    "n": 6
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/",
+    "path": "/favicon.ico",
     "n": 2
    },
    {
-    "path": "/calcofi-projects/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0602JD_CTDFinalQC/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.07.30/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1810SR_CTDFinalQC/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/",
     "n": 2
    },
    {
@@ -80,11 +84,7 @@
     "n": 2
    },
    {
-    "path": "/calcofi-projects/2026-ucsb-capstone/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/swfsc.noaa.gov/",
     "n": 2
    }
   ]
