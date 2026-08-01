@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 36.0,
-  "newUsers": 13.0,
-  "sessions": 63.0,
-  "engagedSessions": 40.0,
-  "screenPageViews": 86.0,
-  "eventCount": 455.0,
-  "userEngagementDuration": 2366.0,
-  "avgEngagementSeconds": 65.7,
+  "activeUsers": 37.0,
+  "newUsers": 14.0,
+  "sessions": 64.0,
+  "engagedSessions": 41.0,
+  "screenPageViews": 87.0,
+  "eventCount": 462.0,
+  "userEngagementDuration": 2372.0,
+  "avgEngagementSeconds": 64.1,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 2.4
  },
  "delta_28d": {
-  "activeUsers": 3500.0,
-  "sessions": 6200.0,
-  "engagedSessions": 3900.0,
-  "avgEngagementSeconds": 245.8,
-  "screenPageViews": 8500.0
+  "activeUsers": 3600.0,
+  "sessions": 6300.0,
+  "engagedSessions": 4000.0,
+  "avgEngagementSeconds": 237.4,
+  "screenPageViews": 8600.0
  },
  "daily": [
   {
@@ -110,6 +110,11 @@
    "date": "2026-07-30",
    "activeUsers": 2.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-07-31",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   },
   {
    "date": "20260701",
@@ -202,10 +207,11 @@
   2.43,
   2.29,
   1.71,
-  2.29,
+  1.86,
   1.71,
   1.71,
-  2.0,
+  1.57,
+  1.86,
   2.0,
   2.14,
   2.29,
@@ -219,7 +225,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 5.0
+   "activeUsers": 6.0
   },
   {
    "country": "Italy",
@@ -232,7 +238,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 5.0
+   "activeUsers": 6.0
   },
   {
    "country": "Italy",
@@ -244,17 +250,17 @@
  "events": [
   {
    "name": "session_start",
-   "count": 29.0,
-   "users": 7.0
+   "count": 31.0,
+   "users": 8.0
   },
   {
    "name": "page_view",
-   "count": 18.0,
-   "users": 7.0
+   "count": 19.0,
+   "users": 8.0
   },
   {
    "name": "scroll",
-   "count": 18.0,
+   "count": 19.0,
    "users": 7.0
   },
   {
@@ -264,8 +270,13 @@
   },
   {
    "name": "start_tour",
-   "count": 11.0,
+   "count": 12.0,
    "users": 5.0
+  },
+  {
+   "name": "first_visit",
+   "count": 6.0,
+   "users": 6.0
   },
   {
    "name": "open_filters",
@@ -273,14 +284,14 @@
    "users": 1.0
   },
   {
+   "name": "user_engagement",
+   "count": 6.0,
+   "users": 2.0
+  },
+  {
    "name": "filter_submit",
    "count": 5.0,
    "users": 1.0
-  },
-  {
-   "name": "first_visit",
-   "count": 5.0,
-   "users": 5.0
   },
   {
    "name": "map_query_env",
@@ -289,11 +300,6 @@
   },
   {
    "name": "map_query_sp",
-   "count": 5.0,
-   "users": 1.0
-  },
-  {
-   "name": "user_engagement",
    "count": 5.0,
    "users": 1.0
   },
@@ -388,6 +394,15 @@
    },
    {
     "date": "2026-07-30",
+    "events": "2",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
+    "date": "2026-07-31",
     "events": "2",
     "distinct_sessions": "1",
     "distinct_clients": "1",
@@ -567,7 +582,7 @@
    },
    {
     "event": "session_start",
-    "n": "15",
+    "n": "16",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -575,7 +590,7 @@
    },
    {
     "event": "start_tour",
-    "n": "11",
+    "n": "12",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -632,9 +647,9 @@
    },
    {
     "app_version": "aa0f9b6",
-    "n": "50",
+    "n": "52",
     "first_seen": "2026-07-27",
-    "last_seen": "2026-07-30"
+    "last_seen": "2026-07-31"
    },
    {
     "app_version": "latest",
