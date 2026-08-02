@@ -1,91 +1,91 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "top_paths": [
    {
     "path": "/erddap/tabledap/calcofi_ctd_thin_nc.ncCF",
-    "n": 1766
+    "n": 1767
    },
    {
     "path": "/erddap/index.html",
-    "n": 53
+    "n": 74
    },
    {
     "path": "/robots.txt",
-    "n": 34
+    "n": 37
    },
    {
     "path": "/",
-    "n": 15
+    "n": 34
    },
    {
     "path": "/erddap",
-    "n": 10
+    "n": 31
    },
    {
-    "path": "/about.php",
-    "n": 8
+    "path": "/erddap/subscriptions/add.html",
+    "n": 22
    },
    {
-    "path": "/inputs.php",
-    "n": 8
+    "path": "/erddap/griddap/documentation.html",
+    "n": 9
    },
    {
     "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 6
+    "n": 7
    },
    {
     "path": "/this_is_a_new_hello_world.php",
     "n": 6
    },
    {
-    "path": "/xstelth.php",
-    "n": 6
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 4
    }
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "top_paths": [
    {
     "path": "/",
-    "n": 51
+    "n": 55
    },
    {
     "path": "/robots.txt",
-    "n": 7
+    "n": 25
    },
    {
-    "path": "/sitemap.xml",
+    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.30/ctd-cast.nc",
     "n": 6
    },
    {
-    "path": "/favicon.ico",
-    "n": 2
+    "path": "/sitemap.xml",
+    "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0602JD_CTDFinalQC/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/pic_zooplankton/",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1810SR_CTDFinalQC/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/ichthyo/v2026.07.17/ichthyo.nc",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/pic_zooplankton/v2026.07.30/pic_zooplankton.nc",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/swfsc.noaa.gov/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/",
+    "n": 3
    }
   ]
  }

@@ -9,10 +9,10 @@
  "totals_28d": {
   "activeUsers": 11.0,
   "newUsers": 4.0,
-  "sessions": 18.0,
+  "sessions": 19.0,
   "engagedSessions": 11.0,
   "screenPageViews": 19.0,
-  "eventCount": 55.0,
+  "eventCount": 57.0,
   "userEngagementDuration": 830.0,
   "avgEngagementSeconds": 75.5,
   "engagedSessionRate": 0.6,
@@ -44,7 +44,7 @@
   {
    "date": "2026-08-01",
    "activeUsers": 1.0,
-   "sessions": 2.0
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -87,12 +87,12 @@
   },
   {
    "name": "user_engagement",
-   "count": 16.0,
+   "count": 17.0,
    "users": 3.0
   },
   {
    "name": "session_start",
-   "count": 10.0,
+   "count": 11.0,
    "users": 7.0
   },
   {
