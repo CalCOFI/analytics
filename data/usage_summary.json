@@ -1,23 +1,23 @@
 {
- "generated": "2026-08-01T11:17:38+00:00",
+ "generated": "2026-08-02T01:15:55+00:00",
  "has_data": true,
  "n_products": 21,
  "totals_28d": {
-  "engagedSessions": 207.0,
-  "activeUsers": 400.0,
-  "sessions": 482.0
+  "engagedSessions": 214.0,
+  "activeUsers": 402.0,
+  "sessions": 487.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
-   "engagedSessions": 41.0,
+   "engagedSessions": 42.0,
    "activeUsers": 37.0,
    "sessions": 64.0,
-   "engagementRate": 0.6,
+   "engagementRate": 0.7,
    "avgEngagementSeconds": 64.1,
-   "delta": 4000.0,
+   "delta": 4100.0,
    "spark": [
     1.0,
     1.0,
@@ -281,12 +281,12 @@
   {
    "slug": "docs",
    "title": "docs",
-   "engagedSessions": 19.0,
-   "activeUsers": 27.0,
-   "sessions": 29.0,
+   "engagedSessions": 20.0,
+   "activeUsers": 28.0,
+   "sessions": 30.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 7.0,
-   "delta": -17.4,
+   "avgEngagementSeconds": 8.5,
+   "delta": -13.0,
    "spark": [
     4.0,
     1.0,
@@ -328,39 +328,42 @@
     5.0,
     5.0,
     2.0,
-    3.0
+    3.0,
+    1.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "workflows",
    "title": "workflows",
-   "engagedSessions": 10.0,
-   "activeUsers": 10.0,
-   "sessions": 16.0,
+   "engagedSessions": 11.0,
+   "activeUsers": 11.0,
+   "sessions": 18.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 73.7,
+   "avgEngagementSeconds": 75.5,
    "delta": null,
    "spark": [
     4.0,
     3.0,
-    3.0
+    3.0,
+    1.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-schema",
    "title": "db-schema",
-   "engagedSessions": 9.0,
-   "activeUsers": 7.0,
-   "sessions": 11.0,
+   "engagedSessions": 10.0,
+   "activeUsers": 8.0,
+   "sessions": 12.0,
    "engagementRate": 0.8,
-   "avgEngagementSeconds": 56.7,
+   "avgEngagementSeconds": 87.2,
    "delta": null,
    "spark": [
     1.0,
     1.0,
-    5.0
+    5.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -368,14 +371,15 @@
    "slug": "db-viz-station",
    "title": "db-viz-station",
    "engagedSessions": 9.0,
-   "activeUsers": 6.0,
-   "sessions": 10.0,
-   "engagementRate": 0.9,
-   "avgEngagementSeconds": 376.2,
+   "activeUsers": 7.0,
+   "sessions": 11.0,
+   "engagementRate": 0.8,
+   "avgEngagementSeconds": 330.6,
    "delta": null,
    "spark": [
     2.0,
     3.0,
+    1.0,
     1.0
    ],
    "mostly_automated": false
@@ -383,12 +387,12 @@
   {
    "slug": "oceano",
    "title": "oceano",
-   "engagedSessions": 7.0,
+   "engagedSessions": 8.0,
    "activeUsers": 8.0,
    "sessions": 8.0,
-   "engagementRate": 0.9,
+   "engagementRate": 1.0,
    "avgEngagementSeconds": 102.1,
-   "delta": 40.0,
+   "delta": 60.0,
    "spark": [
     1.0,
     1.0,
@@ -424,15 +428,33 @@
   {
    "slug": "storage",
    "title": "storage",
-   "engagedSessions": 7.0,
-   "activeUsers": 5.0,
-   "sessions": 9.0,
-   "engagementRate": 0.8,
-   "avgEngagementSeconds": 61.0,
+   "engagedSessions": 8.0,
+   "activeUsers": 6.0,
+   "sessions": 11.0,
+   "engagementRate": 0.7,
+   "avgEngagementSeconds": 59.7,
    "delta": null,
    "spark": [
     3.0,
-    2.0
+    2.0,
+    1.0
+   ],
+   "mostly_automated": false
+  },
+  {
+   "slug": "ctd-viz",
+   "title": "ctd-viz",
+   "engagedSessions": 6.0,
+   "activeUsers": 7.0,
+   "sessions": 8.0,
+   "engagementRate": 0.8,
+   "avgEngagementSeconds": 46.9,
+   "delta": null,
+   "spark": [
+    2.0,
+    3.0,
+    2.0,
+    4.0
    ],
    "mostly_automated": false
   },
@@ -500,19 +522,17 @@
    "mostly_automated": false
   },
   {
-   "slug": "ctd-viz",
-   "title": "ctd-viz",
+   "slug": "erddap",
+   "title": "erddap",
    "engagedSessions": 5.0,
-   "activeUsers": 7.0,
-   "sessions": 8.0,
-   "engagementRate": 0.6,
-   "avgEngagementSeconds": 46.9,
+   "activeUsers": 4.0,
+   "sessions": 6.0,
+   "engagementRate": 0.8,
+   "avgEngagementSeconds": 9.8,
    "delta": null,
    "spark": [
-    2.0,
     3.0,
-    2.0,
-    4.0
+    1.0
    ],
    "mostly_automated": false
   },
@@ -635,20 +655,6 @@
    "mostly_automated": false
   },
   {
-   "slug": "erddap",
-   "title": "erddap",
-   "engagedSessions": 4.0,
-   "activeUsers": 3.0,
-   "sessions": 4.0,
-   "engagementRate": 1.0,
-   "avgEngagementSeconds": 13.0,
-   "delta": null,
-   "spark": [
-    3.0
-   ],
-   "mostly_automated": false
-  },
-  {
    "slug": "marmam",
    "title": "Marine Mammal App",
    "engagedSessions": 3.0,
@@ -704,14 +710,29 @@
    "mostly_automated": false
   },
   {
+   "slug": "ucsb-larvae-dashboard",
+   "title": "Larvae Dashboard",
+   "engagedSessions": 2.0,
+   "activeUsers": 1.0,
+   "sessions": 2.0,
+   "engagementRate": 1.0,
+   "avgEngagementSeconds": 0.0,
+   "delta": null,
+   "spark": [
+    1.0,
+    2.0
+   ],
+   "mostly_automated": false
+  },
+  {
    "slug": "calcofi4db",
    "title": "calcofi4db",
-   "engagedSessions": 2.0,
-   "activeUsers": 165.0,
-   "sessions": 165.0,
+   "engagedSessions": 1.0,
+   "activeUsers": 161.0,
+   "sessions": 161.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.1,
-   "delta": -33.3,
+   "delta": -75.0,
    "spark": [
     2.0,
     1.0,
@@ -754,21 +775,6 @@
     14.0
    ],
    "mostly_automated": true
-  },
-  {
-   "slug": "ucsb-larvae-dashboard",
-   "title": "Larvae Dashboard",
-   "engagedSessions": 2.0,
-   "activeUsers": 1.0,
-   "sessions": 2.0,
-   "engagementRate": 1.0,
-   "avgEngagementSeconds": 0.0,
-   "delta": null,
-   "spark": [
-    1.0,
-    2.0
-   ],
-   "mostly_automated": false
   },
   {
    "slug": "pollutants",

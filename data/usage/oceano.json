@@ -10,18 +10,18 @@
   "activeUsers": 8.0,
   "newUsers": 3.0,
   "sessions": 8.0,
-  "engagedSessions": 7.0,
+  "engagedSessions": 8.0,
   "screenPageViews": 104.0,
   "eventCount": 163.0,
   "userEngagementDuration": 817.0,
   "avgEngagementSeconds": 102.1,
-  "engagedSessionRate": 0.9,
+  "engagedSessionRate": 1.0,
   "viewsPerUser": 13.0
  },
  "delta_28d": {
   "activeUsers": 60.0,
   "sessions": 60.0,
-  "engagedSessions": 40.0,
+  "engagedSessions": 60.0,
   "avgEngagementSeconds": 736.9,
   "screenPageViews": 300.0
  },
