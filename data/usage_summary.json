@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-03T01:16:01+00:00",
+ "generated": "2026-08-03T11:17:32+00:00",
  "has_data": true,
  "n_products": 21,
  "totals_28d": {
-  "engagedSessions": 214.0,
-  "activeUsers": 384.0,
-  "sessions": 474.0
+  "engagedSessions": 215.0,
+  "activeUsers": 385.0,
+  "sessions": 476.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -282,10 +282,10 @@
    "slug": "docs",
    "title": "docs",
    "engagedSessions": 18.0,
-   "activeUsers": 27.0,
-   "sessions": 29.0,
+   "activeUsers": 28.0,
+   "sessions": 30.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 8.5,
+   "avgEngagementSeconds": 8.2,
    "delta": -18.2,
    "spark": [
     4.0,
@@ -329,16 +329,17 @@
     5.0,
     2.0,
     3.0,
-    2.0
+    2.0,
+    1.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-schema",
    "title": "db-schema",
-   "engagedSessions": 13.0,
+   "engagedSessions": 14.0,
    "activeUsers": 10.0,
-   "sessions": 18.0,
+   "sessions": 19.0,
    "engagementRate": 0.7,
    "avgEngagementSeconds": 92.6,
    "delta": null,

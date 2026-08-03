@@ -129,58 +129,63 @@
    },
    {
     "date": "2026-08-02",
-    "requests": 890.0,
-    "bytes": 258690504.0
+    "requests": 1023.0,
+    "bytes": 259095342.0
+   },
+   {
+    "date": "2026-08-03",
+    "requests": 378.0,
+    "bytes": 1151882.0
    }
   ],
   "totals_28d": {
-   "requests": 6288.0,
-   "bytes": 3790745625.0,
-   "clients": 187.0,
-   "tool": 3300.0,
-   "browser": 2988.0
+   "requests": 6799.0,
+   "bytes": 3792302345.0,
+   "clients": 198.0,
+   "tool": 3472.0,
+   "browser": 3327.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 55
+    "n": 45
    },
    {
     "path": "/robots.txt",
-    "n": 25
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/ctd-cast/v2026.07.30/ctd-cast.nc",
-    "n": 6
+    "n": 12
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/pic_zooplankton/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2401RL_CTDPrelim/20-2401RL_CTDPrelim/csvs-plots/D_P/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2401RL_CTDPrelim/20-2401RL_CTDPrelim/csvs-plots/D_S/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/ichthyo/v2026.07.17/ichthyo.nc",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2401RL_CTDPrelim/20-2401RL_CTDPrelim/csvs-plots/U_P/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/pic_zooplankton/v2026.07.30/pic_zooplankton.nc",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2401RL_CTDPrelim/20-2401RL_CTDPrelim/csvs-plots/U_S/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/CA-water-districts/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_lookups/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2304SH_CTDPrelim/csvs-plots/S_U/",
+    "n": 2
    }
   ]
  }

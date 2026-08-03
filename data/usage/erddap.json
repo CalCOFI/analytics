@@ -119,16 +119,21 @@
    },
    {
     "date": "2026-08-02",
-    "requests": 2430.0,
-    "bytes": 5659048.0
+    "requests": 6058.0,
+    "bytes": 9992926.0
+   },
+   {
+    "date": "2026-08-03",
+    "requests": 2740.0,
+    "bytes": 4114139.0
    }
   ],
   "totals_28d": {
-   "requests": 21295.0,
-   "bytes": 34327121.0,
+   "requests": 27663.0,
+   "bytes": 42775138.0,
    "clients": 401.0,
-   "tool": 20471.0,
-   "browser": 824.0
+   "tool": 26704.0,
+   "browser": 959.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -138,39 +143,39 @@
    },
    {
     "path": "/erddap/index.html",
-    "n": 74
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 37
-   },
-   {
-    "path": "/",
-    "n": 34
-   },
-   {
-    "path": "/erddap",
-    "n": 31
+    "n": 35
    },
    {
     "path": "/erddap/subscriptions/add.html",
     "n": 22
    },
    {
-    "path": "/erddap/griddap/documentation.html",
-    "n": 9
+    "path": "/",
+    "n": 19
+   },
+   {
+    "path": "/erddap",
+    "n": 11
+   },
+   {
+    "path": "/erddap/information.html",
+    "n": 7
    },
    {
     "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 7
+    "n": 6
    },
    {
     "path": "/this_is_a_new_hello_world.php",
     "n": 6
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 4
+    "path": "/wp-content/uploads/panel.php",
+    "n": 6
    }
   ]
  }
