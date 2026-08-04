@@ -135,16 +135,21 @@
    },
    {
     "date": "2026-08-03",
-    "requests": 2740.0,
-    "bytes": 4114139.0
+    "requests": 5628.0,
+    "bytes": 9773149.0
+   },
+   {
+    "date": "2026-08-04",
+    "requests": 2220.0,
+    "bytes": 6142005.0
    }
   ],
   "totals_28d": {
-   "requests": 27663.0,
-   "bytes": 42775138.0,
-   "clients": 401.0,
-   "tool": 26704.0,
-   "browser": 959.0
+   "requests": 32771.0,
+   "bytes": 54576153.0,
+   "clients": 499.0,
+   "tool": 31400.0,
+   "browser": 1371.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -154,39 +159,39 @@
    },
    {
     "path": "/erddap/index.html",
-    "n": 50
+    "n": 49
    },
    {
     "path": "/robots.txt",
-    "n": 35
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 22
+    "n": 40
    },
    {
     "path": "/",
-    "n": 19
+    "n": 10
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_dic.graph",
+    "n": 5
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 5
    },
    {
     "path": "/erddap",
-    "n": 11
+    "n": 5
    },
    {
-    "path": "/erddap/information.html",
-    "n": 7
+    "path": "/erddap/tabledap/calcofi_phyllosoma_attribute.graph",
+    "n": 4
    },
    {
-    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 6
+    "path": "/erddap/tabledap/calcofi_bottle.html",
+    "n": 4
    },
    {
-    "path": "/this_is_a_new_hello_world.php",
-    "n": 6
-   },
-   {
-    "path": "/wp-content/uploads/panel.php",
-    "n": 6
+    "path": "/erddap/tabledap/calcofi_bird_mammal_census.html",
+    "n": 4
    }
   ]
  }

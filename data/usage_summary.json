@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-04T01:06:43+00:00",
+ "generated": "2026-08-04T11:17:40+00:00",
  "has_data": true,
  "n_products": 21,
  "totals_28d": {
-  "engagedSessions": 224.0,
-  "activeUsers": 362.0,
-  "sessions": 456.0
+  "engagedSessions": 225.0,
+  "activeUsers": 366.0,
+  "sessions": 461.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -14,9 +14,9 @@
    "title": "db-viz-hex",
    "engagedSessions": 41.0,
    "activeUsers": 37.0,
-   "sessions": 64.0,
+   "sessions": 65.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 63.5,
+   "avgEngagementSeconds": 67.1,
    "delta": 1950.0,
    "spark": [
     1.0,
@@ -59,10 +59,10 @@
    "slug": "calcofi4r",
    "title": "calcofi4r",
    "engagedSessions": 29.0,
-   "activeUsers": 55.0,
-   "sessions": 65.0,
+   "activeUsers": 56.0,
+   "sessions": 66.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 18.1,
+   "avgEngagementSeconds": 17.8,
    "delta": 45.0,
    "spark": [
     4.0,
@@ -123,6 +123,7 @@
     4.0,
     1.0,
     0.0,
+    1.0,
     1.0,
     1.0
    ],
@@ -339,11 +340,11 @@
   {
    "slug": "db-schema",
    "title": "db-schema",
-   "engagedSessions": 16.0,
-   "activeUsers": 12.0,
-   "sessions": 22.0,
+   "engagedSessions": 17.0,
+   "activeUsers": 15.0,
+   "sessions": 25.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 98.1,
+   "avgEngagementSeconds": 80.9,
    "delta": null,
    "spark": [
     1.0,
@@ -351,7 +352,7 @@
     5.0,
     1.0,
     2.0,
-    2.0
+    5.0
    ],
    "mostly_automated": false
   },

@@ -9,21 +9,21 @@
  "totals_28d": {
   "activeUsers": 37.0,
   "newUsers": 14.0,
-  "sessions": 64.0,
+  "sessions": 65.0,
   "engagedSessions": 41.0,
-  "screenPageViews": 93.0,
-  "eventCount": 490.0,
-  "userEngagementDuration": 2351.0,
-  "avgEngagementSeconds": 63.5,
+  "screenPageViews": 103.0,
+  "eventCount": 539.0,
+  "userEngagementDuration": 2484.0,
+  "avgEngagementSeconds": 67.1,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 2.5
+  "viewsPerUser": 2.8
  },
  "delta_28d": {
   "activeUsers": 1750.0,
-  "sessions": 3100.0,
+  "sessions": 3150.0,
   "engagedSessions": 1950.0,
-  "avgEngagementSeconds": 217.5,
-  "screenPageViews": 4550.0
+  "avgEngagementSeconds": 235.5,
+  "screenPageViews": 5050.0
  },
  "daily": [
   {
@@ -119,7 +119,7 @@
   {
    "date": "2026-08-03",
    "activeUsers": 1.0,
-   "sessions": 1.0
+   "sessions": 2.0
   },
   {
    "date": "20260701",
@@ -256,17 +256,17 @@
  "events": [
   {
    "name": "session_start",
-   "count": 39.0,
+   "count": 48.0,
    "users": 8.0
   },
   {
    "name": "page_view",
-   "count": 26.0,
+   "count": 36.0,
    "users": 8.0
   },
   {
    "name": "scroll",
-   "count": 25.0,
+   "count": 35.0,
    "users": 8.0
   },
   {
@@ -280,38 +280,38 @@
    "users": 7.0
   },
   {
+   "name": "map_query_env_poly",
+   "count": 9.0,
+   "users": 1.0
+  },
+  {
+   "name": "map_query_sp_poly",
+   "count": 9.0,
+   "users": 1.0
+  },
+  {
+   "name": "select_agg_unit",
+   "count": 8.0,
+   "users": 1.0
+  },
+  {
+   "name": "user_engagement",
+   "count": 8.0,
+   "users": 3.0
+  },
+  {
+   "name": "open_filters",
+   "count": 7.0,
+   "users": 2.0
+  },
+  {
    "name": "first_visit",
    "count": 6.0,
    "users": 6.0
   },
   {
-   "name": "open_filters",
-   "count": 6.0,
-   "users": 1.0
-  },
-  {
-   "name": "user_engagement",
-   "count": 6.0,
-   "users": 2.0
-  },
-  {
    "name": "filter_submit",
    "count": 5.0,
-   "users": 1.0
-  },
-  {
-   "name": "map_query_env",
-   "count": 5.0,
-   "users": 1.0
-  },
-  {
-   "name": "map_query_sp",
-   "count": 5.0,
-   "users": 1.0
-  },
-  {
-   "name": "map_query_env_poly",
-   "count": 4.0,
    "users": 1.0
   }
  ],
@@ -418,8 +418,8 @@
    },
    {
     "date": "2026-08-04",
-    "events": "29",
-    "distinct_sessions": "1",
+    "events": "31",
+    "distinct_sessions": "2",
     "distinct_clients": "1",
     "errors": "0",
     "p50_ms": "158.4",
@@ -621,7 +621,7 @@
    },
    {
     "event": "session_start",
-    "n": "23",
+    "n": "25",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -674,7 +674,7 @@
   "versions": [
    {
     "app_version": "04fac6a",
-    "n": "29",
+    "n": "31",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04"
    },

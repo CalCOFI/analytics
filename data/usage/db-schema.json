@@ -7,16 +7,16 @@
  "first_day": "2026-07-28",
  "last_day": "2026-08-03",
  "totals_28d": {
-  "activeUsers": 12.0,
-  "newUsers": 3.0,
-  "sessions": 22.0,
-  "engagedSessions": 16.0,
-  "screenPageViews": 24.0,
-  "eventCount": 64.0,
-  "userEngagementDuration": 1177.0,
-  "avgEngagementSeconds": 98.1,
+  "activeUsers": 15.0,
+  "newUsers": 5.0,
+  "sessions": 25.0,
+  "engagedSessions": 17.0,
+  "screenPageViews": 28.0,
+  "eventCount": 77.0,
+  "userEngagementDuration": 1214.0,
+  "avgEngagementSeconds": 80.9,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 2.0
+  "viewsPerUser": 1.9
  },
  "delta_28d": {
   "activeUsers": null,
@@ -53,8 +53,8 @@
   },
   {
    "date": "2026-08-03",
-   "activeUsers": 2.0,
-   "sessions": 3.0
+   "activeUsers": 5.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -63,30 +63,30 @@
   2.33,
   2.0,
   2.0,
-  2.0
+  2.5
  ],
  "geo_country": [
   {
-   "country": "Italy",
-   "countryId": "IT",
-   "activeUsers": 4.0
-  },
-  {
    "country": "United States",
    "countryId": "US",
+   "activeUsers": 7.0
+  },
+  {
+   "country": "Italy",
+   "countryId": "IT",
    "activeUsers": 4.0
   }
  ],
  "geo": [
   {
-   "country": "Italy",
-   "countryId": "IT",
-   "region": "Other",
-   "activeUsers": 4.0
-  },
-  {
    "country": "United States",
    "countryId": "US",
+   "region": "Other",
+   "activeUsers": 7.0
+  },
+  {
+   "country": "Italy",
+   "countryId": "IT",
    "region": "Other",
    "activeUsers": 4.0
   }
@@ -94,28 +94,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 24.0,
-   "users": 6.0
-  },
-  {
-   "name": "user_engagement",
-   "count": 15.0,
-   "users": 2.0
+   "count": 28.0,
+   "users": 9.0
   },
   {
    "name": "session_start",
-   "count": 14.0,
-   "users": 5.0
+   "count": 17.0,
+   "users": 8.0
+  },
+  {
+   "name": "user_engagement",
+   "count": 16.0,
+   "users": 3.0
   },
   {
    "name": "scroll",
-   "count": 8.0,
-   "users": 3.0
+   "count": 11.0,
+   "users": 5.0
   },
   {
    "name": "first_visit",
-   "count": 3.0,
-   "users": 3.0
+   "count": 5.0,
+   "users": 5.0
   }
  ]
 }
