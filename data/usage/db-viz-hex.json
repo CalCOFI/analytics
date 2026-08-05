@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 37.0,
-  "newUsers": 14.0,
-  "sessions": 65.0,
-  "engagedSessions": 41.0,
-  "screenPageViews": 103.0,
-  "eventCount": 539.0,
-  "userEngagementDuration": 2484.0,
-  "avgEngagementSeconds": 67.1,
+  "activeUsers": 40.0,
+  "newUsers": 15.0,
+  "sessions": 78.0,
+  "engagedSessions": 43.0,
+  "screenPageViews": 126.0,
+  "eventCount": 718.0,
+  "userEngagementDuration": 3628.0,
+  "avgEngagementSeconds": 90.7,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 2.8
+  "viewsPerUser": 3.1
  },
  "delta_28d": {
-  "activeUsers": 1750.0,
-  "sessions": 3150.0,
-  "engagedSessions": 1950.0,
-  "avgEngagementSeconds": 235.5,
-  "screenPageViews": 5050.0
+  "activeUsers": 1900.0,
+  "sessions": 3800.0,
+  "engagedSessions": 2050.0,
+  "avgEngagementSeconds": 353.5,
+  "screenPageViews": 6200.0
  },
  "daily": [
   {
@@ -122,6 +122,11 @@
    "sessions": 2.0
   },
   {
+   "date": "2026-08-04",
+   "activeUsers": 3.0,
+   "sessions": 13.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -212,12 +217,13 @@
   2.43,
   2.29,
   1.71,
-  1.86,
-  1.29,
-  1.71,
+  2.14,
   1.57,
-  1.43,
+  1.57,
   1.86,
+  1.71,
+  1.71,
+  2.14,
   2.0,
   2.14,
   2.29,
@@ -231,12 +237,12 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 6.0
+   "activeUsers": 7.0
   },
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   }
  ],
  "geo": [
@@ -244,75 +250,75 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 6.0
+   "activeUsers": 7.0
   },
   {
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   }
  ],
  "events": [
   {
    "name": "session_start",
-   "count": 48.0,
-   "users": 8.0
+   "count": 76.0,
+   "users": 9.0
   },
   {
    "name": "page_view",
-   "count": 36.0,
-   "users": 8.0
+   "count": 59.0,
+   "users": 9.0
   },
   {
    "name": "scroll",
-   "count": 35.0,
+   "count": 56.0,
+   "users": 9.0
+  },
+  {
+   "name": "user_engagement",
+   "count": 29.0,
+   "users": 3.0
+  },
+  {
+   "name": "map_query_env_poly",
+   "count": 27.0,
+   "users": 2.0
+  },
+  {
+   "name": "map_query_sp_poly",
+   "count": 27.0,
+   "users": 2.0
+  },
+  {
+   "name": "select_agg_unit",
+   "count": 24.0,
+   "users": 2.0
+  },
+  {
+   "name": "start_tour",
+   "count": 22.0,
    "users": 8.0
   },
   {
    "name": "select_tab",
-   "count": 16.0,
-   "users": 3.0
-  },
-  {
-   "name": "start_tour",
-   "count": 13.0,
-   "users": 7.0
-  },
-  {
-   "name": "map_query_env_poly",
-   "count": 9.0,
-   "users": 1.0
-  },
-  {
-   "name": "map_query_sp_poly",
-   "count": 9.0,
-   "users": 1.0
-  },
-  {
-   "name": "select_agg_unit",
-   "count": 8.0,
-   "users": 1.0
-  },
-  {
-   "name": "user_engagement",
-   "count": 8.0,
+   "count": 21.0,
    "users": 3.0
   },
   {
    "name": "open_filters",
-   "count": 7.0,
-   "users": 2.0
+   "count": 17.0,
+   "users": 4.0
   },
   {
    "name": "first_visit",
-   "count": 6.0,
-   "users": 6.0
+   "count": 7.0,
+   "users": 7.0
   },
   {
    "name": "filter_submit",
-   "count": 5.0,
-   "users": 1.0
+   "count": 6.0,
+   "users": 2.0
   }
  ],
  "log": {
@@ -418,12 +424,12 @@
    },
    {
     "date": "2026-08-04",
-    "events": "31",
-    "distinct_sessions": "2",
-    "distinct_clients": "1",
+    "events": "117",
+    "distinct_sessions": "10",
+    "distinct_clients": "3",
     "errors": "0",
-    "p50_ms": "158.4",
-    "p95_ms": "241.2"
+    "p50_ms": "281.4",
+    "p95_ms": "588.8"
    },
    {
     "date": "7/15/2026 ",
@@ -533,7 +539,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "3",
+    "n": "4",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -557,39 +563,39 @@
    },
    {
     "event": "map_query_env",
-    "n": "3",
-    "p50_ms": "26.7",
+    "n": "4",
+    "p50_ms": "26.4",
     "p95_ms": "27.2",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
    {
     "event": "map_query_env_poly",
-    "n": "8",
-    "p50_ms": "140.7",
-    "p95_ms": "156.7",
+    "n": "22",
+    "p50_ms": "272.9",
+    "p95_ms": "467.8",
     "error_rate": "0.0",
     "median_n_rows": "14.0"
    },
    {
     "event": "map_query_sp",
-    "n": "3",
-    "p50_ms": "252.3",
-    "p95_ms": "259.0",
+    "n": "4",
+    "p50_ms": "251.7",
+    "p95_ms": "258.8",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
    {
     "event": "map_query_sp_poly",
-    "n": "8",
-    "p50_ms": "172.6",
-    "p95_ms": "243.1",
+    "n": "22",
+    "p50_ms": "420.5",
+    "p95_ms": "1134.6",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
    {
     "event": "open_filters",
-    "n": "4",
+    "n": "10",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -597,7 +603,7 @@
    },
    {
     "event": "open_layers",
-    "n": "1",
+    "n": "4",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -605,7 +611,7 @@
    },
    {
     "event": "select_agg_unit",
-    "n": "5",
+    "n": "19",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -613,7 +619,7 @@
    },
    {
     "event": "select_tab",
-    "n": "11",
+    "n": "16",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -621,7 +627,7 @@
    },
    {
     "event": "session_start",
-    "n": "25",
+    "n": "42",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -629,7 +635,7 @@
    },
    {
     "event": "start_tour",
-    "n": "13",
+    "n": "23",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -646,18 +652,23 @@
   ],
   "params": [
    {
-    "param": "taxa",
-    "value": "Pacific sardine (pilchard) (species: Sardinops sagax)",
-    "n": "37"
-   },
-   {
     "param": "env_var",
     "value": "temperature",
-    "n": "35"
+    "n": "51"
+   },
+   {
+    "param": "taxa",
+    "value": "Pacific sardine (pilchard) (species: Sardinops sagax)",
+    "n": "51"
    },
    {
     "param": "env_var",
     "value": "ph",
+    "n": "2"
+   },
+   {
+    "param": "taxa",
+    "value": "(species: Euphausia brevis)",
     "n": "2"
    },
    {
@@ -674,7 +685,13 @@
   "versions": [
    {
     "app_version": "04fac6a",
-    "n": "31",
+    "n": "35",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04"
+   },
+   {
+    "app_version": "108629f",
+    "n": "7",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04"
    },
@@ -685,16 +702,46 @@
     "last_seen": "2026-07-27"
    },
    {
+    "app_version": "247be0b",
+    "n": "11",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04"
+   },
+   {
+    "app_version": "487bbc2",
+    "n": "29",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04"
+   },
+   {
     "app_version": "5ce687f",
     "n": "2",
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27"
    },
    {
+    "app_version": "5f7421b",
+    "n": "5",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04"
+   },
+   {
+    "app_version": "61bb83a",
+    "n": "29",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04"
+   },
+   {
     "app_version": "aa0f9b6",
     "n": "52",
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-31"
+   },
+   {
+    "app_version": "cbc4d03",
+    "n": "1",
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-04"
    },
    {
     "app_version": "latest",
