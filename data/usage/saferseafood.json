@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 19.0,
-  "newUsers": 13.0,
-  "sessions": 29.0,
+  "activeUsers": 20.0,
+  "newUsers": 14.0,
+  "sessions": 30.0,
   "engagedSessions": 23.0,
-  "screenPageViews": 29.0,
-  "eventCount": 207.0,
+  "screenPageViews": 30.0,
+  "eventCount": 210.0,
   "userEngagementDuration": 1933.0,
-  "avgEngagementSeconds": 101.7,
+  "avgEngagementSeconds": 96.7,
   "engagedSessionRate": 0.8,
   "viewsPerUser": 1.5
  },
  "delta_28d": {
-  "activeUsers": 137.5,
-  "sessions": 141.7,
+  "activeUsers": 150.0,
+  "sessions": 150.0,
   "engagedSessions": 666.7,
-  "avgEngagementSeconds": 119.2,
-  "screenPageViews": 163.6
+  "avgEngagementSeconds": 108.4,
+  "screenPageViews": 172.7
  },
  "daily": [
   {
@@ -163,6 +163,11 @@
   },
   {
    "date": "2026-07-28",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-08-04",
    "activeUsers": 1.0,
    "sessions": 1.0
   },
@@ -331,11 +336,12 @@
   1.14,
   1.43,
   1.43,
-  1.71,
-  1.71,
   1.57,
   1.71,
   1.57,
+  1.57,
+  1.57,
+  1.29,
   1.43,
   1.43,
   1.29,
@@ -361,12 +367,23 @@
  ],
  "geo_country": [
   {
+   "country": "South Korea",
+   "countryId": "KR",
+   "activeUsers": 1.0
+  },
+  {
    "country": "United States",
    "countryId": "US",
    "activeUsers": 1.0
   }
  ],
  "geo": [
+  {
+   "country": "South Korea",
+   "countryId": "KR",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
   {
    "country": "United States",
    "countryId": "US",
@@ -377,18 +394,18 @@
  "events": [
   {
    "name": "first_visit",
-   "count": 1.0,
-   "users": 1.0
+   "count": 2.0,
+   "users": 2.0
   },
   {
    "name": "page_view",
-   "count": 1.0,
-   "users": 1.0
+   "count": 2.0,
+   "users": 2.0
   },
   {
    "name": "session_start",
-   "count": 1.0,
-   "users": 1.0
+   "count": 2.0,
+   "users": 2.0
   },
   {
    "name": "user_engagement",

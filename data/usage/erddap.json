@@ -7,16 +7,16 @@
  "first_day": "2026-07-30",
  "last_day": "2026-08-04",
  "totals_28d": {
-  "activeUsers": 8.0,
+  "activeUsers": 9.0,
   "newUsers": 0.0,
-  "sessions": 15.0,
-  "engagedSessions": 14.0,
-  "screenPageViews": 37.0,
-  "eventCount": 84.0,
-  "userEngagementDuration": 365.0,
-  "avgEngagementSeconds": 45.6,
+  "sessions": 16.0,
+  "engagedSessions": 15.0,
+  "screenPageViews": 46.0,
+  "eventCount": 106.0,
+  "userEngagementDuration": 1257.0,
+  "avgEngagementSeconds": 139.7,
   "engagedSessionRate": 0.9,
-  "viewsPerUser": 4.6
+  "viewsPerUser": 5.1
  },
  "delta_28d": {
   "activeUsers": null,
@@ -48,8 +48,8 @@
   },
   {
    "date": "2026-08-04",
-   "activeUsers": 1.0,
-   "sessions": 4.0
+   "activeUsers": 2.0,
+   "sessions": 5.0
   }
  ],
  "daily_mean7": [
@@ -57,7 +57,7 @@
   2.0,
   2.0,
   1.75,
-  1.6
+  1.8
  ],
  "geo_country": [
   {
@@ -88,22 +88,27 @@
  "events": [
   {
    "name": "page_view",
-   "count": 37.0,
+   "count": 46.0,
    "users": 3.0
   },
   {
    "name": "user_engagement",
-   "count": 32.0,
+   "count": 40.0,
    "users": 3.0
   },
   {
    "name": "scroll",
-   "count": 9.0,
+   "count": 12.0,
    "users": 3.0
   },
   {
    "name": "session_start",
    "count": 5.0,
+   "users": 1.0
+  },
+  {
+   "name": "form_start",
+   "count": 2.0,
    "users": 1.0
   },
   {
@@ -146,58 +151,63 @@
    },
    {
     "date": "2026-08-04",
-    "requests": 2220.0,
-    "bytes": 6142005.0
+    "requests": 3300.0,
+    "bytes": 12674228.0
+   },
+   {
+    "date": "2026-08-05",
+    "requests": 1198.0,
+    "bytes": 7058452.0
    }
   ],
   "totals_28d": {
-   "requests": 32771.0,
-   "bytes": 54576153.0,
+   "requests": 35049.0,
+   "bytes": 68166828.0,
    "clients": 499.0,
-   "tool": 31400.0,
-   "browser": 1371.0
+   "tool": 33463.0,
+   "browser": 1586.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/calcofi_ctd_thin_nc.ncCF",
-    "n": 1767
-   },
-   {
     "path": "/erddap/index.html",
-    "n": 49
+    "n": 52
    },
    {
     "path": "/robots.txt",
     "n": 40
    },
    {
+    "path": "/erddap/convert/time.html",
+    "n": 7
+   },
+   {
     "path": "/",
-    "n": 10
+    "n": 7
    },
    {
-    "path": "/erddap/tabledap/calcofi_dic.graph",
-    "n": 5
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 5
+    "path": "/this_is_a_new_hello_world.php",
+    "n": 6
    },
    {
-    "path": "/erddap",
-    "n": 5
+    "path": "/wp-includes/ID3/about.php",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/calcofi_phyllosoma_attribute.graph",
-    "n": 4
+    "path": "/simple.php",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/calcofi_bottle.html",
-    "n": 4
+    "path": "/wp.php",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/calcofi_bird_mammal_census.html",
-    "n": 4
+    "path": "/404.php",
+    "n": 6
    }
   ]
  }

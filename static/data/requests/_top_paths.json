@@ -1,91 +1,91 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/calcofi_ctd_thin_nc.ncCF",
-    "n": 1767
-   },
-   {
     "path": "/erddap/index.html",
-    "n": 49
+    "n": 52
    },
    {
     "path": "/robots.txt",
     "n": 40
    },
    {
+    "path": "/erddap/convert/time.html",
+    "n": 7
+   },
+   {
     "path": "/",
-    "n": 10
+    "n": 7
    },
    {
-    "path": "/erddap/tabledap/calcofi_dic.graph",
-    "n": 5
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 5
+    "path": "/this_is_a_new_hello_world.php",
+    "n": 6
    },
    {
-    "path": "/erddap",
-    "n": 5
+    "path": "/wp-includes/ID3/about.php",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/calcofi_phyllosoma_attribute.graph",
-    "n": 4
+    "path": "/simple.php",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/calcofi_bottle.html",
-    "n": 4
+    "path": "/wp.php",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/calcofi_bird_mammal_census.html",
-    "n": 4
+    "path": "/404.php",
+    "n": 6
    }
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 49
    },
    {
     "path": "/robots.txt",
-    "n": 23
+    "n": 15
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 5
    },
    {
     "path": "/sitemap.xml",
-    "n": 5
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1607OS_CTDFinalQC/Metadata/regression%20plots/",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1607OS_CTDFinalQC/asc-hdr/original%20asc-hdr/",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
+    "path": "/calcofi-db/ducklake/releases/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/v2026.07.30/",
+    "path": "/calcofi-files-public/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.07.30/",
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/",
+    "path": "/calcofi-projects/",
     "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-05_142506/",
+    "n": 1
    }
   ]
  }

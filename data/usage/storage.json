@@ -11,12 +11,12 @@
   "newUsers": 4.0,
   "sessions": 19.0,
   "engagedSessions": 14.0,
-  "screenPageViews": 83.0,
-  "eventCount": 245.0,
-  "userEngagementDuration": 905.0,
-  "avgEngagementSeconds": 82.3,
+  "screenPageViews": 87.0,
+  "eventCount": 256.0,
+  "userEngagementDuration": 969.0,
+  "avgEngagementSeconds": 88.1,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 7.5
+  "viewsPerUser": 7.9
  },
  "delta_28d": {
   "activeUsers": null,
@@ -94,17 +94,17 @@
  "events": [
   {
    "name": "page_view",
-   "count": 83.0,
+   "count": 87.0,
    "users": 6.0
   },
   {
    "name": "user_engagement",
-   "count": 82.0,
+   "count": 86.0,
    "users": 2.0
   },
   {
    "name": "scroll",
-   "count": 64.0,
+   "count": 66.0,
    "users": 4.0
   },
   {
@@ -119,7 +119,7 @@
   },
   {
    "name": "click",
-   "count": 2.0,
+   "count": 3.0,
    "users": 1.0
   }
  ],
@@ -157,58 +157,63 @@
    },
    {
     "date": "2026-08-04",
-    "requests": 185.0,
-    "bytes": 438259.0
+    "requests": 1022.0,
+    "bytes": 2571183.0
+   },
+   {
+    "date": "2026-08-05",
+    "requests": 268.0,
+    "bytes": 765403.0
    }
   ],
   "totals_28d": {
-   "requests": 7139.0,
-   "bytes": 3793171596.0,
-   "clients": 198.0,
-   "tool": 3684.0,
-   "browser": 3455.0
+   "requests": 8244.0,
+   "bytes": 3796069923.0,
+   "clients": 282.0,
+   "tool": 4002.0,
+   "browser": 4242.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 49
    },
    {
     "path": "/robots.txt",
-    "n": 23
+    "n": 15
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 5
    },
    {
     "path": "/sitemap.xml",
-    "n": 5
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1607OS_CTDFinalQC/Metadata/regression%20plots/",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1607OS_CTDFinalQC/asc-hdr/original%20asc-hdr/",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
+    "path": "/calcofi-db/ducklake/releases/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/v2026.07.30/",
+    "path": "/calcofi-files-public/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.07.30/",
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/",
+    "path": "/calcofi-projects/",
     "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-05_142506/",
+    "n": 1
    }
   ]
  }

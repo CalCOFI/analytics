@@ -432,6 +432,15 @@
     "p95_ms": "588.8"
    },
    {
+    "date": "2026-08-05",
+    "events": "2",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -627,7 +636,7 @@
    },
    {
     "event": "session_start",
-    "n": "42",
+    "n": "43",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -635,7 +644,7 @@
    },
    {
     "event": "start_tour",
-    "n": "23",
+    "n": "24",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -727,9 +736,9 @@
    },
    {
     "app_version": "61bb83a",
-    "n": "29",
+    "n": "31",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-08-04"
+    "last_seen": "2026-08-05"
    },
    {
     "app_version": "aa0f9b6",
