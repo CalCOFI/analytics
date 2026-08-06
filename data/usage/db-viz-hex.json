@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 40.0,
+  "activeUsers": 43.0,
   "newUsers": 15.0,
-  "sessions": 78.0,
-  "engagedSessions": 43.0,
-  "screenPageViews": 126.0,
-  "eventCount": 718.0,
-  "userEngagementDuration": 3628.0,
-  "avgEngagementSeconds": 90.7,
+  "sessions": 87.0,
+  "engagedSessions": 53.0,
+  "screenPageViews": 136.0,
+  "eventCount": 796.0,
+  "userEngagementDuration": 3929.0,
+  "avgEngagementSeconds": 91.4,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 3.1
+  "viewsPerUser": 3.2
  },
  "delta_28d": {
-  "activeUsers": 1900.0,
-  "sessions": 3800.0,
-  "engagedSessions": 2050.0,
-  "avgEngagementSeconds": 353.5,
-  "screenPageViews": 6200.0
+  "activeUsers": 2050.0,
+  "sessions": 4250.0,
+  "engagedSessions": 2550.0,
+  "avgEngagementSeconds": 357.0,
+  "screenPageViews": 6700.0
  },
  "daily": [
   {
@@ -124,7 +124,12 @@
   {
    "date": "2026-08-04",
    "activeUsers": 3.0,
-   "sessions": 13.0
+   "sessions": 14.0
+  },
+  {
+   "date": "2026-08-05",
+   "activeUsers": 3.0,
+   "sessions": 8.0
   },
   {
    "date": "20260701",
@@ -218,11 +223,12 @@
   2.29,
   1.71,
   2.14,
-  1.57,
-  1.57,
+  1.86,
   1.86,
   1.71,
-  1.71,
+  2.0,
+  2.0,
+  2.0,
   2.14,
   2.0,
   2.14,
@@ -243,6 +249,11 @@
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 5.0
+  },
+  {
+   "country": "United Kingdom",
+   "countryId": "GB",
+   "activeUsers": 1.0
   }
  ],
  "geo": [
@@ -257,68 +268,74 @@
    "countryId": "IT",
    "region": "Other",
    "activeUsers": 5.0
+  },
+  {
+   "country": "United Kingdom",
+   "countryId": "GB",
+   "region": "Other",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "session_start",
-   "count": 76.0,
-   "users": 9.0
+   "count": 98.0,
+   "users": 10.0
   },
   {
    "name": "page_view",
-   "count": 59.0,
+   "count": 69.0,
    "users": 9.0
   },
   {
    "name": "scroll",
-   "count": 56.0,
+   "count": 69.0,
    "users": 9.0
   },
   {
    "name": "user_engagement",
-   "count": 29.0,
-   "users": 3.0
+   "count": 36.0,
+   "users": 4.0
   },
   {
    "name": "map_query_env_poly",
-   "count": 27.0,
+   "count": 28.0,
    "users": 2.0
   },
   {
    "name": "map_query_sp_poly",
-   "count": 27.0,
-   "users": 2.0
-  },
-  {
-   "name": "select_agg_unit",
-   "count": 24.0,
+   "count": 28.0,
    "users": 2.0
   },
   {
    "name": "start_tour",
-   "count": 22.0,
-   "users": 8.0
+   "count": 26.0,
+   "users": 9.0
+  },
+  {
+   "name": "select_agg_unit",
+   "count": 25.0,
+   "users": 2.0
   },
   {
    "name": "select_tab",
-   "count": 21.0,
+   "count": 25.0,
    "users": 3.0
   },
   {
    "name": "open_filters",
-   "count": 17.0,
+   "count": 22.0,
    "users": 4.0
   },
   {
-   "name": "first_visit",
-   "count": 7.0,
-   "users": 7.0
+   "name": "filter_submit",
+   "count": 9.0,
+   "users": 3.0
   },
   {
-   "name": "filter_submit",
-   "count": 6.0,
-   "users": 2.0
+   "name": "map_query_env",
+   "count": 9.0,
+   "users": 3.0
   }
  ],
  "log": {
@@ -433,9 +450,18 @@
    },
    {
     "date": "2026-08-05",
-    "events": "2",
-    "distinct_sessions": "1",
-    "distinct_clients": "1",
+    "events": "9",
+    "distinct_sessions": "3",
+    "distinct_clients": "2",
+    "errors": "0",
+    "p50_ms": "33.4",
+    "p95_ms": "55.4"
+   },
+   {
+    "date": "2026-08-06",
+    "events": "4",
+    "distinct_sessions": "2",
+    "distinct_clients": "2",
     "errors": "0",
     "p50_ms": "",
     "p95_ms": ""
@@ -548,7 +574,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "4",
+    "n": "5",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -572,8 +598,8 @@
    },
    {
     "event": "map_query_env",
-    "n": "4",
-    "p50_ms": "26.4",
+    "n": "5",
+    "p50_ms": "26.2",
     "p95_ms": "27.2",
     "error_rate": "0.0",
     "median_n_rows": ""
@@ -588,9 +614,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "4",
-    "p50_ms": "251.7",
-    "p95_ms": "258.8",
+    "n": "5",
+    "p50_ms": "251.0",
+    "p95_ms": "258.6",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -604,7 +630,7 @@
    },
    {
     "event": "open_filters",
-    "n": "10",
+    "n": "11",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -636,7 +662,7 @@
    },
    {
     "event": "session_start",
-    "n": "43",
+    "n": "47",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -644,7 +670,7 @@
    },
    {
     "event": "start_tour",
-    "n": "24",
+    "n": "27",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -663,12 +689,12 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "51"
+    "n": "53"
    },
    {
     "param": "taxa",
     "value": "Pacific sardine (pilchard) (species: Sardinops sagax)",
-    "n": "51"
+    "n": "53"
    },
    {
     "param": "env_var",
@@ -736,9 +762,15 @@
    },
    {
     "app_version": "61bb83a",
-    "n": "31",
+    "n": "33",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-05"
+   },
+   {
+    "app_version": "93e7735",
+    "n": "9",
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-06"
    },
    {
     "app_version": "aa0f9b6",

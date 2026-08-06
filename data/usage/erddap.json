@@ -5,18 +5,18 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-30",
- "last_day": "2026-08-04",
+ "last_day": "2026-08-05",
  "totals_28d": {
-  "activeUsers": 9.0,
-  "newUsers": 0.0,
-  "sessions": 16.0,
-  "engagedSessions": 15.0,
-  "screenPageViews": 46.0,
-  "eventCount": 106.0,
-  "userEngagementDuration": 1257.0,
-  "avgEngagementSeconds": 139.7,
-  "engagedSessionRate": 0.9,
-  "viewsPerUser": 5.1
+  "activeUsers": 12.0,
+  "newUsers": 2.0,
+  "sessions": 20.0,
+  "engagedSessions": 17.0,
+  "screenPageViews": 55.0,
+  "eventCount": 129.0,
+  "userEngagementDuration": 1314.0,
+  "avgEngagementSeconds": 109.5,
+  "engagedSessionRate": 0.8,
+  "viewsPerUser": 4.6
  },
  "delta_28d": {
   "activeUsers": null,
@@ -50,6 +50,11 @@
    "date": "2026-08-04",
    "activeUsers": 2.0,
    "sessions": 5.0
+  },
+  {
+   "date": "2026-08-05",
+   "activeUsers": 3.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -57,44 +62,56 @@
   2.0,
   2.0,
   1.75,
-  1.8
+  1.8,
+  2.0
  ],
  "geo_country": [
+  {
+   "country": "United States",
+   "countryId": "US",
+   "activeUsers": 3.0
+  },
   {
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 2.0
   },
   {
-   "country": "United States",
-   "countryId": "US",
-   "activeUsers": 2.0
+   "country": "Germany",
+   "countryId": "DE",
+   "activeUsers": 1.0
   }
  ],
  "geo": [
   {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Other",
+   "activeUsers": 3.0
+  },
+  {
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
    "activeUsers": 2.0
   },
   {
-   "country": "United States",
-   "countryId": "US",
+   "country": "Germany",
+   "countryId": "DE",
    "region": "Other",
-   "activeUsers": 2.0
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 46.0,
-   "users": 3.0
+   "count": 55.0,
+   "users": 5.0
   },
   {
    "name": "user_engagement",
-   "count": 40.0,
-   "users": 3.0
+   "count": 50.0,
+   "users": 4.0
   },
   {
    "name": "scroll",
@@ -103,8 +120,13 @@
   },
   {
    "name": "session_start",
-   "count": 5.0,
-   "users": 1.0
+   "count": 7.0,
+   "users": 3.0
+  },
+  {
+   "name": "first_visit",
+   "count": 2.0,
+   "users": 2.0
   },
   {
    "name": "form_start",

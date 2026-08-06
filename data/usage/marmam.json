@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 4.0,
-  "newUsers": 2.0,
-  "sessions": 6.0,
+  "activeUsers": 6.0,
+  "newUsers": 4.0,
+  "sessions": 8.0,
   "engagedSessions": 3.0,
-  "screenPageViews": 5.0,
-  "eventCount": 17.0,
+  "screenPageViews": 7.0,
+  "eventCount": 24.0,
   "userEngagementDuration": 49.0,
-  "avgEngagementSeconds": 12.2,
-  "engagedSessionRate": 0.5,
+  "avgEngagementSeconds": 8.2,
+  "engagedSessionRate": 0.4,
   "viewsPerUser": 1.2
  },
  "delta_28d": {
-  "activeUsers": -55.6,
-  "sessions": -53.8,
+  "activeUsers": -33.3,
+  "sessions": -38.5,
   "engagedSessions": -50.0,
-  "avgEngagementSeconds": -44.0,
-  "screenPageViews": -44.4
+  "avgEngagementSeconds": -62.4,
+  "screenPageViews": -22.2
  },
  "daily": [
   {
@@ -135,6 +135,11 @@
    "date": "2026-07-31",
    "activeUsers": 0.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-08-05",
+   "activeUsers": 2.0,
+   "sessions": 2.0
   },
   {
    "date": "20260507",
@@ -260,12 +265,13 @@
   1.0,
   0.71,
   0.57,
-  0.71,
-  0.71,
-  0.71,
-  1.0,
+  0.86,
+  0.86,
   0.86,
   1.0,
+  1.14,
+  1.0,
+  1.29,
   1.14,
   1.29,
   1.57,
@@ -283,12 +289,23 @@
  ],
  "geo_country": [
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "activeUsers": 2.0
+  },
+  {
    "country": "United States",
    "countryId": "US",
    "activeUsers": 2.0
   }
  ],
  "geo": [
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 2.0
+  },
   {
    "country": "United States",
    "countryId": "US",
@@ -299,23 +316,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 3.0,
-   "users": 2.0
+   "count": 5.0,
+   "users": 4.0
   },
   {
    "name": "session_start",
-   "count": 3.0,
-   "users": 2.0
+   "count": 5.0,
+   "users": 4.0
   },
   {
    "name": "first_visit",
-   "count": 2.0,
-   "users": 2.0
+   "count": 4.0,
+   "users": 4.0
   },
   {
    "name": "scroll",
-   "count": 1.0,
-   "users": 1.0
+   "count": 2.0,
+   "users": 2.0
   },
   {
    "name": "user_engagement",
