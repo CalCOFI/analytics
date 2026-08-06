@@ -1,6 +1,6 @@
 country,countryId,region,activeUsers,sessions
 China,CN,Other,1,1
-Singapore,SG,,4,4
+Singapore,SG,,7,7
 Singapore,SG,Other,3,3
-United States,US,Other,1,1
+United States,US,Other,1,2
 Venezuela,VE,Other,1,1

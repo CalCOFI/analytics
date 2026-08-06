@@ -168,57 +168,62 @@
    },
    {
     "date": "2026-08-05",
-    "requests": 268.0,
-    "bytes": 765403.0
+    "requests": 535.0,
+    "bytes": 1556939.0
+   },
+   {
+    "date": "2026-08-06",
+    "requests": 146.0,
+    "bytes": 325183.0
    }
   ],
   "totals_28d": {
-   "requests": 8244.0,
-   "bytes": 3796069923.0,
+   "requests": 8657.0,
+   "bytes": 3797186642.0,
    "clients": 282.0,
-   "tool": 4002.0,
-   "browser": 4242.0
+   "tool": 4228.0,
+   "browser": 4429.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 49
+    "n": 43
    },
    {
     "path": "/robots.txt",
-    "n": 15
+    "n": 28
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 5
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1607OS_CTDFinalQC/Metadata/regression%20plots/%00http",
+    "n": 6
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1607OS_CTDFinalQC/asc-hdr/original%20asc-hdr/%00http",
+    "n": 6
    },
    {
     "path": "/sitemap.xml",
     "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake/releases/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/%00http",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/Databases/%00http",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-projects/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/CA_water-districts/",
     "n": 1
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_142506/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/ONMS-Sanctuaries/Chumash_PropAction_Bndy_09082022/",
     "n": 1
    }
   ]

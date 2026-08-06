@@ -178,58 +178,63 @@
    },
    {
     "date": "2026-08-05",
-    "requests": 1198.0,
-    "bytes": 7058452.0
+    "requests": 2487.0,
+    "bytes": 46158836.0
+   },
+   {
+    "date": "2026-08-06",
+    "requests": 1269.0,
+    "bytes": 14215518.0
    }
   ],
   "totals_28d": {
-   "requests": 35049.0,
-   "bytes": 68166828.0,
-   "clients": 499.0,
-   "tool": 33463.0,
-   "browser": 1586.0
+   "requests": 37607.0,
+   "bytes": 121482730.0,
+   "clients": 565.0,
+   "tool": 35319.0,
+   "browser": 2288.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
+    "path": "/erddap/images/erddap2.css",
+    "n": 56
+   },
+   {
+    "path": "/erddap/images/calcofi.svg",
+    "n": 56
+   },
+   {
+    "path": "/erddap/images/favicon.ico",
+    "n": 55
+   },
+   {
     "path": "/erddap/index.html",
-    "n": 52
+    "n": 47
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 45
+   },
+   {
+    "path": "/erddap/images/external.png",
+    "n": 43
    },
    {
     "path": "/robots.txt",
-    "n": 40
+    "n": 38
    },
    {
-    "path": "/erddap/convert/time.html",
-    "n": 7
+    "path": "/erddap/images/envelope.gif",
+    "n": 36
    },
    {
-    "path": "/",
-    "n": 7
+    "path": "/erddap/images/rss.gif",
+    "n": 30
    },
    {
-    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 6
-   },
-   {
-    "path": "/this_is_a_new_hello_world.php",
-    "n": 6
-   },
-   {
-    "path": "/wp-includes/ID3/about.php",
-    "n": 6
-   },
-   {
-    "path": "/simple.php",
-    "n": 6
-   },
-   {
-    "path": "/wp.php",
-    "n": 6
-   },
-   {
-    "path": "/404.php",
-    "n": 6
+    "path": "/favicon.ico",
+    "n": 18
    }
   ]
  }
