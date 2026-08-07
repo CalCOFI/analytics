@@ -173,57 +173,62 @@
    },
    {
     "date": "2026-08-06",
-    "requests": 146.0,
-    "bytes": 325183.0
+    "requests": 267.0,
+    "bytes": 584559.0
+   },
+   {
+    "date": "2026-08-07",
+    "requests": 181.0,
+    "bytes": 470074.0
    }
   ],
   "totals_28d": {
-   "requests": 8657.0,
-   "bytes": 3797186642.0,
+   "requests": 8959.0,
+   "bytes": 3797916092.0,
    "clients": 282.0,
-   "tool": 4228.0,
-   "browser": 4429.0
+   "tool": 4445.0,
+   "browser": 4514.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 43
+    "n": 51
    },
    {
     "path": "/robots.txt",
-    "n": 28
+    "n": 9
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1607OS_CTDFinalQC/Metadata/regression%20plots/%00http",
-    "n": 6
+    "path": "/favicon.ico",
+    "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1607OS_CTDFinalQC/asc-hdr/original%20asc-hdr/%00http",
-    "n": 6
-   },
-   {
-    "path": "/sitemap.xml",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/%00http",
+    "path": "/calcofi-files-public/_sync/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/Databases/%00http",
+    "path": "/calcofi-files-public/netcdf/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
+    "path": "/calcofi-files-public/manifests/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-projects/2026-ucsb-capstone/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/CA_water-districts/",
+    "path": "/calcofi-files-public/_index/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
     "n": 1
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/ONMS-Sanctuaries/Chumash_PropAction_Bndy_09082022/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/whales-seabirds-turtles/OBIS-SEAMAP/dwca-zd_507-v1.7/",
     "n": 1
    }
   ]

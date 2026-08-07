@@ -183,58 +183,63 @@
    },
    {
     "date": "2026-08-06",
-    "requests": 1269.0,
-    "bytes": 14215518.0
+    "requests": 4404.0,
+    "bytes": 31460562.0
+   },
+   {
+    "date": "2026-08-07",
+    "requests": 302.0,
+    "bytes": 4660485.0
    }
   ],
   "totals_28d": {
-   "requests": 37607.0,
-   "bytes": 121482730.0,
-   "clients": 565.0,
-   "tool": 35319.0,
-   "browser": 2288.0
+   "requests": 41044.0,
+   "bytes": 143388259.0,
+   "clients": 832.0,
+   "tool": 38303.0,
+   "browser": 2741.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/images/erddap2.css",
-    "n": 56
-   },
-   {
-    "path": "/erddap/images/calcofi.svg",
-    "n": 56
-   },
-   {
-    "path": "/erddap/images/favicon.ico",
-    "n": 55
-   },
-   {
     "path": "/erddap/index.html",
-    "n": 47
-   },
-   {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 45
-   },
-   {
-    "path": "/erddap/images/external.png",
-    "n": 43
+    "n": 48
    },
    {
     "path": "/robots.txt",
-    "n": 38
+    "n": 37
    },
    {
-    "path": "/erddap/images/envelope.gif",
-    "n": 36
+    "path": "/erddap/images/favicon.ico",
+    "n": 10
    },
    {
-    "path": "/erddap/images/rss.gif",
-    "n": 30
+    "path": "/",
+    "n": 6
    },
    {
     "path": "/favicon.ico",
-    "n": 18
+    "n": 4
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/allDatasets.subset",
+    "n": 4
+   },
+   {
+    "path": "/erddap",
+    "n": 4
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_euphausiids.html",
+    "n": 3
    }
   ]
  }
