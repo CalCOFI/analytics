@@ -12,7 +12,7 @@
   "sessions": 8.0,
   "engagedSessions": 3.0,
   "screenPageViews": 7.0,
-  "eventCount": 24.0,
+  "eventCount": 25.0,
   "userEngagementDuration": 49.0,
   "avgEngagementSeconds": 8.2,
   "engagedSessionRate": 0.4,
@@ -291,7 +291,7 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 2.0
+   "activeUsers": 4.0
   },
   {
    "country": "United States",
@@ -304,6 +304,12 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "Other",
    "activeUsers": 2.0
   },
   {
@@ -331,8 +337,8 @@
   },
   {
    "name": "scroll",
-   "count": 2.0,
-   "users": 2.0
+   "count": 3.0,
+   "users": 3.0
   },
   {
    "name": "user_engagement",
