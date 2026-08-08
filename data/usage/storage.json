@@ -184,58 +184,63 @@
    },
    {
     "date": "2026-08-07",
-    "requests": 181.0,
-    "bytes": 470074.0
+    "requests": 542.0,
+    "bytes": 1256037.0
+   },
+   {
+    "date": "2026-08-08",
+    "requests": 373.0,
+    "bytes": 999797.0
    }
   ],
   "totals_28d": {
-   "requests": 8959.0,
-   "bytes": 3797916092.0,
-   "clients": 282.0,
-   "tool": 4445.0,
-   "browser": 4514.0
+   "requests": 9693.0,
+   "bytes": 3799701852.0,
+   "clients": 399.0,
+   "tool": 4970.0,
+   "browser": 4723.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 51
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 9
-   },
-   {
-    "path": "/favicon.ico",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/_sync/",
-    "n": 3
+    "n": 15
    },
    {
     "path": "/calcofi-files-public/netcdf/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.08.04/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/manifests/",
+    "path": "/favicon.ico",
     "n": 3
    },
    {
-    "path": "/calcofi-projects/2026-ucsb-capstone/",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.08.04/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.08.04/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/_index/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1301SH_CTDFinalQC/db_csvs/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
-    "n": 1
+    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.08.04/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/whales-seabirds-turtles/OBIS-SEAMAP/dwca-zd_507-v1.7/",
-    "n": 1
+    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/v2026.08.04/",
+    "n": 2
    }
   ]
  }

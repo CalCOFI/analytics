@@ -1,91 +1,91 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 48
+    "n": 47
    },
    {
     "path": "/robots.txt",
-    "n": 37
+    "n": 40
    },
    {
     "path": "/erddap/images/favicon.ico",
-    "n": 10
-   },
-   {
-    "path": "/",
-    "n": 6
-   },
-   {
-    "path": "/favicon.ico",
-    "n": 4
+    "n": 20
    },
    {
     "path": "/erddap/subscriptions/add.html",
-    "n": 4
+    "n": 19
    },
    {
-    "path": "/erddap/tabledap/allDatasets.subset",
-    "n": 4
+    "path": "/erddap/tabledap/calcofi_phytoplankton_sample.graph",
+    "n": 10
    },
    {
-    "path": "/erddap",
-    "n": 4
+    "path": "/erddap/tabledap/calcofi_phytoplankton_sample.html",
+    "n": 9
    },
    {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 4
+    "path": "/erddap/tabledap/calcofi_ctd-cast_full.graph",
+    "n": 8
    },
    {
-    "path": "/erddap/tabledap/calcofi_euphausiids.html",
-    "n": 3
+    "path": "/erddap/tabledap/sio_pic-zooplankton_sample.graph",
+    "n": 8
+   },
+   {
+    "path": "/aa.php",
+    "n": 8
+   },
+   {
+    "path": "/yup.php",
+    "n": 8
    }
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "top_paths": [
    {
     "path": "/",
-    "n": 51
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 9
-   },
-   {
-    "path": "/favicon.ico",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/_sync/",
-    "n": 3
+    "n": 15
    },
    {
     "path": "/calcofi-files-public/netcdf/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.08.04/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/manifests/",
+    "path": "/favicon.ico",
     "n": 3
    },
    {
-    "path": "/calcofi-projects/2026-ucsb-capstone/",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.08.04/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.08.04/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/_index/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1301SH_CTDFinalQC/db_csvs/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
-    "n": 1
+    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.08.04/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/whales-seabirds-turtles/OBIS-SEAMAP/dwca-zd_507-v1.7/",
-    "n": 1
+    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/v2026.08.04/",
+    "n": 2
    }
   ]
  }
