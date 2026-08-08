@@ -1,5 +1,6 @@
 country,countryId,region,activeUsers,sessions
 China,CN,Other,1,1
+Italy,IT,Other,2,3
 New Zealand,NZ,Other,1,1
 Singapore,SG,,1,1
 Singapore,SG,(not set),11,11

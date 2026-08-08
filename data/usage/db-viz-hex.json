@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 41.0,
+  "activeUsers": 44.0,
   "newUsers": 14.0,
-  "sessions": 82.0,
+  "sessions": 89.0,
   "engagedSessions": 54.0,
-  "screenPageViews": 135.0,
-  "eventCount": 785.0,
-  "userEngagementDuration": 3923.0,
-  "avgEngagementSeconds": 95.7,
-  "engagedSessionRate": 0.7,
-  "viewsPerUser": 3.3
+  "screenPageViews": 141.0,
+  "eventCount": 827.0,
+  "userEngagementDuration": 4045.0,
+  "avgEngagementSeconds": 91.9,
+  "engagedSessionRate": 0.6,
+  "viewsPerUser": 3.2
  },
  "delta_28d": {
-  "activeUsers": 583.3,
-  "sessions": 811.1,
+  "activeUsers": 633.3,
+  "sessions": 888.9,
   "engagedSessions": 980.0,
-  "avgEngagementSeconds": 653.5,
-  "screenPageViews": 1828.6
+  "avgEngagementSeconds": 623.6,
+  "screenPageViews": 1914.3
  },
  "daily": [
   {
@@ -137,6 +137,11 @@
    "sessions": 2.0
   },
   {
+   "date": "2026-08-07",
+   "activeUsers": 3.0,
+   "sessions": 7.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -230,12 +235,13 @@
   2.14,
   1.86,
   2.0,
-  1.86,
-  1.71,
   2.14,
-  2.14,
-  1.86,
   2.0,
+  2.0,
+  2.43,
+  2.14,
+  1.86,
+  2.14,
   2.0,
   2.14,
   2.29,
@@ -254,7 +260,7 @@
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 5.0
+   "activeUsers": 6.0
   },
   {
    "country": "United Kingdom",
@@ -273,7 +279,7 @@
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
-   "activeUsers": 5.0
+   "activeUsers": 6.0
   },
   {
    "country": "United Kingdom",
@@ -285,23 +291,28 @@
  "events": [
   {
    "name": "session_start",
-   "count": 100.0,
-   "users": 11.0
+   "count": 111.0,
+   "users": 12.0
   },
   {
    "name": "page_view",
-   "count": 73.0,
+   "count": 79.0,
    "users": 12.0
   },
   {
    "name": "scroll",
-   "count": 72.0,
-   "users": 12.0
+   "count": 78.0,
+   "users": 13.0
   },
   {
    "name": "user_engagement",
-   "count": 38.0,
+   "count": 42.0,
    "users": 4.0
+  },
+  {
+   "name": "start_tour",
+   "count": 33.0,
+   "users": 11.0
   },
   {
    "name": "map_query_env_poly",
@@ -314,9 +325,9 @@
    "users": 2.0
   },
   {
-   "name": "start_tour",
-   "count": 27.0,
-   "users": 10.0
+   "name": "open_filters",
+   "count": 28.0,
+   "users": 5.0
   },
   {
    "name": "select_agg_unit",
@@ -329,18 +340,13 @@
    "users": 3.0
   },
   {
-   "name": "open_filters",
-   "count": 22.0,
-   "users": 4.0
-  },
-  {
    "name": "filter_submit",
-   "count": 9.0,
+   "count": 10.0,
    "users": 4.0
   },
   {
    "name": "map_query_env",
-   "count": 9.0,
+   "count": 10.0,
    "users": 4.0
   }
  ],
@@ -473,6 +479,15 @@
     "p95_ms": ""
    },
    {
+    "date": "2026-08-07",
+    "events": "25",
+    "distinct_sessions": "6",
+    "distinct_clients": "5",
+    "errors": "0",
+    "p50_ms": "48.7",
+    "p95_ms": "161.0"
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -580,7 +595,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "5",
+    "n": "6",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -604,8 +619,8 @@
    },
    {
     "event": "map_query_env",
-    "n": "5",
-    "p50_ms": "26.2",
+    "n": "6",
+    "p50_ms": "25.7",
     "p95_ms": "27.2",
     "error_rate": "0.0",
     "median_n_rows": ""
@@ -620,9 +635,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "5",
-    "p50_ms": "251.0",
-    "p95_ms": "258.6",
+    "n": "6",
+    "p50_ms": "239.4",
+    "p95_ms": "258.4",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -636,7 +651,7 @@
    },
    {
     "event": "open_filters",
-    "n": "11",
+    "n": "19",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -668,7 +683,7 @@
    },
    {
     "event": "session_start",
-    "n": "48",
+    "n": "55",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -676,7 +691,7 @@
    },
    {
     "event": "start_tour",
-    "n": "28",
+    "n": "35",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -695,7 +710,7 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "53"
+    "n": "55"
    },
    {
     "param": "taxa",
@@ -719,6 +734,11 @@
    },
    {
     "param": "taxa",
+    "value": "Northern anchovy (species: Engraulis mordax)",
+    "n": "2"
+   },
+   {
+    "param": "taxa",
     "value": "Sardinops sagax",
     "n": "1"
    }
@@ -729,6 +749,12 @@
     "n": "35",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04"
+   },
+   {
+    "app_version": "0b90a6d",
+    "n": "22",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07"
    },
    {
     "app_version": "108629f",
@@ -783,6 +809,12 @@
     "n": "52",
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-31"
+   },
+   {
+    "app_version": "b3472bc",
+    "n": "3",
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-07"
    },
    {
     "app_version": "cbc4d03",
