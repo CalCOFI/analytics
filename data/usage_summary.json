@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-08T11:17:53+00:00",
+ "generated": "2026-08-09T00:02:44+00:00",
  "has_data": true,
  "n_products": 21,
  "totals_28d": {
-  "engagedSessions": 308.0,
-  "activeUsers": 437.0,
-  "sessions": 585.0
+  "engagedSessions": 312.0,
+  "activeUsers": 443.0,
+  "sessions": 591.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -62,12 +62,12 @@
   {
    "slug": "docs",
    "title": "docs",
-   "engagedSessions": 35.0,
-   "activeUsers": 49.0,
-   "sessions": 53.0,
+   "engagedSessions": 39.0,
+   "activeUsers": 53.0,
+   "sessions": 57.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 9.1,
-   "delta": 150.0,
+   "avgEngagementSeconds": 8.9,
+   "delta": 178.6,
    "spark": [
     4.0,
     1.0,
@@ -115,7 +115,8 @@
     1.0,
     10.0,
     3.0,
-    5.0
+    7.0,
+    2.0
    ],
    "mostly_automated": false
   },
@@ -126,8 +127,8 @@
    "activeUsers": 73.0,
    "sessions": 87.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 16.0,
-   "delta": 61.9,
+   "avgEngagementSeconds": 15.7,
+   "delta": 54.5,
    "spark": [
     4.0,
     2.0,
@@ -193,18 +194,19 @@
     2.0,
     9.0,
     2.0,
-    6.0
+    6.0,
+    1.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-schema",
    "title": "db-schema",
-   "engagedSessions": 30.0,
-   "activeUsers": 24.0,
-   "sessions": 43.0,
+   "engagedSessions": 31.0,
+   "activeUsers": 25.0,
+   "sessions": 44.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 76.0,
+   "avgEngagementSeconds": 73.0,
    "delta": null,
    "spark": [
     1.0,
@@ -216,19 +218,20 @@
     2.0,
     3.0,
     1.0,
-    3.0
+    3.0,
+    1.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-query",
    "title": "db-query",
-   "engagedSessions": 21.0,
-   "activeUsers": 19.0,
-   "sessions": 24.0,
+   "engagedSessions": 20.0,
+   "activeUsers": 18.0,
+   "sessions": 23.0,
    "engagementRate": 0.9,
-   "avgEngagementSeconds": 60.5,
-   "delta": 31.2,
+   "avgEngagementSeconds": 63.1,
+   "delta": 17.6,
    "spark": [
     1.0,
     1.0,
@@ -484,10 +487,10 @@
    "slug": "capstone",
    "title": "Capstone App",
    "engagedSessions": 6.0,
-   "activeUsers": 9.0,
-   "sessions": 11.0,
-   "engagementRate": 0.5,
-   "avgEngagementSeconds": 18.7,
+   "activeUsers": 8.0,
+   "sessions": 10.0,
+   "engagementRate": 0.6,
+   "avgEngagementSeconds": 21.0,
    "delta": 100.0,
    "spark": [
     1.0,
@@ -793,10 +796,10 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 1.0,
-   "activeUsers": 105.0,
-   "sessions": 105.0,
+   "activeUsers": 106.0,
+   "sessions": 106.0,
    "engagementRate": 0.0,
-   "avgEngagementSeconds": 0.1,
+   "avgEngagementSeconds": 0.0,
    "delta": -75.0,
    "spark": [
     2.0,
@@ -840,7 +843,8 @@
     14.0,
     1.0,
     3.0,
-    5.0
+    6.0,
+    3.0
    ],
    "mostly_automated": true
   },
@@ -870,13 +874,15 @@
   {
    "slug": "ucsb-station-portal",
    "title": "Station Data Portal",
-   "engagedSessions": 0,
-   "activeUsers": 0,
-   "sessions": 0,
-   "engagementRate": 0,
-   "avgEngagementSeconds": 0,
+   "engagedSessions": 0.0,
+   "activeUsers": 2.0,
+   "sessions": 2.0,
+   "engagementRate": 0.0,
+   "avgEngagementSeconds": 0.0,
    "delta": null,
-   "spark": [],
+   "spark": [
+    2.0
+   ],
    "mostly_automated": false
   }
  ]
