@@ -78,6 +78,17 @@ products:
     host: calcofi.io
     path_prefixes: ["/db-viz-station/"]
 
+  # static Pages app, served from the calcofi.io site property like
+  # db-viz-station above — not app.calcofi.io, so it needs `host` + a
+  # path_prefix to be separable from the rest of the site's traffic.
+  - slug: ctd-transects
+    title: ctd-transects
+    property: site
+    content_groups: [ctd-transects]
+    live_url: https://calcofi.io/ctd-transects/
+    host: calcofi.io
+    path_prefixes: ["/ctd-transects/"]
+
   # ── services ───────────────────────────────────────────────────────────────
   # `request_host` opts a product into server-side request counts from the
   # Caddy access logs — the only way to see machine traffic, which is most of
