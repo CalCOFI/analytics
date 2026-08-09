@@ -4,3 +4,6 @@ resources/
 key.json
 __pycache__/
 *.pyc
+
+# macOS Finder metadata — matches at every depth
+.DS_Store
