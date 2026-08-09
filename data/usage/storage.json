@@ -189,58 +189,63 @@
    },
    {
     "date": "2026-08-08",
-    "requests": 373.0,
-    "bytes": 999797.0
+    "requests": 956.0,
+    "bytes": 3198289.0
+   },
+   {
+    "date": "2026-08-09",
+    "requests": 298.0,
+    "bytes": 6181580.0
    }
   ],
   "totals_28d": {
-   "requests": 9693.0,
-   "bytes": 3799701852.0,
-   "clients": 399.0,
-   "tool": 4970.0,
-   "browser": 4723.0
+   "requests": 10574.0,
+   "bytes": 3808081924.0,
+   "clients": 559.0,
+   "tool": 5762.0,
+   "browser": 4812.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 50
+    "n": 42
    },
    {
     "path": "/robots.txt",
-    "n": 15
+    "n": 6
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.08.04/",
-    "n": 3
-   },
-   {
-    "path": "/favicon.ico",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.08.04/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.08.04/",
+    "path": "/calcofi-db/ducklake/releases/index.html",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1301SH_CTDFinalQC/db_csvs/",
+    "path": "/calcofi-db/ducklake/releases/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.08.04/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.08.04/swfsc_ichthyo.nc",
+    "n": 1
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/v2026.08.04/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1802SH_CTDFinalQC/metadata/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1604SH_CTDFinalQC/metadata-final/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0411RR_CTDFinalQC/db_csvs/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0810NH_CTDFinalQC/metadata/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0707NH_CTDFinalQC/csvs-plots/",
+    "n": 1
    }
   ]
  }

@@ -81,12 +81,12 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 4.0
+   "activeUsers": 3.0
   },
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 2.0
+   "activeUsers": 1.0
   }
  ],
  "geo": [
@@ -94,35 +94,35 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 4.0
+   "activeUsers": 3.0
   },
   {
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
-   "activeUsers": 2.0
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 26.0,
-   "users": 5.0
+   "count": 24.0,
+   "users": 4.0
   },
   {
    "name": "scroll",
-   "count": 26.0,
-   "users": 5.0
+   "count": 24.0,
+   "users": 4.0
   },
   {
    "name": "user_engagement",
-   "count": 21.0,
+   "count": 20.0,
    "users": 4.0
   },
   {
    "name": "session_start",
-   "count": 13.0,
-   "users": 4.0
+   "count": 10.0,
+   "users": 3.0
   },
   {
    "name": "click",

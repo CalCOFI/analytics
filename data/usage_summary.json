@@ -1,23 +1,23 @@
 {
- "generated": "2026-08-09T00:02:44+00:00",
+ "generated": "2026-08-09T11:17:46+00:00",
  "has_data": true,
- "n_products": 21,
+ "n_products": 22,
  "totals_28d": {
-  "engagedSessions": 312.0,
-  "activeUsers": 443.0,
-  "sessions": 591.0
+  "engagedSessions": 317.0,
+  "activeUsers": 451.0,
+  "sessions": 598.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
-   "engagedSessions": 56.0,
-   "activeUsers": 44.0,
-   "sessions": 90.0,
-   "engagementRate": 0.6,
-   "avgEngagementSeconds": 91.9,
-   "delta": 1020.0,
+   "engagedSessions": 60.0,
+   "activeUsers": 46.0,
+   "sessions": 91.0,
+   "engagementRate": 0.7,
+   "avgEngagementSeconds": 88.3,
+   "delta": 1100.0,
    "spark": [
     1.0,
     1.0,
@@ -41,7 +41,8 @@
     3.0,
     3.0,
     2.0,
-    3.0,
+    4.0,
+    1.0,
     1.0,
     1.0,
     4.0,
@@ -123,12 +124,12 @@
   {
    "slug": "calcofi4r",
    "title": "calcofi4r",
-   "engagedSessions": 34.0,
-   "activeUsers": 73.0,
-   "sessions": 87.0,
+   "engagedSessions": 35.0,
+   "activeUsers": 75.0,
+   "sessions": 89.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 15.7,
-   "delta": 54.5,
+   "avgEngagementSeconds": 15.4,
+   "delta": 59.1,
    "spark": [
     4.0,
     2.0,
@@ -195,7 +196,7 @@
     9.0,
     2.0,
     6.0,
-    1.0
+    3.0
    ],
    "mostly_automated": false
   },
@@ -487,10 +488,10 @@
    "slug": "capstone",
    "title": "Capstone App",
    "engagedSessions": 6.0,
-   "activeUsers": 8.0,
-   "sessions": 10.0,
-   "engagementRate": 0.6,
-   "avgEngagementSeconds": 21.0,
+   "activeUsers": 9.0,
+   "sessions": 11.0,
+   "engagementRate": 0.5,
+   "avgEngagementSeconds": 26.8,
    "delta": 100.0,
    "spark": [
     1.0,
@@ -517,6 +518,7 @@
     2.0,
     1.0,
     3.0,
+    1.0,
     1.0,
     1.0,
     1.0,
@@ -796,8 +798,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 1.0,
-   "activeUsers": 106.0,
-   "sessions": 106.0,
+   "activeUsers": 109.0,
+   "sessions": 109.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.0,
    "delta": -75.0,
@@ -844,7 +846,7 @@
     1.0,
     3.0,
     6.0,
-    3.0
+    6.0
    ],
    "mostly_automated": true
   },
@@ -883,6 +885,18 @@
    "spark": [
     2.0
    ],
+   "mostly_automated": false
+  },
+  {
+   "slug": "ctd-transects",
+   "title": "ctd-transects",
+   "engagedSessions": 0,
+   "activeUsers": 0,
+   "sessions": 0,
+   "engagementRate": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": [],
    "mostly_automated": false
   }
  ]
