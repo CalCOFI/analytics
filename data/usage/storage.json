@@ -106,12 +106,12 @@
  "events": [
   {
    "name": "user_engagement",
-   "count": 89.0,
+   "count": 88.0,
    "users": 2.0
   },
   {
    "name": "page_view",
-   "count": 88.0,
+   "count": 87.0,
    "users": 6.0
   },
   {
@@ -194,58 +194,63 @@
    },
    {
     "date": "2026-08-09",
-    "requests": 298.0,
-    "bytes": 6181580.0
+    "requests": 887.0,
+    "bytes": 8523546.0
+   },
+   {
+    "date": "2026-08-10",
+    "requests": 222.0,
+    "bytes": 8101933.0
    }
   ],
   "totals_28d": {
-   "requests": 10574.0,
-   "bytes": 3808081924.0,
+   "requests": 11385.0,
+   "bytes": 3818525823.0,
    "clients": 559.0,
-   "tool": 5762.0,
-   "browser": 4812.0
+   "tool": 6366.0,
+   "browser": 5019.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 42
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 6
+    "n": 15
    },
    {
-    "path": "/calcofi-db/ducklake/releases/index.html",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1607OS_CTDFinalQC/Metadata/regression%20plots/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1607OS_CTDFinalQC/asc-hdr/original%20asc-hdr/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/cce-lter/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/v2026.07.30/calcofi_phytoplankton.nc",
+    "n": 3
+   },
+   {
+    "path": "/favicon.ico",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake/releases/",
+    "path": "/calcofi-files-public/archive/2026-02-05_123755/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.08.04/swfsc_ichthyo.nc",
-    "n": 1
+    "path": "/calcofi-files-public/archive/2026-02-05_123346/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1802SH_CTDFinalQC/metadata/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1604SH_CTDFinalQC/metadata-final/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0411RR_CTDFinalQC/db_csvs/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0810NH_CTDFinalQC/metadata/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0707NH_CTDFinalQC/csvs-plots/",
-    "n": 1
+    "path": "/calcofi-files-public/archive/sio/",
+    "n": 2
    }
   ]
  }

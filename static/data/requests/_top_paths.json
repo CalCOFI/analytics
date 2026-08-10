@@ -1,91 +1,91 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 44
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 37
+    "n": 49
    },
    {
     "path": "/robots.txt",
+    "n": 34
+   },
+   {
+    "path": "/erddap/griddap/documentation.html",
     "n": 31
    },
    {
-    "path": "/erddap/images/favicon.ico",
-    "n": 9
+    "path": "/erddap/subscriptions/add.html",
+    "n": 24
    },
    {
-    "path": "/favicon.ico",
-    "n": 8
+    "path": "/erddap/information.html",
+    "n": 15
    },
    {
-    "path": "/ip",
-    "n": 6
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "n": 10
    },
    {
-    "path": "/erddap/tabledap/cce-lter_zoodb.graph",
-    "n": 5
+    "path": "/this_is_a_new_hello_world.php",
+    "n": 10
    },
    {
-    "path": "/erddap/info/index.json",
-    "n": 4
+    "path": "/admin.php",
+    "n": 10
    },
    {
-    "path": "/",
-    "n": 4
+    "path": "/classwithtostring.php",
+    "n": 10
    },
    {
-    "path": "/erddap/tabledap/calcofi_bottle.graph",
-    "n": 4
+    "path": "/222.php",
+    "n": 10
    }
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "top_paths": [
    {
     "path": "/",
-    "n": 42
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 6
+    "n": 15
    },
    {
-    "path": "/calcofi-db/ducklake/releases/index.html",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1607OS_CTDFinalQC/Metadata/regression%20plots/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1607OS_CTDFinalQC/asc-hdr/original%20asc-hdr/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/cce-lter/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/v2026.07.30/calcofi_phytoplankton.nc",
+    "n": 3
+   },
+   {
+    "path": "/favicon.ico",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake/releases/",
+    "path": "/calcofi-files-public/archive/2026-02-05_123755/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.08.04/swfsc_ichthyo.nc",
-    "n": 1
+    "path": "/calcofi-files-public/archive/2026-02-05_123346/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1802SH_CTDFinalQC/metadata/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1604SH_CTDFinalQC/metadata-final/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0411RR_CTDFinalQC/db_csvs/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0810NH_CTDFinalQC/metadata/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0707NH_CTDFinalQC/csvs-plots/",
-    "n": 1
+    "path": "/calcofi-files-public/archive/sio/",
+    "n": 2
    }
   ]
  }

@@ -112,17 +112,17 @@
  "events": [
   {
    "name": "page_view",
-   "count": 29.0,
+   "count": 32.0,
    "users": 11.0
   },
   {
    "name": "user_engagement",
-   "count": 23.0,
+   "count": 26.0,
    "users": 3.0
   },
   {
    "name": "session_start",
-   "count": 17.0,
+   "count": 18.0,
    "users": 11.0
   },
   {
