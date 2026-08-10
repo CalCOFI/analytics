@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-09T11:17:46+00:00",
+ "generated": "2026-08-10T00:05:15+00:00",
  "has_data": true,
  "n_products": 22,
  "totals_28d": {
-  "engagedSessions": 317.0,
-  "activeUsers": 451.0,
-  "sessions": 598.0
+  "engagedSessions": 305.0,
+  "activeUsers": 449.0,
+  "sessions": 594.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -63,12 +63,12 @@
   {
    "slug": "docs",
    "title": "docs",
-   "engagedSessions": 39.0,
-   "activeUsers": 53.0,
-   "sessions": 57.0,
+   "engagedSessions": 38.0,
+   "activeUsers": 52.0,
+   "sessions": 56.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 8.9,
-   "delta": 178.6,
+   "avgEngagementSeconds": 8.8,
+   "delta": 137.5,
    "spark": [
     4.0,
     1.0,
@@ -117,7 +117,8 @@
     10.0,
     3.0,
     7.0,
-    2.0
+    2.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -125,11 +126,11 @@
    "slug": "calcofi4r",
    "title": "calcofi4r",
    "engagedSessions": 35.0,
-   "activeUsers": 75.0,
-   "sessions": 89.0,
+   "activeUsers": 79.0,
+   "sessions": 93.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 15.4,
-   "delta": 59.1,
+   "avgEngagementSeconds": 14.5,
+   "delta": 52.2,
    "spark": [
     4.0,
     2.0,
@@ -196,18 +197,19 @@
     9.0,
     2.0,
     6.0,
-    3.0
+    4.0,
+    4.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-schema",
    "title": "db-schema",
-   "engagedSessions": 31.0,
-   "activeUsers": 25.0,
-   "sessions": 44.0,
+   "engagedSessions": 32.0,
+   "activeUsers": 26.0,
+   "sessions": 47.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 73.0,
+   "avgEngagementSeconds": 70.2,
    "delta": null,
    "spark": [
     1.0,
@@ -220,6 +222,50 @@
     3.0,
     1.0,
     3.0,
+    1.0,
+    1.0
+   ],
+   "mostly_automated": false
+  },
+  {
+   "slug": "workflows",
+   "title": "workflows",
+   "engagedSessions": 20.0,
+   "activeUsers": 20.0,
+   "sessions": 32.0,
+   "engagementRate": 0.6,
+   "avgEngagementSeconds": 52.0,
+   "delta": null,
+   "spark": [
+    4.0,
+    3.0,
+    3.0,
+    1.0,
+    1.0,
+    3.0,
+    3.0,
+    1.0,
+    1.0
+   ],
+   "mostly_automated": false
+  },
+  {
+   "slug": "erddap",
+   "title": "erddap",
+   "engagedSessions": 19.0,
+   "activeUsers": 14.0,
+   "sessions": 22.0,
+   "engagementRate": 0.9,
+   "avgEngagementSeconds": 94.4,
+   "delta": null,
+   "spark": [
+    3.0,
+    1.0,
+    2.0,
+    1.0,
+    2.0,
+    3.0,
+    1.0,
     1.0
    ],
    "mostly_automated": false
@@ -227,12 +273,12 @@
   {
    "slug": "db-query",
    "title": "db-query",
-   "engagedSessions": 20.0,
-   "activeUsers": 18.0,
-   "sessions": 23.0,
+   "engagedSessions": 18.0,
+   "activeUsers": 16.0,
+   "sessions": 21.0,
    "engagementRate": 0.9,
-   "avgEngagementSeconds": 63.1,
-   "delta": 17.6,
+   "avgEngagementSeconds": 62.4,
+   "delta": -5.3,
    "spark": [
     1.0,
     1.0,
@@ -311,22 +357,44 @@
    "mostly_automated": false
   },
   {
-   "slug": "workflows",
-   "title": "workflows",
-   "engagedSessions": 19.0,
-   "activeUsers": 19.0,
-   "sessions": 31.0,
-   "engagementRate": 0.6,
-   "avgEngagementSeconds": 53.1,
+   "slug": "db-viz-station",
+   "title": "db-viz-station",
+   "engagedSessions": 16.0,
+   "activeUsers": 15.0,
+   "sessions": 24.0,
+   "engagementRate": 0.7,
+   "avgEngagementSeconds": 176.3,
    "delta": null,
    "spark": [
-    4.0,
-    3.0,
+    2.0,
     3.0,
     1.0,
     1.0,
     3.0,
+    1.0,
+    2.0,
+    1.0,
+    1.0
+   ],
+   "mostly_automated": false
+  },
+  {
+   "slug": "storage",
+   "title": "storage",
+   "engagedSessions": 16.0,
+   "activeUsers": 13.0,
+   "sessions": 21.0,
+   "engagementRate": 0.8,
+   "avgEngagementSeconds": 76.2,
+   "delta": null,
+   "spark": [
     3.0,
+    2.0,
+    1.0,
+    1.0,
+    1.0,
+    3.0,
+    1.0,
     1.0
    ],
    "mostly_automated": false
@@ -334,12 +402,12 @@
   {
    "slug": "saferseafood",
    "title": "SaferSeafood App",
-   "engagedSessions": 19.0,
-   "activeUsers": 16.0,
-   "sessions": 26.0,
+   "engagedSessions": 13.0,
+   "activeUsers": 13.0,
+   "sessions": 20.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 63.9,
-   "delta": 171.4,
+   "avgEngagementSeconds": 59.8,
+   "delta": 0.0,
    "spark": [
     2.0,
     1.0,
@@ -401,68 +469,6 @@
    "mostly_automated": false
   },
   {
-   "slug": "erddap",
-   "title": "erddap",
-   "engagedSessions": 18.0,
-   "activeUsers": 13.0,
-   "sessions": 21.0,
-   "engagementRate": 0.9,
-   "avgEngagementSeconds": 101.5,
-   "delta": null,
-   "spark": [
-    3.0,
-    1.0,
-    2.0,
-    1.0,
-    2.0,
-    3.0,
-    1.0
-   ],
-   "mostly_automated": false
-  },
-  {
-   "slug": "db-viz-station",
-   "title": "db-viz-station",
-   "engagedSessions": 16.0,
-   "activeUsers": 14.0,
-   "sessions": 23.0,
-   "engagementRate": 0.7,
-   "avgEngagementSeconds": 188.9,
-   "delta": null,
-   "spark": [
-    2.0,
-    3.0,
-    1.0,
-    1.0,
-    3.0,
-    1.0,
-    2.0,
-    1.0
-   ],
-   "mostly_automated": false
-  },
-  {
-   "slug": "storage",
-   "title": "storage",
-   "engagedSessions": 16.0,
-   "activeUsers": 13.0,
-   "sessions": 21.0,
-   "engagementRate": 0.8,
-   "avgEngagementSeconds": 76.2,
-   "delta": null,
-   "spark": [
-    3.0,
-    2.0,
-    1.0,
-    1.0,
-    1.0,
-    3.0,
-    1.0,
-    1.0
-   ],
-   "mostly_automated": false
-  },
-  {
    "slug": "ctd-viz",
    "title": "ctd-viz",
    "engagedSessions": 12.0,
@@ -485,14 +491,30 @@
    "mostly_automated": false
   },
   {
+   "slug": "ucla-monitoring-map",
+   "title": "CA Ocean & Coastal Monitoring Map",
+   "engagedSessions": 6.0,
+   "activeUsers": 5.0,
+   "sessions": 6.0,
+   "engagementRate": 1.0,
+   "avgEngagementSeconds": 108.6,
+   "delta": null,
+   "spark": [
+    2.0,
+    2.0,
+    1.0
+   ],
+   "mostly_automated": false
+  },
+  {
    "slug": "capstone",
    "title": "Capstone App",
-   "engagedSessions": 6.0,
-   "activeUsers": 9.0,
-   "sessions": 11.0,
-   "engagementRate": 0.5,
-   "avgEngagementSeconds": 26.8,
-   "delta": 100.0,
+   "engagedSessions": 5.0,
+   "activeUsers": 7.0,
+   "sessions": 8.0,
+   "engagementRate": 0.6,
+   "avgEngagementSeconds": 32.1,
+   "delta": 25.0,
    "spark": [
     1.0,
     2.0,
@@ -552,12 +574,12 @@
   {
    "slug": "oceano",
    "title": "oceano",
-   "engagedSessions": 6.0,
-   "activeUsers": 6.0,
-   "sessions": 6.0,
+   "engagedSessions": 5.0,
+   "activeUsers": 5.0,
+   "sessions": 5.0,
    "engagementRate": 1.0,
-   "avgEngagementSeconds": 97.8,
-   "delta": 20.0,
+   "avgEngagementSeconds": 116.2,
+   "delta": 0.0,
    "spark": [
     1.0,
     1.0,
@@ -591,30 +613,14 @@
    "mostly_automated": false
   },
   {
-   "slug": "ucla-monitoring-map",
-   "title": "CA Ocean & Coastal Monitoring Map",
-   "engagedSessions": 6.0,
-   "activeUsers": 5.0,
-   "sessions": 6.0,
-   "engagementRate": 1.0,
-   "avgEngagementSeconds": 108.6,
-   "delta": null,
-   "spark": [
-    2.0,
-    2.0,
-    1.0
-   ],
-   "mostly_automated": false
-  },
-  {
    "slug": "hypoxia-story",
    "title": "Hypoxia Story",
-   "engagedSessions": 5.0,
-   "activeUsers": 8.0,
-   "sessions": 9.0,
+   "engagedSessions": 4.0,
+   "activeUsers": 6.0,
+   "sessions": 7.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 58.9,
-   "delta": null,
+   "avgEngagementSeconds": 77.3,
+   "delta": 300.0,
    "spark": [
     1.0,
     1.0,
@@ -712,12 +718,12 @@
   {
    "slug": "marmam",
    "title": "Marine Mammal App",
-   "engagedSessions": 3.0,
-   "activeUsers": 6.0,
-   "sessions": 8.0,
-   "engagementRate": 0.4,
-   "avgEngagementSeconds": 8.2,
-   "delta": -50.0,
+   "engagedSessions": 2.0,
+   "activeUsers": 5.0,
+   "sessions": 7.0,
+   "engagementRate": 0.3,
+   "avgEngagementSeconds": 9.6,
+   "delta": -71.4,
    "spark": [
     1.0,
     1.0,
@@ -797,12 +803,12 @@
   {
    "slug": "calcofi4db",
    "title": "calcofi4db",
-   "engagedSessions": 1.0,
-   "activeUsers": 109.0,
-   "sessions": 109.0,
+   "engagedSessions": 0.0,
+   "activeUsers": 112.0,
+   "sessions": 112.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.0,
-   "delta": -75.0,
+   "delta": -100.0,
    "spark": [
     2.0,
     1.0,
@@ -846,32 +852,10 @@
     1.0,
     3.0,
     6.0,
-    6.0
+    6.0,
+    5.0
    ],
    "mostly_automated": true
-  },
-  {
-   "slug": "pollutants",
-   "title": "pollutants",
-   "engagedSessions": 1.0,
-   "activeUsers": 1.0,
-   "sessions": 1.0,
-   "engagementRate": 1.0,
-   "avgEngagementSeconds": 14.0,
-   "delta": 0.0,
-   "spark": [
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0
-   ],
-   "mostly_automated": false
   },
   {
    "slug": "ucsb-station-portal",
@@ -884,6 +868,29 @@
    "delta": null,
    "spark": [
     2.0
+   ],
+   "mostly_automated": false
+  },
+  {
+   "slug": "pollutants",
+   "title": "pollutants",
+   "engagedSessions": 0,
+   "activeUsers": 0,
+   "sessions": 0,
+   "engagementRate": 0,
+   "avgEngagementSeconds": 0,
+   "delta": -100.0,
+   "spark": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
    ],
    "mostly_automated": false
   },
