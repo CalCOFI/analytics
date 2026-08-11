@@ -10,20 +10,20 @@
   "activeUsers": 7.0,
   "newUsers": 7.0,
   "sessions": 8.0,
-  "engagedSessions": 5.0,
+  "engagedSessions": 6.0,
   "screenPageViews": 7.0,
   "eventCount": 58.0,
   "userEngagementDuration": 225.0,
   "avgEngagementSeconds": 32.1,
-  "engagedSessionRate": 0.6,
+  "engagedSessionRate": 0.8,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -12.5,
-  "sessions": -38.5,
-  "engagedSessions": 25.0,
-  "avgEngagementSeconds": 37.2,
-  "screenPageViews": -22.2
+  "activeUsers": 0.0,
+  "sessions": -27.3,
+  "engagedSessions": 50.0,
+  "avgEngagementSeconds": 23.0,
+  "screenPageViews": -12.5
  },
  "daily": [
   {
