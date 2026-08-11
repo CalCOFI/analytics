@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260721",
  "totals_28d": {
-  "activeUsers": 7.0,
-  "newUsers": 7.0,
-  "sessions": 8.0,
+  "activeUsers": 8.0,
+  "newUsers": 9.0,
+  "sessions": 9.0,
   "engagedSessions": 6.0,
-  "screenPageViews": 7.0,
-  "eventCount": 58.0,
+  "screenPageViews": 9.0,
+  "eventCount": 64.0,
   "userEngagementDuration": 225.0,
-  "avgEngagementSeconds": 32.1,
-  "engagedSessionRate": 0.8,
-  "viewsPerUser": 1.0
+  "avgEngagementSeconds": 28.1,
+  "engagedSessionRate": 0.7,
+  "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 0.0,
-  "sessions": -27.3,
+  "activeUsers": 14.3,
+  "sessions": -18.2,
   "engagedSessions": 50.0,
-  "avgEngagementSeconds": 23.0,
-  "screenPageViews": -12.5
+  "avgEngagementSeconds": 7.7,
+  "screenPageViews": 12.5
  },
  "daily": [
   {
@@ -158,6 +158,11 @@
   },
   {
    "date": "2026-08-08",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-08-10",
    "activeUsers": 1.0,
    "sessions": 1.0
   },
@@ -316,8 +321,9 @@
   1.43,
   1.43,
   1.43,
+  1.29,
   1.43,
-  1.43,
+  1.14,
   1.29,
   1.29,
   1.29,
@@ -348,6 +354,11 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Indonesia",
+   "countryId": "ID",
+   "activeUsers": 1.0
+  },
+  {
    "country": "United States",
    "countryId": "US",
    "activeUsers": 1.0
@@ -361,6 +372,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Indonesia",
+   "countryId": "ID",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
@@ -370,21 +387,21 @@
  "events": [
   {
    "name": "first_visit",
-   "count": 2.0,
-   "users": 2.0
+   "count": 4.0,
+   "users": 3.0
   },
   {
    "name": "page_view",
-   "count": 2.0,
-   "users": 2.0
-  },
-  {
-   "name": "scroll",
-   "count": 2.0,
-   "users": 2.0
+   "count": 4.0,
+   "users": 3.0
   },
   {
    "name": "session_start",
+   "count": 4.0,
+   "users": 3.0
+  },
+  {
+   "name": "scroll",
    "count": 2.0,
    "users": 2.0
   },

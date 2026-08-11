@@ -1,51 +1,51 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "top_paths": [
    {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 51
+   },
+   {
     "path": "/erddap/index.html",
-    "n": 49
+    "n": 48
    },
    {
     "path": "/robots.txt",
-    "n": 34
+    "n": 36
    },
    {
-    "path": "/erddap/griddap/documentation.html",
-    "n": 31
+    "path": "/erddap/convert/time.html",
+    "n": 23
    },
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 24
-   },
-   {
-    "path": "/erddap/information.html",
+    "path": "/erddap/search/advanced.html",
     "n": 15
    },
    {
-    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "path": "/erddap/info/index.html",
     "n": 10
    },
    {
-    "path": "/this_is_a_new_hello_world.php",
+    "path": "/erddap/search/index.html",
     "n": 10
    },
    {
-    "path": "/admin.php",
-    "n": 10
+    "path": "/erddap/metadata/fgdc/xml/",
+    "n": 9
    },
    {
-    "path": "/classwithtostring.php",
-    "n": 10
+    "path": "/erddap/tabledap/index.html",
+    "n": 7
    },
    {
-    "path": "/222.php",
-    "n": 10
+    "path": "/erddap/griddap/index.html",
+    "n": 7
    }
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "top_paths": [
    {
     "path": "/",
@@ -53,38 +53,38 @@
    },
    {
     "path": "/robots.txt",
-    "n": 15
+    "n": 8
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1607OS_CTDFinalQC/Metadata/regression%20plots/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1607OS_CTDFinalQC/asc-hdr/original%20asc-hdr/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/archive/cce-lter/",
+    "path": "/calcofi-files-public/archive/2026-02-24_152952/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/v2026.07.30/calcofi_phytoplankton.nc",
+    "path": "/calcofi-files-public/archive/2026-02-05_123153/swfsc.noaa.gov/",
     "n": 3
    },
    {
-    "path": "/favicon.ico",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.07.30/calcofi_ctd-cast.nc",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_123755/",
+    "path": "/calcofi-files-public/archive/2026-02-05_142506/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_123346/",
+    "path": "/calcofi-files-public/netcdf/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/sio/",
+    "path": "/calcofi-files-public/archive/2026-04-07_224032/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.07.30/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-05_123153/",
     "n": 2
    }
   ]

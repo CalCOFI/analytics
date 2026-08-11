@@ -7,16 +7,16 @@
  "first_day": "2026-07-30",
  "last_day": "2026-08-10",
  "totals_28d": {
-  "activeUsers": 15.0,
+  "activeUsers": 16.0,
   "newUsers": 3.0,
-  "sessions": 23.0,
-  "engagedSessions": 20.0,
-  "screenPageViews": 63.0,
-  "eventCount": 150.0,
+  "sessions": 25.0,
+  "engagedSessions": 21.0,
+  "screenPageViews": 65.0,
+  "eventCount": 154.0,
   "userEngagementDuration": 1366.0,
-  "avgEngagementSeconds": 91.1,
-  "engagedSessionRate": 0.9,
-  "viewsPerUser": 4.2
+  "avgEngagementSeconds": 85.4,
+  "engagedSessionRate": 0.8,
+  "viewsPerUser": 4.1
  },
  "delta_28d": {
   "activeUsers": null,
@@ -68,8 +68,8 @@
   },
   {
    "date": "2026-08-10",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -81,13 +81,13 @@
   2.0,
   1.86,
   1.57,
-  1.57
+  1.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   },
   {
    "country": "Italy",
@@ -105,7 +105,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   },
   {
    "country": "Italy",
@@ -123,12 +123,12 @@
  "events": [
   {
    "name": "page_view",
-   "count": 63.0,
+   "count": 65.0,
    "users": 6.0
   },
   {
    "name": "user_engagement",
-   "count": 56.0,
+   "count": 57.0,
    "users": 5.0
   },
   {
@@ -138,7 +138,7 @@
   },
   {
    "name": "session_start",
-   "count": 9.0,
+   "count": 10.0,
    "users": 5.0
   },
   {
@@ -221,58 +221,63 @@
    },
    {
     "date": "2026-08-10",
-    "requests": 1994.0,
-    "bytes": 15391081.0
+    "requests": 2833.0,
+    "bytes": 36616233.0
+   },
+   {
+    "date": "2026-08-11",
+    "requests": 999.0,
+    "bytes": 20126461.0
    }
   ],
   "totals_28d": {
-   "requests": 48363.0,
-   "bytes": 219558802.0,
-   "clients": 832.0,
-   "tool": 42753.0,
-   "browser": 5610.0
+   "requests": 50201.0,
+   "bytes": 260910415.0,
+   "clients": 1058.0,
+   "tool": 43707.0,
+   "browser": 6494.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 51
+   },
+   {
     "path": "/erddap/index.html",
-    "n": 49
+    "n": 48
    },
    {
     "path": "/robots.txt",
-    "n": 34
+    "n": 36
    },
    {
-    "path": "/erddap/griddap/documentation.html",
-    "n": 31
+    "path": "/erddap/convert/time.html",
+    "n": 23
    },
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 24
-   },
-   {
-    "path": "/erddap/information.html",
+    "path": "/erddap/search/advanced.html",
     "n": 15
    },
    {
-    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "path": "/erddap/info/index.html",
     "n": 10
    },
    {
-    "path": "/this_is_a_new_hello_world.php",
+    "path": "/erddap/search/index.html",
     "n": 10
    },
    {
-    "path": "/admin.php",
-    "n": 10
+    "path": "/erddap/metadata/fgdc/xml/",
+    "n": 9
    },
    {
-    "path": "/classwithtostring.php",
-    "n": 10
+    "path": "/erddap/tabledap/index.html",
+    "n": 7
    },
    {
-    "path": "/222.php",
-    "n": 10
+    "path": "/erddap/griddap/index.html",
+    "n": 7
    }
   ]
  }
