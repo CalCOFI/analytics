@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260721",
  "totals_28d": {
-  "activeUsers": 9.0,
-  "newUsers": 8.0,
-  "sessions": 10.0,
+  "activeUsers": 10.0,
+  "newUsers": 9.0,
+  "sessions": 11.0,
   "engagedSessions": 7.0,
-  "screenPageViews": 9.0,
-  "eventCount": 62.0,
-  "userEngagementDuration": 225.0,
-  "avgEngagementSeconds": 25.0,
-  "engagedSessionRate": 0.7,
-  "viewsPerUser": 1.0
+  "screenPageViews": 12.0,
+  "eventCount": 70.0,
+  "userEngagementDuration": 278.0,
+  "avgEngagementSeconds": 27.8,
+  "engagedSessionRate": 0.6,
+  "viewsPerUser": 1.2
  },
  "delta_28d": {
-  "activeUsers": 28.6,
-  "sessions": 11.1,
+  "activeUsers": 42.9,
+  "sessions": 22.2,
   "engagedSessions": 75.0,
-  "avgEngagementSeconds": -4.2,
-  "screenPageViews": 28.6
+  "avgEngagementSeconds": 6.5,
+  "screenPageViews": 71.4
  },
  "daily": [
   {
@@ -168,8 +168,8 @@
   },
   {
    "date": "2026-08-11",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 2.0
   },
   {
    "date": "20260507",
@@ -326,13 +326,13 @@
   1.43,
   1.43,
   1.43,
+  1.43,
+  1.43,
   1.29,
   1.29,
-  1.14,
-  1.14,
-  1.29,
-  1.29,
-  1.29,
+  1.43,
+  1.43,
+  1.43,
   1.57,
   1.43,
   1.14,
@@ -355,6 +355,11 @@
  ],
  "geo_country": [
   {
+   "country": "Australia",
+   "countryId": "AU",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Canada",
    "countryId": "CA",
    "activeUsers": 1.0
@@ -376,6 +381,12 @@
   }
  ],
  "geo": [
+  {
+   "country": "Australia",
+   "countryId": "AU",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
   {
    "country": "Canada",
    "countryId": "CA",
@@ -404,23 +415,23 @@
  "events": [
   {
    "name": "page_view",
+   "count": 7.0,
+   "users": 5.0
+  },
+  {
+   "name": "scroll",
+   "count": 5.0,
+   "users": 3.0
+  },
+  {
+   "name": "first_visit",
    "count": 4.0,
    "users": 4.0
   },
   {
-   "name": "first_visit",
-   "count": 3.0,
-   "users": 3.0
-  },
-  {
    "name": "session_start",
-   "count": 3.0,
-   "users": 3.0
-  },
-  {
-   "name": "scroll",
-   "count": 2.0,
-   "users": 2.0
+   "count": 4.0,
+   "users": 4.0
   },
   {
    "name": "user_engagement",

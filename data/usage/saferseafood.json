@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 11.0,
-  "newUsers": 8.0,
-  "sessions": 16.0,
+  "activeUsers": 13.0,
+  "newUsers": 10.0,
+  "sessions": 18.0,
   "engagedSessions": 11.0,
-  "screenPageViews": 13.0,
-  "eventCount": 87.0,
+  "screenPageViews": 15.0,
+  "eventCount": 93.0,
   "userEngagementDuration": 776.0,
-  "avgEngagementSeconds": 70.5,
-  "engagedSessionRate": 0.7,
-  "viewsPerUser": 1.2
+  "avgEngagementSeconds": 59.7,
+  "engagedSessionRate": 0.6,
+  "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": -31.2,
-  "sessions": -36.0,
+  "activeUsers": -18.8,
+  "sessions": -28.0,
   "engagedSessions": -21.4,
-  "avgEngagementSeconds": -23.5,
-  "screenPageViews": -51.9
+  "avgEngagementSeconds": -35.2,
+  "screenPageViews": -44.4
  },
  "daily": [
   {
@@ -168,6 +168,16 @@
   },
   {
    "date": "2026-08-04",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-08-11",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-08-12",
    "activeUsers": 1.0,
    "sessions": 1.0
   },
@@ -337,10 +347,12 @@
   1.43,
   1.43,
   1.57,
-  1.71,
   1.57,
+  1.43,
   1.57,
-  1.57,
+  1.43,
+  1.14,
+  1.29,
   1.29,
   1.43,
   1.43,
@@ -367,26 +379,37 @@
  ],
  "geo_country": [
   {
-   "country": "South Korea",
-   "countryId": "KR",
+   "country": "United States",
+   "countryId": "US",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Denmark",
+   "countryId": "DK",
    "activeUsers": 1.0
   },
   {
-   "country": "United States",
-   "countryId": "US",
+   "country": "South Korea",
+   "countryId": "KR",
    "activeUsers": 1.0
   }
  ],
  "geo": [
   {
-   "country": "South Korea",
-   "countryId": "KR",
+   "country": "United States",
+   "countryId": "US",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Denmark",
+   "countryId": "DK",
    "region": "Other",
    "activeUsers": 1.0
   },
   {
-   "country": "United States",
-   "countryId": "US",
+   "country": "South Korea",
+   "countryId": "KR",
    "region": "Other",
    "activeUsers": 1.0
   }
@@ -394,18 +417,18 @@
  "events": [
   {
    "name": "first_visit",
-   "count": 2.0,
-   "users": 2.0
+   "count": 4.0,
+   "users": 4.0
   },
   {
    "name": "page_view",
-   "count": 2.0,
-   "users": 2.0
+   "count": 4.0,
+   "users": 4.0
   },
   {
    "name": "session_start",
-   "count": 2.0,
-   "users": 2.0
+   "count": 4.0,
+   "users": 4.0
   },
   {
    "name": "user_engagement",
