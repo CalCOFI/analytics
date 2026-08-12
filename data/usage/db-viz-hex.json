@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 48.0,
-  "newUsers": 15.0,
-  "sessions": 92.0,
+  "activeUsers": 47.0,
+  "newUsers": 16.0,
+  "sessions": 88.0,
   "engagedSessions": 59.0,
-  "screenPageViews": 144.0,
-  "eventCount": 845.0,
-  "userEngagementDuration": 4588.0,
-  "avgEngagementSeconds": 95.6,
-  "engagedSessionRate": 0.6,
-  "viewsPerUser": 3.0
+  "screenPageViews": 128.0,
+  "eventCount": 799.0,
+  "userEngagementDuration": 4978.0,
+  "avgEngagementSeconds": 105.9,
+  "engagedSessionRate": 0.7,
+  "viewsPerUser": 2.7
  },
  "delta_28d": {
-  "activeUsers": 585.7,
-  "sessions": 736.4,
-  "engagedSessions": 883.3,
-  "avgEngagementSeconds": 578.0,
-  "screenPageViews": 1340.0
+  "activeUsers": 487.5,
+  "sessions": 450.0,
+  "engagedSessions": 490.0,
+  "avgEngagementSeconds": 121.5,
+  "screenPageViews": 374.1
  },
  "daily": [
   {
@@ -152,6 +152,11 @@
    "sessions": 3.0
   },
   {
+   "date": "2026-08-11",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -248,12 +253,13 @@
   2.29,
   2.14,
   2.43,
-  2.43,
-  2.14,
   2.29,
-  2.14,
+  2.0,
   1.71,
-  2.14,
+  2.0,
+  1.57,
+  1.57,
+  1.71,
   2.0,
   2.14,
   2.29,
@@ -314,33 +320,33 @@
  "events": [
   {
    "name": "session_start",
-   "count": 120.0,
+   "count": 122.0,
    "users": 15.0
   },
   {
    "name": "page_view",
-   "count": 85.0,
+   "count": 86.0,
    "users": 16.0
   },
   {
    "name": "scroll",
-   "count": 83.0,
-   "users": 15.0
+   "count": 84.0,
+   "users": 16.0
   },
   {
    "name": "user_engagement",
-   "count": 43.0,
-   "users": 4.0
+   "count": 45.0,
+   "users": 5.0
   },
   {
    "name": "start_tour",
    "count": 37.0,
-   "users": 13.0
+   "users": 14.0
   },
   {
    "name": "open_filters",
-   "count": 30.0,
-   "users": 6.0
+   "count": 32.0,
+   "users": 7.0
   },
   {
    "name": "map_query_env_poly",
@@ -354,7 +360,7 @@
   },
   {
    "name": "select_tab",
-   "count": 26.0,
+   "count": 27.0,
    "users": 4.0
   },
   {
