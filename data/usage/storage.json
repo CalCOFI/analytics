@@ -9,14 +9,14 @@
  "totals_28d": {
   "activeUsers": 18.0,
   "newUsers": 4.0,
-  "sessions": 27.0,
+  "sessions": 28.0,
   "engagedSessions": 22.0,
-  "screenPageViews": 96.0,
-  "eventCount": 279.0,
+  "screenPageViews": 97.0,
+  "eventCount": 281.0,
   "userEngagementDuration": 1037.0,
   "avgEngagementSeconds": 57.6,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 5.3
+  "viewsPerUser": 5.4
  },
  "delta_28d": {
   "activeUsers": null,
@@ -79,7 +79,7 @@
   {
    "date": "2026-08-12",
    "activeUsers": 1.0,
-   "sessions": 1.0
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -124,7 +124,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 96.0,
+   "count": 97.0,
    "users": 6.0
   },
   {
@@ -134,7 +134,7 @@
   },
   {
    "name": "scroll",
-   "count": 72.0,
+   "count": 73.0,
    "users": 4.0
   },
   {
@@ -227,58 +227,63 @@
    },
    {
     "date": "2026-08-12",
-    "requests": 222.0,
-    "bytes": 112612298.0
+    "requests": 445.0,
+    "bytes": 128472493.0
+   },
+   {
+    "date": "2026-08-13",
+    "requests": 236.0,
+    "bytes": 65923428.0
    }
   ],
   "totals_28d": {
-   "requests": 12568.0,
-   "bytes": 4547588274.0,
+   "requests": 13027.0,
+   "bytes": 4629371897.0,
    "clients": 559.0,
-   "tool": 7094.0,
-   "browser": 5474.0
+   "tool": 7285.0,
+   "browser": 5742.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 17
+    "n": 8
    },
    {
-    "path": "/calcofi-files-public/archive/farallon/bird-mammal/",
+    "path": "/favicon.ico",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/2025-03-24_180847/swfsc/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-05_123755/swfsc.noaa.gov/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/calcofi/phyllosoma/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/whales-seabirds-turtles/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/_spatial/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2023-10-16_224648/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.07.30/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.07.30/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-05_142506/calcofi.org/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/coastwatch.pfeg.noaa.gov/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/swfsc/",
+    "n": 3
    }
   ]
  }

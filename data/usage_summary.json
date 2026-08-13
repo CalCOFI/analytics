@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-13T00:43:53+00:00",
+ "generated": "2026-08-13T11:17:36+00:00",
  "has_data": true,
  "n_products": 22,
  "totals_28d": {
-  "engagedSessions": 357.0,
-  "activeUsers": 502.0,
-  "sessions": 666.0
+  "engagedSessions": 363.0,
+  "activeUsers": 514.0,
+  "sessions": 683.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -63,13 +63,41 @@
    "mostly_automated": false
   },
   {
+   "slug": "db-schema",
+   "title": "db-schema",
+   "engagedSessions": 45.0,
+   "activeUsers": 34.0,
+   "sessions": 63.0,
+   "engagementRate": 0.7,
+   "avgEngagementSeconds": 58.6,
+   "delta": null,
+   "spark": [
+    1.0,
+    1.0,
+    5.0,
+    1.0,
+    2.0,
+    5.0,
+    2.0,
+    3.0,
+    1.0,
+    3.0,
+    1.0,
+    1.0,
+    3.0,
+    3.0,
+    2.0
+   ],
+   "mostly_automated": false
+  },
+  {
    "slug": "docs",
    "title": "docs",
    "engagedSessions": 44.0,
-   "activeUsers": 58.0,
-   "sessions": 64.0,
+   "activeUsers": 59.0,
+   "sessions": 65.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 8.9,
+   "avgEngagementSeconds": 8.7,
    "delta": 193.3,
    "spark": [
     4.0,
@@ -123,47 +151,19 @@
     2.0,
     6.0,
     1.0,
-    1.0
-   ],
-   "mostly_automated": false
-  },
-  {
-   "slug": "db-schema",
-   "title": "db-schema",
-   "engagedSessions": 44.0,
-   "activeUsers": 33.0,
-   "sessions": 61.0,
-   "engagementRate": 0.7,
-   "avgEngagementSeconds": 60.3,
-   "delta": null,
-   "spark": [
-    1.0,
-    1.0,
-    5.0,
-    1.0,
-    2.0,
-    5.0,
-    2.0,
-    3.0,
-    1.0,
-    3.0,
-    1.0,
-    1.0,
-    3.0,
-    3.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "calcofi4r",
    "title": "calcofi4r",
-   "engagedSessions": 36.0,
-   "activeUsers": 70.0,
-   "sessions": 85.0,
+   "engagedSessions": 37.0,
+   "activeUsers": 72.0,
+   "sessions": 87.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 22.1,
-   "delta": 100.0,
+   "avgEngagementSeconds": 21.5,
+   "delta": 105.6,
    "spark": [
     4.0,
     2.0,
@@ -233,18 +233,19 @@
     4.0,
     5.0,
     3.0,
-    5.0
+    5.0,
+    2.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "erddap",
    "title": "erddap",
-   "engagedSessions": 26.0,
-   "activeUsers": 20.0,
-   "sessions": 30.0,
+   "engagedSessions": 27.0,
+   "activeUsers": 21.0,
+   "sessions": 31.0,
    "engagementRate": 0.9,
-   "avgEngagementSeconds": 71.8,
+   "avgEngagementSeconds": 68.7,
    "delta": null,
    "spark": [
     3.0,
@@ -257,7 +258,7 @@
     1.0,
     2.0,
     2.0,
-    2.0
+    3.0
    ],
    "mostly_automated": false
   },
@@ -265,10 +266,10 @@
    "slug": "workflows",
    "title": "workflows",
    "engagedSessions": 22.0,
-   "activeUsers": 25.0,
-   "sessions": 37.0,
+   "activeUsers": 26.0,
+   "sessions": 38.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 42.5,
+   "avgEngagementSeconds": 40.8,
    "delta": null,
    "spark": [
     4.0,
@@ -282,7 +283,7 @@
     1.0,
     1.0,
     2.0,
-    2.0
+    3.0
    ],
    "mostly_automated": false
   },
@@ -291,7 +292,7 @@
    "title": "storage",
    "engagedSessions": 22.0,
    "activeUsers": 18.0,
-   "sessions": 27.0,
+   "sessions": 28.0,
    "engagementRate": 0.8,
    "avgEngagementSeconds": 57.6,
    "delta": null,
@@ -339,8 +340,8 @@
    "title": "db-query",
    "engagedSessions": 20.0,
    "activeUsers": 16.0,
-   "sessions": 23.0,
-   "engagementRate": 0.9,
+   "sessions": 24.0,
+   "engagementRate": 0.8,
    "avgEngagementSeconds": 67.0,
    "delta": 0.0,
    "spark": [
@@ -424,6 +425,22 @@
    "mostly_automated": false
   },
   {
+   "slug": "ctd-transects",
+   "title": "ctd-transects",
+   "engagedSessions": 16.0,
+   "activeUsers": 10.0,
+   "sessions": 20.0,
+   "engagementRate": 0.8,
+   "avgEngagementSeconds": 323.7,
+   "delta": null,
+   "spark": [
+    2.0,
+    7.0,
+    1.0
+   ],
+   "mostly_automated": false
+  },
+  {
    "slug": "ctd-viz",
    "title": "ctd-viz",
    "engagedSessions": 13.0,
@@ -444,21 +461,6 @@
     1.0,
     1.0,
     4.0
-   ],
-   "mostly_automated": false
-  },
-  {
-   "slug": "ctd-transects",
-   "title": "ctd-transects",
-   "engagedSessions": 13.0,
-   "activeUsers": 9.0,
-   "sessions": 17.0,
-   "engagementRate": 0.8,
-   "avgEngagementSeconds": 294.6,
-   "delta": null,
-   "spark": [
-    2.0,
-    7.0
    ],
    "mostly_automated": false
   },
@@ -868,8 +870,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 0.0,
-   "activeUsers": 126.0,
-   "sessions": 126.0,
+   "activeUsers": 131.0,
+   "sessions": 131.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.0,
    "delta": -100.0,
@@ -920,7 +922,7 @@
     7.0,
     4.0,
     8.0,
-    2.0
+    7.0
    ],
    "mostly_automated": true
   },

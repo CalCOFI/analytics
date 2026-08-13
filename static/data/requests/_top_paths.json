@@ -1,91 +1,91 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 55
+    "n": 50
+   },
+   {
+    "path": "/erddap/convert/time.html",
+    "n": 26
    },
    {
     "path": "/robots.txt",
-    "n": 34
+    "n": 20
    },
    {
     "path": "/erddap/subscriptions/add.html",
-    "n": 15
+    "n": 14
    },
    {
     "path": "/",
-    "n": 12
+    "n": 11
+   },
+   {
+    "path": "/erddap/images/erddap2.css",
+    "n": 9
    },
    {
     "path": "/erddap",
     "n": 8
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd_measurement.html",
-    "n": 5
+    "path": "/erddap/search/advanced.html",
+    "n": 7
    },
    {
-    "path": "/erddap/legal.html",
-    "n": 5
+    "path": "/erddap/tabledap/calcofi_mets.subset",
+    "n": 7
    },
    {
-    "path": "/erddap/tabledap/calcofi_dic.graph",
-    "n": 5
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd-cast_full.graph",
-    "n": 5
-   },
-   {
-    "path": "/erddap/sitemap.xml",
-    "n": 4
+    "path": "/erddap/tabledap/calcofi_ctd_thin.graph",
+    "n": 6
    }
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 17
+    "n": 8
    },
    {
-    "path": "/calcofi-files-public/archive/farallon/bird-mammal/",
+    "path": "/favicon.ico",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/2025-03-24_180847/swfsc/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-05_123755/swfsc.noaa.gov/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/calcofi/phyllosoma/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/whales-seabirds-turtles/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/_spatial/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2023-10-16_224648/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.07.30/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.07.30/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-05_142506/calcofi.org/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/coastwatch.pfeg.noaa.gov/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/swfsc/",
+    "n": 3
    }
   ]
  }
