@@ -7,22 +7,22 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 13.0,
-  "newUsers": 10.0,
-  "sessions": 18.0,
+  "activeUsers": 14.0,
+  "newUsers": 11.0,
+  "sessions": 21.0,
   "engagedSessions": 11.0,
   "screenPageViews": 15.0,
-  "eventCount": 93.0,
-  "userEngagementDuration": 776.0,
-  "avgEngagementSeconds": 59.7,
-  "engagedSessionRate": 0.6,
+  "eventCount": 101.0,
+  "userEngagementDuration": 845.0,
+  "avgEngagementSeconds": 60.4,
+  "engagedSessionRate": 0.5,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": -18.8,
-  "sessions": -28.0,
+  "activeUsers": -6.7,
+  "sessions": -12.5,
   "engagedSessions": -21.4,
-  "avgEngagementSeconds": -35.2,
+  "avgEngagementSeconds": -38.6,
   "screenPageViews": -44.4
  },
  "daily": [
@@ -178,8 +178,8 @@
   },
   {
    "date": "2026-08-12",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 5.0
   },
   {
    "date": "20260507",
@@ -348,13 +348,13 @@
   1.43,
   1.57,
   1.57,
+  1.57,
+  1.71,
+  1.57,
+  1.29,
+  1.43,
   1.43,
   1.57,
-  1.43,
-  1.14,
-  1.29,
-  1.29,
-  1.43,
   1.43,
   1.29,
   1.29,
@@ -381,7 +381,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 2.0
+   "activeUsers": 3.0
   },
   {
    "country": "Denmark",
@@ -399,7 +399,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 2.0
+   "activeUsers": 3.0
   },
   {
    "country": "Denmark",
@@ -416,23 +416,28 @@
  ],
  "events": [
   {
+   "name": "session_start",
+   "count": 8.0,
+   "users": 5.0
+  },
+  {
    "name": "first_visit",
-   "count": 4.0,
-   "users": 4.0
+   "count": 5.0,
+   "users": 5.0
   },
   {
    "name": "page_view",
-   "count": 4.0,
-   "users": 4.0
-  },
-  {
-   "name": "session_start",
-   "count": 4.0,
-   "users": 4.0
+   "count": 5.0,
+   "users": 5.0
   },
   {
    "name": "user_engagement",
-   "count": 1.0,
+   "count": 4.0,
+   "users": 3.0
+  },
+  {
+   "name": "scroll",
+   "count": 2.0,
    "users": 1.0
   }
  ]

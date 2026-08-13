@@ -8,22 +8,22 @@
  "last_day": "20260727",
  "totals_28d": {
   "activeUsers": 6.0,
-  "newUsers": 4.0,
+  "newUsers": 5.0,
   "sessions": 8.0,
-  "engagedSessions": 3.0,
+  "engagedSessions": 2.0,
   "screenPageViews": 7.0,
-  "eventCount": 27.0,
-  "userEngagementDuration": 97.0,
-  "avgEngagementSeconds": 16.2,
-  "engagedSessionRate": 0.4,
+  "eventCount": 28.0,
+  "userEngagementDuration": 77.0,
+  "avgEngagementSeconds": 12.8,
+  "engagedSessionRate": 0.2,
   "viewsPerUser": 1.2
  },
  "delta_28d": {
-  "activeUsers": -40.0,
-  "sessions": -42.9,
-  "engagedSessions": -57.1,
-  "avgEngagementSeconds": -17.8,
-  "screenPageViews": -30.0
+  "activeUsers": -33.3,
+  "sessions": -38.5,
+  "engagedSessions": -66.7,
+  "avgEngagementSeconds": -48.6,
+  "screenPageViews": -22.2
  },
  "daily": [
   {
@@ -143,6 +143,11 @@
   },
   {
    "date": "2026-08-10",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-08-12",
    "activeUsers": 1.0,
    "sessions": 1.0
   },
@@ -275,8 +280,9 @@
   0.86,
   1.0,
   1.0,
-  1.14,
-  1.14,
+  1.0,
+  1.29,
+  1.0,
   1.14,
   1.14,
   1.29,
@@ -295,14 +301,14 @@
  ],
  "geo_country": [
   {
-   "country": "Singapore",
-   "countryId": "SG",
+   "country": "United States",
+   "countryId": "US",
    "activeUsers": 4.0
   },
   {
-   "country": "United States",
-   "countryId": "US",
-   "activeUsers": 3.0
+   "country": "Singapore",
+   "countryId": "SG",
+   "activeUsers": 4.0
   }
  ],
  "geo": [
@@ -310,7 +316,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 3.0
+   "activeUsers": 4.0
   },
   {
    "country": "Singapore",
@@ -328,18 +334,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 6.0,
-   "users": 5.0
+   "count": 7.0,
+   "users": 6.0
   },
   {
    "name": "session_start",
-   "count": 6.0,
-   "users": 5.0
+   "count": 7.0,
+   "users": 6.0
   },
   {
    "name": "first_visit",
-   "count": 4.0,
-   "users": 4.0
+   "count": 5.0,
+   "users": 5.0
   },
   {
    "name": "scroll",
@@ -348,8 +354,8 @@
   },
   {
    "name": "user_engagement",
-   "count": 2.0,
-   "users": 2.0
+   "count": 3.0,
+   "users": 3.0
   }
  ]
 }
