@@ -1,91 +1,91 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 50
-   },
-   {
-    "path": "/erddap/convert/time.html",
-    "n": 26
+    "n": 48
    },
    {
     "path": "/robots.txt",
-    "n": 20
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 14
+    "n": 29
    },
    {
     "path": "/",
+    "n": 12
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
     "n": 11
    },
    {
-    "path": "/erddap/images/erddap2.css",
-    "n": 9
-   },
-   {
-    "path": "/erddap",
+    "path": "/erddap/tabledap/cce-lter_picoplankton-bacteria.subset",
     "n": 8
    },
    {
-    "path": "/erddap/search/advanced.html",
+    "path": "/erddap/tabledap/cce-lter_zooscan.subset",
     "n": 7
    },
    {
-    "path": "/erddap/tabledap/calcofi_mets.subset",
+    "path": "/erddap/wms/jplMURSST41/request",
     "n": 7
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd_thin.graph",
+    "path": "/erddap/sitemap.xml",
+    "n": 6
+   },
+   {
+    "path": "/erddap",
+    "n": 6
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phyllosoma.subset",
     "n": 6
    }
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "top_paths": [
    {
     "path": "/",
-    "n": 50
+    "n": 42
    },
    {
     "path": "/robots.txt",
-    "n": 8
+    "n": 15
    },
    {
-    "path": "/favicon.ico",
+    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.07.30/calcofi_phyllosoma.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2025-03-24_180847/swfsc/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-05_123755/swfsc.noaa.gov/",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/whales-seabirds-turtles/",
+    "path": "/calcofi-db/ducklake/releases/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2023-10-16_224648/",
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.07.30/calcofi_dic.nc",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/",
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.07.30/calcofi_mets.nc",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_142506/calcofi.org/",
-    "n": 3
+    "path": "/calcofi-db/ducklake/releases/latest.txt",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/swfsc/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/scripps/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/",
+    "n": 2
    }
   ]
  }

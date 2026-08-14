@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "2026-08-13",
  "totals_28d": {
-  "activeUsers": 70.0,
+  "activeUsers": 71.0,
   "newUsers": 45.0,
-  "sessions": 85.0,
-  "engagedSessions": 38.0,
-  "screenPageViews": 100.0,
-  "eventCount": 275.0,
-  "userEngagementDuration": 1790.0,
-  "avgEngagementSeconds": 25.6,
-  "engagedSessionRate": 0.4,
+  "sessions": 87.0,
+  "engagedSessions": 40.0,
+  "screenPageViews": 103.0,
+  "eventCount": 280.0,
+  "userEngagementDuration": 1807.0,
+  "avgEngagementSeconds": 25.5,
+  "engagedSessionRate": 0.5,
   "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": -7.9,
-  "sessions": 3.7,
-  "engagedSessions": 111.1,
-  "avgEngagementSeconds": 374.1,
-  "screenPageViews": 22.0
+  "activeUsers": -6.6,
+  "sessions": 6.1,
+  "engagedSessions": 122.2,
+  "avgEngagementSeconds": 372.2,
+  "screenPageViews": 25.6
  },
  "daily": [
   {
@@ -378,8 +378,8 @@
   },
   {
    "date": "2026-08-13",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -453,18 +453,18 @@
   4.43,
   4.86,
   3.86,
-  3.71
+  3.86
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 25.0
+   "activeUsers": 26.0
   },
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 5.0
+   "activeUsers": 6.0
   },
   {
    "country": "United States",
@@ -497,13 +497,13 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 21.0
+   "activeUsers": 22.0
   },
   {
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
-   "activeUsers": 5.0
+   "activeUsers": 6.0
   },
   {
    "country": "United States",
@@ -551,7 +551,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 64.0,
+   "count": 67.0,
    "users": 33.0
   },
   {
@@ -566,12 +566,12 @@
   },
   {
    "name": "user_engagement",
-   "count": 23.0,
+   "count": 24.0,
    "users": 4.0
   },
   {
    "name": "scroll",
-   "count": 10.0,
+   "count": 11.0,
    "users": 4.0
   },
   {

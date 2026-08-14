@@ -11,8 +11,8 @@
   "newUsers": 2.0,
   "sessions": 34.0,
   "engagedSessions": 24.0,
-  "screenPageViews": 39.0,
-  "eventCount": 130.0,
+  "screenPageViews": 40.0,
+  "eventCount": 133.0,
   "userEngagementDuration": 2858.0,
   "avgEngagementSeconds": 129.9,
   "engagedSessionRate": 0.7,
@@ -130,12 +130,12 @@
  "events": [
   {
    "name": "page_view",
-   "count": 39.0,
+   "count": 40.0,
    "users": 6.0
   },
   {
    "name": "scroll",
-   "count": 38.0,
+   "count": 40.0,
    "users": 6.0
   },
   {

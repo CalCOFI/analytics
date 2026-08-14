@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-14T00:43:21+00:00",
+ "generated": "2026-08-14T11:17:28+00:00",
  "has_data": true,
  "n_products": 22,
  "totals_28d": {
-  "engagedSessions": 385.0,
-  "activeUsers": 536.0,
-  "sessions": 713.0
+  "engagedSessions": 393.0,
+  "activeUsers": 552.0,
+  "sessions": 733.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -79,10 +79,10 @@
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
    "engagedSessions": 50.0,
-   "activeUsers": 44.0,
-   "sessions": 76.0,
-   "engagementRate": 0.7,
-   "avgEngagementSeconds": 98.7,
+   "activeUsers": 45.0,
+   "sessions": 78.0,
+   "engagementRate": 0.6,
+   "avgEngagementSeconds": 99.0,
    "delta": 150.0,
    "spark": [
     1.0,
@@ -114,6 +114,7 @@
     1.0,
     1.0,
     1.0,
+    1.0,
     4.0,
     1.0,
     1.0,
@@ -132,11 +133,11 @@
   {
    "slug": "db-schema",
    "title": "db-schema",
-   "engagedSessions": 47.0,
-   "activeUsers": 36.0,
-   "sessions": 65.0,
+   "engagedSessions": 50.0,
+   "activeUsers": 37.0,
+   "sessions": 67.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 57.0,
+   "avgEngagementSeconds": 56.7,
    "delta": null,
    "spark": [
     1.0,
@@ -154,19 +155,19 @@
     3.0,
     3.0,
     3.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "calcofi4r",
    "title": "calcofi4r",
-   "engagedSessions": 38.0,
-   "activeUsers": 70.0,
-   "sessions": 85.0,
-   "engagementRate": 0.4,
-   "avgEngagementSeconds": 25.6,
-   "delta": 111.1,
+   "engagedSessions": 40.0,
+   "activeUsers": 71.0,
+   "sessions": 87.0,
+   "engagementRate": 0.5,
+   "avgEngagementSeconds": 25.5,
+   "delta": 122.2,
    "spark": [
     4.0,
     2.0,
@@ -238,7 +239,7 @@
     3.0,
     5.0,
     2.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
@@ -270,7 +271,7 @@
   {
    "slug": "storage",
    "title": "storage",
-   "engagedSessions": 25.0,
+   "engagedSessions": 26.0,
    "activeUsers": 20.0,
    "sessions": 32.0,
    "engagementRate": 0.8,
@@ -297,9 +298,9 @@
    "title": "workflows",
    "engagedSessions": 24.0,
    "activeUsers": 27.0,
-   "sessions": 40.0,
+   "sessions": 41.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 40.6,
+   "avgEngagementSeconds": 41.0,
    "delta": null,
    "spark": [
     4.0,
@@ -436,17 +437,17 @@
   {
    "slug": "ctd-transects",
    "title": "ctd-transects",
-   "engagedSessions": 18.0,
-   "activeUsers": 11.0,
-   "sessions": 22.0,
+   "engagedSessions": 19.0,
+   "activeUsers": 12.0,
+   "sessions": 23.0,
    "engagementRate": 0.8,
-   "avgEngagementSeconds": 298.6,
+   "avgEngagementSeconds": 278.8,
    "delta": null,
    "spark": [
     2.0,
     7.0,
     1.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
@@ -547,6 +548,24 @@
    "mostly_automated": false
   },
   {
+   "slug": "ucla-monitoring-map",
+   "title": "CA Ocean & Coastal Monitoring Map",
+   "engagedSessions": 10.0,
+   "activeUsers": 10.0,
+   "sessions": 12.0,
+   "engagementRate": 0.8,
+   "avgEngagementSeconds": 55.9,
+   "delta": null,
+   "spark": [
+    2.0,
+    2.0,
+    1.0,
+    1.0,
+    4.0
+   ],
+   "mostly_automated": false
+  },
+  {
    "slug": "capstone",
    "title": "Capstone App",
    "engagedSessions": 9.0,
@@ -609,24 +628,6 @@
     2.0,
     1.0,
     3.0,
-    1.0
-   ],
-   "mostly_automated": false
-  },
-  {
-   "slug": "ucla-monitoring-map",
-   "title": "CA Ocean & Coastal Monitoring Map",
-   "engagedSessions": 9.0,
-   "activeUsers": 7.0,
-   "sessions": 9.0,
-   "engagementRate": 1.0,
-   "avgEngagementSeconds": 79.9,
-   "delta": null,
-   "spark": [
-    2.0,
-    2.0,
-    1.0,
-    1.0,
     1.0
    ],
    "mostly_automated": false
@@ -882,8 +883,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 0.0,
-   "activeUsers": 138.0,
-   "sessions": 138.0,
+   "activeUsers": 147.0,
+   "sessions": 147.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.0,
    "delta": -100.0,
@@ -935,7 +936,7 @@
     4.0,
     8.0,
     8.0,
-    8.0
+    17.0
    ],
    "mostly_automated": true
   },

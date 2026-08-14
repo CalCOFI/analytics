@@ -10,7 +10,7 @@
   "activeUsers": 20.0,
   "newUsers": 4.0,
   "sessions": 32.0,
-  "engagedSessions": 25.0,
+  "engagedSessions": 26.0,
   "screenPageViews": 99.0,
   "eventCount": 289.0,
   "userEngagementDuration": 1049.0,
@@ -238,58 +238,63 @@
    },
    {
     "date": "2026-08-13",
-    "requests": 236.0,
-    "bytes": 65923428.0
+    "requests": 440.0,
+    "bytes": 335371424.0
+   },
+   {
+    "date": "2026-08-14",
+    "requests": 217.0,
+    "bytes": 283901728.0
    }
   ],
   "totals_28d": {
-   "requests": 13027.0,
-   "bytes": 4629371897.0,
+   "requests": 13448.0,
+   "bytes": 5182721621.0,
    "clients": 559.0,
-   "tool": 7285.0,
-   "browser": 5742.0
+   "tool": 7487.0,
+   "browser": 5961.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 50
+    "n": 42
    },
    {
     "path": "/robots.txt",
-    "n": 8
+    "n": 15
    },
    {
-    "path": "/favicon.ico",
+    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.07.30/calcofi_phyllosoma.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2025-03-24_180847/swfsc/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-05_123755/swfsc.noaa.gov/",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/whales-seabirds-turtles/",
+    "path": "/calcofi-db/ducklake/releases/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2023-10-16_224648/",
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.07.30/calcofi_dic.nc",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/",
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.07.30/calcofi_mets.nc",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_142506/calcofi.org/",
-    "n": 3
+    "path": "/calcofi-db/ducklake/releases/latest.txt",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/swfsc/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/scripps/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/",
+    "n": 2
    }
   ]
  }

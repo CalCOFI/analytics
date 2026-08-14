@@ -11,8 +11,8 @@
   "newUsers": 22.0,
   "sessions": 76.0,
   "engagedSessions": 54.0,
-  "screenPageViews": 73.0,
-  "eventCount": 195.0,
+  "screenPageViews": 74.0,
+  "eventCount": 196.0,
   "userEngagementDuration": 555.0,
   "avgEngagementSeconds": 8.4,
   "engagedSessionRate": 0.7,
@@ -23,7 +23,7 @@
   "sessions": 130.3,
   "engagedSessions": 260.0,
   "avgEngagementSeconds": -57.6,
-  "screenPageViews": 135.5
+  "screenPageViews": 138.7
  },
  "daily": [
   {
