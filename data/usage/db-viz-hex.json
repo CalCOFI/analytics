@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 45.0,
+  "activeUsers": 44.0,
   "newUsers": 15.0,
-  "sessions": 81.0,
-  "engagedSessions": 55.0,
-  "screenPageViews": 121.0,
-  "eventCount": 761.0,
-  "userEngagementDuration": 4594.0,
-  "avgEngagementSeconds": 102.1,
+  "sessions": 76.0,
+  "engagedSessions": 50.0,
+  "screenPageViews": 110.0,
+  "eventCount": 723.0,
+  "userEngagementDuration": 4342.0,
+  "avgEngagementSeconds": 98.7,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 2.7
+  "viewsPerUser": 2.5
  },
  "delta_28d": {
-  "activeUsers": 275.0,
-  "sessions": 237.5,
-  "engagedSessions": 266.7,
-  "avgEngagementSeconds": 60.0,
-  "screenPageViews": 245.7
+  "activeUsers": 214.3,
+  "sessions": 153.3,
+  "engagedSessions": 150.0,
+  "avgEngagementSeconds": 35.0,
+  "screenPageViews": 139.1
  },
  "daily": [
   {
@@ -157,6 +157,11 @@
    "sessions": 2.0
   },
   {
+   "date": "2026-08-13",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -256,10 +261,11 @@
   2.57,
   2.29,
   2.0,
-  2.29,
   1.86,
   1.86,
-  2.0,
+  1.86,
+  1.57,
+  1.86,
   2.0,
   2.14,
   2.29,
@@ -278,7 +284,7 @@
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 7.0
+   "activeUsers": 8.0
   },
   {
    "country": "United Kingdom",
@@ -302,7 +308,7 @@
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
-   "activeUsers": 7.0
+   "activeUsers": 8.0
   },
   {
    "country": "United Kingdom",
@@ -320,7 +326,7 @@
  "events": [
   {
    "name": "session_start",
-   "count": 124.0,
+   "count": 125.0,
    "users": 16.0
   },
   {
@@ -330,12 +336,12 @@
   },
   {
    "name": "scroll",
-   "count": 85.0,
+   "count": 86.0,
    "users": 17.0
   },
   {
    "name": "user_engagement",
-   "count": 45.0,
+   "count": 46.0,
    "users": 6.0
   },
   {
@@ -509,8 +515,8 @@
    },
    {
     "date": "2026-08-07",
-    "events": "25",
-    "distinct_sessions": "6",
+    "events": "27",
+    "distinct_sessions": "7",
     "distinct_clients": "5",
     "errors": "0",
     "p50_ms": "48.7",
@@ -748,7 +754,7 @@
    },
    {
     "event": "session_start",
-    "n": "59",
+    "n": "60",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -756,7 +762,7 @@
    },
    {
     "event": "start_tour",
-    "n": "39",
+    "n": "40",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -877,7 +883,7 @@
    },
    {
     "app_version": "b3472bc",
-    "n": "11",
+    "n": "13",
     "first_seen": "2026-08-07",
     "last_seen": "2026-08-10"
    },

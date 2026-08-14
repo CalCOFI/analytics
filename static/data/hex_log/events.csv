@@ -14,6 +14,6 @@ open_filters,21,,,0.0,
 open_layers,4,,,0.0,
 select_agg_unit,19,,,0.0,
 select_tab,18,,,0.0,
-session_start,59,,,0.0,
-start_tour,39,,,0.0,
+session_start,60,,,0.0,
+start_tour,40,,,0.0,
 test:log_query,1,842.1,842.1,0.0,13319.0
