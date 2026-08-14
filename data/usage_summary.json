@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-14T11:17:28+00:00",
+ "generated": "2026-08-14T23:59:46+00:00",
  "has_data": true,
  "n_products": 22,
  "totals_28d": {
-  "engagedSessions": 393.0,
-  "activeUsers": 552.0,
-  "sessions": 733.0
+  "engagedSessions": 401.0,
+  "activeUsers": 566.0,
+  "sessions": 752.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -13,10 +13,10 @@
    "slug": "docs",
    "title": "docs",
    "engagedSessions": 54.0,
-   "activeUsers": 66.0,
-   "sessions": 76.0,
+   "activeUsers": 67.0,
+   "sessions": 77.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 8.4,
+   "avgEngagementSeconds": 8.3,
    "delta": 260.0,
    "spark": [
     4.0,
@@ -71,19 +71,19 @@
     6.0,
     1.0,
     3.0,
-    6.0
+    7.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
-   "engagedSessions": 50.0,
-   "activeUsers": 45.0,
-   "sessions": 78.0,
+   "engagedSessions": 51.0,
+   "activeUsers": 47.0,
+   "sessions": 83.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 99.0,
-   "delta": 150.0,
+   "avgEngagementSeconds": 100.4,
+   "delta": 155.0,
    "spark": [
     1.0,
     1.0,
@@ -112,7 +112,7 @@
     3.0,
     2.0,
     1.0,
-    1.0,
+    3.0,
     1.0,
     1.0,
     4.0,
@@ -133,11 +133,11 @@
   {
    "slug": "db-schema",
    "title": "db-schema",
-   "engagedSessions": 50.0,
-   "activeUsers": 37.0,
-   "sessions": 67.0,
-   "engagementRate": 0.7,
-   "avgEngagementSeconds": 56.7,
+   "engagedSessions": 51.0,
+   "activeUsers": 38.0,
+   "sessions": 68.0,
+   "engagementRate": 0.8,
+   "avgEngagementSeconds": 55.8,
    "delta": null,
    "spark": [
     1.0,
@@ -155,19 +155,20 @@
     3.0,
     3.0,
     3.0,
-    2.0
+    2.0,
+    1.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "calcofi4r",
    "title": "calcofi4r",
-   "engagedSessions": 40.0,
-   "activeUsers": 71.0,
-   "sessions": 87.0,
+   "engagedSessions": 41.0,
+   "activeUsers": 72.0,
+   "sessions": 88.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 25.5,
-   "delta": 122.2,
+   "avgEngagementSeconds": 25.1,
+   "delta": 127.8,
    "spark": [
     4.0,
     2.0,
@@ -239,7 +240,8 @@
     3.0,
     5.0,
     2.0,
-    2.0
+    2.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -264,6 +266,32 @@
     2.0,
     2.0,
     3.0,
+    1.0
+   ],
+   "mostly_automated": false
+  },
+  {
+   "slug": "db-viz-station",
+   "title": "db-viz-station",
+   "engagedSessions": 26.0,
+   "activeUsers": 25.0,
+   "sessions": 39.0,
+   "engagementRate": 0.7,
+   "avgEngagementSeconds": 117.3,
+   "delta": null,
+   "spark": [
+    2.0,
+    3.0,
+    1.0,
+    1.0,
+    3.0,
+    1.0,
+    2.0,
+    1.0,
+    1.0,
+    1.0,
+    4.0,
+    4.0,
     1.0
    ],
    "mostly_automated": false
@@ -296,11 +324,11 @@
   {
    "slug": "workflows",
    "title": "workflows",
-   "engagedSessions": 24.0,
-   "activeUsers": 27.0,
-   "sessions": 41.0,
+   "engagedSessions": 25.0,
+   "activeUsers": 28.0,
+   "sessions": 42.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 41.0,
+   "avgEngagementSeconds": 39.5,
    "delta": null,
    "spark": [
     4.0,
@@ -315,44 +343,20 @@
     1.0,
     2.0,
     3.0,
+    1.0,
     1.0
-   ],
-   "mostly_automated": false
-  },
-  {
-   "slug": "db-viz-station",
-   "title": "db-viz-station",
-   "engagedSessions": 24.0,
-   "activeUsers": 22.0,
-   "sessions": 34.0,
-   "engagementRate": 0.7,
-   "avgEngagementSeconds": 129.9,
-   "delta": null,
-   "spark": [
-    2.0,
-    3.0,
-    1.0,
-    1.0,
-    3.0,
-    1.0,
-    2.0,
-    1.0,
-    1.0,
-    1.0,
-    4.0,
-    2.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-query",
    "title": "db-query",
-   "engagedSessions": 20.0,
+   "engagedSessions": 21.0,
    "activeUsers": 17.0,
    "sessions": 26.0,
    "engagementRate": 0.8,
    "avgEngagementSeconds": 64.7,
-   "delta": 0.0,
+   "delta": 5.0,
    "spark": [
     1.0,
     1.0,
@@ -864,30 +868,14 @@
    "mostly_automated": false
   },
   {
-   "slug": "ucsb-station-portal",
-   "title": "Station Data Portal",
-   "engagedSessions": 1.0,
-   "activeUsers": 4.0,
-   "sessions": 4.0,
-   "engagementRate": 0.2,
-   "avgEngagementSeconds": 7.2,
-   "delta": null,
-   "spark": [
-    2.0,
-    1.0,
-    1.0
-   ],
-   "mostly_automated": false
-  },
-  {
    "slug": "calcofi4db",
    "title": "calcofi4db",
-   "engagedSessions": 0.0,
-   "activeUsers": 147.0,
-   "sessions": 147.0,
+   "engagedSessions": 1.0,
+   "activeUsers": 152.0,
+   "sessions": 152.0,
    "engagementRate": 0.0,
-   "avgEngagementSeconds": 0.0,
-   "delta": -100.0,
+   "avgEngagementSeconds": 0.1,
+   "delta": -50.0,
    "spark": [
     2.0,
     1.0,
@@ -936,9 +924,26 @@
     4.0,
     8.0,
     8.0,
-    17.0
+    18.0,
+    4.0
    ],
    "mostly_automated": true
+  },
+  {
+   "slug": "ucsb-station-portal",
+   "title": "Station Data Portal",
+   "engagedSessions": 1.0,
+   "activeUsers": 4.0,
+   "sessions": 4.0,
+   "engagementRate": 0.2,
+   "avgEngagementSeconds": 7.2,
+   "delta": null,
+   "spark": [
+    2.0,
+    1.0,
+    1.0
+   ],
+   "mostly_automated": false
   },
   {
    "slug": "pollutants",

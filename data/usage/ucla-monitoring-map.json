@@ -68,7 +68,7 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 2.0
+   "activeUsers": 4.0
   },
   {
    "country": "Italy",
@@ -87,6 +87,12 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "Other",
    "activeUsers": 2.0
   },
   {
