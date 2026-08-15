@@ -3,10 +3,10 @@ click,2,1
 download,4,2
 first_visit,1,1
 form_start,4,2
-page_view,19,4
+page_view,20,4
 query_run,14,2
 query_success,14,2
 query_view,53,4
-scroll,18,4
-session_start,18,4
+scroll,19,4
+session_start,19,4
 user_engagement,12,4

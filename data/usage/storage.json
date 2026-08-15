@@ -243,16 +243,21 @@
    },
    {
     "date": "2026-08-14",
-    "requests": 217.0,
-    "bytes": 283901728.0
+    "requests": 452.0,
+    "bytes": 1584001102.0
+   },
+   {
+    "date": "2026-08-15",
+    "requests": 346.0,
+    "bytes": 83105030.0
    }
   ],
   "totals_28d": {
-   "requests": 13448.0,
-   "bytes": 5182721621.0,
+   "requests": 14029.0,
+   "bytes": 6565926025.0,
    "clients": 559.0,
-   "tool": 7487.0,
-   "browser": 5961.0
+   "tool": 7721.0,
+   "browser": 6308.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -261,39 +266,39 @@
     "n": 42
    },
    {
-    "path": "/robots.txt",
-    "n": 15
+    "path": "/favicon.ico",
+    "n": 23
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.07.30/calcofi_phyllosoma.nc",
+    "path": "/robots.txt",
+    "n": 7
+   },
+   {
+    "path": "/calcofi-files-public/archive/_spatial/BOEM_WindPlanningAreas/old/BOEM-active-leases/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/CTD%20downcast%20upcast%20-%20databases/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/releases/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.07.30/calcofi_dic.nc",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.07.30/calcofi_mets.nc",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/latest.txt",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.07.30/calcofi_ctd-cast_full.nc",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/scripps/",
+    "path": "/calcofi-files-public/archive/2023-10-16_224648/calcofi/bottle/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2501RL_CTDPrelim/db-csvs/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/swfsc/taxonomy/",
     "n": 2
    }
   ]

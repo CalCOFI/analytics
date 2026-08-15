@@ -1,6 +1,6 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "top_paths": [
    {
     "path": "/erddap/index.html",
@@ -8,83 +8,83 @@
    },
    {
     "path": "/robots.txt",
-    "n": 29
-   },
-   {
-    "path": "/",
-    "n": 12
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 11
-   },
-   {
-    "path": "/erddap/tabledap/cce-lter_picoplankton-bacteria.subset",
-    "n": 8
-   },
-   {
-    "path": "/erddap/tabledap/cce-lter_zooscan.subset",
-    "n": 7
-   },
-   {
-    "path": "/erddap/wms/jplMURSST41/request",
-    "n": 7
-   },
-   {
-    "path": "/erddap/sitemap.xml",
-    "n": 6
-   },
-   {
-    "path": "/erddap",
-    "n": 6
+    "n": 35
    },
    {
     "path": "/erddap/tabledap/calcofi_phyllosoma.subset",
-    "n": 6
+    "n": 14
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 13
+   },
+   {
+    "path": "/erddap/images/erddap2.css",
+    "n": 13
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phyllosoma.html",
+    "n": 9
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phyllosoma.graph",
+    "n": 9
+   },
+   {
+    "path": "/erddap/files/calcofi_dic_old/dic_sample/",
+    "n": 9
+   },
+   {
+    "path": "/erddap/images/favicon.ico",
+    "n": 8
+   },
+   {
+    "path": "/erddap/tabledap/cce-lter_zooscan_sample.subset",
+    "n": 8
    }
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "top_paths": [
    {
     "path": "/",
     "n": 42
    },
    {
-    "path": "/robots.txt",
-    "n": 15
+    "path": "/favicon.ico",
+    "n": 23
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.07.30/calcofi_phyllosoma.nc",
+    "path": "/robots.txt",
+    "n": 7
+   },
+   {
+    "path": "/calcofi-files-public/archive/_spatial/BOEM_WindPlanningAreas/old/BOEM-active-leases/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/CTD%20downcast%20upcast%20-%20databases/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/releases/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.07.30/calcofi_dic.nc",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.07.30/calcofi_mets.nc",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/latest.txt",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.07.30/calcofi_ctd-cast_full.nc",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/scripps/",
+    "path": "/calcofi-files-public/archive/2023-10-16_224648/calcofi/bottle/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2501RL_CTDPrelim/db-csvs/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/swfsc/taxonomy/",
     "n": 2
    }
   ]

@@ -259,16 +259,21 @@
    },
    {
     "date": "2026-08-14",
-    "requests": 666.0,
-    "bytes": 20197172.0
+    "requests": 2030.0,
+    "bytes": 47648094.0
+   },
+   {
+    "date": "2026-08-15",
+    "requests": 1124.0,
+    "bytes": 15212539.0
    }
   ],
   "totals_28d": {
-   "requests": 55080.0,
-   "bytes": 364720955.0,
+   "requests": 57568.0,
+   "bytes": 407384416.0,
    "clients": 1058.0,
-   "tool": 46444.0,
-   "browser": 8636.0
+   "tool": 48166.0,
+   "browser": 9402.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -278,39 +283,39 @@
    },
    {
     "path": "/robots.txt",
-    "n": 29
-   },
-   {
-    "path": "/",
-    "n": 12
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 11
-   },
-   {
-    "path": "/erddap/tabledap/cce-lter_picoplankton-bacteria.subset",
-    "n": 8
-   },
-   {
-    "path": "/erddap/tabledap/cce-lter_zooscan.subset",
-    "n": 7
-   },
-   {
-    "path": "/erddap/wms/jplMURSST41/request",
-    "n": 7
-   },
-   {
-    "path": "/erddap/sitemap.xml",
-    "n": 6
-   },
-   {
-    "path": "/erddap",
-    "n": 6
+    "n": 35
    },
    {
     "path": "/erddap/tabledap/calcofi_phyllosoma.subset",
-    "n": 6
+    "n": 14
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 13
+   },
+   {
+    "path": "/erddap/images/erddap2.css",
+    "n": 13
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phyllosoma.html",
+    "n": 9
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phyllosoma.graph",
+    "n": 9
+   },
+   {
+    "path": "/erddap/files/calcofi_dic_old/dic_sample/",
+    "n": 9
+   },
+   {
+    "path": "/erddap/images/favicon.ico",
+    "n": 8
+   },
+   {
+    "path": "/erddap/tabledap/cce-lter_zooscan_sample.subset",
+    "n": 8
    }
   ]
  }
