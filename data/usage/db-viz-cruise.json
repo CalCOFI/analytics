@@ -43,13 +43,13 @@
  ],
  "geo_country": [
   {
-   "country": "Italy",
-   "countryId": "IT",
-   "activeUsers": 1.0
-  },
-  {
    "country": "Singapore",
    "countryId": "SG",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Italy",
+   "countryId": "IT",
    "activeUsers": 1.0
   }
  ],
@@ -64,6 +64,12 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "Other",
    "activeUsers": 1.0
   }
  ],

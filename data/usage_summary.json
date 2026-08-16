@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-16T11:17:32+00:00",
+ "generated": "2026-08-16T23:56:39+00:00",
  "has_data": true,
  "n_products": 22,
  "totals_28d": {
-  "engagedSessions": 420.0,
-  "activeUsers": 588.0,
-  "sessions": 781.0
+  "engagedSessions": 424.0,
+  "activeUsers": 593.0,
+  "sessions": 786.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -137,9 +137,9 @@
   {
    "slug": "db-schema",
    "title": "db-schema",
-   "engagedSessions": 54.0,
-   "activeUsers": 41.0,
-   "sessions": 72.0,
+   "engagedSessions": 55.0,
+   "activeUsers": 42.0,
+   "sessions": 73.0,
    "engagementRate": 0.8,
    "avgEngagementSeconds": 52.1,
    "delta": null,
@@ -161,19 +161,20 @@
     3.0,
     2.0,
     2.0,
-    2.0
+    2.0,
+    1.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "calcofi4r",
    "title": "calcofi4r",
-   "engagedSessions": 43.0,
-   "activeUsers": 73.0,
-   "sessions": 89.0,
+   "engagedSessions": 44.0,
+   "activeUsers": 74.0,
+   "sessions": 90.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 25.0,
-   "delta": 138.9,
+   "avgEngagementSeconds": 24.9,
+   "delta": 144.4,
    "spark": [
     4.0,
     2.0,
@@ -247,6 +248,7 @@
     2.0,
     2.0,
     2.0,
+    1.0,
     1.0
    ],
    "mostly_automated": false
@@ -254,11 +256,11 @@
   {
    "slug": "erddap",
    "title": "erddap",
-   "engagedSessions": 30.0,
+   "engagedSessions": 31.0,
    "activeUsers": 25.0,
-   "sessions": 36.0,
+   "sessions": 37.0,
    "engagementRate": 0.8,
-   "avgEngagementSeconds": 58.3,
+   "avgEngagementSeconds": 59.6,
    "delta": null,
    "spark": [
     3.0,
@@ -282,10 +284,10 @@
    "slug": "db-viz-station",
    "title": "db-viz-station",
    "engagedSessions": 28.0,
-   "activeUsers": 28.0,
+   "activeUsers": 29.0,
    "sessions": 44.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 104.9,
+   "avgEngagementSeconds": 101.3,
    "delta": null,
    "spark": [
     2.0,
@@ -301,7 +303,7 @@
     4.0,
     4.0,
     2.0,
-    2.0
+    3.0
    ],
    "mostly_automated": false
   },
@@ -587,12 +589,12 @@
   {
    "slug": "capstone",
    "title": "Capstone App",
-   "engagedSessions": 8.0,
+   "engagedSessions": 9.0,
    "activeUsers": 11.0,
    "sessions": 13.0,
-   "engagementRate": 0.6,
+   "engagementRate": 0.7,
    "avgEngagementSeconds": 24.8,
-   "delta": 60.0,
+   "delta": 80.0,
    "spark": [
     1.0,
     2.0,
@@ -697,8 +699,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 3.0,
-   "activeUsers": 155.0,
-   "sessions": 156.0,
+   "activeUsers": 157.0,
+   "sessions": 158.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.6,
    "delta": 50.0,
@@ -752,7 +754,8 @@
     8.0,
     18.0,
     9.0,
-    3.0
+    3.0,
+    2.0
    ],
    "mostly_automated": true
   },

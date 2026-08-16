@@ -114,14 +114,14 @@
    "activeUsers": 5.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "activeUsers": 4.0
+  },
+  {
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 3.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "activeUsers": 2.0
   }
  ],
  "geo": [
@@ -141,6 +141,12 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "Other",
    "activeUsers": 2.0
   }
  ],
