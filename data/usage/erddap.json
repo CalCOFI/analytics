@@ -5,18 +5,18 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-30",
- "last_day": "2026-08-13",
+ "last_day": "2026-08-16",
  "totals_28d": {
-  "activeUsers": 22.0,
-  "newUsers": 3.0,
-  "sessions": 33.0,
-  "engagedSessions": 28.0,
-  "screenPageViews": 88.0,
-  "eventCount": 206.0,
-  "userEngagementDuration": 1452.0,
-  "avgEngagementSeconds": 66.0,
+  "activeUsers": 25.0,
+  "newUsers": 4.0,
+  "sessions": 36.0,
+  "engagedSessions": 30.0,
+  "screenPageViews": 94.0,
+  "eventCount": 218.0,
+  "userEngagementDuration": 1458.0,
+  "avgEngagementSeconds": 58.3,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 4.0
+  "viewsPerUser": 3.8
  },
  "delta_28d": {
   "activeUsers": null,
@@ -85,6 +85,16 @@
    "date": "2026-08-13",
    "activeUsers": 1.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-08-15",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
+   "date": "2026-08-16",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -99,7 +109,9 @@
   1.71,
   1.71,
   2.0,
-  1.86
+  1.86,
+  1.71,
+  1.71
  ],
  "geo_country": [
   {
@@ -115,6 +127,11 @@
   {
    "country": "Germany",
    "countryId": "DE",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
    "activeUsers": 1.0
   }
  ],
@@ -136,33 +153,39 @@
    "countryId": "DE",
    "region": "Other",
    "activeUsers": 1.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 88.0,
-   "users": 7.0
+   "count": 94.0,
+   "users": 8.0
   },
   {
    "name": "user_engagement",
-   "count": 74.0,
+   "count": 76.0,
    "users": 6.0
   },
   {
    "name": "scroll",
-   "count": 23.0,
+   "count": 24.0,
    "users": 4.0
   },
   {
    "name": "session_start",
-   "count": 15.0,
-   "users": 6.0
+   "count": 17.0,
+   "users": 7.0
   },
   {
    "name": "first_visit",
-   "count": 3.0,
-   "users": 3.0
+   "count": 4.0,
+   "users": 4.0
   },
   {
    "name": "form_start",
@@ -264,58 +287,63 @@
    },
    {
     "date": "2026-08-15",
-    "requests": 1124.0,
-    "bytes": 15212539.0
+    "requests": 4129.0,
+    "bytes": 24026416.0
+   },
+   {
+    "date": "2026-08-16",
+    "requests": 2332.0,
+    "bytes": 20878585.0
    }
   ],
   "totals_28d": {
-   "requests": 57568.0,
-   "bytes": 407384416.0,
+   "requests": 62905.0,
+   "bytes": 437076878.0,
    "clients": 1058.0,
-   "tool": 48166.0,
-   "browser": 9402.0
+   "tool": 52439.0,
+   "browser": 10466.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
+    "path": "/erddap/tabledap/documentation.html",
+    "n": 94
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 87
+   },
+   {
     "path": "/erddap/index.html",
-    "n": 48
+    "n": 59
+   },
+   {
+    "path": "/erddap/convert/time.html",
+    "n": 31
    },
    {
     "path": "/robots.txt",
-    "n": 35
+    "n": 24
    },
    {
-    "path": "/erddap/tabledap/calcofi_phyllosoma.subset",
-    "n": 14
+    "path": "/erddap/files/documentation.html",
+    "n": 21
    },
    {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 13
+    "path": "/erddap/rest.html",
+    "n": 19
    },
    {
-    "path": "/erddap/images/erddap2.css",
-    "n": 13
+    "path": "/erddap/wms/jplMURSST41/request",
+    "n": 12
    },
    {
-    "path": "/erddap/tabledap/calcofi_phyllosoma.html",
-    "n": 9
+    "path": "/",
+    "n": 11
    },
    {
-    "path": "/erddap/tabledap/calcofi_phyllosoma.graph",
-    "n": 9
-   },
-   {
-    "path": "/erddap/files/calcofi_dic_old/dic_sample/",
-    "n": 9
-   },
-   {
-    "path": "/erddap/images/favicon.ico",
-    "n": 8
-   },
-   {
-    "path": "/erddap/tabledap/cce-lter_zooscan_sample.subset",
-    "n": 8
+    "path": "/erddap/convert/fipscounty.html",
+    "n": 10
    }
   ]
  }

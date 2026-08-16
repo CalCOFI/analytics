@@ -5,16 +5,16 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-08-08",
- "last_day": "2026-08-11",
+ "last_day": "2026-08-15",
  "totals_28d": {
-  "activeUsers": 4.0,
-  "newUsers": 4.0,
-  "sessions": 4.0,
+  "activeUsers": 5.0,
+  "newUsers": 5.0,
+  "sessions": 5.0,
   "engagedSessions": 1.0,
-  "screenPageViews": 4.0,
-  "eventCount": 18.0,
+  "screenPageViews": 5.0,
+  "eventCount": 21.0,
   "userEngagementDuration": 29.0,
-  "avgEngagementSeconds": 7.2,
+  "avgEngagementSeconds": 5.8,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 1.0
  },
@@ -40,12 +40,18 @@
    "date": "2026-08-11",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-08-15",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
   2.0,
   1.5,
-  1.33
+  1.33,
+  1.25
  ],
  "geo_country": [
   {
@@ -57,6 +63,11 @@
    "country": "Hong Kong",
    "countryId": "HK",
    "activeUsers": 2.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "activeUsers": 1.0
   }
  ],
  "geo": [
@@ -77,26 +88,32 @@
    "countryId": "HK",
    "region": "Other",
    "activeUsers": 1.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "first_visit",
-   "count": 4.0,
-   "users": 4.0
+   "count": 5.0,
+   "users": 5.0
   },
   {
    "name": "page_view",
-   "count": 4.0,
-   "users": 4.0
-  },
-  {
-   "name": "scroll",
-   "count": 4.0,
-   "users": 4.0
+   "count": 5.0,
+   "users": 5.0
   },
   {
    "name": "session_start",
+   "count": 5.0,
+   "users": 5.0
+  },
+  {
+   "name": "scroll",
    "count": 4.0,
    "users": 4.0
   },

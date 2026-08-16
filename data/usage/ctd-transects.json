@@ -5,18 +5,18 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-08-10",
- "last_day": "2026-08-13",
+ "last_day": "2026-08-15",
  "totals_28d": {
-  "activeUsers": 12.0,
-  "newUsers": 4.0,
-  "sessions": 23.0,
+  "activeUsers": 13.0,
+  "newUsers": 5.0,
+  "sessions": 24.0,
   "engagedSessions": 19.0,
-  "screenPageViews": 302.0,
-  "eventCount": 381.0,
+  "screenPageViews": 303.0,
+  "eventCount": 385.0,
   "userEngagementDuration": 3346.0,
-  "avgEngagementSeconds": 278.8,
+  "avgEngagementSeconds": 257.4,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 25.2
+  "viewsPerUser": 23.3
  },
  "delta_28d": {
   "activeUsers": null,
@@ -45,13 +45,19 @@
    "date": "2026-08-13",
    "activeUsers": 2.0,
    "sessions": 3.0
+  },
+  {
+   "date": "2026-08-15",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
   2.0,
   4.5,
   3.33,
-  3.0
+  3.0,
+  2.6
  ],
  "geo_country": [
   {
@@ -67,6 +73,11 @@
   {
    "country": "Indonesia",
    "countryId": "ID",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
    "activeUsers": 1.0
   }
  ],
@@ -88,18 +99,24 @@
    "countryId": "ID",
    "region": "Other",
    "activeUsers": 1.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 302.0,
-   "users": 9.0
+   "count": 303.0,
+   "users": 10.0
   },
   {
    "name": "scroll",
-   "count": 33.0,
-   "users": 6.0
+   "count": 34.0,
+   "users": 7.0
   },
   {
    "name": "user_engagement",
@@ -108,13 +125,13 @@
   },
   {
    "name": "session_start",
-   "count": 15.0,
-   "users": 7.0
+   "count": 16.0,
+   "users": 8.0
   },
   {
    "name": "first_visit",
-   "count": 4.0,
-   "users": 4.0
+   "count": 5.0,
+   "users": 5.0
   },
   {
    "name": "click",

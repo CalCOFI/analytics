@@ -5,18 +5,18 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-08-13",
+ "last_day": "2026-08-15",
  "totals_28d": {
-  "activeUsers": 20.0,
-  "newUsers": 4.0,
-  "sessions": 32.0,
+  "activeUsers": 22.0,
+  "newUsers": 6.0,
+  "sessions": 34.0,
   "engagedSessions": 26.0,
-  "screenPageViews": 99.0,
-  "eventCount": 289.0,
+  "screenPageViews": 101.0,
+  "eventCount": 295.0,
   "userEngagementDuration": 1049.0,
-  "avgEngagementSeconds": 52.5,
+  "avgEngagementSeconds": 47.7,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 5.0
+  "viewsPerUser": 4.6
  },
  "delta_28d": {
   "activeUsers": null,
@@ -85,6 +85,11 @@
    "date": "2026-08-13",
    "activeUsers": 2.0,
    "sessions": 3.0
+  },
+  {
+   "date": "2026-08-15",
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -99,7 +104,8 @@
   1.43,
   1.57,
   1.57,
-  1.71
+  1.71,
+  1.57
  ],
  "geo_country": [
   {
@@ -111,6 +117,11 @@
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 3.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "activeUsers": 2.0
   }
  ],
  "geo": [
@@ -125,13 +136,19 @@
    "countryId": "IT",
    "region": "Other",
    "activeUsers": 3.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 2.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 99.0,
-   "users": 6.0
+   "count": 101.0,
+   "users": 8.0
   },
   {
    "name": "user_engagement",
@@ -145,13 +162,13 @@
   },
   {
    "name": "session_start",
-   "count": 11.0,
-   "users": 6.0
+   "count": 13.0,
+   "users": 8.0
   },
   {
    "name": "first_visit",
-   "count": 4.0,
-   "users": 4.0
+   "count": 6.0,
+   "users": 6.0
   },
   {
    "name": "click",
@@ -248,37 +265,46 @@
    },
    {
     "date": "2026-08-15",
-    "requests": 346.0,
-    "bytes": 83105030.0
+    "requests": 1084.0,
+    "bytes": 203627221.0
+   },
+   {
+    "date": "2026-08-16",
+    "requests": 772.0,
+    "bytes": 270705289.0
    }
   ],
   "totals_28d": {
-   "requests": 14029.0,
-   "bytes": 6565926025.0,
-   "clients": 559.0,
-   "tool": 7721.0,
-   "browser": 6308.0
+   "requests": 15539.0,
+   "bytes": 6957153505.0,
+   "clients": 1017.0,
+   "tool": 8019.0,
+   "browser": 7520.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 42
-   },
-   {
-    "path": "/favicon.ico",
-    "n": 23
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 7
+    "n": 16
    },
    {
-    "path": "/calcofi-files-public/archive/_spatial/BOEM_WindPlanningAreas/old/BOEM-active-leases/",
-    "n": 4
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/CTD%20downcast%20upcast%20-%20databases/",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.08.04/",
+    "n": 3
+   },
+   {
+    "path": "/favicon.ico",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1504NH_CTDFinalQC/db_csvs/",
     "n": 3
    },
    {
@@ -286,19 +312,15 @@
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2023-10-16_224648/calcofi/bottle/",
+    "path": "/calcofi-files-public/netcdf/sio_mesopelagic-fish/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
+    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/v2026.08.04/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2501RL_CTDPrelim/db-csvs/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/swfsc/taxonomy/",
+    "path": "/calcofi-files-public/netcdf/swfsc_cufes/",
     "n": 2
    }
   ]

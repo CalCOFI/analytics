@@ -1,4 +1,5 @@
 country,countryId,region,activeUsers,sessions
 Indonesia,ID,Other,1,1
 Italy,IT,Other,4,12
+Singapore,SG,,1,1
 United States,US,Other,7,11
