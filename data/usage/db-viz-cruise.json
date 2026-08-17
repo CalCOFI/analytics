@@ -10,13 +10,13 @@
   "activeUsers": 3.0,
   "newUsers": 1.0,
   "sessions": 4.0,
-  "engagedSessions": 2.0,
-  "screenPageViews": 8.0,
-  "eventCount": 18.0,
+  "engagedSessions": 3.0,
+  "screenPageViews": 9.0,
+  "eventCount": 19.0,
   "userEngagementDuration": 23.0,
   "avgEngagementSeconds": 7.7,
-  "engagedSessionRate": 0.5,
-  "viewsPerUser": 2.7
+  "engagedSessionRate": 0.8,
+  "viewsPerUser": 3.0
  },
  "delta_28d": {
   "activeUsers": null,
@@ -93,7 +93,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 8.0,
+   "count": 9.0,
    "users": 3.0
   },
   {

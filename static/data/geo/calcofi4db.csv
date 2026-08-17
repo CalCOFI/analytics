@@ -1,6 +1,6 @@
 country,countryId,region,activeUsers,sessions
 Japan,JP,Other,1,1
-Singapore,SG,,77,77
-Singapore,SG,(not set),86,86
+Singapore,SG,,1,1
+Singapore,SG,(not set),163,163
 Singapore,SG,Other,1,1
 United States,US,Other,1,2
