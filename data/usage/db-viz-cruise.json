@@ -5,18 +5,18 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-04",
- "last_day": "2026-08-15",
+ "last_day": "2026-08-16",
  "totals_28d": {
-  "activeUsers": 2.0,
+  "activeUsers": 3.0,
   "newUsers": 1.0,
-  "sessions": 3.0,
+  "sessions": 4.0,
   "engagedSessions": 2.0,
-  "screenPageViews": 5.0,
-  "eventCount": 11.0,
-  "userEngagementDuration": 7.0,
-  "avgEngagementSeconds": 3.5,
-  "engagedSessionRate": 0.7,
-  "viewsPerUser": 2.5
+  "screenPageViews": 8.0,
+  "eventCount": 18.0,
+  "userEngagementDuration": 23.0,
+  "avgEngagementSeconds": 7.7,
+  "engagedSessionRate": 0.5,
+  "viewsPerUser": 2.7
  },
  "delta_28d": {
   "activeUsers": null,
@@ -35,9 +35,15 @@
    "date": "2026-08-15",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-08-16",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
+  1.0,
   1.0,
   1.0
  ],
@@ -50,6 +56,11 @@
   {
    "country": "Italy",
    "countryId": "IT",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
    "activeUsers": 1.0
   }
  ],
@@ -71,18 +82,29 @@
    "countryId": "SG",
    "region": "Other",
    "activeUsers": 1.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Other",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 5.0,
-   "users": 2.0
+   "count": 8.0,
+   "users": 3.0
   },
   {
    "name": "scroll",
-   "count": 2.0,
-   "users": 1.0
+   "count": 4.0,
+   "users": 2.0
+  },
+  {
+   "name": "user_engagement",
+   "count": 3.0,
+   "users": 2.0
   },
   {
    "name": "session_start",
@@ -91,11 +113,6 @@
   },
   {
    "name": "first_visit",
-   "count": 1.0,
-   "users": 1.0
-  },
-  {
-   "name": "user_engagement",
    "count": 1.0,
    "users": 1.0
   }

@@ -276,58 +276,63 @@
    },
    {
     "date": "2026-08-16",
-    "requests": 772.0,
-    "bytes": 270705289.0
+    "requests": 1496.0,
+    "bytes": 281814221.0
+   },
+   {
+    "date": "2026-08-17",
+    "requests": 2690.0,
+    "bytes": 162888182.0
    }
   ],
   "totals_28d": {
-   "requests": 15539.0,
-   "bytes": 6957153505.0,
-   "clients": 1017.0,
-   "tool": 8019.0,
-   "browser": 7520.0
+   "requests": 18953.0,
+   "bytes": 7131150619.0,
+   "clients": 1109.0,
+   "tool": 10784.0,
+   "browser": 8169.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 47
+   },
+   {
+    "path": "/favicon.ico",
+    "n": 21
    },
    {
     "path": "/robots.txt",
     "n": 16
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
+    "path": "/calcofi-db/ducklake/releases/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-projects/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.08.04/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.08.04/",
+    "path": "/calcofi-files-public/archive/2026-02-05_142506/calcofi.org/bottle-database/",
     "n": 3
    },
    {
-    "path": "/favicon.ico",
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.08.04/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1504NH_CTDFinalQC/db_csvs/",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
     "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.07.30/calcofi_ctd-cast_full.nc",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/sio_mesopelagic-fish/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/v2026.08.04/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/swfsc_cufes/",
-    "n": 2
    }
   ]
  }

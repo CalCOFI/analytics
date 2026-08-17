@@ -298,58 +298,63 @@
    },
    {
     "date": "2026-08-16",
-    "requests": 2332.0,
-    "bytes": 20878585.0
+    "requests": 4927.0,
+    "bytes": 35887430.0
+   },
+   {
+    "date": "2026-08-17",
+    "requests": 1001.0,
+    "bytes": 6692589.0
    }
   ],
   "totals_28d": {
-   "requests": 62905.0,
-   "bytes": 437076878.0,
+   "requests": 66501.0,
+   "bytes": 458778312.0,
    "clients": 1058.0,
-   "tool": 52439.0,
-   "browser": 10466.0
+   "tool": 55494.0,
+   "browser": 11007.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/documentation.html",
-    "n": 94
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 87
-   },
-   {
     "path": "/erddap/index.html",
-    "n": 59
+    "n": 48
    },
    {
-    "path": "/erddap/convert/time.html",
-    "n": 31
-   },
-   {
-    "path": "/robots.txt",
-    "n": 24
-   },
-   {
-    "path": "/erddap/files/documentation.html",
+    "path": "/erddap/information.html",
     "n": 21
    },
    {
-    "path": "/erddap/rest.html",
-    "n": 19
-   },
-   {
-    "path": "/erddap/wms/jplMURSST41/request",
+    "path": "/robots.txt",
     "n": 12
    },
    {
-    "path": "/",
-    "n": 11
+    "path": "/erddap/griddap/documentation.html",
+    "n": 8
    },
    {
-    "path": "/erddap/convert/fipscounty.html",
-    "n": 10
+    "path": "/fff.php",
+    "n": 8
+   },
+   {
+    "path": "/",
+    "n": 7
+   },
+   {
+    "path": "/erddap",
+    "n": 6
+   },
+   {
+    "path": "/erddap/sitemap.xml",
+    "n": 5
+   },
+   {
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "n": 4
+   },
+   {
+    "path": "/this_is_a_new_hello_world.php",
+    "n": 4
    }
   ]
  }

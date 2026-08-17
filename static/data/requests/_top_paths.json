@@ -1,91 +1,91 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/documentation.html",
-    "n": 94
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 87
-   },
-   {
     "path": "/erddap/index.html",
-    "n": 59
+    "n": 48
    },
    {
-    "path": "/erddap/convert/time.html",
-    "n": 31
-   },
-   {
-    "path": "/robots.txt",
-    "n": 24
-   },
-   {
-    "path": "/erddap/files/documentation.html",
+    "path": "/erddap/information.html",
     "n": 21
    },
    {
-    "path": "/erddap/rest.html",
-    "n": 19
-   },
-   {
-    "path": "/erddap/wms/jplMURSST41/request",
+    "path": "/robots.txt",
     "n": 12
    },
    {
-    "path": "/",
-    "n": 11
+    "path": "/erddap/griddap/documentation.html",
+    "n": 8
    },
    {
-    "path": "/erddap/convert/fipscounty.html",
-    "n": 10
+    "path": "/fff.php",
+    "n": 8
+   },
+   {
+    "path": "/",
+    "n": 7
+   },
+   {
+    "path": "/erddap",
+    "n": 6
+   },
+   {
+    "path": "/erddap/sitemap.xml",
+    "n": 5
+   },
+   {
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "n": 4
+   },
+   {
+    "path": "/this_is_a_new_hello_world.php",
+    "n": 4
    }
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 47
+   },
+   {
+    "path": "/favicon.ico",
+    "n": 21
    },
    {
     "path": "/robots.txt",
     "n": 16
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
+    "path": "/calcofi-db/ducklake/releases/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-projects/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.08.04/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.08.04/",
+    "path": "/calcofi-files-public/archive/2026-02-05_142506/calcofi.org/bottle-database/",
     "n": 3
    },
    {
-    "path": "/favicon.ico",
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.08.04/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1504NH_CTDFinalQC/db_csvs/",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
     "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.07.30/calcofi_ctd-cast_full.nc",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/sio_mesopelagic-fish/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/v2026.08.04/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/swfsc_cufes/",
-    "n": 2
    }
   ]
  }
