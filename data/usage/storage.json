@@ -281,58 +281,63 @@
    },
    {
     "date": "2026-08-17",
-    "requests": 2690.0,
-    "bytes": 162888182.0
+    "requests": 3783.0,
+    "bytes": 447307027.0
+   },
+   {
+    "date": "2026-08-18",
+    "requests": 406.0,
+    "bytes": 5500314.0
    }
   ],
   "totals_28d": {
-   "requests": 18953.0,
-   "bytes": 7131150619.0,
+   "requests": 20452.0,
+   "bytes": 7421069778.0,
    "clients": 1109.0,
-   "tool": 10784.0,
-   "browser": 8169.0
+   "tool": 11350.0,
+   "browser": 9102.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
-   },
-   {
-    "path": "/favicon.ico",
-    "n": 21
+    "n": 48
    },
    {
     "path": "/robots.txt",
-    "n": 16
+    "n": 34
    },
    {
-    "path": "/calcofi-db/ducklake/releases/",
+    "path": "/favicon.ico",
     "n": 4
    },
    {
-    "path": "/calcofi-projects/",
-    "n": 4
+    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.08.04/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/old/BOEM-wind-energy-areas/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.08.04/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-05_123153/swfsc.noaa.gov/calcofi-db/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_142506/calcofi.org/bottle-database/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/sio/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.08.04/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/old/BOEM-active-leases/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1203SH_CTDFinalQC/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/calcofi/dic/0301029/",
+    "n": 2
    }
   ]
  }

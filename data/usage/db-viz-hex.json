@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 46.0,
-  "newUsers": 16.0,
-  "sessions": 84.0,
-  "engagedSessions": 56.0,
-  "screenPageViews": 120.0,
-  "eventCount": 833.0,
-  "userEngagementDuration": 4906.0,
-  "avgEngagementSeconds": 106.7,
+  "activeUsers": 44.0,
+  "newUsers": 15.0,
+  "sessions": 81.0,
+  "engagedSessions": 54.0,
+  "screenPageViews": 117.0,
+  "eventCount": 818.0,
+  "userEngagementDuration": 4796.0,
+  "avgEngagementSeconds": 109.0,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 2.6
+  "viewsPerUser": 2.7
  },
  "delta_28d": {
-  "activeUsers": 155.6,
-  "sessions": 140.0,
-  "engagedSessions": 143.5,
-  "avgEngagementSeconds": 73.2,
-  "screenPageViews": 126.4
+  "activeUsers": 120.0,
+  "sessions": 113.2,
+  "engagedSessions": 116.0,
+  "avgEngagementSeconds": 78.7,
+  "screenPageViews": 108.9
  },
  "daily": [
   {

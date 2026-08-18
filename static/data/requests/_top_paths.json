@@ -1,91 +1,91 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 48
-   },
-   {
-    "path": "/erddap/information.html",
-    "n": 21
+    "n": 45
    },
    {
     "path": "/robots.txt",
-    "n": 12
+    "n": 20
    },
    {
-    "path": "/erddap/griddap/documentation.html",
-    "n": 8
-   },
-   {
-    "path": "/fff.php",
-    "n": 8
-   },
-   {
-    "path": "/",
-    "n": 7
-   },
-   {
-    "path": "/erddap",
+    "path": "/erddap/tabledap/calcofi_phyllosoma_sample.subset",
     "n": 6
    },
    {
-    "path": "/erddap/sitemap.xml",
-    "n": 5
-   },
-   {
     "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 4
+    "n": 6
    },
    {
     "path": "/this_is_a_new_hello_world.php",
-    "n": 4
+    "n": 6
+   },
+   {
+    "path": "/admin.php",
+    "n": 6
+   },
+   {
+    "path": "/classwithtostring.php",
+    "n": 6
+   },
+   {
+    "path": "/wp-content/admin.php",
+    "n": 6
+   },
+   {
+    "path": "/wp-admin/css/",
+    "n": 6
+   },
+   {
+    "path": "/about.php",
+    "n": 6
    }
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
-   },
-   {
-    "path": "/favicon.ico",
-    "n": 21
+    "n": 48
    },
    {
     "path": "/robots.txt",
-    "n": 16
+    "n": 34
    },
    {
-    "path": "/calcofi-db/ducklake/releases/",
+    "path": "/favicon.ico",
     "n": 4
    },
    {
-    "path": "/calcofi-projects/",
-    "n": 4
+    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.08.04/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/old/BOEM-wind-energy-areas/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.08.04/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-05_123153/swfsc.noaa.gov/calcofi-db/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_142506/calcofi.org/bottle-database/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/sio/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.08.04/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/old/BOEM-active-leases/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1203SH_CTDFinalQC/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/calcofi/dic/0301029/",
+    "n": 2
    }
   ]
  }

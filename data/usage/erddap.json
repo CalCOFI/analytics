@@ -303,58 +303,63 @@
    },
    {
     "date": "2026-08-17",
-    "requests": 1001.0,
-    "bytes": 6692589.0
+    "requests": 1720.0,
+    "bytes": 20928479.0
+   },
+   {
+    "date": "2026-08-18",
+    "requests": 1051.0,
+    "bytes": 5687291.0
    }
   ],
   "totals_28d": {
-   "requests": 66501.0,
-   "bytes": 458778312.0,
+   "requests": 68271.0,
+   "bytes": 478701493.0,
    "clients": 1058.0,
-   "tool": 55494.0,
-   "browser": 11007.0
+   "tool": 56805.0,
+   "browser": 11466.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 48
-   },
-   {
-    "path": "/erddap/information.html",
-    "n": 21
+    "n": 45
    },
    {
     "path": "/robots.txt",
-    "n": 12
+    "n": 20
    },
    {
-    "path": "/erddap/griddap/documentation.html",
-    "n": 8
-   },
-   {
-    "path": "/fff.php",
-    "n": 8
-   },
-   {
-    "path": "/",
-    "n": 7
-   },
-   {
-    "path": "/erddap",
+    "path": "/erddap/tabledap/calcofi_phyllosoma_sample.subset",
     "n": 6
    },
    {
-    "path": "/erddap/sitemap.xml",
-    "n": 5
-   },
-   {
     "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 4
+    "n": 6
    },
    {
     "path": "/this_is_a_new_hello_world.php",
-    "n": 4
+    "n": 6
+   },
+   {
+    "path": "/admin.php",
+    "n": 6
+   },
+   {
+    "path": "/classwithtostring.php",
+    "n": 6
+   },
+   {
+    "path": "/wp-content/admin.php",
+    "n": 6
+   },
+   {
+    "path": "/wp-admin/css/",
+    "n": 6
+   },
+   {
+    "path": "/about.php",
+    "n": 6
    }
   ]
  }
