@@ -307,17 +307,23 @@
  ],
  "geo_country": [
   {
-   "country": "United States",
-   "countryId": "US",
-   "activeUsers": 4.0
-  },
-  {
    "country": "Singapore",
    "countryId": "SG",
+   "activeUsers": 6.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
    "activeUsers": 4.0
   }
  ],
  "geo": [
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "Other",
+   "activeUsers": 4.0
+  },
   {
    "country": "United States",
    "countryId": "US",
@@ -328,12 +334,6 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "",
-   "activeUsers": 2.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "Other",
    "activeUsers": 2.0
   }
  ],
