@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-19T11:17:34+00:00",
+ "generated": "2026-08-19T23:58:40+00:00",
  "has_data": true,
  "n_products": 22,
  "totals_28d": {
-  "engagedSessions": 475.0,
-  "activeUsers": 696.0,
-  "sessions": 928.0
+  "engagedSessions": 481.0,
+  "activeUsers": 706.0,
+  "sessions": 940.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -293,11 +293,11 @@
   {
    "slug": "erddap",
    "title": "erddap",
-   "engagedSessions": 32.0,
-   "activeUsers": 26.0,
-   "sessions": 38.0,
+   "engagedSessions": 33.0,
+   "activeUsers": 28.0,
+   "sessions": 40.0,
    "engagementRate": 0.8,
-   "avgEngagementSeconds": 57.3,
+   "avgEngagementSeconds": 53.9,
    "delta": null,
    "spark": [
     3.0,
@@ -314,7 +314,8 @@
     1.0,
     2.0,
     1.0,
-    1.0
+    1.0,
+    2.0
    ],
    "mostly_automated": false
   },
@@ -322,10 +323,10 @@
    "slug": "ctd-transects",
    "title": "ctd-transects",
    "engagedSessions": 29.0,
-   "activeUsers": 20.0,
-   "sessions": 36.0,
+   "activeUsers": 21.0,
+   "sessions": 37.0,
    "engagementRate": 0.8,
-   "avgEngagementSeconds": 175.2,
+   "avgEngagementSeconds": 166.8,
    "delta": null,
    "spark": [
     2.0,
@@ -335,7 +336,8 @@
     1.0,
     1.0,
     2.0,
-    4.0
+    4.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -397,9 +399,9 @@
   {
    "slug": "ctd-viz",
    "title": "ctd-viz",
-   "engagedSessions": 22.0,
+   "engagedSessions": 23.0,
    "activeUsers": 18.0,
-   "sessions": 42.0,
+   "sessions": 43.0,
    "engagementRate": 0.5,
    "avgEngagementSeconds": 320.9,
    "delta": null,
@@ -427,10 +429,10 @@
    "slug": "db-query",
    "title": "db-query",
    "engagedSessions": 21.0,
-   "activeUsers": 18.0,
-   "sessions": 30.0,
+   "activeUsers": 20.0,
+   "sessions": 32.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 65.8,
+   "avgEngagementSeconds": 61.4,
    "delta": 5.0,
    "spark": [
     1.0,
@@ -479,6 +481,7 @@
     0.0,
     0.0,
     3.0,
+    2.0,
     1.0,
     1.0,
     0.0,
@@ -519,11 +522,11 @@
   {
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
-   "engagedSessions": 13.0,
-   "activeUsers": 14.0,
-   "sessions": 17.0,
-   "engagementRate": 0.8,
-   "avgEngagementSeconds": 41.9,
+   "engagedSessions": 17.0,
+   "activeUsers": 19.0,
+   "sessions": 23.0,
+   "engagementRate": 0.7,
+   "avgEngagementSeconds": 61.9,
    "delta": null,
    "spark": [
     2.0,
@@ -533,7 +536,8 @@
     4.0,
     1.0,
     1.0,
-    2.0
+    3.0,
+    4.0
    ],
    "mostly_automated": false
   },
