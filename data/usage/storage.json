@@ -286,57 +286,62 @@
    },
    {
     "date": "2026-08-18",
-    "requests": 406.0,
-    "bytes": 5500314.0
+    "requests": 1834.0,
+    "bytes": 98928449.0
+   },
+   {
+    "date": "2026-08-19",
+    "requests": 319.0,
+    "bytes": 1188037.0
    }
   ],
   "totals_28d": {
-   "requests": 20452.0,
-   "bytes": 7421069778.0,
+   "requests": 22199.0,
+   "bytes": 7515685950.0,
    "clients": 1109.0,
-   "tool": 11350.0,
-   "browser": 9102.0
+   "tool": 11616.0,
+   "browser": 10583.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 48
+    "n": 51
    },
    {
     "path": "/robots.txt",
-    "n": 34
+    "n": 16
    },
    {
     "path": "/favicon.ico",
-    "n": 4
+    "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.08.04/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.07.30/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1907BH_CTDFinalQC/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1802SH_CTDFinalQC/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/old/BOEM-wind-energy-areas/",
+    "path": "/calcofi-files-public/netcdf/sio_pic-zooplankton/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_123153/swfsc.noaa.gov/calcofi-db/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1704SH_CTDFinalQC/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/scripps/pelagic-invertebrate-collection/SIO%20PIC%20DB%20Files/",
     "n": 2
    },
    {
     "path": "/calcofi-files-public/archive/sio/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/old/BOEM-active-leases/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1203SH_CTDFinalQC/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/calcofi/dic/0301029/",
     "n": 2
    }
   ]

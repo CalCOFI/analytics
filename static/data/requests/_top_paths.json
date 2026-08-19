@@ -1,90 +1,180 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 45
+    "n": 64
+   },
+   {
+    "path": "/",
+    "n": 35
    },
    {
     "path": "/robots.txt",
-    "n": 20
+    "n": 22
    },
    {
-    "path": "/erddap/tabledap/calcofi_phyllosoma_sample.subset",
-    "n": 6
+    "path": "/erddap",
+    "n": 22
    },
    {
-    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 6
+    "path": "/erddap/convert/time.html",
+    "n": 11
    },
    {
-    "path": "/this_is_a_new_hello_world.php",
-    "n": 6
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 10
+   },
+   {
+    "path": "/erddap/tabledap/sio_pic-zooplankton_sample.graph",
+    "n": 9
+   },
+   {
+    "path": "/erddap/legal.html",
+    "n": 8
    },
    {
     "path": "/admin.php",
-    "n": 6
+    "n": 8
    },
    {
-    "path": "/classwithtostring.php",
-    "n": 6
+    "path": "/new.php",
+    "n": 8
+   }
+  ]
+ },
+ "erddap.calcofi.io:443": {
+  "date": "2026-08-19",
+  "top_paths": [
+   {
+    "path": "/.env",
+    "n": 1
    },
    {
-    "path": "/wp-content/admin.php",
-    "n": 6
+    "path": "/.git/HEAD",
+    "n": 1
    },
    {
-    "path": "/wp-admin/css/",
-    "n": 6
+    "path": "/.env.backup",
+    "n": 1
    },
    {
-    "path": "/about.php",
-    "n": 6
+    "path": "/.env.old",
+    "n": 1
+   },
+   {
+    "path": "/.env.save",
+    "n": 1
+   },
+   {
+    "path": "/.env.bak",
+    "n": 1
+   },
+   {
+    "path": "/.env.prod",
+    "n": 1
+   },
+   {
+    "path": "/.env.production",
+    "n": 1
+   },
+   {
+    "path": "/.env.staging",
+    "n": 1
+   },
+   {
+    "path": "/.env.local",
+    "n": 1
+   }
+  ]
+ },
+ "erddap.calcofi.io:80": {
+  "date": "2026-08-19",
+  "top_paths": [
+   {
+    "path": "/.env",
+    "n": 1
+   },
+   {
+    "path": "/.env.backup",
+    "n": 1
+   },
+   {
+    "path": "/.env.save",
+    "n": 1
+   },
+   {
+    "path": "/.env.prod",
+    "n": 1
+   },
+   {
+    "path": "/.env.staging",
+    "n": 1
+   },
+   {
+    "path": "/.env.live",
+    "n": 1
+   },
+   {
+    "path": "/.env.stage",
+    "n": 1
+   },
+   {
+    "path": "/env",
+    "n": 1
+   },
+   {
+    "path": "/app/.env",
+    "n": 1
+   },
+   {
+    "path": "/backend/.env",
+    "n": 1
    }
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "top_paths": [
    {
     "path": "/",
-    "n": 48
+    "n": 51
    },
    {
     "path": "/robots.txt",
-    "n": 34
+    "n": 16
    },
    {
     "path": "/favicon.ico",
-    "n": 4
+    "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.08.04/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.07.30/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1907BH_CTDFinalQC/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1802SH_CTDFinalQC/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/old/BOEM-wind-energy-areas/",
+    "path": "/calcofi-files-public/netcdf/sio_pic-zooplankton/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_123153/swfsc.noaa.gov/calcofi-db/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1704SH_CTDFinalQC/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/scripps/pelagic-invertebrate-collection/SIO%20PIC%20DB%20Files/",
     "n": 2
    },
    {
     "path": "/calcofi-files-public/archive/sio/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/old/BOEM-active-leases/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1203SH_CTDFinalQC/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/calcofi/dic/0301029/",
     "n": 2
    }
   ]

@@ -314,58 +314,63 @@
    },
    {
     "date": "2026-08-18",
-    "requests": 1051.0,
-    "bytes": 5687291.0
+    "requests": 1923.0,
+    "bytes": 12543830.0
+   },
+   {
+    "date": "2026-08-19",
+    "requests": 1168.0,
+    "bytes": 5381684.0
    }
   ],
   "totals_28d": {
-   "requests": 68271.0,
-   "bytes": 478701493.0,
+   "requests": 70311.0,
+   "bytes": 490939716.0,
    "clients": 1058.0,
-   "tool": 56805.0,
-   "browser": 11466.0
+   "tool": 58457.0,
+   "browser": 11854.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 45
+    "n": 64
+   },
+   {
+    "path": "/",
+    "n": 35
    },
    {
     "path": "/robots.txt",
-    "n": 20
+    "n": 22
    },
    {
-    "path": "/erddap/tabledap/calcofi_phyllosoma_sample.subset",
-    "n": 6
+    "path": "/erddap",
+    "n": 22
    },
    {
-    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 6
+    "path": "/erddap/convert/time.html",
+    "n": 11
    },
    {
-    "path": "/this_is_a_new_hello_world.php",
-    "n": 6
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 10
+   },
+   {
+    "path": "/erddap/tabledap/sio_pic-zooplankton_sample.graph",
+    "n": 9
+   },
+   {
+    "path": "/erddap/legal.html",
+    "n": 8
    },
    {
     "path": "/admin.php",
-    "n": 6
+    "n": 8
    },
    {
-    "path": "/classwithtostring.php",
-    "n": 6
-   },
-   {
-    "path": "/wp-content/admin.php",
-    "n": 6
-   },
-   {
-    "path": "/wp-admin/css/",
-    "n": 6
-   },
-   {
-    "path": "/about.php",
-    "n": 6
+    "path": "/new.php",
+    "n": 8
    }
   ]
  }
