@@ -5,16 +5,16 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-30",
- "last_day": "2026-08-19",
+ "last_day": "2026-08-20",
  "totals_28d": {
-  "activeUsers": 28.0,
-  "newUsers": 6.0,
-  "sessions": 40.0,
-  "engagedSessions": 33.0,
-  "screenPageViews": 104.0,
-  "eventCount": 241.0,
-  "userEngagementDuration": 1508.0,
-  "avgEngagementSeconds": 53.9,
+  "activeUsers": 31.0,
+  "newUsers": 7.0,
+  "sessions": 43.0,
+  "engagedSessions": 35.0,
+  "screenPageViews": 114.0,
+  "eventCount": 266.0,
+  "userEngagementDuration": 1557.0,
+  "avgEngagementSeconds": 50.2,
   "engagedSessionRate": 0.8,
   "viewsPerUser": 3.7
  },
@@ -103,8 +103,13 @@
   },
   {
    "date": "2026-08-19",
-   "activeUsers": 2.0,
-   "sessions": 2.0
+   "activeUsers": 4.0,
+   "sessions": 4.0
+  },
+  {
+   "date": "2026-08-20",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -123,18 +128,19 @@
   1.71,
   1.71,
   1.71,
-  1.71
+  2.0,
+  1.86
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 8.0
+   "activeUsers": 9.0
   },
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 3.0
+   "activeUsers": 4.0
   },
   {
    "country": "Singapore",
@@ -152,13 +158,13 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 8.0
+   "activeUsers": 9.0
   },
   {
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
-   "activeUsers": 3.0
+   "activeUsers": 4.0
   },
   {
    "country": "Germany",
@@ -182,28 +188,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 104.0,
-   "users": 10.0
+   "count": 114.0,
+   "users": 11.0
   },
   {
    "name": "user_engagement",
-   "count": 82.0,
+   "count": 91.0,
    "users": 7.0
   },
   {
    "name": "scroll",
-   "count": 26.0,
-   "users": 4.0
+   "count": 30.0,
+   "users": 5.0
   },
   {
    "name": "session_start",
-   "count": 20.0,
-   "users": 9.0
+   "count": 21.0,
+   "users": 10.0
   },
   {
    "name": "first_visit",
-   "count": 6.0,
-   "users": 6.0
+   "count": 7.0,
+   "users": 7.0
   },
   {
    "name": "form_start",
@@ -325,58 +331,63 @@
    },
    {
     "date": "2026-08-19",
-    "requests": 1168.0,
-    "bytes": 5381684.0
+    "requests": 3935.0,
+    "bytes": 13137448.0
+   },
+   {
+    "date": "2026-08-20",
+    "requests": 703.0,
+    "bytes": 6410915.0
    }
   ],
   "totals_28d": {
-   "requests": 70311.0,
-   "bytes": 490939716.0,
+   "requests": 73781.0,
+   "bytes": 505106395.0,
    "clients": 1058.0,
-   "tool": 58457.0,
-   "browser": 11854.0
+   "tool": 61374.0,
+   "browser": 12407.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 64
-   },
-   {
-    "path": "/",
-    "n": 35
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 22
+    "n": 19
    },
    {
-    "path": "/erddap",
-    "n": 22
-   },
-   {
-    "path": "/erddap/convert/time.html",
+    "path": "/",
     "n": 11
    },
    {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 10
+    "path": "/erddap/sitemap.xml",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/sio_pic-zooplankton_sample.graph",
-    "n": 9
+    "path": "/ip",
+    "n": 6
    },
    {
-    "path": "/erddap/legal.html",
-    "n": 8
+    "path": "/erddap/tabledap/swfsc_ichthyo_sample.subset",
+    "n": 5
    },
    {
-    "path": "/admin.php",
-    "n": 8
+    "path": "/erddap/tabledap/sio_mesopelagic-fish_sample.subset",
+    "n": 4
    },
    {
-    "path": "/new.php",
-    "n": 8
+    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo_attribute.html",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal_sample.html",
+    "n": 4
    }
   ]
  }

@@ -1,52 +1,64 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 64
-   },
-   {
-    "path": "/",
-    "n": 35
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 22
+    "n": 19
    },
    {
-    "path": "/erddap",
-    "n": 22
-   },
-   {
-    "path": "/erddap/convert/time.html",
+    "path": "/",
     "n": 11
    },
    {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 10
+    "path": "/erddap/sitemap.xml",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/sio_pic-zooplankton_sample.graph",
-    "n": 9
+    "path": "/ip",
+    "n": 6
    },
    {
-    "path": "/erddap/legal.html",
-    "n": 8
+    "path": "/erddap/tabledap/swfsc_ichthyo_sample.subset",
+    "n": 5
    },
    {
-    "path": "/admin.php",
-    "n": 8
+    "path": "/erddap/tabledap/sio_mesopelagic-fish_sample.subset",
+    "n": 4
    },
    {
-    "path": "/new.php",
-    "n": 8
+    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo_attribute.html",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal_sample.html",
+    "n": 4
    }
   ]
  },
  "erddap.calcofi.io:443": {
   "date": "2026-08-19",
   "top_paths": [
+   {
+    "path": "/",
+    "n": 4
+   },
+   {
+    "path": "/erddap",
+    "n": 4
+   },
+   {
+    "path": "/erddap/index.html",
+    "n": 4
+   },
    {
     "path": "/.env",
     "n": 1
@@ -73,18 +85,6 @@
    },
    {
     "path": "/.env.prod",
-    "n": 1
-   },
-   {
-    "path": "/.env.production",
-    "n": 1
-   },
-   {
-    "path": "/.env.staging",
-    "n": 1
-   },
-   {
-    "path": "/.env.local",
     "n": 1
    }
   ]
@@ -135,46 +135,46 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "top_paths": [
    {
     "path": "/",
-    "n": 51
+    "n": 44
    },
    {
     "path": "/robots.txt",
-    "n": 16
+    "n": 18
    },
    {
-    "path": "/favicon.ico",
-    "n": 5
+    "path": "/ip",
+    "n": 6
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.07.30/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1402SH_CTDFinalQC/asc-hdr/",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1907BH_CTDFinalQC/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1802SH_CTDFinalQC/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1611SR_CTDFinalQC/csvs-plots/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/sio_pic-zooplankton/",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.07.30/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1704SH_CTDFinalQC/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1511OC_CTDFinalQC/done2/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/scripps/pelagic-invertebrate-collection/SIO%20PIC%20DB%20Files/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2301RL_CTDPrelim/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/sio/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/CTD%20downcast%20upcast%20-%20databases/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/",
     "n": 2
    }
   ]
