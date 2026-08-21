@@ -1,7 +1,8 @@
 param,value,n
 env_var,ph,4
 env_var,temperature,73
-layers,noaa_maritime_eez,1
+layers,ca_ports,1
+layers,noaa_maritime_eez,2
 taxa,(species: Euphausia brevis),2
 taxa,(species: Metacarcinus magister),2
 taxa,Dungeness crab (species: Metacarcinus magister),12

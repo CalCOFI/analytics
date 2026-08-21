@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 40.0,
+  "activeUsers": 41.0,
   "newUsers": 12.0,
-  "sessions": 77.0,
-  "engagedSessions": 51.0,
-  "screenPageViews": 109.0,
-  "eventCount": 777.0,
-  "userEngagementDuration": 4634.0,
-  "avgEngagementSeconds": 115.8,
+  "sessions": 78.0,
+  "engagedSessions": 54.0,
+  "screenPageViews": 112.0,
+  "eventCount": 807.0,
+  "userEngagementDuration": 5074.0,
+  "avgEngagementSeconds": 123.8,
   "engagedSessionRate": 0.7,
   "viewsPerUser": 2.7
  },
  "delta_28d": {
-  "activeUsers": 48.1,
-  "sessions": 63.8,
-  "engagedSessions": 64.5,
-  "avgEngagementSeconds": 73.1,
-  "screenPageViews": 58.0
+  "activeUsers": 51.9,
+  "sessions": 66.0,
+  "engagedSessions": 74.2,
+  "avgEngagementSeconds": 85.1,
+  "screenPageViews": 62.3
  },
  "daily": [
   {
@@ -187,6 +187,11 @@
    "sessions": 5.0
   },
   {
+   "date": "2026-08-21",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -292,10 +297,11 @@
   1.71,
   1.57,
   1.57,
+  1.29,
+  1.86,
+  1.86,
   1.71,
   1.86,
-  1.86,
-  2.14,
   2.0,
   2.14,
   2.29,
@@ -309,7 +315,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 14.0
+   "activeUsers": 15.0
   },
   {
    "country": "Italy",
@@ -332,7 +338,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 14.0
+   "activeUsers": 15.0
   },
   {
    "country": "Italy",
@@ -356,37 +362,37 @@
  "events": [
   {
    "name": "session_start",
-   "count": 160.0,
-   "users": 19.0
+   "count": 166.0,
+   "users": 21.0
   },
   {
    "name": "page_view",
-   "count": 109.0,
-   "users": 20.0
+   "count": 112.0,
+   "users": 22.0
   },
   {
    "name": "scroll",
-   "count": 107.0,
+   "count": 111.0,
+   "users": 22.0
+  },
+  {
+   "name": "start_tour",
+   "count": 64.0,
    "users": 20.0
   },
   {
    "name": "user_engagement",
-   "count": 61.0,
-   "users": 8.0
-  },
-  {
-   "name": "start_tour",
-   "count": 60.0,
-   "users": 18.0
+   "count": 64.0,
+   "users": 11.0
   },
   {
    "name": "select_tab",
-   "count": 54.0,
-   "users": 7.0
+   "count": 59.0,
+   "users": 8.0
   },
   {
    "name": "open_filters",
-   "count": 44.0,
+   "count": 46.0,
    "users": 9.0
   },
   {
@@ -617,9 +623,9 @@
    },
    {
     "date": "2026-08-21",
-    "events": "14",
-    "distinct_sessions": "1",
-    "distinct_clients": "1",
+    "events": "26",
+    "distinct_sessions": "2",
+    "distinct_clients": "2",
     "errors": "0",
     "p50_ms": "319.8",
     "p95_ms": "674.6"
@@ -804,7 +810,7 @@
    },
    {
     "event": "open_layers",
-    "n": "7",
+    "n": "8",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -828,7 +834,7 @@
    },
    {
     "event": "select_layers",
-    "n": "1",
+    "n": "2",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -836,7 +842,7 @@
    },
    {
     "event": "select_tab",
-    "n": "46",
+    "n": "52",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -844,7 +850,7 @@
    },
    {
     "event": "session_start",
-    "n": "83",
+    "n": "85",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -852,7 +858,7 @@
    },
    {
     "event": "start_tour",
-    "n": "63",
+    "n": "65",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -889,6 +895,11 @@
     "n": "4"
    },
    {
+    "param": "layers",
+    "value": "noaa_maritime_eez",
+    "n": "2"
+   },
+   {
     "param": "taxa",
     "value": "(species: Euphausia brevis)",
     "n": "2"
@@ -910,7 +921,7 @@
    },
    {
     "param": "layers",
-    "value": "noaa_maritime_eez",
+    "value": "ca_ports",
     "n": "1"
    },
    {
@@ -1012,7 +1023,7 @@
    },
    {
     "app_version": "b9988c3",
-    "n": "76",
+    "n": "88",
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-21"
    },
