@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2023-02-14",
- "last_day": "2026-08-01",
+ "last_day": "2026-08-20",
  "totals_28d": {
-  "activeUsers": 2.0,
-  "newUsers": 2.0,
-  "sessions": 3.0,
+  "activeUsers": 3.0,
+  "newUsers": 3.0,
+  "sessions": 4.0,
   "engagedSessions": 1.0,
-  "screenPageViews": 2.0,
-  "eventCount": 9.0,
+  "screenPageViews": 3.0,
+  "eventCount": 12.0,
   "userEngagementDuration": 41.0,
-  "avgEngagementSeconds": 20.5,
-  "engagedSessionRate": 0.3,
+  "avgEngagementSeconds": 13.7,
+  "engagedSessionRate": 0.2,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -71.4,
-  "sessions": -57.1,
+  "activeUsers": -57.1,
+  "sessions": -42.9,
   "engagedSessions": -75.0,
-  "avgEngagementSeconds": -66.9,
-  "screenPageViews": -77.8
+  "avgEngagementSeconds": -77.9,
+  "screenPageViews": -66.7
  },
  "daily": [
   {
@@ -1880,6 +1880,11 @@
    "date": "2026-08-01",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-08-20",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -2253,30 +2258,31 @@
   1.14,
   1.29,
   1.14,
-  1.14
+  1.14,
+  1.0
  ],
  "geo_country": [
   {
-   "country": "Mexico",
-   "countryId": "MX",
-   "activeUsers": 1.0
-  },
-  {
    "country": "United States",
    "countryId": "US",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Mexico",
+   "countryId": "MX",
    "activeUsers": 1.0
   }
  ],
  "geo": [
   {
-   "country": "Mexico",
-   "countryId": "MX",
-   "region": "Other",
-   "activeUsers": 1.0
-  },
-  {
    "country": "United States",
    "countryId": "US",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Mexico",
+   "countryId": "MX",
    "region": "Other",
    "activeUsers": 1.0
   }
@@ -2284,18 +2290,18 @@
  "events": [
   {
    "name": "session_start",
-   "count": 3.0,
-   "users": 2.0
+   "count": 4.0,
+   "users": 3.0
   },
   {
    "name": "first_visit",
-   "count": 2.0,
-   "users": 2.0
+   "count": 3.0,
+   "users": 3.0
   },
   {
    "name": "page_view",
-   "count": 2.0,
-   "users": 2.0
+   "count": 3.0,
+   "users": 3.0
   },
   {
    "name": "user_engagement",

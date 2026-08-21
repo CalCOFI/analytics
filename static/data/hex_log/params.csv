@@ -1,10 +1,11 @@
 param,value,n
-env_var,ph,2
-env_var,temperature,69
+env_var,ph,4
+env_var,temperature,73
+layers,noaa_maritime_eez,1
 taxa,(species: Euphausia brevis),2
 taxa,(species: Metacarcinus magister),2
 taxa,Dungeness crab (species: Metacarcinus magister),12
 taxa,Market squid (species: Doryteuthis opalescens),2
 taxa,Northern anchovy (species: Engraulis mordax),2
-taxa,Pacific sardine (pilchard) (species: Sardinops sagax),53
+taxa,Pacific sardine (pilchard) (species: Sardinops sagax),59
 taxa,Sardinops sagax,1

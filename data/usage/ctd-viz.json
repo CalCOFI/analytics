@@ -12,7 +12,7 @@
   "sessions": 44.0,
   "engagedSessions": 23.0,
   "screenPageViews": 100.0,
-  "eventCount": 319.0,
+  "eventCount": 320.0,
   "userEngagementDuration": 5789.0,
   "avgEngagementSeconds": 304.7,
   "engagedSessionRate": 0.5,
@@ -165,7 +165,7 @@
   },
   {
    "name": "scroll",
-   "count": 97.0,
+   "count": 98.0,
    "users": 6.0
   },
   {

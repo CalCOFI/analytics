@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 8.0,
-  "newUsers": 7.0,
-  "sessions": 9.0,
+  "activeUsers": 9.0,
+  "newUsers": 8.0,
+  "sessions": 10.0,
   "engagedSessions": 2.0,
-  "screenPageViews": 9.0,
-  "eventCount": 34.0,
-  "userEngagementDuration": 77.0,
+  "screenPageViews": 10.0,
+  "eventCount": 38.0,
+  "userEngagementDuration": 86.0,
   "avgEngagementSeconds": 9.6,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 33.3,
-  "sessions": 0.0,
+  "activeUsers": 50.0,
+  "sessions": 11.1,
   "engagedSessions": -50.0,
   "avgEngagementSeconds": -70.7,
-  "screenPageViews": 50.0
+  "screenPageViews": 66.7
  },
  "daily": [
   {
@@ -157,6 +157,11 @@
    "sessions": 2.0
   },
   {
+   "date": "2026-08-20",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260507",
    "activeUsers": 1.0,
    "sessions": 2.0
@@ -287,9 +292,10 @@
   1.14,
   1.14,
   1.29,
-  1.29,
   1.14,
   1.29,
+  1.14,
+  1.14,
   1.14,
   1.29,
   1.57,
@@ -314,19 +320,19 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   }
  ],
  "geo": [
   {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "Other",
-   "activeUsers": 4.0
-  },
-  {
    "country": "United States",
    "countryId": "US",
+   "region": "Other",
+   "activeUsers": 5.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
    "region": "Other",
    "activeUsers": 4.0
   },
@@ -340,18 +346,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 9.0,
-   "users": 8.0
+   "count": 10.0,
+   "users": 9.0
   },
   {
    "name": "session_start",
-   "count": 9.0,
-   "users": 8.0
+   "count": 10.0,
+   "users": 9.0
   },
   {
    "name": "first_visit",
-   "count": 7.0,
-   "users": 7.0
+   "count": 8.0,
+   "users": 8.0
   },
   {
    "name": "scroll",
@@ -360,8 +366,8 @@
   },
   {
    "name": "user_engagement",
-   "count": 3.0,
-   "users": 3.0
+   "count": 4.0,
+   "users": 4.0
   }
  ]
 }
