@@ -1,45 +1,45 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 46
+    "n": 48
    },
    {
     "path": "/robots.txt",
-    "n": 19
+    "n": 21
    },
    {
     "path": "/",
-    "n": 11
+    "n": 10
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 8
+   },
+   {
+    "path": "/erddap/convert/time.html",
+    "n": 8
+   },
+   {
+    "path": "/erddap",
+    "n": 6
+   },
+   {
+    "path": "/erddap/convert/time.txt",
+    "n": 6
    },
    {
     "path": "/erddap/sitemap.xml",
-    "n": 6
-   },
-   {
-    "path": "/ip",
-    "n": 6
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo_sample.subset",
     "n": 5
    },
    {
-    "path": "/erddap/tabledap/sio_mesopelagic-fish_sample.subset",
+    "path": "/erddap/metadata/iso19115/xml/",
     "n": 4
    },
    {
-    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
-    "n": 4
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo_attribute.html",
-    "n": 4
-   },
-   {
-    "path": "/erddap/tabledap/farallon_bird-mammal_sample.html",
+    "path": "/erddap/metadata/fgdc/xml/",
     "n": 4
    }
   ]
@@ -135,47 +135,89 @@
   ]
  },
  "storage.calcofi.io": {
+  "date": "2026-08-21",
+  "top_paths": [
+   {
+    "path": "/",
+    "n": 46
+   },
+   {
+    "path": "/robots.txt",
+    "n": 9
+   },
+   {
+    "path": "/sitemap.xml",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0907M2_CTDFinalQC/db_csvs/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2301RL_CTDPrelim/metadata/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/old/BOEM-pacific-planning-area-outlines/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0507NH_CTDFinalQC/asc-hdr-btl/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0801JD_CTDFinalQC/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0604NH_CTDFinalQC/metadata/",
+    "n": 2
+   }
+  ]
+ },
+ "storage.calcofi.io:443": {
   "date": "2026-08-20",
   "top_paths": [
    {
     "path": "/",
-    "n": 44
+    "n": 1
    },
    {
     "path": "/robots.txt",
-    "n": 18
+    "n": 1
    },
    {
-    "path": "/ip",
-    "n": 6
+    "path": "/favicon.ico",
+    "n": 1
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1402SH_CTDFinalQC/asc-hdr/",
-    "n": 4
+    "path": "/sitemap.xml",
+    "n": 1
+   }
+  ]
+ },
+ "storage.calcofi.io:80": {
+  "date": "2026-08-20",
+  "top_paths": [
+   {
+    "path": "/",
+    "n": 1
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1611SR_CTDFinalQC/csvs-plots/",
-    "n": 2
+    "path": "/robots.txt",
+    "n": 1
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.07.30/",
-    "n": 2
+    "path": "/favicon.ico",
+    "n": 1
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1511OC_CTDFinalQC/done2/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2301RL_CTDPrelim/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/CTD%20downcast%20upcast%20-%20databases/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/",
-    "n": 2
+    "path": "/sitemap.xml",
+    "n": 1
    }
   ]
  }

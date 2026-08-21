@@ -5,18 +5,18 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-08-15",
+ "last_day": "2026-08-20",
  "totals_28d": {
-  "activeUsers": 22.0,
-  "newUsers": 6.0,
-  "sessions": 34.0,
+  "activeUsers": 23.0,
+  "newUsers": 7.0,
+  "sessions": 35.0,
   "engagedSessions": 26.0,
-  "screenPageViews": 101.0,
-  "eventCount": 295.0,
+  "screenPageViews": 102.0,
+  "eventCount": 298.0,
   "userEngagementDuration": 1049.0,
-  "avgEngagementSeconds": 47.7,
-  "engagedSessionRate": 0.8,
-  "viewsPerUser": 4.6
+  "avgEngagementSeconds": 45.6,
+  "engagedSessionRate": 0.7,
+  "viewsPerUser": 4.4
  },
  "delta_28d": {
   "activeUsers": null,
@@ -90,6 +90,11 @@
    "date": "2026-08-15",
    "activeUsers": 2.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-08-20",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -105,13 +110,14 @@
   1.57,
   1.57,
   1.71,
+  1.57,
   1.57
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 5.0
+   "activeUsers": 6.0
   },
   {
    "country": "Singapore",
@@ -129,7 +135,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 5.0
+   "activeUsers": 6.0
   },
   {
    "country": "Italy",
@@ -153,8 +159,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 101.0,
-   "users": 8.0
+   "count": 102.0,
+   "users": 9.0
   },
   {
    "name": "user_engagement",
@@ -168,13 +174,13 @@
   },
   {
    "name": "session_start",
-   "count": 13.0,
-   "users": 8.0
+   "count": 14.0,
+   "users": 9.0
   },
   {
    "name": "first_visit",
-   "count": 6.0,
-   "users": 6.0
+   "count": 7.0,
+   "users": 7.0
   },
   {
    "name": "click",
@@ -296,57 +302,62 @@
    },
    {
     "date": "2026-08-20",
-    "requests": 182.0,
-    "bytes": 504471.0
+    "requests": 432.0,
+    "bytes": 1101309.0
+   },
+   {
+    "date": "2026-08-21",
+    "requests": 349.0,
+    "bytes": 1026793.0
    }
   ],
   "totals_28d": {
-   "requests": 22737.0,
-   "bytes": 7518185716.0,
+   "requests": 23336.0,
+   "bytes": 7519809347.0,
    "clients": 1109.0,
-   "tool": 11882.0,
-   "browser": 10855.0
+   "tool": 12156.0,
+   "browser": 11180.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 44
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 18
+    "n": 9
    },
    {
-    "path": "/ip",
-    "n": 6
+    "path": "/sitemap.xml",
+    "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1402SH_CTDFinalQC/asc-hdr/",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0907M2_CTDFinalQC/db_csvs/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1611SR_CTDFinalQC/csvs-plots/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2301RL_CTDPrelim/metadata/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.07.30/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/old/BOEM-pacific-planning-area-outlines/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1511OC_CTDFinalQC/done2/",
+    "path": "/calcofi-files-public/netcdf/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2301RL_CTDPrelim/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0507NH_CTDFinalQC/asc-hdr-btl/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/CTD%20downcast%20upcast%20-%20databases/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0801JD_CTDFinalQC/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0604NH_CTDFinalQC/metadata/",
     "n": 2
    }
   ]
