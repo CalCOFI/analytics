@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 48
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 21
+    "n": 22
+   },
+   {
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "n": 16
    },
    {
     "path": "/",
-    "n": 10
+    "n": 11
+   },
+   {
+    "path": "/info.php",
+    "n": 11
+   },
+   {
+    "path": "/wp-login.php",
+    "n": 9
    },
    {
     "path": "/erddap/subscriptions/add.html",
     "n": 8
    },
    {
-    "path": "/erddap/convert/time.html",
+    "path": "/this_is_a_new_hello_world.php",
     "n": 8
    },
    {
-    "path": "/erddap",
-    "n": 6
+    "path": "/wp-includes/blocks/missing/index.php",
+    "n": 8
    },
    {
-    "path": "/erddap/convert/time.txt",
-    "n": 6
-   },
-   {
-    "path": "/erddap/sitemap.xml",
-    "n": 5
-   },
-   {
-    "path": "/erddap/metadata/iso19115/xml/",
-    "n": 4
-   },
-   {
-    "path": "/erddap/metadata/fgdc/xml/",
-    "n": 4
+    "path": "/wp-includes/fonts/about.php",
+    "n": 8
    }
   ]
  },
@@ -135,47 +135,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 45
    },
    {
     "path": "/robots.txt",
-    "n": 9
+    "n": 23
+   },
+   {
+    "path": "/ip",
+    "n": 8
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0907M2_CTDFinalQC/db_csvs/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2301RL_CTDPrelim/metadata/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
+    "n": 5
    },
    {
     "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/old/BOEM-pacific-planning-area-outlines/",
-    "n": 2
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/old/BOEM-active-leases/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/old/BOEM-aliquot-blocks/",
+    "n": 3
    },
    {
     "path": "/calcofi-files-public/netcdf/",
-    "n": 2
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0507NH_CTDFinalQC/asc-hdr-btl/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0801JD_CTDFinalQC/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0604NH_CTDFinalQC/metadata/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0808NH_CTDFinalQC/csvs-plots/",
+    "n": 3
    }
   ]
  },

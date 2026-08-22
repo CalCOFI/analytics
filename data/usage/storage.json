@@ -307,58 +307,63 @@
    },
    {
     "date": "2026-08-21",
-    "requests": 349.0,
-    "bytes": 1026793.0
+    "requests": 927.0,
+    "bytes": 2587854.0
+   },
+   {
+    "date": "2026-08-22",
+    "requests": 428.0,
+    "bytes": 4045350.0
    }
   ],
   "totals_28d": {
-   "requests": 23336.0,
-   "bytes": 7519809347.0,
+   "requests": 24342.0,
+   "bytes": 7525415758.0,
    "clients": 1109.0,
-   "tool": 12156.0,
-   "browser": 11180.0
+   "tool": 12448.0,
+   "browser": 11894.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 45
    },
    {
     "path": "/robots.txt",
-    "n": 9
+    "n": 23
+   },
+   {
+    "path": "/ip",
+    "n": 8
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0907M2_CTDFinalQC/db_csvs/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2301RL_CTDPrelim/metadata/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
+    "n": 5
    },
    {
     "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/old/BOEM-pacific-planning-area-outlines/",
-    "n": 2
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/old/BOEM-active-leases/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/old/BOEM-aliquot-blocks/",
+    "n": 3
    },
    {
     "path": "/calcofi-files-public/netcdf/",
-    "n": 2
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0507NH_CTDFinalQC/asc-hdr-btl/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0801JD_CTDFinalQC/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0604NH_CTDFinalQC/metadata/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0808NH_CTDFinalQC/csvs-plots/",
+    "n": 3
    }
   ]
  }

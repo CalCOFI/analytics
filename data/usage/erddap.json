@@ -352,58 +352,63 @@
    },
    {
     "date": "2026-08-21",
-    "requests": 474.0,
-    "bytes": 3476171.0
+    "requests": 1200.0,
+    "bytes": 11373971.0
+   },
+   {
+    "date": "2026-08-22",
+    "requests": 1826.0,
+    "bytes": 6054356.0
    }
   ],
   "totals_28d": {
-   "requests": 75739.0,
-   "bytes": 524232035.0,
+   "requests": 78291.0,
+   "bytes": 538184191.0,
    "clients": 1058.0,
-   "tool": 62789.0,
-   "browser": 12950.0
+   "tool": 64564.0,
+   "browser": 13727.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 48
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 21
+    "n": 22
+   },
+   {
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "n": 16
    },
    {
     "path": "/",
-    "n": 10
+    "n": 11
+   },
+   {
+    "path": "/info.php",
+    "n": 11
+   },
+   {
+    "path": "/wp-login.php",
+    "n": 9
    },
    {
     "path": "/erddap/subscriptions/add.html",
     "n": 8
    },
    {
-    "path": "/erddap/convert/time.html",
+    "path": "/this_is_a_new_hello_world.php",
     "n": 8
    },
    {
-    "path": "/erddap",
-    "n": 6
+    "path": "/wp-includes/blocks/missing/index.php",
+    "n": 8
    },
    {
-    "path": "/erddap/convert/time.txt",
-    "n": 6
-   },
-   {
-    "path": "/erddap/sitemap.xml",
-    "n": 5
-   },
-   {
-    "path": "/erddap/metadata/iso19115/xml/",
-    "n": 4
-   },
-   {
-    "path": "/erddap/metadata/fgdc/xml/",
-    "n": 4
+    "path": "/wp-includes/fonts/about.php",
+    "n": 8
    }
   ]
  }
