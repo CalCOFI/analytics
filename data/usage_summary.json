@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-22T11:17:33+00:00",
+ "generated": "2026-08-22T23:57:49+00:00",
  "has_data": true,
  "n_products": 22,
  "totals_28d": {
-  "engagedSessions": 512.0,
-  "activeUsers": 768.0,
-  "sessions": 1019.0
+  "engagedSessions": 523.0,
+  "activeUsers": 771.0,
+  "sessions": 1024.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -13,10 +13,10 @@
    "slug": "docs",
    "title": "docs",
    "engagedSessions": 71.0,
-   "activeUsers": 85.0,
-   "sessions": 102.0,
+   "activeUsers": 87.0,
+   "sessions": 104.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 44.6,
+   "avgEngagementSeconds": 43.6,
    "delta": 1083.3,
    "spark": [
     4.0,
@@ -78,6 +78,7 @@
     3.0,
     6.0,
     6.0,
+    2.0,
     2.0
    ],
    "mostly_automated": false
@@ -121,11 +122,11 @@
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 57.0,
-   "activeUsers": 71.0,
-   "sessions": 101.0,
+   "engagedSessions": 59.0,
+   "activeUsers": 72.0,
+   "sessions": 104.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 71.6,
+   "avgEngagementSeconds": 71.4,
    "delta": null,
    "spark": [
     2.0,
@@ -147,19 +148,20 @@
     15.0,
     1.0,
     10.0,
-    7.0
+    7.0,
+    1.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
-   "engagedSessions": 54.0,
+   "engagedSessions": 56.0,
    "activeUsers": 42.0,
    "sessions": 79.0,
    "engagementRate": 0.7,
    "avgEngagementSeconds": 121.2,
-   "delta": 74.2,
+   "delta": 80.6,
    "spark": [
     1.0,
     1.0,
@@ -391,6 +393,37 @@
    "mostly_automated": false
   },
   {
+   "slug": "ctd-viz",
+   "title": "ctd-viz",
+   "engagedSessions": 30.0,
+   "activeUsers": 24.0,
+   "sessions": 52.0,
+   "engagementRate": 0.6,
+   "avgEngagementSeconds": 382.8,
+   "delta": null,
+   "spark": [
+    2.0,
+    3.0,
+    2.0,
+    0.0,
+    1.0,
+    2.0,
+    1.0,
+    0.0,
+    1.0,
+    1.0,
+    0.0,
+    2.0,
+    3.0,
+    0.0,
+    0.0,
+    1.0,
+    5.0,
+    4.0
+   ],
+   "mostly_automated": false
+  },
+  {
    "slug": "storage",
    "title": "storage",
    "engagedSessions": 26.0,
@@ -414,37 +447,6 @@
     2.0,
     2.0,
     1.0
-   ],
-   "mostly_automated": false
-  },
-  {
-   "slug": "ctd-viz",
-   "title": "ctd-viz",
-   "engagedSessions": 24.0,
-   "activeUsers": 24.0,
-   "sessions": 52.0,
-   "engagementRate": 0.5,
-   "avgEngagementSeconds": 366.7,
-   "delta": null,
-   "spark": [
-    2.0,
-    3.0,
-    2.0,
-    0.0,
-    1.0,
-    2.0,
-    1.0,
-    0.0,
-    1.0,
-    1.0,
-    0.0,
-    2.0,
-    3.0,
-    0.0,
-    0.0,
-    1.0,
-    5.0,
-    4.0
    ],
    "mostly_automated": false
   },
@@ -777,6 +779,23 @@
    "mostly_automated": true
   },
   {
+   "slug": "db-viz-cruise",
+   "title": "db-viz-cruise",
+   "engagedSessions": 4.0,
+   "activeUsers": 4.0,
+   "sessions": 5.0,
+   "engagementRate": 0.8,
+   "avgEngagementSeconds": 19.2,
+   "delta": null,
+   "spark": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "mostly_automated": false
+  },
+  {
    "slug": "marmam",
    "title": "Marine Mammal App",
    "engagedSessions": 3.0,
@@ -833,23 +852,6 @@
     1.0,
     0.0,
     2.0
-   ],
-   "mostly_automated": false
-  },
-  {
-   "slug": "db-viz-cruise",
-   "title": "db-viz-cruise",
-   "engagedSessions": 3.0,
-   "activeUsers": 4.0,
-   "sessions": 5.0,
-   "engagementRate": 0.6,
-   "avgEngagementSeconds": 19.2,
-   "delta": null,
-   "spark": [
-    1.0,
-    1.0,
-    1.0,
-    1.0
    ],
    "mostly_automated": false
   },

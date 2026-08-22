@@ -10,12 +10,12 @@
   "activeUsers": 4.0,
   "newUsers": 1.0,
   "sessions": 5.0,
-  "engagedSessions": 3.0,
+  "engagedSessions": 4.0,
   "screenPageViews": 12.0,
   "eventCount": 25.0,
   "userEngagementDuration": 77.0,
   "avgEngagementSeconds": 19.2,
-  "engagedSessionRate": 0.6,
+  "engagedSessionRate": 0.8,
   "viewsPerUser": 3.0
  },
  "delta_28d": {
@@ -115,7 +115,7 @@
   {
    "name": "session_start",
    "count": 3.0,
-   "users": 2.0
+   "users": 3.0
   },
   {
    "name": "first_visit",
