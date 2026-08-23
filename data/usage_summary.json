@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-22T23:57:49+00:00",
+ "generated": "2026-08-23T11:17:33+00:00",
  "has_data": true,
  "n_products": 22,
  "totals_28d": {
-  "engagedSessions": 523.0,
-  "activeUsers": 771.0,
-  "sessions": 1024.0
+  "engagedSessions": 522.0,
+  "activeUsers": 725.0,
+  "sessions": 977.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -123,10 +123,10 @@
    "slug": "db-viz-station",
    "title": "db-viz-station",
    "engagedSessions": 59.0,
-   "activeUsers": 72.0,
-   "sessions": 104.0,
+   "activeUsers": 73.0,
+   "sessions": 106.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 71.4,
+   "avgEngagementSeconds": 70.5,
    "delta": null,
    "spark": [
     2.0,
@@ -149,19 +149,19 @@
     1.0,
     10.0,
     7.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
-   "engagedSessions": 56.0,
+   "engagedSessions": 55.0,
    "activeUsers": 42.0,
-   "sessions": 79.0,
+   "sessions": 77.0,
    "engagementRate": 0.7,
    "avgEngagementSeconds": 121.2,
-   "delta": 80.6,
+   "delta": 71.9,
    "spark": [
     1.0,
     1.0,
@@ -272,10 +272,10 @@
    "slug": "calcofi4r",
    "title": "calcofi4r",
    "engagedSessions": 34.0,
-   "activeUsers": 66.0,
-   "sessions": 79.0,
+   "activeUsers": 65.0,
+   "sessions": 78.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 18.3,
+   "avgEngagementSeconds": 18.6,
    "delta": 6.2,
    "spark": [
     4.0,
@@ -714,10 +714,10 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 5.0,
-   "activeUsers": 220.0,
-   "sessions": 221.0,
+   "activeUsers": 174.0,
+   "sessions": 175.0,
    "engagementRate": 0.0,
-   "avgEngagementSeconds": 1.9,
+   "avgEngagementSeconds": 2.3,
    "delta": 150.0,
    "spark": [
     2.0,
@@ -773,6 +773,7 @@
     77.0,
     3.0,
     2.0,
+    1.0,
     1.0,
     1.0
    ],

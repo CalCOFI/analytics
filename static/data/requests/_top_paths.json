@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 46
+    "n": 49
    },
    {
     "path": "/robots.txt",
-    "n": 22
-   },
-   {
-    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
     "n": 16
    },
    {
     "path": "/",
-    "n": 11
+    "n": 7
    },
    {
-    "path": "/info.php",
-    "n": 11
+    "path": "/ip",
+    "n": 6
    },
    {
-    "path": "/wp-login.php",
-    "n": 9
+    "path": "/erddap/sitemap.xml",
+    "n": 5
    },
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 8
+    "path": "/erddap",
+    "n": 5
    },
    {
-    "path": "/this_is_a_new_hello_world.php",
-    "n": 8
+    "path": "/erddap/metadata/iso19115/xml/swfsc_ichthyo_iso19115.xml",
+    "n": 4
    },
    {
-    "path": "/wp-includes/blocks/missing/index.php",
-    "n": 8
+    "path": "/erddap/metadata/iso19115/xml/cdfw_dungeness-crab_iso19115.xml",
+    "n": 4
    },
    {
-    "path": "/wp-includes/fonts/about.php",
-    "n": 8
+    "path": "/erddap/tabledap/calcofi_mets_full.graph",
+    "n": 3
+   },
+   {
+    "path": "/erddap/tabledap/sio_pic-zooplankton_sample.graph",
+    "n": 2
    }
   ]
  },
@@ -135,47 +135,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "top_paths": [
    {
     "path": "/",
-    "n": 45
+    "n": 44
    },
    {
     "path": "/robots.txt",
-    "n": 23
-   },
-   {
-    "path": "/ip",
-    "n": 8
+    "n": 7
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/",
-    "n": 5
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.08.04/calcofi_mets.nc",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/old/BOEM-pacific-planning-area-outlines/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1411NH_CTDFinalQC/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/old/BOEM-active-leases/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/calcofi/",
+    "n": 1
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/old/BOEM-aliquot-blocks/",
-    "n": 3
+    "path": "/calcofi-files-public/",
+    "n": 1
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 3
+    "path": "/calcofi-files-public/manifests/",
+    "n": 1
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0808NH_CTDFinalQC/csvs-plots/",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.07.30/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0501NH_CTDFinalQC/db_csvs/",
+    "n": 1
    }
   ]
  },
