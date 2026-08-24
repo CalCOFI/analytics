@@ -362,16 +362,21 @@
    },
    {
     "date": "2026-08-23",
-    "requests": 428.0,
-    "bytes": 2652800.0
+    "requests": 946.0,
+    "bytes": 8375145.0
+   },
+   {
+    "date": "2026-08-24",
+    "requests": 1647.0,
+    "bytes": 8339793.0
    }
   ],
   "totals_28d": {
-   "requests": 79771.0,
-   "bytes": 547143766.0,
+   "requests": 81936.0,
+   "bytes": 561205904.0,
    "clients": 1058.0,
-   "tool": 65751.0,
-   "browser": 14020.0
+   "tool": 67298.0,
+   "browser": 14638.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -381,39 +386,39 @@
    },
    {
     "path": "/robots.txt",
-    "n": 16
+    "n": 18
+   },
+   {
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "n": 12
+   },
+   {
+    "path": "/this_is_a_new_hello_world.php",
+    "n": 12
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 10
    },
    {
     "path": "/",
-    "n": 7
+    "n": 9
    },
    {
-    "path": "/ip",
-    "n": 6
+    "path": "/wp-admin/setup-config.php",
+    "n": 8
    },
    {
-    "path": "/erddap/sitemap.xml",
-    "n": 5
+    "path": "/php.php",
+    "n": 8
    },
    {
-    "path": "/erddap",
-    "n": 5
+    "path": "/berlin.php",
+    "n": 8
    },
    {
-    "path": "/erddap/metadata/iso19115/xml/swfsc_ichthyo_iso19115.xml",
-    "n": 4
-   },
-   {
-    "path": "/erddap/metadata/iso19115/xml/cdfw_dungeness-crab_iso19115.xml",
-    "n": 4
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_mets_full.graph",
-    "n": 3
-   },
-   {
-    "path": "/erddap/tabledap/sio_pic-zooplankton_sample.graph",
-    "n": 2
+    "path": "/makeasmtp.php",
+    "n": 8
    }
   ]
  }
