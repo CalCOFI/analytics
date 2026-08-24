@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-24T11:17:37+00:00",
+ "generated": "2026-08-24T23:58:43+00:00",
  "has_data": true,
  "n_products": 22,
  "totals_28d": {
   "engagedSessions": 500.0,
-  "activeUsers": 712.0,
-  "sessions": 954.0
+  "activeUsers": 716.0,
+  "sessions": 958.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -272,10 +272,10 @@
    "slug": "calcofi4r",
    "title": "calcofi4r",
    "engagedSessions": 34.0,
-   "activeUsers": 66.0,
-   "sessions": 78.0,
+   "activeUsers": 67.0,
+   "sessions": 79.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 18.3,
+   "avgEngagementSeconds": 18.0,
    "delta": 6.2,
    "spark": [
     4.0,
@@ -356,6 +356,7 @@
     1.0,
     3.0,
     6.0,
+    1.0,
     1.0,
     1.0
    ],
@@ -642,10 +643,10 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 5.0,
-   "activeUsers": 178.0,
-   "sessions": 179.0,
+   "activeUsers": 181.0,
+   "sessions": 182.0,
    "engagementRate": 0.0,
-   "avgEngagementSeconds": 2.3,
+   "avgEngagementSeconds": 2.2,
    "delta": 150.0,
    "spark": [
     2.0,
@@ -704,7 +705,8 @@
     1.0,
     1.0,
     1.0,
-    5.0
+    5.0,
+    3.0
    ],
    "mostly_automated": true
   },
