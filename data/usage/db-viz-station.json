@@ -5,16 +5,16 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-08-24",
+ "last_day": "2026-08-25",
  "totals_28d": {
-  "activeUsers": 77.0,
+  "activeUsers": 78.0,
   "newUsers": 33.0,
-  "sessions": 112.0,
-  "engagedSessions": 63.0,
-  "screenPageViews": 135.0,
-  "eventCount": 472.0,
-  "userEngagementDuration": 5600.0,
-  "avgEngagementSeconds": 72.7,
+  "sessions": 115.0,
+  "engagedSessions": 66.0,
+  "screenPageViews": 143.0,
+  "eventCount": 499.0,
+  "userEngagementDuration": 5753.0,
+  "avgEngagementSeconds": 73.8,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 1.8
  },
@@ -135,6 +135,11 @@
    "date": "2026-08-24",
    "activeUsers": 4.0,
    "sessions": 6.0
+  },
+  {
+   "date": "2026-08-25",
+   "activeUsers": 1.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -159,7 +164,8 @@
   5.71,
   6.43,
   6.29,
-  6.71
+  6.71,
+  5.71
  ],
  "geo_country": [
   {
@@ -219,22 +225,22 @@
  "events": [
   {
    "name": "page_view",
-   "count": 135.0,
+   "count": 143.0,
    "users": 44.0
   },
   {
    "name": "scroll",
-   "count": 122.0,
+   "count": 130.0,
    "users": 31.0
   },
   {
    "name": "session_start",
-   "count": 85.0,
+   "count": 86.0,
    "users": 42.0
   },
   {
    "name": "user_engagement",
-   "count": 75.0,
+   "count": 83.0,
    "users": 20.0
   },
   {
@@ -244,8 +250,8 @@
   },
   {
    "name": "click",
-   "count": 18.0,
-   "users": 12.0
+   "count": 20.0,
+   "users": 13.0
   },
   {
    "name": "form_start",
