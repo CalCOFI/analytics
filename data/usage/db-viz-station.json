@@ -5,18 +5,18 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-08-22",
+ "last_day": "2026-08-24",
  "totals_28d": {
-  "activeUsers": 73.0,
-  "newUsers": 32.0,
-  "sessions": 106.0,
-  "engagedSessions": 59.0,
-  "screenPageViews": 124.0,
-  "eventCount": 436.0,
-  "userEngagementDuration": 5143.0,
-  "avgEngagementSeconds": 70.5,
+  "activeUsers": 77.0,
+  "newUsers": 33.0,
+  "sessions": 112.0,
+  "engagedSessions": 63.0,
+  "screenPageViews": 135.0,
+  "eventCount": 472.0,
+  "userEngagementDuration": 5600.0,
+  "avgEngagementSeconds": 72.7,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 1.7
+  "viewsPerUser": 1.8
  },
  "delta_28d": {
   "activeUsers": null,
@@ -130,6 +130,11 @@
    "date": "2026-08-22",
    "activeUsers": 2.0,
    "sessions": 5.0
+  },
+  {
+   "date": "2026-08-24",
+   "activeUsers": 4.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -153,13 +158,14 @@
   4.86,
   5.71,
   6.43,
-  6.29
+  6.29,
+  6.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 37.0
+   "activeUsers": 39.0
   },
   {
    "country": "Italy",
@@ -177,13 +183,13 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 21.0
+   "activeUsers": 22.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 12.0
+   "activeUsers": 13.0
   },
   {
    "country": "Italy",
@@ -213,28 +219,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 124.0,
-   "users": 42.0
+   "count": 135.0,
+   "users": 44.0
   },
   {
    "name": "scroll",
-   "count": 111.0,
-   "users": 29.0
+   "count": 122.0,
+   "users": 31.0
   },
   {
    "name": "session_start",
-   "count": 80.0,
-   "users": 41.0
+   "count": 85.0,
+   "users": 42.0
   },
   {
    "name": "user_engagement",
-   "count": 67.0,
-   "users": 18.0
+   "count": 75.0,
+   "users": 20.0
   },
   {
    "name": "first_visit",
-   "count": 32.0,
-   "users": 32.0
+   "count": 33.0,
+   "users": 33.0
   },
   {
    "name": "click",

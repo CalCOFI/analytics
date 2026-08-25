@@ -367,57 +367,62 @@
    },
    {
     "date": "2026-08-24",
-    "requests": 1647.0,
-    "bytes": 8339793.0
+    "requests": 3527.0,
+    "bytes": 16800709.0
+   },
+   {
+    "date": "2026-08-25",
+    "requests": 874.0,
+    "bytes": 4433758.0
    }
   ],
   "totals_28d": {
-   "requests": 81936.0,
-   "bytes": 561205904.0,
+   "requests": 84690.0,
+   "bytes": 574100578.0,
    "clients": 1058.0,
-   "tool": 67298.0,
-   "browser": 14638.0
+   "tool": 69483.0,
+   "browser": 15207.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 49
-   },
-   {
-    "path": "/robots.txt",
-    "n": 18
-   },
-   {
-    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 12
-   },
-   {
-    "path": "/this_is_a_new_hello_world.php",
-    "n": 12
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 10
+    "n": 61
    },
    {
     "path": "/",
+    "n": 16
+   },
+   {
+    "path": "/robots.txt",
+    "n": 16
+   },
+   {
+    "path": "/erddap",
+    "n": 11
+   },
+   {
+    "path": "/erddap/images/erddap2.css",
     "n": 9
    },
    {
-    "path": "/wp-admin/setup-config.php",
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 9
+   },
+   {
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
     "n": 8
    },
    {
-    "path": "/php.php",
+    "path": "/this_is_a_new_hello_world.php",
     "n": 8
    },
    {
-    "path": "/berlin.php",
+    "path": "/m.php",
     "n": 8
    },
    {
-    "path": "/makeasmtp.php",
+    "path": "/admin.php",
     "n": 8
    }
   ]

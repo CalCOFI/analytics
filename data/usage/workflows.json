@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-28",
- "last_day": "2026-08-21",
+ "last_day": "2026-08-24",
  "totals_28d": {
-  "activeUsers": 37.0,
+  "activeUsers": 35.0,
   "newUsers": 14.0,
-  "sessions": 52.0,
-  "engagedSessions": 31.0,
-  "screenPageViews": 52.0,
-  "eventCount": 150.0,
-  "userEngagementDuration": 1234.0,
-  "avgEngagementSeconds": 33.4,
+  "sessions": 50.0,
+  "engagedSessions": 30.0,
+  "screenPageViews": 49.0,
+  "eventCount": 142.0,
+  "userEngagementDuration": 1198.0,
+  "avgEngagementSeconds": 34.2,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": null,
-  "sessions": null,
-  "engagedSessions": null,
-  "avgEngagementSeconds": null,
-  "screenPageViews": null
+  "activeUsers": 775.0,
+  "sessions": 1150.0,
+  "engagedSessions": 1400.0,
+  "avgEngagementSeconds": 242.0,
+  "screenPageViews": 880.0
  },
  "daily": [
   {
@@ -120,6 +120,11 @@
    "date": "2026-08-21",
    "activeUsers": 2.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-08-24",
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -141,13 +146,14 @@
   1.57,
   1.71,
   1.71,
-  1.57
+  1.57,
+  1.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 16.0
+   "activeUsers": 17.0
   },
   {
    "country": "Italy",
@@ -165,7 +171,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 16.0
+   "activeUsers": 17.0
   },
   {
    "country": "Italy",
@@ -189,23 +195,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 52.0,
-   "users": 18.0
+   "count": 54.0,
+   "users": 19.0
   },
   {
    "name": "user_engagement",
-   "count": 35.0,
+   "count": 36.0,
    "users": 4.0
   },
   {
    "name": "session_start",
-   "count": 29.0,
-   "users": 17.0
+   "count": 30.0,
+   "users": 18.0
   },
   {
    "name": "first_visit",
-   "count": 14.0,
-   "users": 14.0
+   "count": 15.0,
+   "users": 15.0
   },
   {
    "name": "scroll",

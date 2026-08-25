@@ -5,18 +5,18 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-08-20",
+ "last_day": "2026-08-24",
  "totals_28d": {
-  "activeUsers": 25.0,
-  "newUsers": 12.0,
-  "sessions": 32.0,
-  "engagedSessions": 20.0,
-  "screenPageViews": 51.0,
-  "eventCount": 160.0,
-  "userEngagementDuration": 1305.0,
-  "avgEngagementSeconds": 52.2,
+  "activeUsers": 35.0,
+  "newUsers": 17.0,
+  "sessions": 43.0,
+  "engagedSessions": 25.0,
+  "screenPageViews": 62.0,
+  "eventCount": 196.0,
+  "userEngagementDuration": 1513.0,
+  "avgEngagementSeconds": 43.2,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 2.0
+  "viewsPerUser": 1.8
  },
  "delta_28d": {
   "activeUsers": null,
@@ -75,6 +75,11 @@
    "date": "2026-08-20",
    "activeUsers": 2.0,
    "sessions": 4.0
+  },
+  {
+   "date": "2026-08-24",
+   "activeUsers": 10.0,
+   "sessions": 11.0
   }
  ],
  "daily_mean7": [
@@ -87,13 +92,14 @@
   1.71,
   1.86,
   2.71,
-  2.86
+  2.86,
+  4.14
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 14.0
+   "activeUsers": 22.0
   },
   {
    "country": "Singapore",
@@ -110,8 +116,14 @@
   {
    "country": "United States",
    "countryId": "US",
-   "region": "Other",
+   "region": "California",
    "activeUsers": 14.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Other",
+   "activeUsers": 8.0
   },
   {
    "country": "Singapore",
@@ -135,28 +147,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 51.0,
-   "users": 18.0
+   "count": 62.0,
+   "users": 26.0
   },
   {
    "name": "scroll",
-   "count": 44.0,
-   "users": 16.0
+   "count": 54.0,
+   "users": 23.0
   },
   {
    "name": "user_engagement",
-   "count": 32.0,
-   "users": 8.0
+   "count": 34.0,
+   "users": 9.0
   },
   {
    "name": "session_start",
-   "count": 21.0,
-   "users": 15.0
+   "count": 29.0,
+   "users": 21.0
   },
   {
    "name": "first_visit",
-   "count": 12.0,
-   "users": 12.0
+   "count": 17.0,
+   "users": 17.0
   }
  ]
 }

@@ -17,6 +17,6 @@ open_transect,2,,,0.0,
 select_agg_unit,20,,,0.0,
 select_layers,2,,,0.0,
 select_tab,52,,,0.0,
-session_start,86,,,0.0,
-start_tour,66,,,0.0,
+session_start,89,,,0.0,
+start_tour,69,,,0.0,
 test:log_query,1,842.1,842.1,0.0,13319.0
