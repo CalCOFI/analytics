@@ -76,11 +76,20 @@ function initMap() {
   if (!byCountry.size) return;
 
   const map = L.map(el, { attributionControl: false, scrollWheelZoom: false }).setView([20, 0], 1);
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png", {
-    subdomains: "abcd", maxZoom: 6,
-  }).addTo(map);
 
-  const accent = getComputedStyle(document.documentElement).getPropertyValue("--accent").trim();
+  // basemap and marker colour follow the brand theme: read it at init, and
+  // again on the `cc:theme` event brand/v1 theme.js fires from the toggle
+  const theme  = () => (window.ccTheme ? ccTheme.get() : document.documentElement.dataset.theme);
+  const tiles  = (t) => `https://{s}.basemaps.cartocdn.com/${t === "light" ? "light" : "dark"}_nolabels/{z}/{x}/{y}{r}.png`;
+  const accent = () => getComputedStyle(document.documentElement).getPropertyValue("--accent").trim();
+  const basemap = L.tileLayer(tiles(theme()), { subdomains: "abcd", maxZoom: 6 }).addTo(map);
+  const markers = [];
+  document.addEventListener("cc:theme", (e) => {
+    basemap.setUrl(tiles(e.detail.theme));
+    const a = accent();
+    for (const m of markers) m.setStyle({ color: a, fillColor: a });
+  });
+
   const max = Math.max(...byCountry.values());
 
   // the URL comes from Hugo (site-root relative); resolving it against
@@ -94,10 +103,11 @@ function initMap() {
         const c = cent[id];
         if (!c) continue;
         const name = pts.find((p) => p.countryId === id)?.country || id;
-        L.circleMarker([c[0], c[1]], {
+        const a = accent();
+        markers.push(L.circleMarker([c[0], c[1]], {
           radius: 4 + 18 * Math.sqrt(n / max),
-          color: accent, weight: 1.5, fillColor: accent, fillOpacity: 0.35,
-        }).addTo(map).bindTooltip(`${name} · ${n.toLocaleString()} users`);
+          color: a, weight: 1.5, fillColor: a, fillOpacity: 0.35,
+        }).addTo(map).bindTooltip(`${name} · ${n.toLocaleString()} users`));
         bounds.push([c[0], c[1]]);
       }
       if (bounds.length > 1) map.fitBounds(bounds, { padding: [30, 30], maxZoom: 4 });

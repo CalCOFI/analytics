@@ -1,21 +1,22 @@
 {{/*
-  Same header idiom as db-schema / db-query: two logo SVGs, the wrong-theme one
-  hidden by CSS, so the mark stays legible in both themes.
+  calcofi.io brand header (https://calcofi.io/brand/v1/): theme.css supplies the
+  chrome and shows the logo for the current theme; theme.js wires the toggle.
+  The logo goes to calcofi.io, the title to this site's root.
 */}}
-<header class="site-header">
-  <a class="brand" href="{{ "" | relURL }}">
-    <img class="logo-dark"  src="{{ "img/logo_calcofi.svg"       | relURL }}" alt="CalCOFI" width="32" height="32">
-    <img class="logo-light" src="{{ "img/logo_calcofi_light.svg" | relURL }}" alt="CalCOFI" width="32" height="32">
-    <span>CalCOFI.io <span class="muted">usage</span></span>
+<header class="cc-header">
+  <a class="cc-home" href="https://calcofi.io" aria-label="CalCOFI.io home">
+    <img class="cc-logo-dark"  src="https://calcofi.io/brand/v1/logo_calcofi.svg"       alt="CalCOFI" width="32" height="32">
+    <img class="cc-logo-light" src="https://calcofi.io/brand/v1/logo_calcofi_light.svg" alt="CalCOFI" width="32" height="32">
   </a>
+  <a class="cc-title" href="{{ "" | relURL }}">CalCOFI.io <small>usage</small></a>
 
-  <span class="spacer"></span>
+  <span class="cc-spacer"></span>
 
-  <nav class="header-links">
+  <nav class="cc-links">
     <a href="https://calcofi.io/">home</a>
     <a href="https://status.calcofi.io/">status</a>
     <a href="https://github.com/CalCOFI/analytics">source</a>
   </nav>
 
-  <button id="theme-toggle" type="button" aria-label="Toggle dark / light theme">🌓</button>
+  <button class="cc-theme-toggle" type="button" aria-label="Toggle dark / light theme">🌓</button>
 </header>

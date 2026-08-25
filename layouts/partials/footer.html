@@ -4,7 +4,7 @@
   show frozen numbers that look current. Past stale_hours it turns warn-colored.
 */}}
 {{ $s := .Site.Data.usage_summary }}
-<footer class="app-footer">
+<footer class="cc-footer">
   <p>
     {{ with $s.generated }}
     <span class="stamp mono" data-generated="{{ . }}" data-stale-hours="{{ $.Site.Params.stale_hours }}">
