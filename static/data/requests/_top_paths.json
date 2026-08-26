@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 61
-   },
-   {
-    "path": "/",
-    "n": 16
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 16
+    "n": 19
    },
    {
-    "path": "/erddap",
-    "n": 11
+    "path": "/",
+    "n": 8
    },
    {
-    "path": "/erddap/images/erddap2.css",
-    "n": 9
+    "path": "/erddap/tabledap/farallon_bird-mammal_attribute.html",
+    "n": 8
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phyllosoma_attribute.subset",
+    "n": 7
    },
    {
     "path": "/erddap/images/wz_tooltip.js",
-    "n": 9
+    "n": 7
    },
    {
-    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 8
+    "path": "/erddap",
+    "n": 6
    },
    {
-    "path": "/this_is_a_new_hello_world.php",
-    "n": 8
+    "path": "/erddap/tabledap/sio_pic-zooplankton_sample.html",
+    "n": 6
    },
    {
-    "path": "/m.php",
-    "n": 8
+    "path": "/erddap/tabledap/sio_mesopelagic-fish_sample.graph",
+    "n": 6
    },
    {
-    "path": "/admin.php",
-    "n": 8
+    "path": "/erddap/images/erddap2.css",
+    "n": 6
    }
   ]
  },
@@ -135,46 +135,46 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "top_paths": [
    {
     "path": "/",
-    "n": 52
-   },
-   {
-    "path": "/ip",
-    "n": 12
+    "n": 43
    },
    {
     "path": "/robots.txt",
-    "n": 8
+    "n": 17
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/index.html",
+    "path": "/calcofi-files-public/archive/2025-03-24_180847/swfsc.noaa.gov/calcofi-db/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake/releases/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/v2026.08.04/cce-lter_zooscan.nc",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2301RL_CTDPrelim/csvs-plots/P_D/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.07.30/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1711SR_CTDFinalQC/csv-plots/secondary/",
+    "path": "/calcofi-files-public/_sync/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1507OC_CTDFinalQC/asc-hdr-btl/original_asc-hdr-btl/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/Databases/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2025-03-24_180847/swfsc/ichthyo/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/_spatial/BOEM_WindPlanningAreas/BOEMWindLayers_4Download.gdb/",
     "n": 2
    }
   ]

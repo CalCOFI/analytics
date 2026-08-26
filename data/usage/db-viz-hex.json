@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 40.0,
+  "activeUsers": 38.0,
   "newUsers": 8.0,
-  "sessions": 73.0,
-  "engagedSessions": 49.0,
-  "screenPageViews": 108.0,
-  "eventCount": 753.0,
-  "userEngagementDuration": 4675.0,
-  "avgEngagementSeconds": 116.9,
+  "sessions": 70.0,
+  "engagedSessions": 46.0,
+  "screenPageViews": 103.0,
+  "eventCount": 725.0,
+  "userEngagementDuration": 4566.0,
+  "avgEngagementSeconds": 120.2,
   "engagedSessionRate": 0.7,
   "viewsPerUser": 2.7
  },
  "delta_28d": {
-  "activeUsers": 21.2,
-  "sessions": 23.7,
-  "engagedSessions": 28.9,
-  "avgEngagementSeconds": 71.2,
-  "screenPageViews": 33.3
+  "activeUsers": 11.8,
+  "sessions": 14.8,
+  "engagedSessions": 15.0,
+  "avgEngagementSeconds": 74.5,
+  "screenPageViews": 21.2
  },
  "daily": [
   {
@@ -378,8 +378,8 @@
   },
   {
    "name": "scroll",
-   "count": 119.0,
-   "users": 23.0
+   "count": 120.0,
+   "users": 24.0
   },
   {
    "name": "start_tour",

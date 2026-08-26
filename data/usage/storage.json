@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-08-25",
  "totals_28d": {
-  "activeUsers": 24.0,
+  "activeUsers": 23.0,
   "newUsers": 7.0,
-  "sessions": 36.0,
-  "engagedSessions": 27.0,
-  "screenPageViews": 103.0,
-  "eventCount": 301.0,
-  "userEngagementDuration": 1051.0,
-  "avgEngagementSeconds": 43.8,
+  "sessions": 33.0,
+  "engagedSessions": 25.0,
+  "screenPageViews": 83.0,
+  "eventCount": 230.0,
+  "userEngagementDuration": 848.0,
+  "avgEngagementSeconds": 36.9,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 4.3
+  "viewsPerUser": 3.6
  },
  "delta_28d": {
-  "activeUsers": null,
-  "sessions": null,
-  "engagedSessions": null,
-  "avgEngagementSeconds": null,
-  "screenPageViews": null
+  "activeUsers": 666.7,
+  "sessions": 450.0,
+  "engagedSessions": 525.0,
+  "avgEngagementSeconds": -46.8,
+  "screenPageViews": 245.8
  },
  "daily": [
   {
@@ -98,8 +98,8 @@
   },
   {
    "date": "2026-08-25",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 3.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -117,13 +117,13 @@
   1.71,
   1.57,
   1.57,
-  1.57
+  1.86
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 6.0
+   "activeUsers": 8.0
   },
   {
    "country": "Italy",
@@ -141,7 +141,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 6.0
+   "activeUsers": 8.0
   },
   {
    "country": "Italy",
@@ -165,28 +165,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 103.0,
-   "users": 9.0
+   "count": 107.0,
+   "users": 11.0
   },
   {
    "name": "user_engagement",
-   "count": 98.0,
-   "users": 2.0
+   "count": 100.0,
+   "users": 3.0
   },
   {
    "name": "scroll",
-   "count": 76.0,
-   "users": 4.0
+   "count": 77.0,
+   "users": 5.0
   },
   {
    "name": "session_start",
-   "count": 14.0,
-   "users": 9.0
+   "count": 16.0,
+   "users": 11.0
   },
   {
    "name": "first_visit",
-   "count": 7.0,
-   "users": 7.0
+   "count": 9.0,
+   "users": 9.0
   },
   {
    "name": "click",
@@ -333,57 +333,62 @@
    },
    {
     "date": "2026-08-25",
-    "requests": 429.0,
-    "bytes": 1262360.0
+    "requests": 1020.0,
+    "bytes": 191309960.0
+   },
+   {
+    "date": "2026-08-26",
+    "requests": 173.0,
+    "bytes": 24577689.0
    }
   ],
   "totals_28d": {
-   "requests": 26588.0,
-   "bytes": 7542579244.0,
+   "requests": 27023.0,
+   "bytes": 4425773909.0,
    "clients": 1109.0,
-   "tool": 13237.0,
-   "browser": 13351.0
+   "tool": 13315.0,
+   "browser": 13708.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 52
-   },
-   {
-    "path": "/ip",
-    "n": 12
+    "n": 43
    },
    {
     "path": "/robots.txt",
-    "n": 8
+    "n": 17
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/index.html",
+    "path": "/calcofi-files-public/archive/2025-03-24_180847/swfsc.noaa.gov/calcofi-db/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake/releases/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/v2026.08.04/cce-lter_zooscan.nc",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2301RL_CTDPrelim/csvs-plots/P_D/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.07.30/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1711SR_CTDFinalQC/csv-plots/secondary/",
+    "path": "/calcofi-files-public/_sync/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1507OC_CTDFinalQC/asc-hdr-btl/original_asc-hdr-btl/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/CTD%20downcast%20upcast/Databases/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2025-03-24_180847/swfsc/ichthyo/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/_spatial/BOEM_WindPlanningAreas/BOEMWindLayers_4Download.gdb/",
     "n": 2
    }
   ]

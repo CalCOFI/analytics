@@ -7,23 +7,23 @@
  "first_day": "2026-07-28",
  "last_day": "2026-08-25",
  "totals_28d": {
-  "activeUsers": 51.0,
-  "newUsers": 9.0,
-  "sessions": 88.0,
+  "activeUsers": 53.0,
+  "newUsers": 12.0,
+  "sessions": 89.0,
   "engagedSessions": 68.0,
   "screenPageViews": 108.0,
-  "eventCount": 273.0,
-  "userEngagementDuration": 2531.0,
-  "avgEngagementSeconds": 49.6,
+  "eventCount": 276.0,
+  "userEngagementDuration": 2421.0,
+  "avgEngagementSeconds": 45.7,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 2.1
+  "viewsPerUser": 2.0
  },
  "delta_28d": {
-  "activeUsers": 5000.0,
-  "sessions": 8700.0,
-  "engagedSessions": 6700.0,
-  "avgEngagementSeconds": null,
-  "screenPageViews": 10700.0
+  "activeUsers": 2550.0,
+  "sessions": 2125.0,
+  "engagedSessions": 1600.0,
+  "avgEngagementSeconds": -35.2,
+  "screenPageViews": 2060.0
  },
  "daily": [
   {
@@ -143,8 +143,8 @@
   },
   {
    "date": "2026-08-25",
-   "activeUsers": 1.0,
-   "sessions": 2.0
+   "activeUsers": 4.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -171,13 +171,13 @@
   2.29,
   2.14,
   2.0,
-  1.86
+  2.29
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 8.0
+   "activeUsers": 11.0
   },
   {
    "country": "Italy",
@@ -195,7 +195,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 8.0
+   "activeUsers": 11.0
   },
   {
    "country": "Italy",
@@ -219,28 +219,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 109.0,
-   "users": 13.0
+   "count": 113.0,
+   "users": 16.0
   },
   {
    "name": "user_engagement",
-   "count": 61.0,
-   "users": 4.0
+   "count": 63.0,
+   "users": 6.0
   },
   {
    "name": "session_start",
-   "count": 46.0,
-   "users": 13.0
+   "count": 49.0,
+   "users": 16.0
   },
   {
    "name": "scroll",
-   "count": 44.0,
+   "count": 45.0,
    "users": 8.0
   },
   {
    "name": "first_visit",
-   "count": 9.0,
-   "users": 9.0
+   "count": 12.0,
+   "users": 12.0
   },
   {
    "name": "click",
