@@ -7,23 +7,23 @@
  "first_day": "2026-07-30",
  "last_day": "2026-08-25",
  "totals_28d": {
-  "activeUsers": 35.0,
+  "activeUsers": 32.0,
   "newUsers": 9.0,
-  "sessions": 49.0,
-  "engagedSessions": 38.0,
-  "screenPageViews": 151.0,
-  "eventCount": 364.0,
-  "userEngagementDuration": 2367.0,
-  "avgEngagementSeconds": 67.6,
+  "sessions": 45.0,
+  "engagedSessions": 34.0,
+  "screenPageViews": 144.0,
+  "eventCount": 349.0,
+  "userEngagementDuration": 2328.0,
+  "avgEngagementSeconds": 72.8,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 4.3
+  "viewsPerUser": 4.5
  },
  "delta_28d": {
-  "activeUsers": null,
-  "sessions": null,
-  "engagedSessions": null,
-  "avgEngagementSeconds": null,
-  "screenPageViews": null
+  "activeUsers": 966.7,
+  "sessions": 1025.0,
+  "engagedSessions": 750.0,
+  "avgEngagementSeconds": 460.0,
+  "screenPageViews": 1957.1
  },
  "daily": [
   {
@@ -383,58 +383,63 @@
    },
    {
     "date": "2026-08-26",
-    "requests": 429.0,
-    "bytes": 6202323.0
+    "requests": 2252.0,
+    "bytes": 19481775.0
+   },
+   {
+    "date": "2026-08-27",
+    "requests": 512.0,
+    "bytes": 6832620.0
    }
   ],
   "totals_28d": {
-   "requests": 83956.0,
-   "bytes": 584036554.0,
+   "requests": 81018.0,
+   "bytes": 592023761.0,
    "clients": 1058.0,
-   "tool": 68330.0,
-   "browser": 15626.0
+   "tool": 64799.0,
+   "browser": 16219.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 50
+    "n": 54
    },
    {
     "path": "/robots.txt",
-    "n": 19
+    "n": 20
    },
    {
     "path": "/",
-    "n": 8
-   },
-   {
-    "path": "/erddap/tabledap/farallon_bird-mammal_attribute.html",
-    "n": 8
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phyllosoma_attribute.subset",
-    "n": 7
-   },
-   {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 7
+    "n": 9
    },
    {
     "path": "/erddap",
-    "n": 6
+    "n": 9
    },
    {
-    "path": "/erddap/tabledap/sio_pic-zooplankton_sample.html",
-    "n": 6
+    "path": "/erddap/sitemap.xml",
+    "n": 5
    },
    {
-    "path": "/erddap/tabledap/sio_mesopelagic-fish_sample.graph",
-    "n": 6
+    "path": "/erddap/tabledap/calcofi_mets_sample.graph",
+    "n": 5
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 5
    },
    {
     "path": "/erddap/images/erddap2.css",
-    "n": 6
+    "n": 5
+   },
+   {
+    "path": "/erddap/images/wz_dragdrop.js",
+    "n": 4
+   },
+   {
+    "path": "/erddap/files/calcofi_euphausiids/euphausiids_tow/",
+    "n": 4
    }
   ]
  }
