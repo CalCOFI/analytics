@@ -1,23 +1,23 @@
 {
- "generated": "2026-08-28T07:05:02+00:00",
+ "generated": "2026-08-28T11:17:39+00:00",
  "has_data": true,
  "n_products": 22,
  "totals_28d": {
-  "engagedSessions": 645.0,
-  "activeUsers": 1013.0,
-  "sessions": 1294.0
+  "engagedSessions": 680.0,
+  "activeUsers": 1094.0,
+  "sessions": 1383.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
-   "engagedSessions": 130.0,
-   "activeUsers": 257.0,
-   "sessions": 289.0,
-   "engagementRate": 0.5,
-   "avgEngagementSeconds": 25.1,
-   "delta": 2500.0,
+   "engagedSessions": 163.0,
+   "activeUsers": 332.0,
+   "sessions": 370.0,
+   "engagementRate": 0.4,
+   "avgEngagementSeconds": 28.0,
+   "delta": 3160.0,
    "spark": [
     2.0,
     2.0,
@@ -32,19 +32,19 @@
     9.0,
     11.0,
     15.0,
-    201.0
+    276.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 73.0,
-   "activeUsers": 99.0,
-   "sessions": 134.0,
+   "engagedSessions": 74.0,
+   "activeUsers": 101.0,
+   "sessions": 136.0,
    "engagementRate": 0.5,
    "avgEngagementSeconds": 43.5,
-   "delta": 711.1,
+   "delta": 722.2,
    "spark": [
     2.0,
     3.0,
@@ -70,19 +70,19 @@
     4.0,
     11.0,
     12.0,
-    5.0
+    7.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "docs",
    "title": "docs",
-   "engagedSessions": 69.0,
-   "activeUsers": 87.0,
-   "sessions": 106.0,
+   "engagedSessions": 70.0,
+   "activeUsers": 88.0,
+   "sessions": 107.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 44.4,
-   "delta": 263.2,
+   "avgEngagementSeconds": 43.9,
+   "delta": 268.4,
    "spark": [
     4.0,
     1.0,
@@ -148,7 +148,7 @@
     5.0,
     6.0,
     2.0,
-    2.0
+    3.0
    ],
    "mostly_automated": false
   },
@@ -222,10 +222,10 @@
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
    "engagedSessions": 49.0,
-   "activeUsers": 42.0,
-   "sessions": 80.0,
+   "activeUsers": 44.0,
+   "sessions": 84.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 121.9,
+   "avgEngagementSeconds": 124.5,
    "delta": 16.7,
    "spark": [
     1.0,
@@ -264,6 +264,7 @@
     0.0,
     4.0,
     7.0,
+    2.0,
     1.0,
     1.0,
     4.0,
@@ -698,8 +699,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 6.0,
-   "activeUsers": 176.0,
-   "sessions": 177.0,
+   "activeUsers": 177.0,
+   "sessions": 178.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 2.3,
    "delta": 200.0,
@@ -762,7 +763,8 @@
     1.0,
     5.0,
     9.0,
-    4.0
+    4.0,
+    1.0
    ],
    "mostly_automated": true
   },

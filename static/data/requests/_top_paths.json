@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "top_paths": [
    {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 92
+   },
+   {
     "path": "/erddap/index.html",
-    "n": 54
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 20
+    "n": 32
    },
    {
-    "path": "/",
-    "n": 9
+    "path": "/erddap/convert/time.txt",
+    "n": 17
    },
    {
-    "path": "/erddap",
-    "n": 9
+    "path": "/erddap/tabledap/farallon_bird-mammal_attribute.subset",
+    "n": 16
    },
    {
-    "path": "/erddap/sitemap.xml",
-    "n": 5
+    "path": "/erddap/convert/time.html",
+    "n": 16
    },
    {
-    "path": "/erddap/tabledap/calcofi_mets_sample.graph",
-    "n": 5
+    "path": "/erddap/tabledap/sio_mesopelagic-fish_sample.subset",
+    "n": 15
    },
    {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 5
+    "path": "/erddap/tabledap/swfsc_ichthyo_attribute.graph",
+    "n": 15
    },
    {
-    "path": "/erddap/images/erddap2.css",
-    "n": 5
+    "path": "/erddap/tabledap/calcofi_bottle_sample.graph",
+    "n": 15
    },
    {
-    "path": "/erddap/images/wz_dragdrop.js",
-    "n": 4
-   },
-   {
-    "path": "/erddap/files/calcofi_euphausiids/euphausiids_tow/",
-    "n": 4
+    "path": "/erddap/tabledap/sio_mesopelagic-fish.graph",
+    "n": 15
    }
   ]
  },
@@ -135,7 +135,7 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "top_paths": [
    {
     "path": "/",
@@ -143,38 +143,38 @@
    },
    {
     "path": "/robots.txt",
-    "n": 12
+    "n": 15
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/",
+    "path": "/calcofi-db/ducklake/releases/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/gcloud/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2404SH_CTDPrelim/metadata/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0511NH_CTDFinalQC/csvs-plots/Secondary/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/cce-lter/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0401JD_CTDFinalQC/db_csvs/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1004MF_CTDFinalQC/db_csvs/",
+    "path": "/calcofi-files-public/archive/calcofi/dic/0301029/1.1/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-04-01_182031/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/",
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.07.30/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/BOEMWindLayers_4Download.gdb/",
     "n": 2
    }
   ]

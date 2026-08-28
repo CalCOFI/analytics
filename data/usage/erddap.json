@@ -394,58 +394,63 @@
    },
    {
     "date": "2026-08-27",
-    "requests": 512.0,
-    "bytes": 6832620.0
+    "requests": 1870.0,
+    "bytes": 13825582.0
+   },
+   {
+    "date": "2026-08-28",
+    "requests": 3990.0,
+    "bytes": 34029756.0
    }
   ],
   "totals_28d": {
-   "requests": 75846.0,
-   "bytes": 584896339.0,
+   "requests": 81194.0,
+   "bytes": 625919057.0,
    "clients": 1058.0,
-   "tool": 59729.0,
-   "browser": 16117.0
+   "tool": 64713.0,
+   "browser": 16481.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 92
+   },
+   {
     "path": "/erddap/index.html",
-    "n": 54
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 20
+    "n": 32
    },
    {
-    "path": "/",
-    "n": 9
+    "path": "/erddap/convert/time.txt",
+    "n": 17
    },
    {
-    "path": "/erddap",
-    "n": 9
+    "path": "/erddap/tabledap/farallon_bird-mammal_attribute.subset",
+    "n": 16
    },
    {
-    "path": "/erddap/sitemap.xml",
-    "n": 5
+    "path": "/erddap/convert/time.html",
+    "n": 16
    },
    {
-    "path": "/erddap/tabledap/calcofi_mets_sample.graph",
-    "n": 5
+    "path": "/erddap/tabledap/sio_mesopelagic-fish_sample.subset",
+    "n": 15
    },
    {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 5
+    "path": "/erddap/tabledap/swfsc_ichthyo_attribute.graph",
+    "n": 15
    },
    {
-    "path": "/erddap/images/erddap2.css",
-    "n": 5
+    "path": "/erddap/tabledap/calcofi_bottle_sample.graph",
+    "n": 15
    },
    {
-    "path": "/erddap/images/wz_dragdrop.js",
-    "n": 4
-   },
-   {
-    "path": "/erddap/files/calcofi_euphausiids/euphausiids_tow/",
-    "n": 4
+    "path": "/erddap/tabledap/sio_mesopelagic-fish.graph",
+    "n": 15
    }
   ]
  }

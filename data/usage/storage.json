@@ -349,16 +349,21 @@
    },
    {
     "date": "2026-08-27",
-    "requests": 300.0,
-    "bytes": 1910597.0
+    "requests": 721.0,
+    "bytes": 4457467.0
+   },
+   {
+    "date": "2026-08-28",
+    "requests": 252.0,
+    "bytes": 1103997.0
    }
   ],
   "totals_28d": {
-   "requests": 24160.0,
-   "bytes": 4233089317.0,
+   "requests": 24833.0,
+   "bytes": 4236740184.0,
    "clients": 1109.0,
-   "tool": 11248.0,
-   "browser": 12912.0
+   "tool": 11642.0,
+   "browser": 13191.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -368,38 +373,38 @@
    },
    {
     "path": "/robots.txt",
-    "n": 12
+    "n": 15
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/",
+    "path": "/calcofi-db/ducklake/releases/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/gcloud/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2404SH_CTDPrelim/metadata/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0511NH_CTDFinalQC/csvs-plots/Secondary/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/cce-lter/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0401JD_CTDFinalQC/db_csvs/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1004MF_CTDFinalQC/db_csvs/",
+    "path": "/calcofi-files-public/archive/calcofi/dic/0301029/1.1/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-04-01_182031/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/",
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.07.30/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/BOEMWindLayers_4Download.gdb/",
     "n": 2
    }
   ]
