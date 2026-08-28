@@ -1,6 +1,20 @@
 country,countryId,region,activeUsers,sessions
+Croatia,HR,Other,1,1
+France,FR,Other,1,1
+Ghana,GH,Other,1,1
+India,IN,Other,1,1
+Indonesia,ID,Other,1,1
+Ireland,IE,Other,2,2
 Italy,IT,Other,2,4
-Singapore,SG,,1,1
+Mexico,MX,Other,4,4
+Netherlands,NL,Other,1,1
+New Zealand,NZ,Other,1,1
+Philippines,PH,Other,1,1
+Portugal,PT,Other,1,1
+Singapore,SG,,3,3
 Singapore,SG,Other,3,3
-United States,US,California,24,52
-United States,US,Other,17,17
+Sweden,SE,Other,1,1
+United Kingdom,GB,Other,1,1
+United States,US,California,161,205
+United States,US,Other,42,44
+United States,US,Virginia,18,18

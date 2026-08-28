@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 6.0,
-  "newUsers": 5.0,
-  "sessions": 10.0,
+  "activeUsers": 8.0,
+  "newUsers": 7.0,
+  "sessions": 12.0,
   "engagedSessions": 3.0,
-  "screenPageViews": 6.0,
-  "eventCount": 26.0,
-  "userEngagementDuration": 69.0,
-  "avgEngagementSeconds": 11.5,
-  "engagedSessionRate": 0.3,
+  "screenPageViews": 8.0,
+  "eventCount": 33.0,
+  "userEngagementDuration": 134.0,
+  "avgEngagementSeconds": 16.8,
+  "engagedSessionRate": 0.2,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -70.0,
-  "sessions": -66.7,
+  "activeUsers": -60.0,
+  "sessions": -60.0,
   "engagedSessions": -87.0,
-  "avgEngagementSeconds": -88.1,
-  "screenPageViews": -80.0
+  "avgEngagementSeconds": -82.6,
+  "screenPageViews": -73.3
  },
  "daily": [
   {
@@ -190,6 +190,11 @@
    "date": "2026-08-21",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-08-27",
+   "activeUsers": 2.0,
+   "sessions": 2.0
   },
   {
    "date": "20260507",
@@ -362,11 +367,12 @@
   1.57,
   1.43,
   1.29,
-  1.29,
-  1.29,
   1.43,
-  1.29,
   1.43,
+  1.43,
+  1.43,
+  1.43,
+  1.57,
   1.43,
   1.29,
   1.29,
@@ -393,7 +399,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 5.0
+   "activeUsers": 7.0
   },
   {
    "country": "Denmark",
@@ -411,7 +417,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 5.0
+   "activeUsers": 7.0
   },
   {
    "country": "Denmark",
@@ -429,18 +435,18 @@
  "events": [
   {
    "name": "session_start",
-   "count": 10.0,
-   "users": 7.0
+   "count": 12.0,
+   "users": 9.0
   },
   {
    "name": "page_view",
-   "count": 7.0,
-   "users": 7.0
+   "count": 9.0,
+   "users": 9.0
   },
   {
    "name": "first_visit",
-   "count": 6.0,
-   "users": 6.0
+   "count": 8.0,
+   "users": 8.0
   },
   {
    "name": "user_engagement",
@@ -449,8 +455,8 @@
   },
   {
    "name": "scroll",
-   "count": 2.0,
-   "users": 2.0
+   "count": 3.0,
+   "users": 3.0
   }
  ]
 }

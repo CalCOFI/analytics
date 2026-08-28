@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 36.0,
-  "newUsers": 7.0,
-  "sessions": 68.0,
-  "engagedSessions": 45.0,
-  "screenPageViews": 102.0,
-  "eventCount": 718.0,
-  "userEngagementDuration": 4543.0,
-  "avgEngagementSeconds": 126.2,
-  "engagedSessionRate": 0.7,
+  "activeUsers": 42.0,
+  "newUsers": 8.0,
+  "sessions": 80.0,
+  "engagedSessions": 49.0,
+  "screenPageViews": 118.0,
+  "eventCount": 824.0,
+  "userEngagementDuration": 5118.0,
+  "avgEngagementSeconds": 121.9,
+  "engagedSessionRate": 0.6,
   "viewsPerUser": 2.8
  },
  "delta_28d": {
-  "activeUsers": 0.0,
-  "sessions": 7.9,
-  "engagedSessions": 9.8,
-  "avgEngagementSeconds": 92.1,
-  "screenPageViews": 18.6
+  "activeUsers": 13.5,
+  "sessions": 25.0,
+  "engagedSessions": 16.7,
+  "avgEngagementSeconds": 90.2,
+  "screenPageViews": 35.6
  },
  "daily": [
   {
@@ -192,9 +192,19 @@
    "sessions": 2.0
   },
   {
+   "date": "2026-08-24",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
    "date": "2026-08-25",
    "activeUsers": 4.0,
    "sessions": 6.0
+  },
+  {
+   "date": "2026-08-27",
+   "activeUsers": 7.0,
+   "sessions": 12.0
   },
   {
    "date": "20260701",
@@ -301,13 +311,15 @@
   1.71,
   1.71,
   1.71,
-  2.14,
-  1.86,
-  2.0,
-  2.43,
-  2.29,
-  2.0,
-  2.29,
+  1.57,
+  1.71,
+  2.71,
+  2.71,
+  2.57,
+  2.71,
+  2.57,
+  2.71,
+  2.71,
   2.0,
   2.14,
   2.29,
@@ -321,7 +333,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 17.0
+   "activeUsers": 21.0
   },
   {
    "country": "Italy",
@@ -343,14 +355,20 @@
   {
    "country": "United States",
    "countryId": "US",
-   "region": "Other",
-   "activeUsers": 17.0
+   "region": "California",
+   "activeUsers": 13.0
   },
   {
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
    "activeUsers": 11.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Other",
+   "activeUsers": 8.0
   },
   {
    "country": "United Kingdom",
@@ -368,38 +386,38 @@
  "events": [
   {
    "name": "session_start",
-   "count": 177.0,
-   "users": 22.0
-  },
-  {
-   "name": "page_view",
-   "count": 120.0,
-   "users": 23.0
+   "count": 206.0,
+   "users": 26.0
   },
   {
    "name": "scroll",
-   "count": 120.0,
-   "users": 24.0
+   "count": 138.0,
+   "users": 27.0
   },
   {
-   "name": "start_tour",
-   "count": 72.0,
-   "users": 21.0
+   "name": "page_view",
+   "count": 137.0,
+   "users": 27.0
   },
   {
    "name": "user_engagement",
-   "count": 69.0,
-   "users": 11.0
+   "count": 83.0,
+   "users": 14.0
+  },
+  {
+   "name": "start_tour",
+   "count": 77.0,
+   "users": 22.0
   },
   {
    "name": "select_tab",
-   "count": 61.0,
-   "users": 8.0
+   "count": 65.0,
+   "users": 9.0
   },
   {
    "name": "open_filters",
-   "count": 46.0,
-   "users": 9.0
+   "count": 50.0,
+   "users": 10.0
   },
   {
    "name": "map_query_env_poly",
@@ -418,12 +436,12 @@
   },
   {
    "name": "filter_submit",
-   "count": 19.0,
+   "count": 20.0,
    "users": 5.0
   },
   {
    "name": "map_query_env",
-   "count": 19.0,
+   "count": 20.0,
    "users": 5.0
   }
  ],
@@ -655,6 +673,24 @@
     "p95_ms": ""
    },
    {
+    "date": "2026-08-27",
+    "events": "14",
+    "distinct_sessions": "4",
+    "distinct_clients": "4",
+    "errors": "0",
+    "p50_ms": "140.5",
+    "p95_ms": "451.8"
+   },
+   {
+    "date": "2026-08-28",
+    "events": "2",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -770,7 +806,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "15",
+    "n": "16",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -794,9 +830,9 @@
    },
    {
     "event": "map_query_env",
-    "n": "15",
-    "p50_ms": "26.5",
-    "p95_ms": "47.0",
+    "n": "16",
+    "p50_ms": "26.4",
+    "p95_ms": "46.2",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -810,9 +846,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "15",
-    "p50_ms": "252.3",
-    "p95_ms": "341.1",
+    "n": "16",
+    "p50_ms": "253.6",
+    "p95_ms": "340.9",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -826,7 +862,7 @@
    },
    {
     "event": "open_filters",
-    "n": "35",
+    "n": "36",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -834,7 +870,7 @@
    },
    {
     "event": "open_layers",
-    "n": "8",
+    "n": "9",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -858,7 +894,7 @@
    },
    {
     "event": "select_layers",
-    "n": "2",
+    "n": "3",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -874,7 +910,7 @@
    },
    {
     "event": "session_start",
-    "n": "93",
+    "n": "98",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -882,7 +918,7 @@
    },
    {
     "event": "start_tour",
-    "n": "73",
+    "n": "78",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -901,7 +937,7 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "73"
+    "n": "75"
    },
    {
     "param": "taxa",
@@ -921,7 +957,7 @@
    {
     "param": "layers",
     "value": "noaa_maritime_eez",
-    "n": "2"
+    "n": "3"
    },
    {
     "param": "taxa",
@@ -944,6 +980,11 @@
     "n": "2"
    },
    {
+    "param": "taxa",
+    "value": "Pacific krill (species: Euphausia pacifica)",
+    "n": "2"
+   },
+   {
     "param": "layers",
     "value": "ca_ports",
     "n": "1"
@@ -963,9 +1004,9 @@
    },
    {
     "app_version": "07ee123",
-    "n": "4",
+    "n": "20",
     "first_seen": "2026-08-25",
-    "last_seen": "2026-08-25"
+    "last_seen": "2026-08-28"
    },
    {
     "app_version": "0b90a6d",
