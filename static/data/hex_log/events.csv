@@ -18,6 +18,6 @@ select_agg_unit,20,,,0.0,
 select_layers,3,,,0.0,
 select_tab,52,,,0.0,
 select_theme,3,,,0.0,
-session_start,102,,,0.0,
-start_tour,82,,,0.0,
+session_start,103,,,0.0,
+start_tour,83,,,0.0,
 test:log_query,1,842.1,842.1,0.0,13319.0
