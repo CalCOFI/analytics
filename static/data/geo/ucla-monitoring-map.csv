@@ -1,24 +1,31 @@
 country,countryId,region,activeUsers,sessions
-Australia,AU,Other,1,1
+Australia,AU,Other,2,2
+Belgium,BE,Other,1,2
 Brazil,BR,Other,1,1
+Canada,CA,Other,2,2
 China,CN,Other,2,2
 Croatia,HR,Other,1,1
-France,FR,Other,1,1
+France,FR,Other,1,2
+Germany,DE,Other,1,1
 Ghana,GH,Other,1,1
-India,IN,Other,3,3
+Guam,GU,,1,1
+India,IN,Other,4,4
 Indonesia,ID,Other,1,1
-Ireland,IE,Other,2,2
-Italy,IT,Other,2,4
-Mexico,MX,Other,4,4
+Ireland,IE,Other,3,3
+Italy,IT,Other,3,5
+Mexico,MX,Other,7,8
 Netherlands,NL,Other,1,1
-New Zealand,NZ,Other,1,1
+New Zealand,NZ,Other,2,2
 Philippines,PH,Other,2,2
 Portugal,PT,Other,1,1
 Singapore,SG,,3,3
-Singapore,SG,Other,3,3
-Sweden,SE,Other,1,1
-United Kingdom,GB,Other,1,1
-United States,US,California,215,264
-United States,US,Other,40,42
-United States,US,Virginia,24,24
-United States,US,Washington,10,11
+Singapore,SG,Other,6,6
+Sweden,SE,Other,2,2
+Türkiye,TR,Other,1,1
+United Kingdom,GB,Other,2,2
+United States,US,Arizona,12,13
+United States,US,California,376,469
+United States,US,Colorado,14,14
+United States,US,Other,65,67
+United States,US,Virginia,43,43
+United States,US,Washington,18,19

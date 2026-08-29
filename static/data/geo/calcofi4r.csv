@@ -1,10 +1,10 @@
 country,countryId,region,activeUsers,sessions
 Chile,CL,Other,1,1
 China,CN,Other,1,1
-Italy,IT,Other,7,22
+Italy,IT,Other,7,23
 New Zealand,NZ,Other,2,4
 Singapore,SG,,6,6
-Singapore,SG,(not set),45,45
+Singapore,SG,(not set),51,51
 Singapore,SG,Other,3,3
 United States,US,Other,7,22
 Venezuela,VE,Other,1,1
