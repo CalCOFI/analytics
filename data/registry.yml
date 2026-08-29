@@ -78,6 +78,17 @@ products:
     host: calcofi.io
     path_prefixes: ["/db-viz-station/"]
 
+  # the Explorer: one browser-native app across the five spatial grains (2026-08-29),
+  # a static Pages app under calcofi.io/explore/ like ctd-transects below; its GA4
+  # snippet is calcofi4r::cc_ga_html("explore") with content_group "explore"
+  - slug: explore
+    title: explore
+    property: site
+    content_groups: [explore]
+    live_url: https://calcofi.io/explore/
+    host: calcofi.io
+    path_prefixes: ["/explore/"]
+
   # static Pages app, served from the calcofi.io site property like
   # db-viz-station above — not app.calcofi.io, so it needs `host` + a
   # path_prefix to be separable from the rest of the site's traffic.
