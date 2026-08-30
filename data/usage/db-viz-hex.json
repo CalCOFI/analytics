@@ -11,10 +11,10 @@
   "newUsers": 12.0,
   "sessions": 109.0,
   "engagedSessions": 65.0,
-  "screenPageViews": 210.0,
-  "eventCount": 1591.0,
-  "userEngagementDuration": 10683.0,
-  "avgEngagementSeconds": 201.6,
+  "screenPageViews": 211.0,
+  "eventCount": 1615.0,
+  "userEngagementDuration": 10785.0,
+  "avgEngagementSeconds": 203.5,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 4.0
  },
@@ -22,8 +22,8 @@
   "activeUsers": 43.2,
   "sessions": 70.3,
   "engagedSessions": 54.8,
-  "avgEngagementSeconds": 214.5,
-  "screenPageViews": 141.4
+  "avgEngagementSeconds": 217.5,
+  "screenPageViews": 142.5
  },
  "daily": [
   {
@@ -404,12 +404,12 @@
  "events": [
   {
    "name": "session_start",
-   "count": 320.0,
+   "count": 323.0,
    "users": 29.0
   },
   {
    "name": "page_view",
-   "count": 229.0,
+   "count": 230.0,
    "users": 31.0
   },
   {
@@ -419,32 +419,32 @@
   },
   {
    "name": "user_engagement",
-   "count": 134.0,
+   "count": 135.0,
    "users": 15.0
   },
   {
    "name": "start_tour",
-   "count": 121.0,
+   "count": 123.0,
    "users": 25.0
   },
   {
-   "name": "map_query_env",
-   "count": 103.0,
+   "name": "filter_submit",
+   "count": 107.0,
    "users": 9.0
   },
   {
-   "name": "filter_submit",
-   "count": 102.0,
+   "name": "map_query_env",
+   "count": 107.0,
    "users": 9.0
   },
   {
    "name": "map_query_sp",
-   "count": 102.0,
+   "count": 106.0,
    "users": 9.0
   },
   {
    "name": "filter_no_results",
-   "count": 75.0,
+   "count": 79.0,
    "users": 3.0
   },
   {

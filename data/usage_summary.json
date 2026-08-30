@@ -1,23 +1,23 @@
 {
- "generated": "2026-08-30T11:17:38+00:00",
+ "generated": "2026-08-30T16:54:12+00:00",
  "has_data": true,
- "n_products": 22,
+ "n_products": 23,
  "totals_28d": {
-  "engagedSessions": 882.0,
-  "activeUsers": 1493.0,
-  "sessions": 1890.0
+  "engagedSessions": 890.0,
+  "activeUsers": 1505.0,
+  "sessions": 1908.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
-   "engagedSessions": 336.0,
-   "activeUsers": 702.0,
-   "sessions": 828.0,
+   "engagedSessions": 338.0,
+   "activeUsers": 708.0,
+   "sessions": 834.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 30.2,
-   "delta": 6620.0,
+   "avgEngagementSeconds": 30.0,
+   "delta": 6660.0,
    "spark": [
     2.0,
     2.0,
@@ -35,7 +35,7 @@
     276.0,
     285.0,
     84.0,
-    1.0
+    7.0
    ],
    "mostly_automated": false
   },
@@ -165,7 +165,7 @@
    "activeUsers": 53.0,
    "sessions": 109.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 201.6,
+   "avgEngagementSeconds": 203.5,
    "delta": 54.8,
    "spark": [
     1.0,
@@ -296,10 +296,10 @@
    "slug": "calcofi4r",
    "title": "calcofi4r",
    "engagedSessions": 41.0,
-   "activeUsers": 87.0,
-   "sessions": 103.0,
+   "activeUsers": 88.0,
+   "sessions": 104.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 16.9,
+   "avgEngagementSeconds": 16.7,
    "delta": 36.7,
    "spark": [
     4.0,
@@ -387,6 +387,7 @@
     3.0,
     6.0,
     3.0,
+    1.0,
     1.0
    ],
    "mostly_automated": false
@@ -781,6 +782,22 @@
     1.0,
     1.0,
     1.0,
+    1.0
+   ],
+   "mostly_automated": false
+  },
+  {
+   "slug": "explore",
+   "title": "explore",
+   "engagedSessions": 6.0,
+   "activeUsers": 5.0,
+   "sessions": 11.0,
+   "engagementRate": 0.5,
+   "avgEngagementSeconds": 380.4,
+   "delta": null,
+   "spark": [
+    2.0,
+    2.0,
     1.0
    ],
    "mostly_automated": false
