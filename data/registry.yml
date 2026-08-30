@@ -79,11 +79,13 @@ products:
     path_prefixes: ["/db-viz-station/"]
 
   # the Explorer: one browser-native app across the five spatial grains (2026-08-29),
-  # a static Pages app under calcofi.io/explore/ like ctd-transects below; its GA4
-  # snippet is calcofi4r::cc_ga_html("explore") with content_group "explore"
+  # a static Pages app under calcofi.io/explore/. Its GA4 snippet is
+  # calcofi4r::cc_ga_html("explore") = the APPS measurement id (G-VV117EV9ZT) with
+  # content_group "explore" — so it reports to the apps property although it is
+  # served from calcofi.io (filed under `site` at first, which found nothing).
   - slug: explore
     title: explore
-    property: site
+    property: apps
     content_groups: [explore]
     live_url: https://calcofi.io/explore/
     host: calcofi.io
