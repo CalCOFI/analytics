@@ -1,64 +1,52 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "top_paths": [
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 55
-   },
-   {
     "path": "/erddap/index.html",
-    "n": 50
+    "n": 51
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton_sample.html",
-    "n": 21
-   },
-   {
-    "path": "/erddap/wms/jplMURSST41/request",
-    "n": 18
-   },
-   {
-    "path": "/erddap/metadata/fgdc/xml/",
-    "n": 14
+    "path": "/erddap/subscriptions/add.html",
+    "n": 19
    },
    {
     "path": "/robots.txt",
-    "n": 13
+    "n": 17
+   },
+   {
+    "path": "/erddap/images/erddap2.css",
+    "n": 11
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 10
    },
    {
     "path": "/",
-    "n": 13
+    "n": 8
    },
    {
-    "path": "/erddap/metadata/iso19115/xml/",
-    "n": 13
+    "path": "/erddap/images/wz_dragdrop.js",
+    "n": 8
    },
    {
-    "path": "/erddap/search/advanced.html",
-    "n": 12
+    "path": "/erddap",
+    "n": 7
    },
    {
-    "path": "/erddap/tabledap/swfsc_cufes_sample.graph",
-    "n": 12
+    "path": "/erddap/tabledap/farallon_bird-mammal_sample.html",
+    "n": 6
+   },
+   {
+    "path": "/erddap/sitemap.xml",
+    "n": 6
    }
   ]
  },
  "erddap.calcofi.io:443": {
-  "date": "2026-08-19",
+  "date": "2026-08-30",
   "top_paths": [
-   {
-    "path": "/",
-    "n": 4
-   },
-   {
-    "path": "/erddap",
-    "n": 4
-   },
-   {
-    "path": "/erddap/index.html",
-    "n": 4
-   },
    {
     "path": "/.env",
     "n": 1
@@ -86,11 +74,23 @@
    {
     "path": "/.env.prod",
     "n": 1
+   },
+   {
+    "path": "/.env.production",
+    "n": 1
+   },
+   {
+    "path": "/.env.staging",
+    "n": 1
+   },
+   {
+    "path": "/.env.local",
+    "n": 1
    }
   ]
  },
  "erddap.calcofi.io:80": {
-  "date": "2026-08-19",
+  "date": "2026-08-30",
   "top_paths": [
    {
     "path": "/.env",
@@ -135,88 +135,136 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
+    "n": 45
+   },
+   {
+    "path": "/ip",
+    "n": 12
    },
    {
     "path": "/robots.txt",
-    "n": 11
-   },
-   {
-    "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1101NH_CTDFinalQC/db_csvs/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.07.30/",
+    "path": "/calcofi-files-public/archive/2026-08-07_020000/calcofi/ctd-cast/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/sio_pic-zooplankton/v2026.08.04/",
+    "path": "/calcofi-files-public/archive/2026-08-07_020000/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1711SR_CTDFinalQC/db-csvs/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1001NH_CTDFinalQC/db_csvs/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2211SR_CTDPrelim/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1202NH_CTDFinalQC/asc-hdr/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/cdfw/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0310NH_CTDFinalQC/db_csvs/",
-    "n": 3
+    "path": "/.git/config",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/cdfw/dungeness-crab/",
+    "n": 2
    }
   ]
  },
  "storage.calcofi.io:443": {
-  "date": "2026-08-20",
+  "date": "2026-08-30",
   "top_paths": [
    {
-    "path": "/",
+    "path": "/.env",
     "n": 1
    },
    {
-    "path": "/robots.txt",
+    "path": "/.git/HEAD",
     "n": 1
    },
    {
-    "path": "/favicon.ico",
+    "path": "/.env.backup",
     "n": 1
    },
    {
-    "path": "/sitemap.xml",
+    "path": "/.env.old",
+    "n": 1
+   },
+   {
+    "path": "/.env.save",
+    "n": 1
+   },
+   {
+    "path": "/.env.bak",
+    "n": 1
+   },
+   {
+    "path": "/.env.prod",
+    "n": 1
+   },
+   {
+    "path": "/.env.production",
+    "n": 1
+   },
+   {
+    "path": "/.env.staging",
+    "n": 1
+   },
+   {
+    "path": "/.env.local",
     "n": 1
    }
   ]
  },
  "storage.calcofi.io:80": {
-  "date": "2026-08-20",
+  "date": "2026-08-30",
   "top_paths": [
    {
-    "path": "/",
+    "path": "/.env",
     "n": 1
    },
    {
-    "path": "/robots.txt",
+    "path": "/.env.backup",
     "n": 1
    },
    {
-    "path": "/favicon.ico",
+    "path": "/.env.save",
     "n": 1
    },
    {
-    "path": "/sitemap.xml",
+    "path": "/.env.prod",
+    "n": 1
+   },
+   {
+    "path": "/.env.staging",
+    "n": 1
+   },
+   {
+    "path": "/.env.live",
+    "n": 1
+   },
+   {
+    "path": "/.env.stage",
+    "n": 1
+   },
+   {
+    "path": "/env",
+    "n": 1
+   },
+   {
+    "path": "/app/.env",
+    "n": 1
+   },
+   {
+    "path": "/backend/.env",
     "n": 1
    }
   ]

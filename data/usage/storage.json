@@ -359,58 +359,63 @@
    },
    {
     "date": "2026-08-29",
-    "requests": 3150.0,
-    "bytes": 34241624.0
+    "requests": 3642.0,
+    "bytes": 52604400.0
+   },
+   {
+    "date": "2026-08-30",
+    "requests": 269.0,
+    "bytes": 5276694.0
    }
   ],
   "totals_28d": {
-   "requests": 25696.0,
-   "bytes": 4026678253.0,
+   "requests": 26457.0,
+   "bytes": 4050317723.0,
    "clients": 1109.0,
-   "tool": 11206.0,
-   "browser": 14490.0
+   "tool": 11590.0,
+   "browser": 14867.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
+    "n": 45
+   },
+   {
+    "path": "/ip",
+    "n": 12
    },
    {
     "path": "/robots.txt",
-    "n": 11
-   },
-   {
-    "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1101NH_CTDFinalQC/db_csvs/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.07.30/",
+    "path": "/calcofi-files-public/archive/2026-08-07_020000/calcofi/ctd-cast/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/sio_pic-zooplankton/v2026.08.04/",
+    "path": "/calcofi-files-public/archive/2026-08-07_020000/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1711SR_CTDFinalQC/db-csvs/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1001NH_CTDFinalQC/db_csvs/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2211SR_CTDPrelim/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1202NH_CTDFinalQC/asc-hdr/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/cdfw/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0310NH_CTDFinalQC/db_csvs/",
-    "n": 3
+    "path": "/.git/config",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/cdfw/dungeness-crab/",
+    "n": 2
    }
   ]
  }

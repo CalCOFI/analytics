@@ -1,23 +1,23 @@
 {
- "generated": "2026-08-30T01:40:40+00:00",
+ "generated": "2026-08-30T11:17:38+00:00",
  "has_data": true,
  "n_products": 22,
  "totals_28d": {
-  "engagedSessions": 868.0,
-  "activeUsers": 1451.0,
-  "sessions": 1821.0
+  "engagedSessions": 882.0,
+  "activeUsers": 1493.0,
+  "sessions": 1890.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
-   "engagedSessions": 323.0,
-   "activeUsers": 667.0,
-   "sessions": 777.0,
+   "engagedSessions": 336.0,
+   "activeUsers": 702.0,
+   "sessions": 828.0,
    "engagementRate": 0.4,
    "avgEngagementSeconds": 30.2,
-   "delta": 6360.0,
+   "delta": 6620.0,
    "spark": [
     2.0,
     2.0,
@@ -34,19 +34,20 @@
     15.0,
     276.0,
     285.0,
-    50.0
+    84.0,
+    1.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 84.0,
-   "activeUsers": 112.0,
-   "sessions": 152.0,
+   "engagedSessions": 85.0,
+   "activeUsers": 113.0,
+   "sessions": 154.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 41.3,
-   "delta": 833.3,
+   "avgEngagementSeconds": 41.0,
+   "delta": 844.4,
    "spark": [
     2.0,
     3.0,
@@ -74,7 +75,7 @@
     12.0,
     7.0,
     11.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
@@ -161,10 +162,10 @@
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
    "engagedSessions": 65.0,
-   "activeUsers": 47.0,
-   "sessions": 93.0,
-   "engagementRate": 0.7,
-   "avgEngagementSeconds": 118.9,
+   "activeUsers": 53.0,
+   "sessions": 109.0,
+   "engagementRate": 0.6,
+   "avgEngagementSeconds": 201.6,
    "delta": 54.8,
    "spark": [
     1.0,
@@ -204,7 +205,8 @@
     4.0,
     7.0,
     3.0,
-    2.0,
+    4.0,
+    4.0,
     1.0,
     1.0,
     4.0,

@@ -15,19 +15,22 @@ India,IN,Other,4,4
 Indonesia,ID,Other,1,1
 Ireland,IE,Other,4,4
 Italy,IT,Other,3,5
-Mexico,MX,Other,8,9
+Mexico,MX,Other,9,10
 Netherlands,NL,Other,1,1
 New Zealand,NZ,Other,2,2
+Panama,PA,,1,1
 Philippines,PH,Other,2,2
 Portugal,PT,Other,1,1
-Singapore,SG,,3,3
+Singapore,SG,,1,2
 Singapore,SG,Other,6,6
 Sweden,SE,Other,2,2
 Türkiye,TR,Other,1,1
-United Kingdom,GB,Other,2,2
-United States,US,Arizona,13,14
-United States,US,California,434,556
+United Kingdom,GB,Other,3,3
+United States,US,,1,1
+United States,US,Arizona,15,16
+United States,US,California,455,592
 United States,US,Colorado,15,15
-United States,US,Other,73,75
-United States,US,Virginia,44,44
-United States,US,Washington,21,22
+United States,US,Oregon,10,10
+United States,US,Other,66,68
+United States,US,Virginia,46,46
+United States,US,Washington,22,23

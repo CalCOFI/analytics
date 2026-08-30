@@ -410,58 +410,63 @@
    },
    {
     "date": "2026-08-29",
-    "requests": 3235.0,
-    "bytes": 36882868.0
+    "requests": 4976.0,
+    "bytes": 47095270.0
+   },
+   {
+    "date": "2026-08-30",
+    "requests": 629.0,
+    "bytes": 7740017.0
    }
   ],
   "totals_28d": {
-   "requests": 74973.0,
-   "bytes": 658867176.0,
-   "clients": 1058.0,
-   "tool": 56340.0,
-   "browser": 18633.0
+   "requests": 77343.0,
+   "bytes": 676819595.0,
+   "clients": 1192.0,
+   "tool": 58013.0,
+   "browser": 19330.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 55
-   },
-   {
     "path": "/erddap/index.html",
-    "n": 50
+    "n": 51
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton_sample.html",
-    "n": 21
-   },
-   {
-    "path": "/erddap/wms/jplMURSST41/request",
-    "n": 18
-   },
-   {
-    "path": "/erddap/metadata/fgdc/xml/",
-    "n": 14
+    "path": "/erddap/subscriptions/add.html",
+    "n": 19
    },
    {
     "path": "/robots.txt",
-    "n": 13
+    "n": 17
+   },
+   {
+    "path": "/erddap/images/erddap2.css",
+    "n": 11
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 10
    },
    {
     "path": "/",
-    "n": 13
+    "n": 8
    },
    {
-    "path": "/erddap/metadata/iso19115/xml/",
-    "n": 13
+    "path": "/erddap/images/wz_dragdrop.js",
+    "n": 8
    },
    {
-    "path": "/erddap/search/advanced.html",
-    "n": 12
+    "path": "/erddap",
+    "n": 7
    },
    {
-    "path": "/erddap/tabledap/swfsc_cufes_sample.graph",
-    "n": 12
+    "path": "/erddap/tabledap/farallon_bird-mammal_sample.html",
+    "n": 6
+   },
+   {
+    "path": "/erddap/sitemap.xml",
+    "n": 6
    }
   ]
  }
