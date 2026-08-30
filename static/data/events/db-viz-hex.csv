@@ -14,12 +14,12 @@ map_query_sp_poly,29,2
 open_filters,52,10
 open_layers,14,8
 open_transect,4,2
-page_view,150,29
-scroll,150,29
+page_view,152,29
+scroll,151,29
 select_agg_unit,26,2
 select_layers,5,4
 select_tab,65,9
 select_theme,14,2
-session_start,228,27
+session_start,232,27
 start_tour,82,24
-user_engagement,93,14
+user_engagement,94,14

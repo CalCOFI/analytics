@@ -1,6 +1,7 @@
 country,countryId,region,activeUsers,sessions
 Australia,AU,Other,2,2
-Belgium,BE,Other,1,2
+Belgium,BE,Other,2,3
+Botswana,BW,,2,2
 Brazil,BR,Other,1,1
 Canada,CA,Other,2,2
 China,CN,Other,2,2
@@ -9,11 +10,12 @@ France,FR,Other,1,2
 Germany,DE,Other,1,1
 Ghana,GH,Other,1,1
 Guam,GU,,1,1
+Guam,GU,Other,1,1
 India,IN,Other,4,4
 Indonesia,ID,Other,1,1
-Ireland,IE,Other,3,3
+Ireland,IE,Other,4,4
 Italy,IT,Other,3,5
-Mexico,MX,Other,7,8
+Mexico,MX,Other,8,9
 Netherlands,NL,Other,1,1
 New Zealand,NZ,Other,2,2
 Philippines,PH,Other,2,2
@@ -24,8 +26,8 @@ Sweden,SE,Other,2,2
 Türkiye,TR,Other,1,1
 United Kingdom,GB,Other,2,2
 United States,US,Arizona,13,14
-United States,US,California,401,511
-United States,US,Colorado,14,14
-United States,US,Other,66,68
-United States,US,Virginia,43,43
-United States,US,Washington,18,19
+United States,US,California,434,556
+United States,US,Colorado,15,15
+United States,US,Other,73,75
+United States,US,Virginia,44,44
+United States,US,Washington,21,22
