@@ -3,9 +3,9 @@ click,4,2
 export,6,1
 feedback,6,1
 first_visit,2,2
-page_view,219,4
-scroll,34,4
-session_start,11,4
+page_view,229,4
+scroll,37,4
+session_start,12,4
 share,1,1
-user_engagement,29,4
+user_engagement,31,4
 view_search_results,2,1

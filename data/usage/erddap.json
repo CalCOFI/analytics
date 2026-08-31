@@ -415,16 +415,21 @@
    },
    {
     "date": "2026-08-30",
-    "requests": 629.0,
-    "bytes": 7740017.0
+    "requests": 1852.0,
+    "bytes": 15081029.0
+   },
+   {
+    "date": "2026-08-31",
+    "requests": 565.0,
+    "bytes": 6928751.0
    }
   ],
   "totals_28d": {
-   "requests": 71715.0,
-   "bytes": 667046446.0,
+   "requests": 73503.0,
+   "bytes": 681316209.0,
    "clients": 1192.0,
-   "tool": 52635.0,
-   "browser": 19080.0
+   "tool": 53699.0,
+   "browser": 19804.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -434,39 +439,39 @@
    },
    {
     "path": "/erddap/subscriptions/add.html",
-    "n": 19
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 17
-   },
-   {
-    "path": "/erddap/images/erddap2.css",
-    "n": 11
-   },
-   {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 10
+    "n": 22
    },
    {
     "path": "/",
-    "n": 8
-   },
-   {
-    "path": "/erddap/images/wz_dragdrop.js",
-    "n": 8
+    "n": 12
    },
    {
     "path": "/erddap",
-    "n": 7
+    "n": 8
    },
    {
-    "path": "/erddap/tabledap/farallon_bird-mammal_sample.html",
-    "n": 6
+    "path": "/ip",
+    "n": 8
    },
    {
     "path": "/erddap/sitemap.xml",
     "n": 6
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
+    "n": 5
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle.html",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd_thin.graph",
+    "n": 4
    }
   ]
  }

@@ -1,6 +1,6 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "top_paths": [
    {
     "path": "/erddap/index.html",
@@ -8,39 +8,39 @@
    },
    {
     "path": "/erddap/subscriptions/add.html",
-    "n": 19
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 17
-   },
-   {
-    "path": "/erddap/images/erddap2.css",
-    "n": 11
-   },
-   {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 10
+    "n": 22
    },
    {
     "path": "/",
-    "n": 8
-   },
-   {
-    "path": "/erddap/images/wz_dragdrop.js",
-    "n": 8
+    "n": 12
    },
    {
     "path": "/erddap",
-    "n": 7
+    "n": 8
    },
    {
-    "path": "/erddap/tabledap/farallon_bird-mammal_sample.html",
-    "n": 6
+    "path": "/ip",
+    "n": 8
    },
    {
     "path": "/erddap/sitemap.xml",
     "n": 6
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
+    "n": 5
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle.html",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd_thin.graph",
+    "n": 4
    }
   ]
  },
@@ -135,46 +135,46 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "top_paths": [
    {
     "path": "/",
-    "n": 45
-   },
-   {
-    "path": "/ip",
-    "n": 12
+    "n": 47
    },
    {
     "path": "/robots.txt",
+    "n": 15
+   },
+   {
+    "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-08-07_020000/calcofi/ctd-cast/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-08-07_020000/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/v2026.07.30/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2211SR_CTDPrelim/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1911OC_CTDFinalQC/db-csvs/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/cdfw/",
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/",
     "n": 2
    },
    {
-    "path": "/.git/config",
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.07.30/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/cdfw/dungeness-crab/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/bottle-database/CalCOFI_Database_194903-202001_csv_22Sep2021/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1601RL_CTDFinalQC/db_csvs/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.07.30/",
     "n": 2
    }
   ]
