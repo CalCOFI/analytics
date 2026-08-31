@@ -1,9 +1,9 @@
 param,value,n
 env_var,ph,4
-env_var,temperature,167
-layers,ca_county_boundaries,1
+env_var,temperature,191
+layers,ca_county_boundaries,3
 layers,ca_ports,1
-layers,noaa_maritime_eez,4
+layers,noaa_maritime_eez,6
 taxa,(family: Aetideidae),2
 taxa,(species: Dasyscopelus obtusirostris),2
 taxa,(species: Euphausia brevis),5
@@ -11,6 +11,6 @@ taxa,(species: Metacarcinus magister),2
 taxa,Dungeness crab (species: Metacarcinus magister),12
 taxa,Market squid (species: Doryteuthis opalescens),2
 taxa,Northern anchovy (species: Engraulis mordax),9
-taxa,Pacific krill (species: Euphausia pacifica),2
-taxa,Pacific sardine (pilchard) (species: Sardinops sagax),83
+taxa,Pacific krill (species: Euphausia pacifica),6
+taxa,Pacific sardine (pilchard) (species: Sardinops sagax),103
 taxa,Sardinops sagax,1

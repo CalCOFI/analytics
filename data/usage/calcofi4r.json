@@ -10,20 +10,20 @@
   "activeUsers": 88.0,
   "newUsers": 61.0,
   "sessions": 104.0,
-  "engagedSessions": 41.0,
-  "screenPageViews": 126.0,
-  "eventCount": 330.0,
-  "userEngagementDuration": 1468.0,
-  "avgEngagementSeconds": 16.7,
+  "engagedSessions": 42.0,
+  "screenPageViews": 127.0,
+  "eventCount": 333.0,
+  "userEngagementDuration": 1482.0,
+  "avgEngagementSeconds": 16.8,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": 51.7,
-  "sessions": 52.9,
-  "engagedSessions": 36.7,
-  "avgEngagementSeconds": -13.9,
-  "screenPageViews": 82.6
+  "activeUsers": 57.1,
+  "sessions": 57.6,
+  "engagedSessions": 44.8,
+  "avgEngagementSeconds": -5.6,
+  "screenPageViews": 86.8
  },
  "daily": [
   {
@@ -458,8 +458,8 @@
   },
   {
    "date": "2026-08-30",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -549,7 +549,7 @@
   3.86,
   3.43,
   3.43,
-  3.43
+  3.57
  ],
  "geo_country": [
   {
@@ -571,6 +571,11 @@
    "country": "New Zealand",
    "countryId": "NZ",
    "activeUsers": 2.0
+  },
+  {
+   "country": "Bulgaria",
+   "countryId": "BG",
+   "activeUsers": 1.0
   },
   {
    "country": "Chile",
@@ -620,6 +625,12 @@
    "activeUsers": 2.0
   },
   {
+   "country": "Bulgaria",
+   "countryId": "BG",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Chile",
    "countryId": "CL",
    "region": "Other",
@@ -647,23 +658,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 128.0,
-   "users": 68.0
+   "count": 130.0,
+   "users": 69.0
   },
   {
    "name": "session_start",
-   "count": 78.0,
-   "users": 68.0
+   "count": 79.0,
+   "users": 69.0
   },
   {
    "name": "first_visit",
-   "count": 63.0,
-   "users": 63.0
+   "count": 64.0,
+   "users": 64.0
   },
   {
    "name": "user_engagement",
-   "count": 46.0,
-   "users": 5.0
+   "count": 48.0,
+   "users": 6.0
   },
   {
    "name": "scroll",

@@ -2,6 +2,7 @@ country,countryId,region,activeUsers,sessions
 Australia,AU,Other,2,2
 Belgium,BE,Other,2,3
 Botswana,BW,,2,2
+Botswana,BW,Other,2,2
 Brazil,BR,Other,1,1
 Canada,CA,Other,2,2
 China,CN,Other,2,2
@@ -19,18 +20,19 @@ Mexico,MX,Other,9,10
 Netherlands,NL,Other,1,1
 New Zealand,NZ,Other,2,2
 Panama,PA,,1,1
+Panama,PA,Other,1,1
 Philippines,PH,Other,2,2
 Portugal,PT,Other,1,1
 Singapore,SG,,1,2
-Singapore,SG,Other,6,6
-Sweden,SE,Other,2,2
+Singapore,SG,Other,7,8
+Sweden,SE,Other,3,3
 Türkiye,TR,Other,1,1
 United Kingdom,GB,Other,3,3
 United States,US,,1,1
 United States,US,Arizona,15,16
-United States,US,California,458,596
+United States,US,California,480,631
 United States,US,Colorado,15,15
 United States,US,Oregon,10,10
-United States,US,Other,68,70
+United States,US,Other,70,72
 United States,US,Virginia,46,46
-United States,US,Washington,22,23
+United States,US,Washington,26,28
