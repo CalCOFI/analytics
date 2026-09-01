@@ -1,2 +1,4 @@
 country,countryId,region,activeUsers,sessions
-Italy,IT,Other,4,13
+Italy,IT,Other,7,21
+United Kingdom,GB,Other,1,1
+United States,US,Other,1,2

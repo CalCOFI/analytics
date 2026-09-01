@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260721",
  "totals_28d": {
-  "activeUsers": 9.0,
-  "newUsers": 7.0,
-  "sessions": 10.0,
+  "activeUsers": 10.0,
+  "newUsers": 8.0,
+  "sessions": 11.0,
   "engagedSessions": 8.0,
-  "screenPageViews": 13.0,
-  "eventCount": 43.0,
-  "userEngagementDuration": 245.0,
-  "avgEngagementSeconds": 27.2,
-  "engagedSessionRate": 0.8,
-  "viewsPerUser": 1.4
+  "screenPageViews": 15.0,
+  "eventCount": 50.0,
+  "userEngagementDuration": 250.0,
+  "avgEngagementSeconds": 25.0,
+  "engagedSessionRate": 0.7,
+  "viewsPerUser": 1.5
  },
  "delta_28d": {
-  "activeUsers": 12.5,
-  "sessions": 0.0,
+  "activeUsers": 25.0,
+  "sessions": 10.0,
   "engagedSessions": 60.0,
-  "avgEngagementSeconds": 41.7,
-  "screenPageViews": 62.5
+  "avgEngagementSeconds": 30.2,
+  "screenPageViews": 87.5
  },
  "daily": [
   {
@@ -187,6 +187,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-08-31",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260507",
    "activeUsers": 1.0,
    "sessions": 2.0
@@ -346,9 +351,10 @@
   1.29,
   1.29,
   1.29,
+  1.29,
   1.43,
-  1.43,
-  1.43,
+  1.29,
+  1.29,
   1.29,
   1.29,
   1.57,
@@ -375,7 +381,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   },
   {
    "country": "Australia",
@@ -408,7 +414,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   },
   {
    "country": "Australia",
@@ -444,28 +450,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 13.0,
-   "users": 9.0
+   "count": 15.0,
+   "users": 10.0
   },
   {
    "name": "scroll",
-   "count": 10.0,
-   "users": 6.0
+   "count": 12.0,
+   "users": 7.0
   },
   {
    "name": "session_start",
+   "count": 9.0,
+   "users": 9.0
+  },
+  {
+   "name": "first_visit",
    "count": 8.0,
    "users": 8.0
   },
   {
-   "name": "first_visit",
-   "count": 7.0,
-   "users": 7.0
-  },
-  {
    "name": "user_engagement",
-   "count": 5.0,
-   "users": 5.0
+   "count": 6.0,
+   "users": 6.0
   }
  ]
 }
