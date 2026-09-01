@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 52.0,
+  "activeUsers": 53.0,
   "newUsers": 10.0,
-  "sessions": 139.0,
-  "engagedSessions": 67.0,
-  "screenPageViews": 345.0,
-  "eventCount": 2598.0,
-  "userEngagementDuration": 26797.0,
-  "avgEngagementSeconds": 515.3,
-  "engagedSessionRate": 0.5,
-  "viewsPerUser": 6.6
+  "sessions": 144.0,
+  "engagedSessions": 99.0,
+  "screenPageViews": 361.0,
+  "eventCount": 2710.0,
+  "userEngagementDuration": 27178.0,
+  "avgEngagementSeconds": 512.8,
+  "engagedSessionRate": 0.7,
+  "viewsPerUser": 6.8
  },
  "delta_28d": {
-  "activeUsers": 30.0,
-  "sessions": 75.9,
-  "engagedSessions": 26.4,
-  "avgEngagementSeconds": 448.8,
-  "screenPageViews": 169.5
+  "activeUsers": 32.5,
+  "sessions": 82.3,
+  "engagedSessions": 86.8,
+  "avgEngagementSeconds": 446.1,
+  "screenPageViews": 182.0
  },
  "daily": [
   {
@@ -224,7 +224,12 @@
   {
    "date": "2026-08-31",
    "activeUsers": 3.0,
-   "sessions": 14.0
+   "sessions": 18.0
+  },
+  {
+   "date": "2026-09-01",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   },
   {
    "date": "20260701",
@@ -340,10 +345,11 @@
   3.57,
   3.71,
   3.29,
-  2.86,
+  2.43,
   2.57,
   2.14,
-  2.14,
+  1.71,
+  1.86,
   2.0,
   2.14,
   2.29,
@@ -372,6 +378,11 @@
   {
    "country": "Indonesia",
    "countryId": "ID",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "New Zealand",
+   "countryId": "NZ",
    "activeUsers": 1.0
   }
  ],
@@ -405,67 +416,73 @@
    "countryId": "ID",
    "region": "Other",
    "activeUsers": 1.0
+  },
+  {
+   "country": "New Zealand",
+   "countryId": "NZ",
+   "region": "Other",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "session_start",
-   "count": 543.0,
-   "users": 29.0
+   "count": 564.0,
+   "users": 30.0
   },
   {
    "name": "page_view",
-   "count": 406.0,
-   "users": 31.0
+   "count": 422.0,
+   "users": 32.0
   },
   {
    "name": "scroll",
-   "count": 392.0,
-   "users": 31.0
+   "count": 407.0,
+   "users": 32.0
   },
   {
    "name": "user_engagement",
-   "count": 215.0,
-   "users": 15.0
+   "count": 223.0,
+   "users": 16.0
+  },
+  {
+   "name": "start_tour",
+   "count": 201.0,
+   "users": 27.0
   },
   {
    "name": "filter_submit",
-   "count": 193.0,
+   "count": 199.0,
    "users": 9.0
   },
   {
    "name": "map_query_env",
-   "count": 193.0,
+   "count": 199.0,
    "users": 9.0
   },
   {
    "name": "map_query_sp",
-   "count": 192.0,
+   "count": 199.0,
    "users": 9.0
   },
   {
-   "name": "start_tour",
-   "count": 192.0,
-   "users": 25.0
-  },
-  {
    "name": "select_theme",
-   "count": 115.0,
+   "count": 121.0,
    "users": 4.0
   },
   {
    "name": "select_tab",
-   "count": 113.0,
-   "users": 10.0
+   "count": 116.0,
+   "users": 11.0
   },
   {
    "name": "filter_no_results",
-   "count": 81.0,
+   "count": 83.0,
    "users": 3.0
   },
   {
    "name": "open_filters",
-   "count": 79.0,
+   "count": 80.0,
    "users": 13.0
   }
  ],

@@ -1,6 +1,7 @@
 country,countryId,region,activeUsers,sessions
 Indonesia,ID,Other,1,1
 Italy,IT,Other,11,61
+New Zealand,NZ,Other,1,1
 United Kingdom,GB,Other,3,3
-United States,US,California,16,99
+United States,US,California,16,101
 United States,US,Other,8,9

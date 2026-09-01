@@ -5,18 +5,18 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-08-31",
+ "last_day": "2026-09-01",
  "totals_28d": {
-  "activeUsers": 10.0,
-  "newUsers": 2.0,
-  "sessions": 24.0,
-  "engagedSessions": 15.0,
-  "screenPageViews": 415.0,
-  "eventCount": 576.0,
-  "userEngagementDuration": 4441.0,
-  "avgEngagementSeconds": 444.1,
+  "activeUsers": 13.0,
+  "newUsers": 3.0,
+  "sessions": 30.0,
+  "engagedSessions": 18.0,
+  "screenPageViews": 491.0,
+  "eventCount": 673.0,
+  "userEngagementDuration": 5388.0,
+  "avgEngagementSeconds": 414.5,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 41.5
+  "viewsPerUser": 37.8
  },
  "delta_28d": {
   "activeUsers": null,
@@ -43,21 +43,32 @@
   },
   {
    "date": "2026-08-31",
-   "activeUsers": 5.0,
-   "sessions": 11.0
+   "activeUsers": 6.0,
+   "sessions": 15.0
+  },
+  {
+   "date": "2026-09-01",
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
   2.0,
   2.0,
   1.67,
-  2.5
+  2.75,
+  2.6
  ],
  "geo_country": [
   {
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 7.0
+  },
+  {
+   "country": "New Zealand",
+   "countryId": "NZ",
+   "activeUsers": 1.0
   },
   {
    "country": "United Kingdom",
@@ -78,6 +89,12 @@
    "activeUsers": 7.0
   },
   {
+   "country": "New Zealand",
+   "countryId": "NZ",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "United Kingdom",
    "countryId": "GB",
    "region": "Other",
@@ -93,32 +110,32 @@
  "events": [
   {
    "name": "page_view",
-   "count": 415.0,
-   "users": 7.0
+   "count": 491.0,
+   "users": 8.0
   },
   {
    "name": "scroll",
-   "count": 63.0,
+   "count": 72.0,
    "users": 7.0
   },
   {
    "name": "user_engagement",
-   "count": 51.0,
+   "count": 55.0,
    "users": 7.0
   },
   {
    "name": "session_start",
-   "count": 21.0,
-   "users": 6.0
+   "count": 26.0,
+   "users": 7.0
   },
   {
    "name": "export",
-   "count": 8.0,
+   "count": 9.0,
    "users": 1.0
   },
   {
    "name": "feedback",
-   "count": 6.0,
+   "count": 7.0,
    "users": 1.0
   },
   {
@@ -127,14 +144,14 @@
    "users": 2.0
   },
   {
+   "name": "first_visit",
+   "count": 3.0,
+   "users": 3.0
+  },
+  {
    "name": "share",
    "count": 3.0,
    "users": 1.0
-  },
-  {
-   "name": "first_visit",
-   "count": 2.0,
-   "users": 2.0
   },
   {
    "name": "view_search_results",

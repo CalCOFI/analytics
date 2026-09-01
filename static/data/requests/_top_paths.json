@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 51
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 46
+    "n": 47
    },
    {
     "path": "/robots.txt",
-    "n": 22
+    "n": 31
    },
    {
-    "path": "/",
-    "n": 12
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "n": 10
    },
    {
-    "path": "/erddap",
+    "path": "/this_is_a_new_hello_world.php",
+    "n": 10
+   },
+   {
+    "path": "/simple.php",
+    "n": 10
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
     "n": 8
    },
    {
-    "path": "/ip",
+    "path": "/erddap/tabledap/calcofi_casts.subset",
     "n": 8
    },
    {
-    "path": "/erddap/sitemap.xml",
-    "n": 6
+    "path": "/erddap/tabledap/calcofi_euphausiids.subset",
+    "n": 8
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
-    "n": 5
+    "path": "/wp-content/themes/index.php",
+    "n": 8
    },
    {
-    "path": "/erddap/tabledap/calcofi_bottle.html",
-    "n": 4
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd_thin.graph",
-    "n": 4
+    "path": "/css.php",
+    "n": 8
    }
   ]
  },
@@ -135,47 +135,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 15
+    "n": 16
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/v2026.07.30/",
+    "path": "/calcofi-files-public/manifests/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2307SR_CTDPrelim/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1911OC_CTDFinalQC/db-csvs/",
+    "path": "/.env",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/",
-    "n": 2
+    "path": "/calcofi-db/ingest/calcofi_ctd-cast/obs/cruise_key=2021-11-33P4/",
+    "n": 1
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.07.30/",
-    "n": 2
+    "path": "/calcofi-db/ingest/calcofi_ctd-cast/obs/cruise_key=2010-01-32NM/",
+    "n": 1
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/bottle-database/CalCOFI_Database_194903-202001_csv_22Sep2021/",
-    "n": 2
+    "path": "/calcofi-db/ingest/calcofi_ctd-cast/obs/cruise_key=2001-10-32NM/",
+    "n": 1
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1601RL_CTDFinalQC/db_csvs/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.07.30/",
-    "n": 2
+    "path": "/calcofi-db/ingest/calcofi_ctd-cast/obs/cruise_key=2010-08-32NM/",
+    "n": 1
    }
   ]
  },

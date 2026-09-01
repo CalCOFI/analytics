@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260728",
  "totals_28d": {
-  "activeUsers": 5.0,
+  "activeUsers": 6.0,
   "newUsers": 3.0,
-  "sessions": 6.0,
-  "engagedSessions": 5.0,
-  "screenPageViews": 16.0,
-  "eventCount": 33.0,
-  "userEngagementDuration": 51.0,
-  "avgEngagementSeconds": 10.2,
-  "engagedSessionRate": 0.8,
-  "viewsPerUser": 3.2
+  "sessions": 7.0,
+  "engagedSessions": 6.0,
+  "screenPageViews": 21.0,
+  "eventCount": 39.0,
+  "userEngagementDuration": 70.0,
+  "avgEngagementSeconds": 11.7,
+  "engagedSessionRate": 0.9,
+  "viewsPerUser": 3.5
  },
  "delta_28d": {
-  "activeUsers": -16.7,
-  "sessions": 0.0,
-  "engagedSessions": -16.7,
-  "avgEngagementSeconds": -89.6,
-  "screenPageViews": -81.8
+  "activeUsers": 0.0,
+  "sessions": 16.7,
+  "engagedSessions": 0.0,
+  "avgEngagementSeconds": -88.0,
+  "screenPageViews": -76.1
  },
  "daily": [
   {
@@ -108,6 +108,11 @@
   },
   {
    "date": "2026-08-26",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
+   "date": "2026-09-01",
    "activeUsers": 1.0,
    "sessions": 1.0
   },
@@ -199,7 +204,8 @@
   1.43,
   1.43,
   1.43,
-  1.57,
+  1.43,
+  1.14,
   1.14,
   1.29,
   1.29,
@@ -224,6 +230,11 @@
    "country": "Cyprus",
    "countryId": "CY",
    "activeUsers": 1.0
+  },
+  {
+   "country": "New Zealand",
+   "countryId": "NZ",
+   "activeUsers": 1.0
   }
  ],
  "geo": [
@@ -244,18 +255,24 @@
    "countryId": "CY",
    "region": "Other",
    "activeUsers": 1.0
+  },
+  {
+   "country": "New Zealand",
+   "countryId": "NZ",
+   "region": "Other",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 20.0,
-   "users": 6.0
+   "count": 25.0,
+   "users": 7.0
   },
   {
    "name": "scroll",
-   "count": 9.0,
-   "users": 5.0
+   "count": 10.0,
+   "users": 6.0
   },
   {
    "name": "session_start",

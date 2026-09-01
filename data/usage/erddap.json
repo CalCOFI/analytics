@@ -420,58 +420,63 @@
    },
    {
     "date": "2026-08-31",
-    "requests": 565.0,
-    "bytes": 6928751.0
+    "requests": 1280.0,
+    "bytes": 15639800.0
+   },
+   {
+    "date": "2026-09-01",
+    "requests": 2286.0,
+    "bytes": 8749468.0
    }
   ],
   "totals_28d": {
-   "requests": 70203.0,
-   "bytes": 668641981.0,
+   "requests": 73204.0,
+   "bytes": 686102498.0,
    "clients": 1192.0,
-   "tool": 50723.0,
-   "browser": 19480.0
+   "tool": 52720.0,
+   "browser": 20484.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 51
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 46
+    "n": 47
    },
    {
     "path": "/robots.txt",
-    "n": 22
+    "n": 31
    },
    {
-    "path": "/",
-    "n": 12
+    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
+    "n": 10
    },
    {
-    "path": "/erddap",
+    "path": "/this_is_a_new_hello_world.php",
+    "n": 10
+   },
+   {
+    "path": "/simple.php",
+    "n": 10
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
     "n": 8
    },
    {
-    "path": "/ip",
+    "path": "/erddap/tabledap/calcofi_casts.subset",
     "n": 8
    },
    {
-    "path": "/erddap/sitemap.xml",
-    "n": 6
+    "path": "/erddap/tabledap/calcofi_euphausiids.subset",
+    "n": 8
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
-    "n": 5
+    "path": "/wp-content/themes/index.php",
+    "n": 8
    },
    {
-    "path": "/erddap/tabledap/calcofi_bottle.html",
-    "n": 4
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd_thin.graph",
-    "n": 4
+    "path": "/css.php",
+    "n": 8
    }
   ]
  }
