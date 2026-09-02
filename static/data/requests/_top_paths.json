@@ -1,45 +1,45 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 47
+    "n": 58
    },
    {
     "path": "/robots.txt",
-    "n": 31
+    "n": 26
    },
    {
-    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 10
+    "path": "/erddap",
+    "n": 16
    },
    {
-    "path": "/this_is_a_new_hello_world.php",
-    "n": 10
+    "path": "/",
+    "n": 16
    },
    {
-    "path": "/simple.php",
-    "n": 10
+    "path": "/erddap/metadata/fgdc/xml/",
+    "n": 14
+   },
+   {
+    "path": "/erddap/files/",
+    "n": 8
    },
    {
     "path": "/erddap/subscriptions/add.html",
     "n": 8
    },
    {
-    "path": "/erddap/tabledap/calcofi_casts.subset",
+    "path": "/erddap/metadata/iso19115/xml/",
     "n": 8
    },
    {
-    "path": "/erddap/tabledap/calcofi_euphausiids.subset",
+    "path": "/ms-edit.php",
     "n": 8
    },
    {
-    "path": "/wp-content/themes/index.php",
-    "n": 8
-   },
-   {
-    "path": "/css.php",
+    "path": "/erddap/files/calcofi_casts/",
     "n": 8
    }
   ]
@@ -135,47 +135,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 48
    },
    {
     "path": "/robots.txt",
-    "n": 16
-   },
-   {
-    "path": "/sitemap.xml",
-    "n": 5
+    "n": 14
    },
    {
     "path": "/calcofi-files-public/manifests/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2307SR_CTDPrelim/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/ONMS-Sanctuaries/",
     "n": 2
    },
    {
-    "path": "/.env",
+    "path": "/sitemap.xml",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ingest/calcofi_ctd-cast/obs/cruise_key=2021-11-33P4/",
-    "n": 1
+    "path": "/calcofi-projects/2026-ucsb-capstone/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ingest/calcofi_ctd-cast/obs/cruise_key=2010-01-32NM/",
-    "n": 1
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.07.30/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ingest/calcofi_ctd-cast/obs/cruise_key=2001-10-32NM/",
-    "n": 1
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.07.30/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ingest/calcofi_ctd-cast/obs/cruise_key=2010-08-32NM/",
-    "n": 1
+    "path": "/calcofi-files-public/archive/_spatial/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-24_152952/",
+    "n": 2
    }
   ]
  },
