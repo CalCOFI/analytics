@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-05-07",
- "last_day": "2026-08-30",
+ "last_day": "2026-08-31",
  "totals_28d": {
-  "activeUsers": 86.0,
-  "newUsers": 59.0,
-  "sessions": 102.0,
-  "engagedSessions": 42.0,
-  "screenPageViews": 125.0,
-  "eventCount": 327.0,
-  "userEngagementDuration": 1482.0,
-  "avgEngagementSeconds": 17.2,
+  "activeUsers": 80.0,
+  "newUsers": 54.0,
+  "sessions": 95.0,
+  "engagedSessions": 40.0,
+  "screenPageViews": 118.0,
+  "eventCount": 308.0,
+  "userEngagementDuration": 1445.0,
+  "avgEngagementSeconds": 18.1,
   "engagedSessionRate": 0.4,
-  "viewsPerUser": 1.4
+  "viewsPerUser": 1.5
  },
  "delta_28d": {
-  "activeUsers": 48.3,
-  "sessions": 50.0,
-  "engagedSessions": 44.8,
-  "avgEngagementSeconds": 0.0,
-  "screenPageViews": 78.6
+  "activeUsers": 23.1,
+  "sessions": 25.0,
+  "engagedSessions": 37.9,
+  "avgEngagementSeconds": 15.3,
+  "screenPageViews": 53.2
  },
  "daily": [
   {
@@ -460,6 +460,11 @@
    "date": "2026-08-30",
    "activeUsers": 2.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-08-31",
+   "activeUsers": 3.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -549,13 +554,14 @@
   3.86,
   3.43,
   3.43,
-  3.57
+  3.57,
+  3.43
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 58.0
+   "activeUsers": 60.0
   },
   {
    "country": "Italy",
@@ -588,6 +594,11 @@
    "activeUsers": 1.0
   },
   {
+   "country": "C\u00f4te d\u2019Ivoire",
+   "countryId": "CI",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Venezuela",
    "countryId": "VE",
    "activeUsers": 1.0
@@ -598,7 +609,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 54.0
+   "activeUsers": 56.0
   },
   {
    "country": "Italy",
@@ -643,6 +654,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "C\u00f4te d\u2019Ivoire",
+   "countryId": "CI",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Singapore",
    "countryId": "SG",
    "region": "",
@@ -658,18 +675,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 130.0,
-   "users": 69.0
+   "count": 133.0,
+   "users": 72.0
   },
   {
    "name": "session_start",
-   "count": 79.0,
-   "users": 69.0
+   "count": 82.0,
+   "users": 72.0
   },
   {
    "name": "first_visit",
-   "count": 64.0,
-   "users": 64.0
+   "count": 67.0,
+   "users": 67.0
   },
   {
    "name": "user_engagement",
@@ -678,8 +695,8 @@
   },
   {
    "name": "scroll",
-   "count": 16.0,
-   "users": 5.0
+   "count": 17.0,
+   "users": 6.0
   },
   {
    "name": "click",

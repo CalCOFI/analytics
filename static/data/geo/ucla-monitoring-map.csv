@@ -8,15 +8,15 @@ Canada,CA,Other,2,2
 China,CN,Other,2,2
 Croatia,HR,Other,1,1
 France,FR,Other,1,2
-Germany,DE,Other,1,1
+Germany,DE,Other,2,2
 Ghana,GH,Other,1,1
 Guam,GU,,1,1
 Guam,GU,Other,1,1
 India,IN,Other,4,4
 Indonesia,ID,Other,1,1
 Ireland,IE,Other,4,4
-Italy,IT,Other,3,5
-Mexico,MX,Other,10,11
+Italy,IT,Other,5,7
+Mexico,MX,Other,11,13
 Netherlands,NL,Other,1,1
 New Zealand,NZ,Other,2,3
 Panama,PA,,1,1
@@ -30,9 +30,9 @@ Türkiye,TR,Other,1,1
 United Kingdom,GB,Other,3,3
 United States,US,,1,1
 United States,US,Arizona,16,17
-United States,US,California,499,668
-United States,US,Colorado,16,16
+United States,US,California,548,742
+United States,US,Colorado,17,18
 United States,US,Oregon,11,11
-United States,US,Other,71,74
+United States,US,Other,77,82
 United States,US,Virginia,47,47
-United States,US,Washington,26,29
+United States,US,Washington,29,33

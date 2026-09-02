@@ -2,10 +2,10 @@ eventName,eventCount,activeUsers
 click,5,2
 export,9,1
 feedback,7,1
-first_visit,3,3
-page_view,491,8
-scroll,72,7
-session_start,26,7
+first_visit,5,5
+page_view,655,11
+scroll,93,11
+session_start,34,10
 share,3,1
-user_engagement,55,7
+user_engagement,74,10
 view_search_results,2,1

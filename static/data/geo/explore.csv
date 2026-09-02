@@ -1,5 +1,5 @@
 country,countryId,region,activeUsers,sessions
-Italy,IT,Other,7,25
-New Zealand,NZ,Other,1,1
+Italy,IT,Other,7,27
+New Zealand,NZ,Other,1,3
 United Kingdom,GB,Other,1,1
-United States,US,Other,1,2
+United States,US,Other,4,7

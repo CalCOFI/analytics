@@ -7,16 +7,16 @@
  "first_day": "2026-08-28",
  "last_day": "2026-09-01",
  "totals_28d": {
-  "activeUsers": 13.0,
-  "newUsers": 3.0,
-  "sessions": 30.0,
-  "engagedSessions": 18.0,
-  "screenPageViews": 491.0,
-  "eventCount": 673.0,
-  "userEngagementDuration": 5388.0,
-  "avgEngagementSeconds": 414.5,
-  "engagedSessionRate": 0.6,
-  "viewsPerUser": 37.8
+  "activeUsers": 17.0,
+  "newUsers": 5.0,
+  "sessions": 38.0,
+  "engagedSessions": 30.0,
+  "screenPageViews": 655.0,
+  "eventCount": 887.0,
+  "userEngagementDuration": 6702.0,
+  "avgEngagementSeconds": 394.2,
+  "engagedSessionRate": 0.8,
+  "viewsPerUser": 38.5
  },
  "delta_28d": {
   "activeUsers": null,
@@ -48,8 +48,8 @@
   },
   {
    "date": "2026-09-01",
-   "activeUsers": 2.0,
-   "sessions": 2.0
+   "activeUsers": 6.0,
+   "sessions": 10.0
   }
  ],
  "daily_mean7": [
@@ -57,13 +57,18 @@
   2.0,
   1.67,
   2.75,
-  2.6
+  3.4
  ],
  "geo_country": [
   {
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 7.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "activeUsers": 4.0
   },
   {
    "country": "New Zealand",
@@ -73,11 +78,6 @@
   {
    "country": "United Kingdom",
    "countryId": "GB",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "United States",
-   "countryId": "US",
    "activeUsers": 1.0
   }
  ],
@@ -89,6 +89,12 @@
    "activeUsers": 7.0
   },
   {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Other",
+   "activeUsers": 4.0
+  },
+  {
    "country": "New Zealand",
    "countryId": "NZ",
    "region": "Other",
@@ -99,34 +105,28 @@
    "countryId": "GB",
    "region": "Other",
    "activeUsers": 1.0
-  },
-  {
-   "country": "United States",
-   "countryId": "US",
-   "region": "Other",
-   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 491.0,
-   "users": 8.0
+   "count": 655.0,
+   "users": 11.0
   },
   {
    "name": "scroll",
-   "count": 72.0,
-   "users": 7.0
+   "count": 93.0,
+   "users": 11.0
   },
   {
    "name": "user_engagement",
-   "count": 55.0,
-   "users": 7.0
+   "count": 74.0,
+   "users": 10.0
   },
   {
    "name": "session_start",
-   "count": 26.0,
-   "users": 7.0
+   "count": 34.0,
+   "users": 10.0
   },
   {
    "name": "export",
@@ -145,8 +145,8 @@
   },
   {
    "name": "first_visit",
-   "count": 3.0,
-   "users": 3.0
+   "count": 5.0,
+   "users": 5.0
   },
   {
    "name": "share",
