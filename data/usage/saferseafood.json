@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 8.0,
-  "newUsers": 7.0,
-  "sessions": 13.0,
+  "activeUsers": 9.0,
+  "newUsers": 10.0,
+  "sessions": 14.0,
   "engagedSessions": 5.0,
-  "screenPageViews": 8.0,
-  "eventCount": 36.0,
-  "userEngagementDuration": 147.0,
-  "avgEngagementSeconds": 18.4,
+  "screenPageViews": 11.0,
+  "eventCount": 46.0,
+  "userEngagementDuration": 149.0,
+  "avgEngagementSeconds": 16.6,
   "engagedSessionRate": 0.4,
-  "viewsPerUser": 1.0
+  "viewsPerUser": 1.2
  },
  "delta_28d": {
-  "activeUsers": -60.0,
-  "sessions": -56.7,
-  "engagedSessions": -78.3,
-  "avgEngagementSeconds": -81.0,
-  "screenPageViews": -73.3
+  "activeUsers": -52.6,
+  "sessions": -51.7,
+  "engagedSessions": -77.3,
+  "avgEngagementSeconds": -83.3,
+  "screenPageViews": -62.1
  },
  "daily": [
   {
@@ -202,6 +202,11 @@
    "sessions": 2.0
   },
   {
+   "date": "2026-09-02",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260507",
    "activeUsers": 2.0,
    "sessions": 3.0
@@ -373,11 +378,12 @@
   1.43,
   1.29,
   1.29,
-  1.43,
-  1.43,
   1.29,
   1.43,
+  1.29,
+  1.29,
   1.43,
+  1.29,
   1.43,
   1.43,
   1.29,
@@ -405,7 +411,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 8.0
+   "activeUsers": 9.0
   },
   {
    "country": "Denmark",
@@ -423,7 +429,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 8.0
+   "activeUsers": 9.0
   },
   {
    "country": "Denmark",
@@ -441,23 +447,23 @@
  "events": [
   {
    "name": "session_start",
-   "count": 14.0,
-   "users": 10.0
+   "count": 17.0,
+   "users": 11.0
   },
   {
    "name": "page_view",
-   "count": 10.0,
-   "users": 10.0
+   "count": 13.0,
+   "users": 11.0
   },
   {
    "name": "first_visit",
-   "count": 9.0,
-   "users": 9.0
+   "count": 12.0,
+   "users": 10.0
   },
   {
    "name": "user_engagement",
-   "count": 6.0,
-   "users": 5.0
+   "count": 7.0,
+   "users": 6.0
   },
   {
    "name": "scroll",

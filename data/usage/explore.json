@@ -5,18 +5,18 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-09-01",
+ "last_day": "2026-09-02",
  "totals_28d": {
-  "activeUsers": 17.0,
-  "newUsers": 5.0,
-  "sessions": 38.0,
-  "engagedSessions": 30.0,
-  "screenPageViews": 655.0,
-  "eventCount": 887.0,
-  "userEngagementDuration": 6702.0,
-  "avgEngagementSeconds": 394.2,
+  "activeUsers": 22.0,
+  "newUsers": 6.0,
+  "sessions": 47.0,
+  "engagedSessions": 38.0,
+  "screenPageViews": 747.0,
+  "eventCount": 1001.0,
+  "userEngagementDuration": 7318.0,
+  "avgEngagementSeconds": 332.6,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 38.5
+  "viewsPerUser": 34.0
  },
  "delta_28d": {
   "activeUsers": null,
@@ -48,8 +48,13 @@
   },
   {
    "date": "2026-09-01",
-   "activeUsers": 6.0,
-   "sessions": 10.0
+   "activeUsers": 7.0,
+   "sessions": 11.0
+  },
+  {
+   "date": "2026-09-02",
+   "activeUsers": 4.0,
+   "sessions": 8.0
   }
  ],
  "daily_mean7": [
@@ -57,7 +62,8 @@
   2.0,
   1.67,
   2.75,
-  3.4
+  3.6,
+  3.67
  ],
  "geo_country": [
   {
@@ -68,7 +74,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   },
   {
    "country": "New Zealand",
@@ -92,7 +98,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   },
   {
    "country": "New Zealand",
@@ -110,23 +116,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 655.0,
-   "users": 11.0
+   "count": 747.0,
+   "users": 12.0
   },
   {
    "name": "scroll",
-   "count": 93.0,
-   "users": 11.0
+   "count": 100.0,
+   "users": 12.0
   },
   {
    "name": "user_engagement",
-   "count": 74.0,
-   "users": 10.0
+   "count": 80.0,
+   "users": 12.0
   },
   {
    "name": "session_start",
-   "count": 34.0,
-   "users": 10.0
+   "count": 42.0,
+   "users": 11.0
   },
   {
    "name": "export",
@@ -139,14 +145,14 @@
    "users": 1.0
   },
   {
+   "name": "first_visit",
+   "count": 6.0,
+   "users": 6.0
+  },
+  {
    "name": "click",
    "count": 5.0,
    "users": 2.0
-  },
-  {
-   "name": "first_visit",
-   "count": 5.0,
-   "users": 5.0
   },
   {
    "name": "share",

@@ -380,58 +380,68 @@
    },
    {
     "date": "2026-09-01",
-    "requests": 212.0,
-    "bytes": 774234.0
+    "requests": 587.0,
+    "bytes": 2846827.0
+   },
+   {
+    "date": "2026-09-02",
+    "requests": 584.0,
+    "bytes": 8952364.0
+   },
+   {
+    "date": "2026-09-03",
+    "requests": 2651.0,
+    "bytes": 63927372.0
    }
   ],
   "totals_28d": {
-   "requests": 25866.0,
-   "bytes": 4054715298.0,
+   "requests": 29209.0,
+   "bytes": 4129083068.0,
    "clients": 1109.0,
-   "tool": 11917.0,
-   "browser": 13949.0
+   "tool": 14994.0,
+   "browser": 14215.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 51
    },
    {
     "path": "/robots.txt",
-    "n": 16
+    "n": 9
    },
    {
-    "path": "/sitemap.xml",
-    "n": 5
+    "path": "/calcofi-db/explore-dev-root/",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/manifests/",
+    "path": "/calcofi-db/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2307SR_CTDPrelim/",
-    "n": 2
+    "path": "/calcofi-db/bathymetry/",
+    "n": 3
    },
    {
-    "path": "/.env",
-    "n": 2
+    "path": "/calcofi-db/ducklake/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ingest/calcofi_ctd-cast/obs/cruise_key=2021-11-33P4/",
-    "n": 1
+    "path": "/calcofi-db/ducklake-staging/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ingest/calcofi_ctd-cast/obs/cruise_key=2010-01-32NM/",
-    "n": 1
+    "path": "/calcofi-db/erddap/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ingest/calcofi_ctd-cast/obs/cruise_key=2001-10-32NM/",
-    "n": 1
+    "path": "/calcofi-db/explore-spike/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ingest/calcofi_ctd-cast/obs/cruise_key=2010-08-32NM/",
-    "n": 1
+    "path": "/calcofi-db/ingest/",
+    "n": 3
    }
   ]
  }

@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-30",
- "last_day": "2026-08-28",
+ "last_day": "2026-09-01",
  "totals_28d": {
-  "activeUsers": 25.0,
-  "newUsers": 7.0,
-  "sessions": 32.0,
+  "activeUsers": 28.0,
+  "newUsers": 10.0,
+  "sessions": 35.0,
   "engagedSessions": 23.0,
-  "screenPageViews": 98.0,
-  "eventCount": 242.0,
+  "screenPageViews": 101.0,
+  "eventCount": 252.0,
   "userEngagementDuration": 1150.0,
-  "avgEngagementSeconds": 46.0,
+  "avgEngagementSeconds": 41.1,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 3.9
+  "viewsPerUser": 3.6
  },
  "delta_28d": {
-  "activeUsers": 108.3,
-  "sessions": 60.0,
+  "activeUsers": 133.3,
+  "sessions": 75.0,
   "engagedSessions": 35.3,
-  "avgEngagementSeconds": -58.0,
-  "screenPageViews": 78.2
+  "avgEngagementSeconds": -62.5,
+  "screenPageViews": 83.6
  },
  "daily": [
   {
@@ -130,6 +130,11 @@
    "date": "2026-08-28",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-09-01",
+   "activeUsers": 3.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -153,7 +158,8 @@
   1.86,
   1.86,
   1.71,
-  1.71
+  1.71,
+  2.0
  ],
  "geo_country": [
   {
@@ -165,6 +171,11 @@
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 4.0
+  },
+  {
+   "country": "China",
+   "countryId": "CN",
+   "activeUsers": 3.0
   },
   {
    "country": "Singapore",
@@ -191,6 +202,12 @@
    "activeUsers": 4.0
   },
   {
+   "country": "China",
+   "countryId": "CN",
+   "region": "Other",
+   "activeUsers": 3.0
+  },
+  {
    "country": "Germany",
    "countryId": "DE",
    "region": "Other",
@@ -212,8 +229,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 153.0,
-   "users": 14.0
+   "count": 156.0,
+   "users": 17.0
   },
   {
    "name": "user_engagement",
@@ -222,23 +239,23 @@
   },
   {
    "name": "scroll",
-   "count": 48.0,
-   "users": 7.0
+   "count": 49.0,
+   "users": 8.0
   },
   {
    "name": "session_start",
-   "count": 28.0,
-   "users": 13.0
+   "count": 31.0,
+   "users": 16.0
+  },
+  {
+   "name": "first_visit",
+   "count": 12.0,
+   "users": 12.0
   },
   {
    "name": "form_start",
    "count": 10.0,
    "users": 3.0
-  },
-  {
-   "name": "first_visit",
-   "count": 9.0,
-   "users": 9.0
   },
   {
    "name": "form_submit",
@@ -425,16 +442,26 @@
    },
    {
     "date": "2026-09-01",
-    "requests": 2286.0,
-    "bytes": 8749468.0
+    "requests": 3299.0,
+    "bytes": 16454219.0
+   },
+   {
+    "date": "2026-09-02",
+    "requests": 2784.0,
+    "bytes": 13891098.0
+   },
+   {
+    "date": "2026-09-03",
+    "requests": 350.0,
+    "bytes": 4738011.0
    }
   ],
   "totals_28d": {
-   "requests": 70717.0,
-   "bytes": 639943662.0,
+   "requests": 70460.0,
+   "bytes": 634816960.0,
    "clients": 1192.0,
-   "tool": 50618.0,
-   "browser": 20099.0
+   "tool": 50282.0,
+   "browser": 20178.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -444,39 +471,39 @@
    },
    {
     "path": "/robots.txt",
-    "n": 31
-   },
-   {
-    "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-    "n": 10
-   },
-   {
-    "path": "/this_is_a_new_hello_world.php",
-    "n": 10
-   },
-   {
-    "path": "/simple.php",
-    "n": 10
+    "n": 18
    },
    {
     "path": "/erddap/subscriptions/add.html",
-    "n": 8
+    "n": 7
    },
    {
-    "path": "/erddap/tabledap/calcofi_casts.subset",
-    "n": 8
+    "path": "/",
+    "n": 7
    },
    {
-    "path": "/erddap/tabledap/calcofi_euphausiids.subset",
-    "n": 8
+    "path": "/erddap/tabledap/calcofi_mets_sample.subset",
+    "n": 5
    },
    {
-    "path": "/wp-content/themes/index.php",
-    "n": 8
+    "path": "/erddap/tabledap/sio_mesopelagic-fish_sample.html",
+    "n": 4
    },
    {
-    "path": "/css.php",
-    "n": 8
+    "path": "/erddap/info/index.html",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle_sample.html",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/cdfw_dungeness-crab_attribute.subset",
+    "n": 4
+   },
+   {
+    "path": "/erddap",
+    "n": 4
    }
   ]
  }

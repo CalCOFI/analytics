@@ -1,10 +1,11 @@
 param,value,n
 env_var,ph,4
 env_var,salinity_ave_corr,2
-env_var,temperature,225
+env_var,temperature,227
 layers,ca_county_boundaries,3
 layers,ca_ports,1
 layers,noaa_maritime_eez,6
+taxa,(class: Appendicularia),2
 taxa,(family: Aetideidae),2
 taxa,(species: Dasyscopelus obtusirostris),2
 taxa,(species: Euphausia brevis),5
