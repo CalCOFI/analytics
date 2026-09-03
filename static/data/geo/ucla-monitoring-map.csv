@@ -22,7 +22,9 @@ New Zealand,NZ,Other,2,3
 Panama,PA,,1,1
 Panama,PA,Other,1,1
 Philippines,PH,Other,2,2
+Poland,PL,Other,1,2
 Portugal,PT,Other,1,1
+Serbia,RS,Other,1,1
 Singapore,SG,,1,2
 Singapore,SG,Other,7,8
 Sweden,SE,Other,3,3
@@ -30,9 +32,9 @@ Türkiye,TR,Other,1,1
 United Kingdom,GB,Other,3,3
 United States,US,,1,1
 United States,US,Arizona,16,17
-United States,US,California,548,742
+United States,US,California,581,804
 United States,US,Colorado,17,18
-United States,US,Oregon,11,11
-United States,US,Other,77,82
-United States,US,Virginia,47,47
-United States,US,Washington,29,33
+United States,US,Oregon,12,13
+United States,US,Other,84,93
+United States,US,Virginia,48,48
+United States,US,Washington,31,37
