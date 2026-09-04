@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-09-02",
  "totals_28d": {
-  "activeUsers": 881.0,
-  "newUsers": 821.0,
-  "sessions": 1095.0,
-  "engagedSessions": 430.0,
-  "screenPageViews": 1220.0,
-  "eventCount": 4687.0,
-  "userEngagementDuration": 29075.0,
-  "avgEngagementSeconds": 33.0,
+  "activeUsers": 906.0,
+  "newUsers": 838.0,
+  "sessions": 1140.0,
+  "engagedSessions": 439.0,
+  "screenPageViews": 1259.0,
+  "eventCount": 4844.0,
+  "userEngagementDuration": 29553.0,
+  "avgEngagementSeconds": 32.6,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": 17520.0,
-  "sessions": 18150.0,
-  "engagedSessions": 7066.7,
-  "avgEngagementSeconds": -69.6,
-  "screenPageViews": 15150.0
+  "activeUsers": 18020.0,
+  "sessions": 18900.0,
+  "engagedSessions": 7216.7,
+  "avgEngagementSeconds": -70.0,
+  "screenPageViews": 15637.5
  },
  "daily": [
   {
@@ -123,8 +123,8 @@
   },
   {
    "date": "2026-09-02",
-   "activeUsers": 0.0,
-   "sessions": 1.0
+   "activeUsers": 25.0,
+   "sessions": 46.0
   }
  ],
  "daily_mean7": [
@@ -147,13 +147,13 @@
   106.0,
   114.29,
   120.14,
-  118.0
+  121.57
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 790.0
+   "activeUsers": 806.0
   },
   {
    "country": "Mexico",
@@ -181,14 +181,14 @@
    "activeUsers": 4.0
   },
   {
-   "country": "Botswana",
-   "countryId": "BW",
+   "country": "Sweden",
+   "countryId": "SE",
    "activeUsers": 4.0
   },
   {
-   "country": "Sweden",
-   "countryId": "SE",
-   "activeUsers": 3.0
+   "country": "Botswana",
+   "countryId": "BW",
+   "activeUsers": 4.0
   },
   {
    "country": "United Kingdom",
@@ -296,19 +296,19 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 581.0
+   "activeUsers": 592.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 84.0
+   "activeUsers": 75.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 48.0
+   "activeUsers": 50.0
   },
   {
    "country": "United States",
@@ -332,12 +332,18 @@
    "country": "United States",
    "countryId": "US",
    "region": "Oregon",
-   "activeUsers": 12.0
+   "activeUsers": 13.0
   },
   {
    "country": "Mexico",
    "countryId": "MX",
    "region": "Other",
+   "activeUsers": 11.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Hawaii",
    "activeUsers": 11.0
   },
   {
@@ -368,7 +374,7 @@
    "country": "Sweden",
    "countryId": "SE",
    "region": "Other",
-   "activeUsers": 3.0
+   "activeUsers": 4.0
   },
   {
    "country": "United Kingdom",
@@ -530,28 +536,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1228.0,
-   "users": 842.0
+   "count": 1267.0,
+   "users": 859.0
   },
   {
    "name": "session_start",
-   "count": 1075.0,
-   "users": 832.0
+   "count": 1120.0,
+   "users": 850.0
   },
   {
    "name": "scroll",
-   "count": 1062.0,
-   "users": 778.0
+   "count": 1097.0,
+   "users": 794.0
   },
   {
    "name": "first_visit",
-   "count": 822.0,
-   "users": 821.0
+   "count": 839.0,
+   "users": 838.0
   },
   {
    "name": "user_engagement",
-   "count": 518.0,
-   "users": 383.0
+   "count": 539.0,
+   "users": 395.0
   },
   {
    "name": "click",

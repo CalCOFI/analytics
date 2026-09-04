@@ -1,7 +1,7 @@
 country,countryId,region,activeUsers,sessions
-Italy,IT,Other,6,32
+Italy,IT,Other,6,33
 Singapore,SG,,1,1
 Singapore,SG,Other,3,3
-United States,US,California,35,103
-United States,US,Other,9,10
-United States,US,Virginia,27,27
+United States,US,California,35,105
+United States,US,Other,12,13
+United States,US,Virginia,28,28

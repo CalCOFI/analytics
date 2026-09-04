@@ -12,9 +12,9 @@
   "sessions": 8.0,
   "engagedSessions": 6.0,
   "screenPageViews": 22.0,
-  "eventCount": 41.0,
-  "userEngagementDuration": 70.0,
-  "avgEngagementSeconds": 10.0,
+  "eventCount": 42.0,
+  "userEngagementDuration": 71.0,
+  "avgEngagementSeconds": 10.1,
   "engagedSessionRate": 0.8,
   "viewsPerUser": 3.1
  },
@@ -22,7 +22,7 @@
   "activeUsers": 16.7,
   "sessions": 33.3,
   "engagedSessions": 0.0,
-  "avgEngagementSeconds": -89.8,
+  "avgEngagementSeconds": -89.7,
   "screenPageViews": -75.0
  },
  "daily": [
@@ -287,8 +287,8 @@
   },
   {
    "name": "user_engagement",
-   "count": 5.0,
-   "users": 3.0
+   "count": 6.0,
+   "users": 4.0
   },
   {
    "name": "first_visit",
