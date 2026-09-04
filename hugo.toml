@@ -3,7 +3,7 @@
 # Hugo (not Jekyll like its siblings db-schema / db-query / CalCOFI.github.io):
 # this is the org's first Hugo site and the reference for migrating the others.
 # Layouts deliberately mirror the Jekyll ones; palette, pre-paint theme script
-# and header/footer chrome all come from the shared https://calcofi.io/brand/v1/
+# and header/footer chrome all come from the shared https://calcofi.io/brand/v2/
 # contract, so that port stays mostly mechanical.
 #
 # Content is GENERATED: scripts/refresh.py pulls GA4 (and the db-viz-hex usage

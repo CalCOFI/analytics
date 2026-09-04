@@ -78,7 +78,7 @@ function initMap() {
   const map = L.map(el, { attributionControl: false, scrollWheelZoom: false }).setView([20, 0], 1);
 
   // basemap and marker colour follow the brand theme: read it at init, and
-  // again on the `cc:theme` event brand/v1 theme.js fires from the toggle
+  // again on the `cc:theme` event brand/v2 theme.js fires from the toggle
   const theme  = () => (window.ccTheme ? ccTheme.get() : document.documentElement.dataset.theme);
   const tiles  = (t) => `https://{s}.basemaps.cartocdn.com/${t === "light" ? "light" : "dark"}_nolabels/{z}/{x}/{y}{r}.png`;
   const accent = () => getComputedStyle(document.documentElement).getPropertyValue("--accent").trim();
