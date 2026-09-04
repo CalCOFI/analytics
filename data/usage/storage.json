@@ -396,58 +396,63 @@
    },
    {
     "date": "2026-09-03",
-    "requests": 2651.0,
-    "bytes": 63927372.0
+    "requests": 4312.0,
+    "bytes": 68121116.0
+   },
+   {
+    "date": "2026-09-04",
+    "requests": 187.0,
+    "bytes": 744892.0
    }
   ],
   "totals_28d": {
-   "requests": 28667.0,
-   "bytes": 4127827031.0,
+   "requests": 30515.0,
+   "bytes": 4132765667.0,
    "clients": 1109.0,
-   "tool": 14623.0,
-   "browser": 14044.0
+   "tool": 16330.0,
+   "browser": 14185.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 51
+    "n": 45
    },
    {
     "path": "/robots.txt",
-    "n": 9
+    "n": 13
    },
    {
-    "path": "/calcofi-db/explore-dev-root/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/",
+    "path": "/calcofi-files-public/archive/calcofi/dic/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/bathymetry/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/cce-lter/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/farallon/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/",
-    "n": 3
+    "path": "/sitemap.xml",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/erddap/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/explore-spike/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-05_123346/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ingest/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1802SH_CTDFinalQC/csvs/primary/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/BOEMWindLayers_4Download.gdb/",
+    "n": 2
    }
   ]
  }

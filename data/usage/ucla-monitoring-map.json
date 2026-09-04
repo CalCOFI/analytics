@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-09-02",
+ "last_day": "2026-09-03",
  "totals_28d": {
-  "activeUsers": 906.0,
-  "newUsers": 838.0,
-  "sessions": 1140.0,
+  "activeUsers": 908.0,
+  "newUsers": 839.0,
+  "sessions": 1143.0,
   "engagedSessions": 439.0,
-  "screenPageViews": 1259.0,
-  "eventCount": 4844.0,
+  "screenPageViews": 1262.0,
+  "eventCount": 4853.0,
   "userEngagementDuration": 29553.0,
-  "avgEngagementSeconds": 32.6,
+  "avgEngagementSeconds": 32.5,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": 18020.0,
-  "sessions": 18900.0,
+  "activeUsers": 18060.0,
+  "sessions": 18950.0,
   "engagedSessions": 7216.7,
-  "avgEngagementSeconds": -70.0,
-  "screenPageViews": 15637.5
+  "avgEngagementSeconds": -70.1,
+  "screenPageViews": 15675.0
  },
  "daily": [
   {
@@ -125,6 +125,11 @@
    "date": "2026-09-02",
    "activeUsers": 25.0,
    "sessions": 46.0
+  },
+  {
+   "date": "2026-09-03",
+   "activeUsers": 2.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -147,13 +152,14 @@
   106.0,
   114.29,
   120.14,
-  121.57
+  121.57,
+  82.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 806.0
+   "activeUsers": 807.0
   },
   {
    "country": "Mexico",
@@ -296,7 +302,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 592.0
+   "activeUsers": 593.0
   },
   {
    "country": "United States",
@@ -536,23 +542,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1267.0,
-   "users": 859.0
+   "count": 1270.0,
+   "users": 860.0
   },
   {
    "name": "session_start",
-   "count": 1120.0,
-   "users": 850.0
+   "count": 1123.0,
+   "users": 851.0
   },
   {
    "name": "scroll",
-   "count": 1097.0,
-   "users": 794.0
+   "count": 1099.0,
+   "users": 795.0
   },
   {
    "name": "first_visit",
-   "count": 839.0,
-   "users": 838.0
+   "count": 840.0,
+   "users": 839.0
   },
   {
    "name": "user_engagement",

@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-30",
- "last_day": "2026-09-02",
+ "last_day": "2026-09-03",
  "totals_28d": {
-  "activeUsers": 28.0,
-  "newUsers": 10.0,
-  "sessions": 35.0,
+  "activeUsers": 29.0,
+  "newUsers": 11.0,
+  "sessions": 36.0,
   "engagedSessions": 23.0,
-  "screenPageViews": 102.0,
-  "eventCount": 252.0,
+  "screenPageViews": 103.0,
+  "eventCount": 256.0,
   "userEngagementDuration": 1170.0,
-  "avgEngagementSeconds": 41.8,
-  "engagedSessionRate": 0.7,
-  "viewsPerUser": 3.6
+  "avgEngagementSeconds": 40.3,
+  "engagedSessionRate": 0.6,
+  "viewsPerUser": 3.5
  },
  "delta_28d": {
-  "activeUsers": 115.4,
-  "sessions": 66.7,
+  "activeUsers": 123.1,
+  "sessions": 71.4,
   "engagedSessions": 27.8,
-  "avgEngagementSeconds": -58.8,
-  "screenPageViews": 82.1
+  "avgEngagementSeconds": -60.3,
+  "screenPageViews": 83.9
  },
  "daily": [
   {
@@ -140,6 +140,11 @@
    "date": "2026-09-02",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-09-03",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -165,7 +170,8 @@
   1.71,
   1.71,
   2.0,
-  1.57
+  1.57,
+  1.14
  ],
  "geo_country": [
   {
@@ -174,14 +180,14 @@
    "activeUsers": 12.0
   },
   {
-   "country": "Italy",
-   "countryId": "IT",
+   "country": "China",
+   "countryId": "CN",
    "activeUsers": 4.0
   },
   {
-   "country": "China",
-   "countryId": "CN",
-   "activeUsers": 3.0
+   "country": "Italy",
+   "countryId": "IT",
+   "activeUsers": 4.0
   },
   {
    "country": "Singapore",
@@ -202,16 +208,16 @@
    "activeUsers": 12.0
   },
   {
-   "country": "Italy",
-   "countryId": "IT",
+   "country": "China",
+   "countryId": "CN",
    "region": "Other",
    "activeUsers": 4.0
   },
   {
-   "country": "China",
-   "countryId": "CN",
+   "country": "Italy",
+   "countryId": "IT",
    "region": "Other",
-   "activeUsers": 3.0
+   "activeUsers": 4.0
   },
   {
    "country": "Germany",
@@ -235,8 +241,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 158.0,
-   "users": 17.0
+   "count": 159.0,
+   "users": 18.0
   },
   {
    "name": "user_engagement",
@@ -245,18 +251,18 @@
   },
   {
    "name": "scroll",
-   "count": 49.0,
-   "users": 8.0
+   "count": 50.0,
+   "users": 9.0
   },
   {
    "name": "session_start",
-   "count": 31.0,
-   "users": 16.0
+   "count": 32.0,
+   "users": 17.0
   },
   {
    "name": "first_visit",
-   "count": 12.0,
-   "users": 12.0
+   "count": 13.0,
+   "users": 13.0
   },
   {
    "name": "form_start",
@@ -458,58 +464,63 @@
    },
    {
     "date": "2026-09-03",
-    "requests": 350.0,
-    "bytes": 4738011.0
+    "requests": 1856.0,
+    "bytes": 13810166.0
+   },
+   {
+    "date": "2026-09-04",
+    "requests": 566.0,
+    "bytes": 8300823.0
    }
   ],
   "totals_28d": {
-   "requests": 69204.0,
-   "bytes": 617225493.0,
+   "requests": 71276.0,
+   "bytes": 634598471.0,
    "clients": 1192.0,
-   "tool": 49669.0,
-   "browser": 19535.0
+   "tool": 51034.0,
+   "browser": 20242.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 47
+    "n": 50
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd-cast_sample.iso19115",
+    "n": 36
    },
    {
     "path": "/robots.txt",
-    "n": 18
+    "n": 15
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 15
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd_measurement.html",
+    "n": 14
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_cufes.html",
+    "n": 14
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_zooplankton.graph",
+    "n": 12
    },
    {
     "path": "/erddap/subscriptions/add.html",
-    "n": 7
+    "n": 12
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton_old.graph",
+    "n": 12
    },
    {
     "path": "/",
-    "n": 7
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_mets_sample.subset",
-    "n": 5
-   },
-   {
-    "path": "/erddap/tabledap/sio_mesopelagic-fish_sample.html",
-    "n": 4
-   },
-   {
-    "path": "/erddap/info/index.html",
-    "n": 4
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_bottle_sample.html",
-    "n": 4
-   },
-   {
-    "path": "/erddap/tabledap/cdfw_dungeness-crab_attribute.subset",
-    "n": 4
-   },
-   {
-    "path": "/erddap",
-    "n": 4
+    "n": 10
    }
   ]
  }

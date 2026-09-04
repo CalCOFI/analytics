@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 47
+    "n": 50
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd-cast_sample.iso19115",
+    "n": 36
    },
    {
     "path": "/robots.txt",
-    "n": 18
+    "n": 15
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 15
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd_measurement.html",
+    "n": 14
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_cufes.html",
+    "n": 14
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_zooplankton.graph",
+    "n": 12
    },
    {
     "path": "/erddap/subscriptions/add.html",
-    "n": 7
+    "n": 12
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton_old.graph",
+    "n": 12
    },
    {
     "path": "/",
-    "n": 7
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_mets_sample.subset",
-    "n": 5
-   },
-   {
-    "path": "/erddap/tabledap/sio_mesopelagic-fish_sample.html",
-    "n": 4
-   },
-   {
-    "path": "/erddap/info/index.html",
-    "n": 4
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_bottle_sample.html",
-    "n": 4
-   },
-   {
-    "path": "/erddap/tabledap/cdfw_dungeness-crab_attribute.subset",
-    "n": 4
-   },
-   {
-    "path": "/erddap",
-    "n": 4
+    "n": 10
    }
   ]
  },
@@ -135,47 +135,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "top_paths": [
    {
     "path": "/",
-    "n": 51
+    "n": 45
    },
    {
     "path": "/robots.txt",
-    "n": 9
+    "n": 13
    },
    {
-    "path": "/calcofi-db/explore-dev-root/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/",
+    "path": "/calcofi-files-public/archive/calcofi/dic/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/bathymetry/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/cce-lter/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/farallon/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/",
-    "n": 3
+    "path": "/sitemap.xml",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/erddap/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/explore-spike/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-05_123346/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ingest/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1802SH_CTDFinalQC/csvs/primary/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/BOEMWindLayers_4Download.gdb/",
+    "n": 2
    }
   ]
  },
