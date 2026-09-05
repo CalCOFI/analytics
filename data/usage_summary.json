@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-05T11:17:38+00:00",
+ "generated": "2026-09-05T15:20:52+00:00",
  "has_data": true,
- "n_products": 23,
+ "n_products": 24,
  "totals_28d": {
   "engagedSessions": 1051.0,
   "activeUsers": 1768.0,
@@ -1200,6 +1200,18 @@
     1.0,
     2.0
    ],
+   "mostly_automated": false
+  },
+  {
+   "slug": "datasets",
+   "title": "Dataset Catalog",
+   "engagedSessions": 0,
+   "activeUsers": 0,
+   "sessions": 0,
+   "engagementRate": 0,
+   "avgEngagementSeconds": 0,
+   "delta": null,
+   "spark": [],
    "mostly_automated": false
   }
  ]
