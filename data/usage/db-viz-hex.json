@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 54.0,
-  "newUsers": 12.0,
-  "sessions": 143.0,
-  "engagedSessions": 110.0,
-  "screenPageViews": 359.0,
-  "eventCount": 2739.0,
-  "userEngagementDuration": 28465.0,
-  "avgEngagementSeconds": 527.1,
+  "activeUsers": 57.0,
+  "newUsers": 13.0,
+  "sessions": 147.0,
+  "engagedSessions": 112.0,
+  "screenPageViews": 365.0,
+  "eventCount": 2793.0,
+  "userEngagementDuration": 29186.0,
+  "avgEngagementSeconds": 512.0,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 6.7
+  "viewsPerUser": 6.4
  },
  "delta_28d": {
-  "activeUsers": 20.0,
-  "sessions": 58.9,
-  "engagedSessions": 83.3,
-  "avgEngagementSeconds": 485.7,
-  "screenPageViews": 149.3
+  "activeUsers": 26.7,
+  "sessions": 63.3,
+  "engagedSessions": 86.7,
+  "avgEngagementSeconds": 468.9,
+  "screenPageViews": 153.5
  },
  "daily": [
   {
@@ -238,8 +238,13 @@
   },
   {
    "date": "2026-09-03",
-   "activeUsers": 3.0,
+   "activeUsers": 4.0,
    "sessions": 7.0
+  },
+  {
+   "date": "2026-09-04",
+   "activeUsers": 2.0,
+   "sessions": 4.0
   },
   {
    "date": "20260701",
@@ -355,13 +360,14 @@
   3.71,
   4.14,
   4.14,
+  3.71,
   3.57,
-  3.29,
-  2.86,
-  2.86,
+  3.14,
+  2.71,
+  2.71,
   2.43,
-  2.14,
-  2.14,
+  2.0,
+  2.0,
   2.0,
   2.14,
   2.29,
@@ -386,6 +392,11 @@
    "country": "United Kingdom",
    "countryId": "GB",
    "activeUsers": 3.0
+  },
+  {
+   "country": "France",
+   "countryId": "FR",
+   "activeUsers": 1.0
   },
   {
    "country": "Indonesia",
@@ -424,6 +435,12 @@
    "activeUsers": 3.0
   },
   {
+   "country": "France",
+   "countryId": "FR",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Indonesia",
    "countryId": "ID",
    "region": "Other",
@@ -439,43 +456,43 @@
  "events": [
   {
    "name": "session_start",
-   "count": 600.0,
-   "users": 32.0
+   "count": 608.0,
+   "users": 33.0
   },
   {
    "name": "page_view",
-   "count": 441.0,
-   "users": 34.0
+   "count": 447.0,
+   "users": 35.0
   },
   {
    "name": "scroll",
-   "count": 427.0,
-   "users": 34.0
+   "count": 433.0,
+   "users": 35.0
   },
   {
    "name": "user_engagement",
-   "count": 235.0,
-   "users": 18.0
+   "count": 238.0,
+   "users": 19.0
   },
   {
    "name": "start_tour",
-   "count": 215.0,
-   "users": 29.0
+   "count": 219.0,
+   "users": 30.0
   },
   {
    "name": "filter_submit",
-   "count": 206.0,
-   "users": 9.0
+   "count": 212.0,
+   "users": 10.0
   },
   {
    "name": "map_query_env",
-   "count": 206.0,
-   "users": 9.0
+   "count": 212.0,
+   "users": 10.0
   },
   {
    "name": "map_query_sp",
-   "count": 206.0,
-   "users": 9.0
+   "count": 212.0,
+   "users": 10.0
   },
   {
    "name": "select_theme",
@@ -489,13 +506,13 @@
   },
   {
    "name": "filter_no_results",
-   "count": 83.0,
-   "users": 3.0
+   "count": 86.0,
+   "users": 4.0
   },
   {
    "name": "open_filters",
-   "count": 81.0,
-   "users": 13.0
+   "count": 84.0,
+   "users": 14.0
   }
  ],
  "log": {
@@ -798,6 +815,15 @@
     "p95_ms": ""
    },
    {
+    "date": "2026-09-04",
+    "events": "28",
+    "distinct_sessions": "3",
+    "distinct_clients": "3",
+    "errors": "4",
+    "p50_ms": "34.0",
+    "p95_ms": "243.8"
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -913,7 +939,7 @@
    },
    {
     "event": "filter_no_results",
-    "n": "28",
+    "n": "32",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "1.0",
@@ -921,7 +947,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "78",
+    "n": "82",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -945,9 +971,9 @@
    },
    {
     "event": "map_query_env",
-    "n": "78",
-    "p50_ms": "34.9",
-    "p95_ms": "99.1",
+    "n": "82",
+    "p50_ms": "32.8",
+    "p95_ms": "96.4",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -961,9 +987,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "78",
+    "n": "82",
     "p50_ms": "107.8",
-    "p95_ms": "637.5",
+    "p95_ms": "633.4",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -985,7 +1011,7 @@
    },
    {
     "event": "open_filters",
-    "n": "48",
+    "n": "51",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -993,7 +1019,7 @@
    },
    {
     "event": "open_layers",
-    "n": "18",
+    "n": "19",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1049,7 +1075,7 @@
    },
    {
     "event": "session_start",
-    "n": "274",
+    "n": "278",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1057,7 +1083,7 @@
    },
    {
     "event": "start_tour",
-    "n": "215",
+    "n": "219",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1076,7 +1102,7 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "227"
+    "n": "239"
    },
    {
     "param": "taxa",
@@ -1168,9 +1194,9 @@
    },
    {
     "app_version": "07ee123",
-    "n": "659",
+    "n": "685",
     "first_seen": "2026-08-25",
-    "last_seen": "2026-09-03"
+    "last_seen": "2026-09-04"
    },
    {
     "app_version": "0b90a6d",
@@ -1201,6 +1227,12 @@
     "n": "11",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04"
+   },
+   {
+    "app_version": "3784d97",
+    "n": "2",
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04"
    },
    {
     "app_version": "487bbc2",

@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-30",
- "last_day": "2026-09-03",
+ "last_day": "2026-09-04",
  "totals_28d": {
-  "activeUsers": 29.0,
-  "newUsers": 11.0,
-  "sessions": 36.0,
+  "activeUsers": 30.0,
+  "newUsers": 12.0,
+  "sessions": 37.0,
   "engagedSessions": 23.0,
-  "screenPageViews": 103.0,
-  "eventCount": 256.0,
+  "screenPageViews": 104.0,
+  "eventCount": 259.0,
   "userEngagementDuration": 1170.0,
-  "avgEngagementSeconds": 40.3,
+  "avgEngagementSeconds": 39.0,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 3.5
  },
  "delta_28d": {
-  "activeUsers": 123.1,
-  "sessions": 71.4,
+  "activeUsers": 130.8,
+  "sessions": 76.2,
   "engagedSessions": 27.8,
-  "avgEngagementSeconds": -60.3,
-  "screenPageViews": 83.9
+  "avgEngagementSeconds": -61.6,
+  "screenPageViews": 85.7
  },
  "daily": [
   {
@@ -145,6 +145,11 @@
    "date": "2026-09-03",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-09-04",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -171,13 +176,14 @@
   1.71,
   2.0,
   1.57,
-  1.14
+  1.14,
+  1.29
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 12.0
+   "activeUsers": 13.0
   },
   {
    "country": "China",
@@ -205,7 +211,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 12.0
+   "activeUsers": 13.0
   },
   {
    "country": "China",
@@ -241,8 +247,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 159.0,
-   "users": 18.0
+   "count": 160.0,
+   "users": 19.0
   },
   {
    "name": "user_engagement",
@@ -256,13 +262,13 @@
   },
   {
    "name": "session_start",
-   "count": 32.0,
-   "users": 17.0
+   "count": 33.0,
+   "users": 18.0
   },
   {
    "name": "first_visit",
-   "count": 13.0,
-   "users": 13.0
+   "count": 14.0,
+   "users": 14.0
   },
   {
    "name": "form_start",
@@ -474,11 +480,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 71276.0,
-   "bytes": 634598471.0,
+   "requests": 68411.0,
+   "bytes": 609383372.0,
    "clients": 1192.0,
-   "tool": 51034.0,
-   "browser": 20242.0
+   "tool": 49121.0,
+   "browser": 19290.0
   },
   "first_day": "2026-07-29",
   "top_paths": [

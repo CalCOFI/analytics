@@ -12,9 +12,9 @@
   "sessions": 7.0,
   "engagedSessions": 3.0,
   "screenPageViews": 7.0,
-  "eventCount": 28.0,
-  "userEngagementDuration": 79.0,
-  "avgEngagementSeconds": 11.3,
+  "eventCount": 29.0,
+  "userEngagementDuration": 81.0,
+  "avgEngagementSeconds": 11.6,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.0
  },
@@ -22,7 +22,7 @@
   "activeUsers": 16.7,
   "sessions": -12.5,
   "engagedSessions": 0.0,
-  "avgEngagementSeconds": 37.8,
+  "avgEngagementSeconds": 41.5,
   "screenPageViews": 0.0
  },
  "daily": [
@@ -337,7 +337,7 @@
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 1.0
+   "activeUsers": 2.0
   }
  ],
  "geo": [
@@ -364,6 +364,12 @@
    "countryId": "CN",
    "region": "",
    "activeUsers": 1.0
+  },
+  {
+   "country": "China",
+   "countryId": "CN",
+   "region": "Other",
+   "activeUsers": 1.0
   }
  ],
  "events": [
@@ -389,8 +395,8 @@
   },
   {
    "name": "user_engagement",
-   "count": 5.0,
-   "users": 5.0
+   "count": 6.0,
+   "users": 6.0
   }
  ]
 }

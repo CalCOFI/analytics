@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 9.0,
-  "newUsers": 8.0,
-  "sessions": 14.0,
+  "activeUsers": 10.0,
+  "newUsers": 9.0,
+  "sessions": 15.0,
   "engagedSessions": 6.0,
-  "screenPageViews": 9.0,
-  "eventCount": 40.0,
-  "userEngagementDuration": 149.0,
-  "avgEngagementSeconds": 16.6,
+  "screenPageViews": 10.0,
+  "eventCount": 45.0,
+  "userEngagementDuration": 207.0,
+  "avgEngagementSeconds": 20.7,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -47.1,
-  "sessions": -48.1,
-  "engagedSessions": -70.0,
-  "avgEngagementSeconds": -81.7,
-  "screenPageViews": -62.5
+  "activeUsers": -37.5,
+  "sessions": -42.3,
+  "engagedSessions": -68.4,
+  "avgEngagementSeconds": -67.6,
+  "screenPageViews": -56.5
  },
  "daily": [
   {
@@ -207,6 +207,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-09-04",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260507",
    "activeUsers": 2.0,
    "sessions": 3.0
@@ -379,10 +384,11 @@
   1.29,
   1.29,
   1.29,
-  1.43,
   1.29,
   1.29,
-  1.43,
+  1.29,
+  1.29,
+  1.29,
   1.29,
   1.43,
   1.43,
@@ -411,7 +417,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 9.0
+   "activeUsers": 10.0
   },
   {
    "country": "Denmark",
@@ -429,7 +435,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 9.0
+   "activeUsers": 10.0
   },
   {
    "country": "Denmark",
@@ -447,28 +453,28 @@
  "events": [
   {
    "name": "session_start",
-   "count": 15.0,
-   "users": 11.0
+   "count": 16.0,
+   "users": 12.0
   },
   {
    "name": "page_view",
+   "count": 12.0,
+   "users": 12.0
+  },
+  {
+   "name": "first_visit",
    "count": 11.0,
    "users": 11.0
   },
   {
-   "name": "first_visit",
-   "count": 10.0,
-   "users": 10.0
-  },
-  {
    "name": "user_engagement",
-   "count": 7.0,
-   "users": 6.0
+   "count": 8.0,
+   "users": 7.0
   },
   {
    "name": "scroll",
-   "count": 4.0,
-   "users": 4.0
+   "count": 5.0,
+   "users": 5.0
   }
  ]
 }

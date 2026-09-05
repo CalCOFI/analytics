@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-09-03",
  "totals_28d": {
-  "activeUsers": 119.0,
-  "newUsers": 59.0,
-  "sessions": 159.0,
+  "activeUsers": 120.0,
+  "newUsers": 60.0,
+  "sessions": 161.0,
   "engagedSessions": 87.0,
-  "screenPageViews": 219.0,
-  "eventCount": 757.0,
+  "screenPageViews": 220.0,
+  "eventCount": 763.0,
   "userEngagementDuration": 4945.0,
-  "avgEngagementSeconds": 41.6,
+  "avgEngagementSeconds": 41.2,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.8
  },
  "delta_28d": {
-  "activeUsers": 750.0,
-  "sessions": 591.3,
+  "activeUsers": 757.1,
+  "sessions": 600.0,
   "engagedSessions": 443.8,
-  "avgEngagementSeconds": -78.0,
-  "screenPageViews": 742.3
+  "avgEngagementSeconds": -78.2,
+  "screenPageViews": 746.2
  },
  "daily": [
   {
@@ -178,8 +178,8 @@
   },
   {
    "date": "2026-09-03",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -213,7 +213,7 @@
   6.86,
   7.0,
   6.29,
-  4.71
+  4.86
  ],
  "geo_country": [
   {
@@ -230,6 +230,11 @@
    "country": "Singapore",
    "countryId": "SG",
    "activeUsers": 4.0
+  },
+  {
+   "country": "China",
+   "countryId": "CN",
+   "activeUsers": 1.0
   },
   {
    "country": "Mexico",
@@ -269,6 +274,12 @@
    "activeUsers": 3.0
   },
   {
+   "country": "China",
+   "countryId": "CN",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Mexico",
    "countryId": "MX",
    "region": "Other",
@@ -284,28 +295,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 245.0,
-   "users": 81.0
+   "count": 246.0,
+   "users": 82.0
   },
   {
    "name": "scroll",
-   "count": 220.0,
-   "users": 57.0
+   "count": 221.0,
+   "users": 58.0
   },
   {
    "name": "user_engagement",
-   "count": 149.0,
+   "count": 150.0,
    "users": 34.0
   },
   {
    "name": "session_start",
-   "count": 135.0,
-   "users": 74.0
+   "count": 137.0,
+   "users": 75.0
   },
   {
    "name": "first_visit",
-   "count": 60.0,
-   "users": 60.0
+   "count": 61.0,
+   "users": 61.0
   },
   {
    "name": "click",
