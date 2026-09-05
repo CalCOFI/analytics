@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "2026-09-04",
  "totals_28d": {
-  "activeUsers": 83.0,
-  "newUsers": 60.0,
-  "sessions": 97.0,
+  "activeUsers": 84.0,
+  "newUsers": 61.0,
+  "sessions": 98.0,
   "engagedSessions": 36.0,
-  "screenPageViews": 114.0,
-  "eventCount": 306.0,
+  "screenPageViews": 115.0,
+  "eventCount": 309.0,
   "userEngagementDuration": 1381.0,
-  "avgEngagementSeconds": 16.6,
+  "avgEngagementSeconds": 16.4,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": 7.8,
-  "sessions": 6.6,
+  "activeUsers": 9.1,
+  "sessions": 7.7,
   "engagedSessions": 0.0,
-  "avgEngagementSeconds": 8.5,
-  "screenPageViews": 17.5
+  "avgEngagementSeconds": 7.2,
+  "screenPageViews": 18.6
  },
  "daily": [
   {
@@ -483,8 +483,8 @@
   },
   {
    "date": "2026-09-04",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -579,13 +579,13 @@
   3.57,
   3.43,
   3.29,
-  3.0
+  3.14
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 67.0
+   "activeUsers": 68.0
   },
   {
    "country": "Italy",
@@ -676,6 +676,12 @@
    "activeUsers": 2.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 2.0
+  },
+  {
    "country": "Bulgaria",
    "countryId": "BG",
    "region": "Other",
@@ -700,12 +706,6 @@
    "activeUsers": 1.0
   },
   {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 1.0
-  },
-  {
    "country": "Venezuela",
    "countryId": "VE",
    "region": "Other",
@@ -721,18 +721,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 149.0,
-   "users": 85.0
+   "count": 150.0,
+   "users": 86.0
   },
   {
    "name": "session_start",
-   "count": 98.0,
-   "users": 85.0
+   "count": 99.0,
+   "users": 86.0
   },
   {
    "name": "first_visit",
-   "count": 80.0,
-   "users": 80.0
+   "count": 81.0,
+   "users": 81.0
   },
   {
    "name": "user_engagement",

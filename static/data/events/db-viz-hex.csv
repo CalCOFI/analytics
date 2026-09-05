@@ -3,13 +3,13 @@ click,6,3
 depth_profile_transect,4,3
 download_bundle,8,3
 download_integrated_bundle,4,3
-filter_no_results,86,4
-filter_submit,212,10
+filter_no_results,87,4
+filter_submit,213,10
 first_visit,20,20
 form_start,5,2
-map_query_env,212,10
+map_query_env,213,10
 map_query_env_poly,47,4
-map_query_sp,212,10
+map_query_sp,213,10
 map_query_sp_poly,47,4
 open_feedback,36,2
 open_filters,84,14
@@ -23,6 +23,6 @@ select_layers,43,6
 select_map_area,11,2
 select_tab,121,13
 select_theme,124,5
-session_start,608,33
+session_start,609,33
 start_tour,219,30
-user_engagement,238,19
+user_engagement,239,19

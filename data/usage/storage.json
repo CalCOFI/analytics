@@ -401,58 +401,63 @@
    },
    {
     "date": "2026-09-04",
-    "requests": 187.0,
-    "bytes": 744892.0
+    "requests": 613.0,
+    "bytes": 2173162.0
+   },
+   {
+    "date": "2026-09-05",
+    "requests": 301.0,
+    "bytes": 1311324.0
    }
   ],
   "totals_28d": {
-   "requests": 29559.0,
-   "bytes": 4129567378.0,
+   "requests": 30286.0,
+   "bytes": 4132306972.0,
    "clients": 1109.0,
-   "tool": 15516.0,
-   "browser": 14043.0
+   "tool": 15873.0,
+   "browser": 14413.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 45
+    "n": 46
    },
    {
     "path": "/robots.txt",
     "n": 13
    },
    {
-    "path": "/calcofi-files-public/archive/calcofi/dic/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/cce-lter/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/farallon/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 4
    },
    {
     "path": "/sitemap.xml",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2502RL_CTDPrelim/db-csvs/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_123346/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0511NH_CTDFinalQC/db_csvs/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1802SH_CTDFinalQC/csvs/primary/",
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.04/swfsc_ichthyo.nc",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/BOEMWindLayers_4Download.gdb/",
-    "n": 2
+    "path": "/calcofi-db/gcloud/tmp/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1806SR_CTDFinalQC/metadata/",
+    "n": 1
    }
   ]
  }

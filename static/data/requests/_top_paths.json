@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 50
+    "n": 58
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast_sample.iso19115",
+    "path": "/erddap/tabledap/swfsc_ichthyo_sample.iso19115",
     "n": 36
    },
    {
-    "path": "/robots.txt",
-    "n": 15
+    "path": "/erddap/files/calcofi_dic_old/dic_sample/",
+    "n": 24
    },
    {
     "path": "/erddap/images/wz_tooltip.js",
-    "n": 15
+    "n": 22
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd_measurement.html",
-    "n": 14
+    "path": "/erddap/images/erddap2.css",
+    "n": 18
    },
    {
-    "path": "/erddap/tabledap/swfsc_cufes.html",
-    "n": 14
+    "path": "/erddap/tabledap/calcofi_phytoplankton_old.html",
+    "n": 17
    },
    {
-    "path": "/erddap/tabledap/calcofi_zooplankton.graph",
-    "n": 12
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 12
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton_old.graph",
-    "n": 12
+    "path": "/erddap/tabledap/sio_mesopelagic-fish.graph",
+    "n": 16
    },
    {
     "path": "/",
-    "n": 10
+    "n": 15
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal_sample.graph",
+    "n": 15
+   },
+   {
+    "path": "/robots.txt",
+    "n": 14
    }
   ]
  },
@@ -135,47 +135,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "top_paths": [
    {
     "path": "/",
-    "n": 45
+    "n": 46
    },
    {
     "path": "/robots.txt",
     "n": 13
    },
    {
-    "path": "/calcofi-files-public/archive/calcofi/dic/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/cce-lter/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/farallon/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 4
    },
    {
     "path": "/sitemap.xml",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2502RL_CTDPrelim/db-csvs/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_123346/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0511NH_CTDFinalQC/db_csvs/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1802SH_CTDFinalQC/csvs/primary/",
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.04/swfsc_ichthyo.nc",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/BOEMWindLayers_4Download.gdb/",
-    "n": 2
+    "path": "/calcofi-db/gcloud/tmp/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1806SR_CTDFinalQC/metadata/",
+    "n": 1
    }
   ]
  },

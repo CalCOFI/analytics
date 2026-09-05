@@ -9,20 +9,20 @@
  "totals_28d": {
   "activeUsers": 57.0,
   "newUsers": 13.0,
-  "sessions": 147.0,
+  "sessions": 148.0,
   "engagedSessions": 112.0,
   "screenPageViews": 365.0,
-  "eventCount": 2793.0,
-  "userEngagementDuration": 29186.0,
-  "avgEngagementSeconds": 512.0,
+  "eventCount": 2799.0,
+  "userEngagementDuration": 29212.0,
+  "avgEngagementSeconds": 512.5,
   "engagedSessionRate": 0.8,
   "viewsPerUser": 6.4
  },
  "delta_28d": {
   "activeUsers": 26.7,
-  "sessions": 63.3,
+  "sessions": 64.4,
   "engagedSessions": 86.7,
-  "avgEngagementSeconds": 468.9,
+  "avgEngagementSeconds": 469.4,
   "screenPageViews": 153.5
  },
  "daily": [
@@ -244,7 +244,7 @@
   {
    "date": "2026-09-04",
    "activeUsers": 2.0,
-   "sessions": 4.0
+   "sessions": 5.0
   },
   {
    "date": "20260701",
@@ -456,7 +456,7 @@
  "events": [
   {
    "name": "session_start",
-   "count": 608.0,
+   "count": 609.0,
    "users": 33.0
   },
   {
@@ -471,7 +471,7 @@
   },
   {
    "name": "user_engagement",
-   "count": 238.0,
+   "count": 239.0,
    "users": 19.0
   },
   {
@@ -481,17 +481,17 @@
   },
   {
    "name": "filter_submit",
-   "count": 212.0,
+   "count": 213.0,
    "users": 10.0
   },
   {
    "name": "map_query_env",
-   "count": 212.0,
+   "count": 213.0,
    "users": 10.0
   },
   {
    "name": "map_query_sp",
-   "count": 212.0,
+   "count": 213.0,
    "users": 10.0
   },
   {
@@ -506,7 +506,7 @@
   },
   {
    "name": "filter_no_results",
-   "count": 86.0,
+   "count": 87.0,
    "users": 4.0
   },
   {

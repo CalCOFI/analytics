@@ -1,9 +1,9 @@
 country,countryId,region,activeUsers,sessions
 China,CN,Other,1,1
-Italy,IT,Other,6,33
+Italy,IT,Other,6,34
 Mexico,MX,Other,1,1
 Singapore,SG,,1,1
 Singapore,SG,Other,3,3
-United States,US,California,35,105
+United States,US,California,35,107
 United States,US,Other,12,14
 United States,US,Virginia,28,28
