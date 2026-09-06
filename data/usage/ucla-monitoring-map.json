@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-09-04",
  "totals_28d": {
-  "activeUsers": 934.0,
-  "newUsers": 849.0,
-  "sessions": 1190.0,
-  "engagedSessions": 450.0,
-  "screenPageViews": 1309.0,
-  "eventCount": 5009.0,
-  "userEngagementDuration": 30115.0,
-  "avgEngagementSeconds": 32.2,
+  "activeUsers": 936.0,
+  "newUsers": 850.0,
+  "sessions": 1194.0,
+  "engagedSessions": 451.0,
+  "screenPageViews": 1312.0,
+  "eventCount": 5022.0,
+  "userEngagementDuration": 30349.0,
+  "avgEngagementSeconds": 32.4,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": 18580.0,
-  "sessions": 19733.3,
-  "engagedSessions": 7400.0,
-  "avgEngagementSeconds": -70.3,
-  "screenPageViews": 16262.5
+  "activeUsers": 18620.0,
+  "sessions": 19800.0,
+  "engagedSessions": 7416.7,
+  "avgEngagementSeconds": -70.2,
+  "screenPageViews": 16300.0
  },
  "daily": [
   {
@@ -133,8 +133,8 @@
   },
   {
    "date": "2026-09-04",
-   "activeUsers": 12.0,
-   "sessions": 19.0
+   "activeUsers": 14.0,
+   "sessions": 23.0
   }
  ],
  "daily_mean7": [
@@ -159,7 +159,7 @@
   120.14,
   121.57,
   84.43,
-  45.43
+  45.71
  ],
  "geo_country": [
   {
@@ -218,6 +218,11 @@
    "activeUsers": 2.0
   },
   {
+   "country": "Brazil",
+   "countryId": "BR",
+   "activeUsers": 2.0
+  },
+  {
    "country": "Canada",
    "countryId": "CA",
    "activeUsers": 2.0
@@ -251,11 +256,6 @@
    "country": "Panama",
    "countryId": "PA",
    "activeUsers": 2.0
-  },
-  {
-   "country": "Brazil",
-   "countryId": "BR",
-   "activeUsers": 1.0
   },
   {
    "country": "Croatia",
@@ -419,6 +419,12 @@
    "activeUsers": 2.0
   },
   {
+   "country": "Brazil",
+   "countryId": "BR",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
    "country": "Canada",
    "countryId": "CA",
    "region": "Other",
@@ -447,12 +453,6 @@
    "countryId": "PH",
    "region": "Other",
    "activeUsers": 2.0
-  },
-  {
-   "country": "Brazil",
-   "countryId": "BR",
-   "region": "Other",
-   "activeUsers": 1.0
   },
   {
    "country": "Croatia",
@@ -548,28 +548,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1317.0,
-   "users": 871.0
+   "count": 1320.0,
+   "users": 872.0
   },
   {
    "name": "session_start",
-   "count": 1168.0,
-   "users": 864.0
+   "count": 1172.0,
+   "users": 865.0
   },
   {
    "name": "scroll",
-   "count": 1137.0,
-   "users": 806.0
+   "count": 1139.0,
+   "users": 807.0
   },
   {
    "name": "first_visit",
-   "count": 850.0,
-   "users": 849.0
+   "count": 851.0,
+   "users": 850.0
   },
   {
    "name": "user_engagement",
-   "count": 555.0,
-   "users": 399.0
+   "count": 558.0,
+   "users": 400.0
   },
   {
    "name": "click",

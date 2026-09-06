@@ -10,20 +10,20 @@
   "activeUsers": 57.0,
   "newUsers": 13.0,
   "sessions": 148.0,
-  "engagedSessions": 112.0,
+  "engagedSessions": 113.0,
   "screenPageViews": 365.0,
-  "eventCount": 2799.0,
-  "userEngagementDuration": 29212.0,
-  "avgEngagementSeconds": 512.5,
+  "eventCount": 2800.0,
+  "userEngagementDuration": 29218.0,
+  "avgEngagementSeconds": 512.6,
   "engagedSessionRate": 0.8,
   "viewsPerUser": 6.4
  },
  "delta_28d": {
-  "activeUsers": 26.7,
-  "sessions": 64.4,
-  "engagedSessions": 86.7,
-  "avgEngagementSeconds": 469.4,
-  "screenPageViews": 153.5
+  "activeUsers": 23.9,
+  "sessions": 62.6,
+  "engagedSessions": 85.2,
+  "avgEngagementSeconds": 480.5,
+  "screenPageViews": 151.7
  },
  "daily": [
   {
@@ -247,6 +247,11 @@
    "sessions": 5.0
   },
   {
+   "date": "2026-09-05",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -364,10 +369,11 @@
   3.57,
   3.14,
   2.71,
-  2.71,
+  2.29,
   2.43,
   2.0,
-  2.0,
+  1.57,
+  1.86,
   2.0,
   2.14,
   2.29,
@@ -456,17 +462,17 @@
  "events": [
   {
    "name": "session_start",
-   "count": 609.0,
+   "count": 611.0,
    "users": 33.0
   },
   {
    "name": "page_view",
-   "count": 447.0,
+   "count": 448.0,
    "users": 35.0
   },
   {
    "name": "scroll",
-   "count": 433.0,
+   "count": 434.0,
    "users": 35.0
   },
   {
@@ -476,7 +482,7 @@
   },
   {
    "name": "start_tour",
-   "count": 219.0,
+   "count": 221.0,
    "users": 30.0
   },
   {
@@ -511,7 +517,7 @@
   },
   {
    "name": "open_filters",
-   "count": 84.0,
+   "count": 85.0,
    "users": 14.0
   }
  ],
@@ -824,6 +830,24 @@
     "p95_ms": "243.8"
    },
    {
+    "date": "2026-09-05",
+    "events": "3",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
+    "date": "2026-09-06",
+    "events": "7",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1011,7 +1035,7 @@
    },
    {
     "event": "open_filters",
-    "n": "51",
+    "n": "52",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1019,7 +1043,7 @@
    },
    {
     "event": "open_layers",
-    "n": "19",
+    "n": "20",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1043,7 +1067,7 @@
    },
    {
     "event": "select_layers",
-    "n": "6",
+    "n": "7",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1059,7 +1083,7 @@
    },
    {
     "event": "select_tab",
-    "n": "75",
+    "n": "76",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1075,7 +1099,7 @@
    },
    {
     "event": "session_start",
-    "n": "278",
+    "n": "281",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1083,7 +1107,7 @@
    },
    {
     "event": "start_tour",
-    "n": "219",
+    "n": "222",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1122,7 +1146,7 @@
    {
     "param": "layers",
     "value": "noaa_maritime_eez",
-    "n": "6"
+    "n": "7"
    },
    {
     "param": "taxa",
@@ -1173,6 +1197,11 @@
     "param": "taxa",
     "value": "Market squid (species: Doryteuthis opalescens)",
     "n": "2"
+   },
+   {
+    "param": "layers",
+    "value": "ca_marine_protected_areas",
+    "n": "1"
    },
    {
     "param": "layers",
@@ -1263,6 +1292,12 @@
     "n": "33",
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-05"
+   },
+   {
+    "app_version": "6760bee",
+    "n": "10",
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-06"
    },
    {
     "app_version": "892031a",
