@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-09-02",
+ "last_day": "2026-09-06",
  "totals_28d": {
-  "activeUsers": 17.0,
+  "activeUsers": 16.0,
   "newUsers": 7.0,
-  "sessions": 22.0,
-  "engagedSessions": 15.0,
-  "screenPageViews": 49.0,
-  "eventCount": 131.0,
-  "userEngagementDuration": 355.0,
-  "avgEngagementSeconds": 20.9,
+  "sessions": 21.0,
+  "engagedSessions": 14.0,
+  "screenPageViews": 47.0,
+  "eventCount": 126.0,
+  "userEngagementDuration": 326.0,
+  "avgEngagementSeconds": 20.4,
   "engagedSessionRate": 0.7,
   "viewsPerUser": 2.9
  },
  "delta_28d": {
-  "activeUsers": 30.8,
-  "sessions": 4.8,
-  "engagedSessions": -6.2,
-  "avgEngagementSeconds": -72.6,
-  "screenPageViews": -44.3
+  "activeUsers": 6.7,
+  "sessions": -8.7,
+  "engagedSessions": -22.2,
+  "avgEngagementSeconds": -70.0,
+  "screenPageViews": -48.4
  },
  "daily": [
   {
@@ -115,6 +115,11 @@
    "date": "2026-09-02",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-09-06",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -135,7 +140,8 @@
   1.86,
   1.71,
   1.71,
-  1.71
+  1.71,
+  1.57
  ],
  "geo_country": [
   {
@@ -183,7 +189,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 137.0,
+   "count": 138.0,
    "users": 14.0
   },
   {
@@ -193,7 +199,7 @@
   },
   {
    "name": "scroll",
-   "count": 90.0,
+   "count": 91.0,
    "users": 7.0
   },
   {
@@ -406,58 +412,63 @@
    },
    {
     "date": "2026-09-05",
-    "requests": 301.0,
-    "bytes": 1311324.0
+    "requests": 1890.0,
+    "bytes": 7473076.0
+   },
+   {
+    "date": "2026-09-06",
+    "requests": 1186.0,
+    "bytes": 167142487.0
    }
   ],
   "totals_28d": {
-   "requests": 29399.0,
-   "bytes": 4123783426.0,
+   "requests": 31361.0,
+   "bytes": 3856752453.0,
    "clients": 1109.0,
-   "tool": 15094.0,
-   "browser": 14305.0
+   "tool": 16973.0,
+   "browser": 14388.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 44
    },
    {
     "path": "/robots.txt",
-    "n": 13
+    "n": 16
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 4
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.07.30/calcofi_mets.nc",
+    "n": 8
    },
    {
     "path": "/sitemap.xml",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/v2026.07.30/cce-lter_zooscan.nc",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.07.30/cce-lter_euphausiids.nc",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/v2026.07.30/calcofi_phytoplankton.nc",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.07.30/calcofi_ctd-cast.nc",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2107SR_CTDPrelim/Metadata/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2502RL_CTDPrelim/db-csvs/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0511NH_CTDFinalQC/db_csvs/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.04/swfsc_ichthyo.nc",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/gcloud/tmp/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1806SR_CTDFinalQC/metadata/",
-    "n": 1
+    "path": "/calcofi-files-public/archive/calcofi/dic/0301029/1.1/data/",
+    "n": 3
    }
   ]
  }

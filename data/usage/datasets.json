@@ -3,20 +3,20 @@
  "title": "Dataset Catalog",
  "live_url": "https://calcofi.io/datasets/",
  "property": "site",
- "has_data": false,
- "first_day": "",
- "last_day": "",
+ "has_data": true,
+ "first_day": "2026-09-05",
+ "last_day": "2026-09-06",
  "totals_28d": {
-  "activeUsers": 0,
-  "newUsers": 0,
-  "sessions": 0,
-  "engagedSessions": 0,
-  "screenPageViews": 0,
-  "eventCount": 0,
-  "userEngagementDuration": 0,
-  "avgEngagementSeconds": 0,
-  "engagedSessionRate": 0,
-  "viewsPerUser": 0
+  "activeUsers": 3.0,
+  "newUsers": 0.0,
+  "sessions": 8.0,
+  "engagedSessions": 8.0,
+  "screenPageViews": 58.0,
+  "eventCount": 120.0,
+  "userEngagementDuration": 2978.0,
+  "avgEngagementSeconds": 992.7,
+  "engagedSessionRate": 1.0,
+  "viewsPerUser": 19.3
  },
  "delta_28d": {
   "activeUsers": null,
@@ -25,9 +25,78 @@
   "avgEngagementSeconds": null,
   "screenPageViews": null
  },
- "daily": [],
- "daily_mean7": [],
- "geo_country": [],
- "geo": [],
- "events": []
+ "daily": [
+  {
+   "date": "2026-09-05",
+   "activeUsers": 1.0,
+   "sessions": 4.0
+  },
+  {
+   "date": "2026-09-06",
+   "activeUsers": 2.0,
+   "sessions": 4.0
+  }
+ ],
+ "daily_mean7": [
+  1.0,
+  1.5
+ ],
+ "geo_country": [
+  {
+   "country": "Italy",
+   "countryId": "IT",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "activeUsers": 1.0
+  }
+ ],
+ "geo": [
+  {
+   "country": "Italy",
+   "countryId": "IT",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Other",
+   "activeUsers": 1.0
+  }
+ ],
+ "events": [
+  {
+   "name": "page_view",
+   "count": 58.0,
+   "users": 2.0
+  },
+  {
+   "name": "user_engagement",
+   "count": 50.0,
+   "users": 2.0
+  },
+  {
+   "name": "scroll",
+   "count": 6.0,
+   "users": 2.0
+  },
+  {
+   "name": "click",
+   "count": 2.0,
+   "users": 1.0
+  },
+  {
+   "name": "form_start",
+   "count": 2.0,
+   "users": 1.0
+  },
+  {
+   "name": "session_start",
+   "count": 2.0,
+   "users": 1.0
+  }
+ ]
 }
