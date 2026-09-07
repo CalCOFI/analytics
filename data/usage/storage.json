@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-09-06",
  "totals_28d": {
-  "activeUsers": 16.0,
-  "newUsers": 7.0,
-  "sessions": 21.0,
+  "activeUsers": 17.0,
+  "newUsers": 8.0,
+  "sessions": 22.0,
   "engagedSessions": 14.0,
-  "screenPageViews": 47.0,
-  "eventCount": 126.0,
+  "screenPageViews": 48.0,
+  "eventCount": 129.0,
   "userEngagementDuration": 326.0,
-  "avgEngagementSeconds": 20.4,
-  "engagedSessionRate": 0.7,
-  "viewsPerUser": 2.9
+  "avgEngagementSeconds": 19.2,
+  "engagedSessionRate": 0.6,
+  "viewsPerUser": 2.8
  },
  "delta_28d": {
-  "activeUsers": 6.7,
-  "sessions": -8.7,
+  "activeUsers": 13.3,
+  "sessions": -4.3,
   "engagedSessions": -22.2,
-  "avgEngagementSeconds": -70.0,
-  "screenPageViews": -48.4
+  "avgEngagementSeconds": -71.8,
+  "screenPageViews": -47.3
  },
  "daily": [
   {
@@ -118,8 +118,8 @@
   },
   {
    "date": "2026-09-06",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -141,13 +141,13 @@
   1.71,
   1.71,
   1.71,
-  1.57
+  1.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 10.0
+   "activeUsers": 11.0
   },
   {
    "country": "Italy",
@@ -165,7 +165,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 10.0
+   "activeUsers": 11.0
   },
   {
    "country": "Italy",
@@ -189,8 +189,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 138.0,
-   "users": 14.0
+   "count": 139.0,
+   "users": 15.0
   },
   {
    "name": "user_engagement",
@@ -204,13 +204,13 @@
   },
   {
    "name": "session_start",
-   "count": 20.0,
-   "users": 14.0
+   "count": 21.0,
+   "users": 15.0
   },
   {
    "name": "first_visit",
-   "count": 11.0,
-   "users": 11.0
+   "count": 12.0,
+   "users": 12.0
   },
   {
    "name": "click",
@@ -417,58 +417,63 @@
    },
    {
     "date": "2026-09-06",
-    "requests": 1186.0,
-    "bytes": 167142487.0
+    "requests": 1492.0,
+    "bytes": 169271884.0
+   },
+   {
+    "date": "2026-09-07",
+    "requests": 425.0,
+    "bytes": 1544984.0
    }
   ],
   "totals_28d": {
-   "requests": 31361.0,
-   "bytes": 3856752453.0,
+   "requests": 32092.0,
+   "bytes": 3860426834.0,
    "clients": 1109.0,
-   "tool": 16973.0,
-   "browser": 14388.0
+   "tool": 17470.0,
+   "browser": 14622.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 44
+    "n": 103
    },
    {
     "path": "/robots.txt",
-    "n": 16
+    "n": 11
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.07.30/calcofi_mets.nc",
-    "n": 8
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 6
    },
    {
-    "path": "/sitemap.xml",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/v2026.07.30/cce-lter_zooscan.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.07.30/cce-lter_euphausiids.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/v2026.07.30/calcofi_phytoplankton.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.07.30/calcofi_ctd-cast.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2107SR_CTDPrelim/Metadata/",
+    "path": "/.env.development",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/calcofi/dic/0301029/1.1/data/",
+    "path": "/.env",
     "n": 3
+   },
+   {
+    "path": "/appsettings.json",
+    "n": 3
+   },
+   {
+    "path": "/id_rsa",
+    "n": 3
+   },
+   {
+    "path": "/private.key",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ingest/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/ducklake/",
+    "n": 2
    }
   ]
  }

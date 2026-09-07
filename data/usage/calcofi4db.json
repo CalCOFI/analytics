@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-05-07",
- "last_day": "2026-09-05",
+ "last_day": "2026-09-06",
  "totals_28d": {
-  "activeUsers": 210.0,
-  "newUsers": 205.0,
-  "sessions": 212.0,
+  "activeUsers": 211.0,
+  "newUsers": 206.0,
+  "sessions": 213.0,
   "engagedSessions": 9.0,
-  "screenPageViews": 219.0,
-  "eventCount": 650.0,
+  "screenPageViews": 220.0,
+  "eventCount": 653.0,
   "userEngagementDuration": 473.0,
-  "avgEngagementSeconds": 2.3,
+  "avgEngagementSeconds": 2.2,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 78.0,
-  "sessions": 79.7,
+  "activeUsers": 78.8,
+  "sessions": 80.5,
   "engagedSessions": null,
   "avgEngagementSeconds": null,
-  "screenPageViews": 85.6
+  "screenPageViews": 86.4
  },
  "daily": [
   {
@@ -365,6 +365,11 @@
    "date": "2026-09-05",
    "activeUsers": 3.0,
    "sessions": 3.0
+  },
+  {
+   "date": "2026-09-06",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -435,13 +440,14 @@
   4.43,
   6.86,
   8.14,
-  7.29
+  7.29,
+  7.14
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 243.0
+   "activeUsers": 241.0
   },
   {
    "country": "United States",
@@ -478,12 +484,6 @@
    "activeUsers": 6.0
   },
   {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 3.0
-  },
-  {
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
@@ -504,6 +504,12 @@
   {
    "country": "Singapore",
    "countryId": "SG",
+   "region": "",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
    "region": "Other",
    "activeUsers": 1.0
   }
@@ -511,18 +517,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 261.0,
-   "users": 249.0
+   "count": 262.0,
+   "users": 250.0
   },
   {
    "name": "session_start",
-   "count": 249.0,
-   "users": 248.0
+   "count": 250.0,
+   "users": 249.0
   },
   {
    "name": "first_visit",
-   "count": 247.0,
-   "users": 247.0
+   "count": 248.0,
+   "users": 248.0
   },
   {
    "name": "user_engagement",

@@ -7,23 +7,23 @@
  "first_day": "2026-07-30",
  "last_day": "2026-09-06",
  "totals_28d": {
-  "activeUsers": 46.0,
-  "newUsers": 27.0,
-  "sessions": 55.0,
+  "activeUsers": 55.0,
+  "newUsers": 36.0,
+  "sessions": 64.0,
   "engagedSessions": 26.0,
-  "screenPageViews": 121.0,
-  "eventCount": 323.0,
-  "userEngagementDuration": 1290.0,
-  "avgEngagementSeconds": 28.0,
-  "engagedSessionRate": 0.5,
-  "viewsPerUser": 2.6
+  "screenPageViews": 130.0,
+  "eventCount": 358.0,
+  "userEngagementDuration": 1294.0,
+  "avgEngagementSeconds": 23.5,
+  "engagedSessionRate": 0.4,
+  "viewsPerUser": 2.4
  },
  "delta_28d": {
-  "activeUsers": 187.5,
-  "sessions": 120.0,
+  "activeUsers": 243.8,
+  "sessions": 156.0,
   "engagedSessions": 23.8,
-  "avgEngagementSeconds": -67.2,
-  "screenPageViews": 86.2
+  "avgEngagementSeconds": -72.5,
+  "screenPageViews": 100.0
  },
  "daily": [
   {
@@ -158,8 +158,8 @@
   },
   {
    "date": "2026-09-06",
-   "activeUsers": 4.0,
-   "sessions": 4.0
+   "activeUsers": 13.0,
+   "sessions": 13.0
   }
  ],
  "daily_mean7": [
@@ -189,13 +189,13 @@
   1.14,
   2.0,
   3.29,
-  3.71
+  5.0
  ],
  "geo_country": [
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 19.0
+   "activeUsers": 28.0
   },
   {
    "country": "United States",
@@ -223,7 +223,7 @@
    "country": "China",
    "countryId": "CN",
    "region": "Other",
-   "activeUsers": 18.0
+   "activeUsers": 26.0
   },
   {
    "country": "United States",
@@ -241,7 +241,7 @@
    "country": "China",
    "countryId": "CN",
    "region": "",
-   "activeUsers": 1.0
+   "activeUsers": 2.0
   },
   {
    "country": "Germany",
@@ -265,28 +265,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 186.0,
-   "users": 35.0
+   "count": 195.0,
+   "users": 44.0
   },
   {
    "name": "user_engagement",
-   "count": 136.0,
-   "users": 13.0
+   "count": 137.0,
+   "users": 14.0
   },
   {
    "name": "scroll",
-   "count": 60.0,
-   "users": 16.0
+   "count": 67.0,
+   "users": 23.0
   },
   {
    "name": "session_start",
-   "count": 50.0,
-   "users": 34.0
+   "count": 59.0,
+   "users": 43.0
   },
   {
    "name": "first_visit",
-   "count": 30.0,
-   "users": 30.0
+   "count": 39.0,
+   "users": 39.0
   },
   {
    "name": "form_start",
@@ -503,58 +503,63 @@
    },
    {
     "date": "2026-09-06",
-    "requests": 713.0,
-    "bytes": 18861993.0
+    "requests": 1712.0,
+    "bytes": 27792544.0
+   },
+   {
+    "date": "2026-09-07",
+    "requests": 1242.0,
+    "bytes": 7356822.0
    }
   ],
   "totals_28d": {
-   "requests": 68116.0,
-   "bytes": 643514094.0,
+   "requests": 70357.0,
+   "bytes": 659801467.0,
    "clients": 1192.0,
-   "tool": 48900.0,
-   "browser": 19216.0
+   "tool": 50451.0,
+   "browser": 19906.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 53
-   },
-   {
-    "path": "/robots.txt",
-    "n": 20
+    "n": 92
    },
    {
     "path": "/",
-    "n": 16
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 12
+    "n": 51
    },
    {
     "path": "/erddap",
+    "n": 50
+   },
+   {
+    "path": "/robots.txt",
+    "n": 17
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 13
+   },
+   {
+    "path": "/erddap/tabledap/documentation.html",
     "n": 11
    },
    {
-    "path": "/erddap/tabledap/cce-lter_picoplankton-bacteria.html",
-    "n": 8
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_mets.graph",
+    "path": "/erddap/tabledap/cdfw_dungeness-crab_attribute.graph",
     "n": 7
    },
    {
-    "path": "/erddap/tabledap/cce-lter_zooscan_sample.html",
-    "n": 7
+    "path": "/erddap/tabledap/cdfw_dungeness-crab_sample.html",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/calcofi_dic.html",
-    "n": 7
+    "path": "/erddap/metadata/fgdc/xml/",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/calcofi_dic.graph",
-    "n": 7
+    "path": "/.env",
+    "n": 6
    }
   ]
  }
