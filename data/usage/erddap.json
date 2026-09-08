@@ -7,23 +7,23 @@
  "first_day": "2026-07-30",
  "last_day": "2026-09-06",
  "totals_28d": {
-  "activeUsers": 55.0,
+  "activeUsers": 53.0,
   "newUsers": 36.0,
-  "sessions": 64.0,
-  "engagedSessions": 26.0,
-  "screenPageViews": 130.0,
-  "eventCount": 358.0,
-  "userEngagementDuration": 1294.0,
-  "avgEngagementSeconds": 23.5,
+  "sessions": 61.0,
+  "engagedSessions": 23.0,
+  "screenPageViews": 122.0,
+  "eventCount": 341.0,
+  "userEngagementDuration": 1279.0,
+  "avgEngagementSeconds": 24.1,
   "engagedSessionRate": 0.4,
-  "viewsPerUser": 2.4
+  "viewsPerUser": 2.3
  },
  "delta_28d": {
-  "activeUsers": 243.8,
-  "sessions": 156.0,
-  "engagedSessions": 23.8,
-  "avgEngagementSeconds": -72.5,
-  "screenPageViews": 100.0
+  "activeUsers": 194.4,
+  "sessions": 117.9,
+  "engagedSessions": -4.2,
+  "avgEngagementSeconds": -68.6,
+  "screenPageViews": 67.1
  },
  "daily": [
   {
@@ -195,7 +195,7 @@
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 28.0
+   "activeUsers": 30.0
   },
   {
    "country": "United States",
@@ -223,7 +223,7 @@
    "country": "China",
    "countryId": "CN",
    "region": "Other",
-   "activeUsers": 26.0
+   "activeUsers": 28.0
   },
   {
    "country": "United States",
@@ -513,11 +513,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 70357.0,
-   "bytes": 659801467.0,
+   "requests": 68221.0,
+   "bytes": 622329619.0,
    "clients": 1192.0,
-   "tool": 50451.0,
-   "browser": 19906.0
+   "tool": 48938.0,
+   "browser": 19283.0
   },
   "first_day": "2026-07-29",
   "top_paths": [

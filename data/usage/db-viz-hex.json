@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 63.0,
+  "activeUsers": 61.0,
   "newUsers": 12.0,
-  "sessions": 166.0,
-  "engagedSessions": 115.0,
-  "screenPageViews": 430.0,
-  "eventCount": 3263.0,
-  "userEngagementDuration": 32188.0,
-  "avgEngagementSeconds": 510.9,
+  "sessions": 173.0,
+  "engagedSessions": 123.0,
+  "screenPageViews": 499.0,
+  "eventCount": 3693.0,
+  "userEngagementDuration": 36535.0,
+  "avgEngagementSeconds": 598.9,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 6.8
+  "viewsPerUser": 8.2
  },
  "delta_28d": {
-  "activeUsers": 28.6,
-  "sessions": 76.6,
-  "engagedSessions": 79.7,
-  "avgEngagementSeconds": 373.9,
-  "screenPageViews": 190.5
+  "activeUsers": 22.0,
+  "sessions": 84.0,
+  "engagedSessions": 92.2,
+  "avgEngagementSeconds": 469.3,
+  "screenPageViews": 241.8
  },
  "daily": [
   {
@@ -259,7 +259,7 @@
   {
    "date": "2026-09-07",
    "activeUsers": 4.0,
-   "sessions": 5.0
+   "sessions": 14.0
   },
   {
    "date": "20260701",
@@ -485,62 +485,62 @@
  "events": [
   {
    "name": "session_start",
-   "count": 686.0,
+   "count": 743.0,
    "users": 34.0
   },
   {
    "name": "page_view",
-   "count": 516.0,
+   "count": 586.0,
    "users": 36.0
   },
   {
    "name": "scroll",
-   "count": 503.0,
+   "count": 549.0,
    "users": 36.0
   },
   {
    "name": "user_engagement",
-   "count": 293.0,
+   "count": 336.0,
    "users": 20.0
   },
   {
    "name": "filter_submit",
-   "count": 263.0,
+   "count": 323.0,
    "users": 10.0
   },
   {
    "name": "map_query_env",
-   "count": 263.0,
+   "count": 323.0,
    "users": 10.0
   },
   {
    "name": "map_query_sp",
-   "count": 263.0,
+   "count": 323.0,
    "users": 10.0
   },
   {
    "name": "start_tour",
-   "count": 237.0,
+   "count": 242.0,
    "users": 31.0
   },
   {
    "name": "select_tab",
-   "count": 137.0,
+   "count": 142.0,
    "users": 15.0
   },
   {
    "name": "select_theme",
-   "count": 131.0,
+   "count": 137.0,
    "users": 5.0
   },
   {
    "name": "open_filters",
-   "count": 96.0,
+   "count": 110.0,
    "users": 14.0
   },
   {
    "name": "filter_no_results",
-   "count": 89.0,
+   "count": 92.0,
    "users": 5.0
   }
  ],
@@ -872,12 +872,21 @@
    },
    {
     "date": "2026-09-07",
-    "events": "39",
-    "distinct_sessions": "10",
+    "events": "60",
+    "distinct_sessions": "12",
     "distinct_clients": "2",
     "errors": "0",
-    "p50_ms": "33.9",
-    "p95_ms": "56.0"
+    "p50_ms": "34.1",
+    "p95_ms": "55.0"
+   },
+   {
+    "date": "2026-09-08",
+    "events": "2",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
    },
    {
     "date": "7/15/2026 ",
@@ -1003,7 +1012,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "89",
+    "n": "93",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1027,9 +1036,9 @@
    },
    {
     "event": "map_query_env",
-    "n": "89",
+    "n": "93",
     "p50_ms": "31.6",
-    "p95_ms": "93.0",
+    "p95_ms": "91.2",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1043,9 +1052,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "89",
-    "p50_ms": "103.5",
-    "p95_ms": "629.7",
+    "n": "93",
+    "p50_ms": "94.3",
+    "p95_ms": "627.6",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1123,7 +1132,7 @@
    },
    {
     "event": "select_theme",
-    "n": "30",
+    "n": "33",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1131,7 +1140,7 @@
    },
    {
     "event": "session_start",
-    "n": "305",
+    "n": "309",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1139,7 +1148,7 @@
    },
    {
     "event": "start_tour",
-    "n": "239",
+    "n": "243",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1158,12 +1167,12 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "251"
+    "n": "255"
    },
    {
     "param": "taxa",
     "value": "Pacific sardine (pilchard) (species: Sardinops sagax)",
-    "n": "149"
+    "n": "157"
    },
    {
     "param": "taxa",
@@ -1198,6 +1207,11 @@
    {
     "param": "env_var",
     "value": "ph",
+    "n": "4"
+   },
+   {
+    "param": "env_var",
+    "value": "sst_c",
     "n": "4"
    },
    {
@@ -1314,9 +1328,9 @@
    },
    {
     "app_version": "5ab8ada",
-    "n": "17",
+    "n": "40",
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-07"
+    "last_seen": "2026-09-08"
    },
    {
     "app_version": "5ce687f",

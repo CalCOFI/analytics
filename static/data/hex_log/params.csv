@@ -2,7 +2,8 @@ param,value,n
 env_var,dic,4
 env_var,ph,4
 env_var,salinity_ave_corr,2
-env_var,temperature,251
+env_var,sst_c,4
+env_var,temperature,255
 layers,ca_county_boundaries,3
 layers,ca_marine_protected_areas,1
 layers,ca_ports,1
@@ -16,5 +17,5 @@ taxa,Dungeness crab (species: Metacarcinus magister),12
 taxa,Market squid (species: Doryteuthis opalescens),2
 taxa,Northern anchovy (species: Engraulis mordax),9
 taxa,Pacific krill (species: Euphausia pacifica),6
-taxa,Pacific sardine (pilchard) (species: Sardinops sagax),149
+taxa,Pacific sardine (pilchard) (species: Sardinops sagax),157
 taxa,Sardinops sagax,1

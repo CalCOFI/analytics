@@ -5,25 +5,25 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-04",
- "last_day": "2026-09-05",
+ "last_day": "2026-09-07",
  "totals_28d": {
-  "activeUsers": 6.0,
+  "activeUsers": 7.0,
   "newUsers": 1.0,
-  "sessions": 8.0,
+  "sessions": 9.0,
   "engagedSessions": 7.0,
-  "screenPageViews": 26.0,
-  "eventCount": 57.0,
+  "screenPageViews": 27.0,
+  "eventCount": 58.0,
   "userEngagementDuration": 155.0,
-  "avgEngagementSeconds": 25.8,
-  "engagedSessionRate": 0.9,
-  "viewsPerUser": 4.3
+  "avgEngagementSeconds": 22.1,
+  "engagedSessionRate": 0.8,
+  "viewsPerUser": 3.9
  },
  "delta_28d": {
-  "activeUsers": 500.0,
-  "sessions": 300.0,
+  "activeUsers": 600.0,
+  "sessions": 350.0,
   "engagedSessions": 250.0,
-  "avgEngagementSeconds": 268.6,
-  "screenPageViews": 550.0
+  "avgEngagementSeconds": 215.7,
+  "screenPageViews": 575.0
  },
  "daily": [
   {
@@ -60,9 +60,15 @@
    "date": "2026-09-05",
    "activeUsers": 1.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-09-07",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
+  1.0,
   1.0,
   1.0,
   1.0,
@@ -117,7 +123,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 30.0,
+   "count": 31.0,
    "users": 4.0
   },
   {
