@@ -508,58 +508,63 @@
    },
    {
     "date": "2026-09-07",
-    "requests": 1242.0,
-    "bytes": 7356822.0
+    "requests": 2266.0,
+    "bytes": 30883094.0
+   },
+   {
+    "date": "2026-09-08",
+    "requests": 680.0,
+    "bytes": 18332571.0
    }
   ],
   "totals_28d": {
-   "requests": 68221.0,
-   "bytes": 622329619.0,
+   "requests": 69925.0,
+   "bytes": 664188462.0,
    "clients": 1192.0,
-   "tool": 48938.0,
-   "browser": 19283.0
+   "tool": 49865.0,
+   "browser": 20060.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 92
-   },
-   {
-    "path": "/",
-    "n": 51
+    "n": 90
    },
    {
     "path": "/erddap",
-    "n": 50
+    "n": 37
+   },
+   {
+    "path": "/",
+    "n": 24
+   },
+   {
+    "path": "/erddap/",
+    "n": 16
    },
    {
     "path": "/robots.txt",
-    "n": 17
+    "n": 12
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phyllosoma_sample.html",
+    "n": 6
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
+    "n": 4
    },
    {
     "path": "/erddap/subscriptions/add.html",
-    "n": 13
+    "n": 4
    },
    {
-    "path": "/erddap/tabledap/documentation.html",
-    "n": 11
+    "path": "/erddap/tabledap/cce-lter_picoplankton-bacteria.subset",
+    "n": 4
    },
    {
-    "path": "/erddap/tabledap/cdfw_dungeness-crab_attribute.graph",
-    "n": 7
-   },
-   {
-    "path": "/erddap/tabledap/cdfw_dungeness-crab_sample.html",
-    "n": 6
-   },
-   {
-    "path": "/erddap/metadata/fgdc/xml/",
-    "n": 6
-   },
-   {
-    "path": "/.env",
-    "n": 6
+    "path": "/erddap/tabledap/calcofi_phyllosoma_sample.subset",
+    "n": 4
    }
   ]
  }

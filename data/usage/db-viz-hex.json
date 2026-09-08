@@ -11,19 +11,19 @@
   "newUsers": 12.0,
   "sessions": 173.0,
   "engagedSessions": 123.0,
-  "screenPageViews": 499.0,
-  "eventCount": 3693.0,
-  "userEngagementDuration": 36535.0,
-  "avgEngagementSeconds": 598.9,
+  "screenPageViews": 508.0,
+  "eventCount": 3729.0,
+  "userEngagementDuration": 36682.0,
+  "avgEngagementSeconds": 601.3,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 8.2
+  "viewsPerUser": 8.3
  },
  "delta_28d": {
   "activeUsers": 22.0,
   "sessions": 84.0,
   "engagedSessions": 92.2,
-  "avgEngagementSeconds": 469.3,
-  "screenPageViews": 241.8
+  "avgEngagementSeconds": 471.6,
+  "screenPageViews": 247.9
  },
  "daily": [
   {
@@ -485,37 +485,37 @@
  "events": [
   {
    "name": "session_start",
-   "count": 743.0,
+   "count": 750.0,
    "users": 34.0
   },
   {
    "name": "page_view",
-   "count": 586.0,
+   "count": 595.0,
    "users": 36.0
   },
   {
    "name": "scroll",
-   "count": 549.0,
+   "count": 558.0,
    "users": 36.0
   },
   {
    "name": "user_engagement",
-   "count": 336.0,
+   "count": 344.0,
    "users": 20.0
   },
   {
    "name": "filter_submit",
-   "count": 323.0,
+   "count": 324.0,
    "users": 10.0
   },
   {
    "name": "map_query_env",
-   "count": 323.0,
+   "count": 324.0,
    "users": 10.0
   },
   {
    "name": "map_query_sp",
-   "count": 323.0,
+   "count": 324.0,
    "users": 10.0
   },
   {
@@ -881,12 +881,12 @@
    },
    {
     "date": "2026-09-08",
-    "events": "2",
-    "distinct_sessions": "1",
-    "distinct_clients": "1",
+    "events": "47",
+    "distinct_sessions": "3",
+    "distinct_clients": "3",
     "errors": "0",
-    "p50_ms": "",
-    "p95_ms": ""
+    "p50_ms": "16.2",
+    "p95_ms": "140.9"
    },
    {
     "date": "7/15/2026 ",
@@ -1012,7 +1012,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "93",
+    "n": "102",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1036,9 +1036,9 @@
    },
    {
     "event": "map_query_env",
-    "n": "93",
-    "p50_ms": "31.6",
-    "p95_ms": "91.2",
+    "n": "102",
+    "p50_ms": "28.2",
+    "p95_ms": "96.4",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1052,9 +1052,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "93",
-    "p50_ms": "94.3",
-    "p95_ms": "627.6",
+    "n": "102",
+    "p50_ms": "81.5",
+    "p95_ms": "616.0",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1063,6 +1063,14 @@
     "n": "25",
     "p50_ms": "426.1",
     "p95_ms": "1177.9",
+    "error_rate": "0.0",
+    "median_n_rows": ""
+   },
+   {
+    "event": "open_cite_data",
+    "n": "1",
+    "p50_ms": "",
+    "p95_ms": "",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1076,7 +1084,7 @@
    },
    {
     "event": "open_filters",
-    "n": "54",
+    "n": "63",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1124,7 +1132,7 @@
    },
    {
     "event": "select_tab",
-    "n": "77",
+    "n": "80",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1140,7 +1148,7 @@
    },
    {
     "event": "session_start",
-    "n": "309",
+    "n": "314",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1167,12 +1175,12 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "255"
+    "n": "273"
    },
    {
     "param": "taxa",
     "value": "Pacific sardine (pilchard) (species: Sardinops sagax)",
-    "n": "157"
+    "n": "175"
    },
    {
     "param": "taxa",
@@ -1337,6 +1345,12 @@
     "n": "2",
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-27"
+   },
+   {
+    "app_version": "5d0a16e",
+    "n": "45",
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-08"
    },
    {
     "app_version": "5f7421b",

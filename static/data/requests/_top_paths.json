@@ -1,51 +1,51 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 92
-   },
-   {
-    "path": "/",
-    "n": 51
+    "n": 90
    },
    {
     "path": "/erddap",
-    "n": 50
+    "n": 37
+   },
+   {
+    "path": "/",
+    "n": 24
+   },
+   {
+    "path": "/erddap/",
+    "n": 16
    },
    {
     "path": "/robots.txt",
-    "n": 17
+    "n": 12
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phyllosoma_sample.html",
+    "n": 6
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
+    "n": 4
    },
    {
     "path": "/erddap/subscriptions/add.html",
-    "n": 13
+    "n": 4
    },
    {
-    "path": "/erddap/tabledap/documentation.html",
-    "n": 11
+    "path": "/erddap/tabledap/cce-lter_picoplankton-bacteria.subset",
+    "n": 4
    },
    {
-    "path": "/erddap/tabledap/cdfw_dungeness-crab_attribute.graph",
-    "n": 7
-   },
-   {
-    "path": "/erddap/tabledap/cdfw_dungeness-crab_sample.html",
-    "n": 6
-   },
-   {
-    "path": "/erddap/metadata/fgdc/xml/",
-    "n": 6
-   },
-   {
-    "path": "/.env",
-    "n": 6
+    "path": "/erddap/tabledap/calcofi_phyllosoma_sample.subset",
+    "n": 4
    }
   ]
  },
  "erddap.calcofi.io:443": {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "top_paths": [
    {
     "path": "/",
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "top_paths": [
    {
     "path": "/",
-    "n": 103
+    "n": 54
    },
    {
     "path": "/robots.txt",
-    "n": 11
+    "n": 8
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 6
    },
    {
-    "path": "/.env.development",
-    "n": 3
-   },
-   {
-    "path": "/.env",
-    "n": 3
-   },
-   {
-    "path": "/appsettings.json",
-    "n": 3
-   },
-   {
-    "path": "/id_rsa",
-    "n": 3
-   },
-   {
-    "path": "/private.key",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ingest/",
+    "path": "/sitemap.xml",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1311NH_CTDFinalQC/db_csv/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-db/ingest/cce-lter_euphausiids/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2401RL_CTDPrelim/20-2401RL_CTDPrelim/csvs-plots/D_S/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1607OS_CTDFinalQC/asc-hdr/btl/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/manifests/",
+    "n": 1
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0607NH_CTDFinalQC/db_csvs/",
+    "n": 1
    }
   ]
  },
