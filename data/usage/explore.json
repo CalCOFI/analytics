@@ -5,18 +5,18 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-09-08",
+ "last_day": "2026-09-09",
  "totals_28d": {
-  "activeUsers": 47.0,
-  "newUsers": 9.0,
-  "sessions": 97.0,
+  "activeUsers": 50.0,
+  "newUsers": 10.0,
+  "sessions": 100.0,
   "engagedSessions": 74.0,
-  "screenPageViews": 1386.0,
-  "eventCount": 1853.0,
-  "userEngagementDuration": 12876.0,
-  "avgEngagementSeconds": 274.0,
-  "engagedSessionRate": 0.8,
-  "viewsPerUser": 29.5
+  "screenPageViews": 1405.0,
+  "eventCount": 1884.0,
+  "userEngagementDuration": 12879.0,
+  "avgEngagementSeconds": 257.6,
+  "engagedSessionRate": 0.7,
+  "viewsPerUser": 28.1
  },
  "delta_28d": {
   "activeUsers": null,
@@ -83,8 +83,13 @@
   },
   {
    "date": "2026-09-08",
-   "activeUsers": 8.0,
-   "sessions": 13.0
+   "activeUsers": 9.0,
+   "sessions": 14.0
+  },
+  {
+   "date": "2026-09-09",
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -99,7 +104,8 @@
   3.57,
   4.29,
   4.0,
-  4.14
+  4.29,
+  4.0
  ],
  "geo_country": [
   {
@@ -110,7 +116,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 10.0
+   "activeUsers": 11.0
   },
   {
    "country": "New Zealand",
@@ -134,7 +140,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 10.0
+   "activeUsers": 11.0
   },
   {
    "country": "New Zealand",
@@ -152,13 +158,13 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1386.0,
-   "users": 19.0
+   "count": 1406.0,
+   "users": 20.0
   },
   {
    "name": "scroll",
-   "count": 186.0,
-   "users": 17.0
+   "count": 194.0,
+   "users": 18.0
   },
   {
    "name": "user_engagement",
@@ -167,8 +173,8 @@
   },
   {
    "name": "session_start",
-   "count": 83.0,
-   "users": 17.0
+   "count": 86.0,
+   "users": 18.0
   },
   {
    "name": "export",
@@ -177,8 +183,8 @@
   },
   {
    "name": "first_visit",
-   "count": 9.0,
-   "users": 9.0
+   "count": 10.0,
+   "users": 10.0
   },
   {
    "name": "click",

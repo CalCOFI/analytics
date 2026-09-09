@@ -513,58 +513,63 @@
    },
    {
     "date": "2026-09-08",
-    "requests": 680.0,
-    "bytes": 18332571.0
+    "requests": 1396.0,
+    "bytes": 25276395.0
+   },
+   {
+    "date": "2026-09-09",
+    "requests": 1432.0,
+    "bytes": 10854230.0
    }
   ],
   "totals_28d": {
-   "requests": 68227.0,
-   "bytes": 636408411.0,
+   "requests": 70375.0,
+   "bytes": 654206465.0,
    "clients": 1192.0,
-   "tool": 48791.0,
-   "browser": 19436.0
+   "tool": 50165.0,
+   "browser": 20210.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 90
+    "n": 75
    },
    {
-    "path": "/erddap",
-    "n": 37
+    "path": "/erddap/convert/time.html",
+    "n": 33
    },
    {
     "path": "/",
+    "n": 29
+   },
+   {
+    "path": "/erddap",
     "n": 24
    },
    {
-    "path": "/erddap/",
-    "n": 16
-   },
-   {
     "path": "/robots.txt",
-    "n": 12
+    "n": 17
    },
    {
-    "path": "/erddap/tabledap/calcofi_phyllosoma_sample.html",
-    "n": 6
+    "path": "/erddap/rest.html",
+    "n": 14
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 4
+    "path": "/ip",
+    "n": 14
    },
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 4
+    "path": "/erddap/legal.html",
+    "n": 13
    },
    {
-    "path": "/erddap/tabledap/cce-lter_picoplankton-bacteria.subset",
-    "n": 4
+    "path": "/erddap/convert/keywords.html",
+    "n": 10
    },
    {
-    "path": "/erddap/tabledap/calcofi_phyllosoma_sample.subset",
-    "n": 4
+    "path": "/erddap/convert/oceanicAtmosphericVariableNames.html",
+    "n": 10
    }
   ]
  }

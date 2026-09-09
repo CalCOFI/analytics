@@ -439,58 +439,63 @@
    },
    {
     "date": "2026-09-08",
-    "requests": 196.0,
-    "bytes": 40054814.0
+    "requests": 824.0,
+    "bytes": 44505370.0
+   },
+   {
+    "date": "2026-09-09",
+    "requests": 334.0,
+    "bytes": 19831586.0
    }
   ],
   "totals_28d": {
-   "requests": 32162.0,
-   "bytes": 3661239756.0,
+   "requests": 33124.0,
+   "bytes": 3685521898.0,
    "clients": 1109.0,
-   "tool": 17709.0,
-   "browser": 14453.0
+   "tool": 18378.0,
+   "browser": 14746.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 54
+    "n": 56
    },
    {
     "path": "/robots.txt",
-    "n": 8
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 6
+    "n": 15
    },
    {
     "path": "/sitemap.xml",
+    "n": 6
+   },
+   {
+    "path": "/calcofi-projects",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ingest/cce-lter_zoodb/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1311NH_CTDFinalQC/db_csv/",
-    "n": 1
+    "path": "/calcofi-db/erddap/calcofi_ctd/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ingest/cce-lter_euphausiids/",
-    "n": 1
+    "path": "/calcofi-db/explore-dev-root/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2401RL_CTDPrelim/20-2401RL_CTDPrelim/csvs-plots/D_S/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1607OS_CTDFinalQC/asc-hdr/btl/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/manifests/",
-    "n": 1
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0607NH_CTDFinalQC/db_csvs/",
-    "n": 1
+    "path": "/calcofi-db/ingest/cce-lter_picoplankton-bacteria/",
+    "n": 2
    }
   ]
  }

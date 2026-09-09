@@ -8,7 +8,7 @@ Canada,CA,Other,2,2
 China,CN,Other,2,2
 Croatia,HR,Other,1,1
 France,FR,Other,1,2
-Germany,DE,Other,3,3
+Germany,DE,Other,4,4
 Ghana,GH,Other,1,1
 Guam,GU,,1,1
 Guam,GU,Other,1,1
@@ -33,10 +33,10 @@ Türkiye,TR,Other,1,1
 United Kingdom,GB,Other,4,4
 United States,US,,1,1
 United States,US,Arizona,16,17
-United States,US,California,607,908
-United States,US,Colorado,18,20
+United States,US,California,617,921
+United States,US,Colorado,20,22
 United States,US,Hawaii,11,12
 United States,US,Oregon,13,17
 United States,US,Other,77,92
 United States,US,Virginia,50,51
-United States,US,Washington,35,46
+United States,US,Washington,36,47
