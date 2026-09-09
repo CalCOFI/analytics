@@ -7,16 +7,16 @@
  "first_day": "2026-08-28",
  "last_day": "2026-09-08",
  "totals_28d": {
-  "activeUsers": 40.0,
-  "newUsers": 7.0,
-  "sessions": 85.0,
-  "engagedSessions": 62.0,
-  "screenPageViews": 1212.0,
-  "eventCount": 1640.0,
-  "userEngagementDuration": 11964.0,
-  "avgEngagementSeconds": 299.1,
-  "engagedSessionRate": 0.7,
-  "viewsPerUser": 30.3
+  "activeUsers": 47.0,
+  "newUsers": 9.0,
+  "sessions": 97.0,
+  "engagedSessions": 74.0,
+  "screenPageViews": 1386.0,
+  "eventCount": 1853.0,
+  "userEngagementDuration": 12876.0,
+  "avgEngagementSeconds": 274.0,
+  "engagedSessionRate": 0.8,
+  "viewsPerUser": 29.5
  },
  "delta_28d": {
   "activeUsers": null,
@@ -83,8 +83,8 @@
   },
   {
    "date": "2026-09-08",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 8.0,
+   "sessions": 13.0
   }
  ],
  "daily_mean7": [
@@ -99,7 +99,7 @@
   3.57,
   4.29,
   4.0,
-  3.14
+  4.14
  ],
  "geo_country": [
   {
@@ -110,7 +110,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 5.0
+   "activeUsers": 10.0
   },
   {
    "country": "New Zealand",
@@ -134,7 +134,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 5.0
+   "activeUsers": 10.0
   },
   {
    "country": "New Zealand",
@@ -152,28 +152,33 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1212.0,
-   "users": 14.0
+   "count": 1386.0,
+   "users": 19.0
   },
   {
    "name": "scroll",
-   "count": 171.0,
-   "users": 14.0
+   "count": 186.0,
+   "users": 17.0
   },
   {
    "name": "user_engagement",
-   "count": 134.0,
-   "users": 13.0
+   "count": 139.0,
+   "users": 15.0
   },
   {
    "name": "session_start",
-   "count": 73.0,
-   "users": 13.0
+   "count": 83.0,
+   "users": 17.0
   },
   {
    "name": "export",
-   "count": 16.0,
+   "count": 17.0,
    "users": 1.0
+  },
+  {
+   "name": "first_visit",
+   "count": 9.0,
+   "users": 9.0
   },
   {
    "name": "click",
@@ -186,9 +191,14 @@
    "users": 1.0
   },
   {
-   "name": "first_visit",
-   "count": 7.0,
-   "users": 7.0
+   "name": "cite_ack",
+   "count": 5.0,
+   "users": 5.0
+  },
+  {
+   "name": "share",
+   "count": 5.0,
+   "users": 1.0
   },
   {
    "name": "cite",
@@ -196,18 +206,8 @@
    "users": 1.0
   },
   {
-   "name": "share",
-   "count": 4.0,
-   "users": 1.0
-  },
-  {
-   "name": "cite_ack",
-   "count": 2.0,
-   "users": 2.0
-  },
-  {
    "name": "view_search_results",
-   "count": 2.0,
+   "count": 4.0,
    "users": 1.0
   }
  ]

@@ -7,23 +7,23 @@
  "first_day": "2026-07-30",
  "last_day": "2026-09-06",
  "totals_28d": {
-  "activeUsers": 53.0,
+  "activeUsers": 50.0,
   "newUsers": 36.0,
-  "sessions": 61.0,
-  "engagedSessions": 23.0,
-  "screenPageViews": 122.0,
-  "eventCount": 341.0,
-  "userEngagementDuration": 1279.0,
-  "avgEngagementSeconds": 24.1,
-  "engagedSessionRate": 0.4,
-  "viewsPerUser": 2.3
+  "sessions": 58.0,
+  "engagedSessions": 20.0,
+  "screenPageViews": 108.0,
+  "eventCount": 311.0,
+  "userEngagementDuration": 1218.0,
+  "avgEngagementSeconds": 24.4,
+  "engagedSessionRate": 0.3,
+  "viewsPerUser": 2.2
  },
  "delta_28d": {
-  "activeUsers": 194.4,
-  "sessions": 117.9,
-  "engagedSessions": -4.2,
-  "avgEngagementSeconds": -68.6,
-  "screenPageViews": 67.1
+  "activeUsers": 138.1,
+  "sessions": 87.1,
+  "engagedSessions": -25.9,
+  "avgEngagementSeconds": -64.5,
+  "screenPageViews": 24.1
  },
  "daily": [
   {
@@ -518,11 +518,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 69925.0,
-   "bytes": 664188462.0,
+   "requests": 68227.0,
+   "bytes": 636408411.0,
    "clients": 1192.0,
-   "tool": 49865.0,
-   "browser": 20060.0
+   "tool": 48791.0,
+   "browser": 19436.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
