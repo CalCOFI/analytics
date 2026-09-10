@@ -518,58 +518,63 @@
    },
    {
     "date": "2026-09-09",
-    "requests": 1432.0,
-    "bytes": 10854230.0
+    "requests": 2190.0,
+    "bytes": 20615719.0
+   },
+   {
+    "date": "2026-09-10",
+    "requests": 630.0,
+    "bytes": 5110549.0
    }
   ],
   "totals_28d": {
-   "requests": 68997.0,
-   "bytes": 615718535.0,
+   "requests": 70385.0,
+   "bytes": 630590573.0,
    "clients": 1192.0,
-   "tool": 49523.0,
-   "browser": 19474.0
+   "tool": 50386.0,
+   "browser": 19999.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 75
-   },
-   {
-    "path": "/erddap/convert/time.html",
-    "n": 33
-   },
-   {
-    "path": "/",
-    "n": 29
-   },
-   {
-    "path": "/erddap",
-    "n": 24
+    "n": 58
    },
    {
     "path": "/robots.txt",
-    "n": 17
+    "n": 23
    },
    {
-    "path": "/erddap/rest.html",
-    "n": 14
+    "path": "/",
+    "n": 12
    },
    {
-    "path": "/ip",
-    "n": 14
+    "path": "/erddap",
+    "n": 12
    },
    {
-    "path": "/erddap/legal.html",
-    "n": 13
+    "path": "/erddap/sitemap.xml",
+    "n": 8
    },
    {
-    "path": "/erddap/convert/keywords.html",
-    "n": 10
+    "path": "/erddap/metadata/fgdc/xml/",
+    "n": 6
    },
    {
-    "path": "/erddap/convert/oceanicAtmosphericVariableNames.html",
-    "n": 10
+    "path": "/erddap/subscriptions/add.html",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/cce-lter_euphausiids_sample.graph",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/cce-lter_zooscan_sample.subset",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_cufes_sample.graph",
+    "n": 3
    }
   ]
  }

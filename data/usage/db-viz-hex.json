@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 66.0,
-  "newUsers": 13.0,
-  "sessions": 181.0,
+  "activeUsers": 67.0,
+  "newUsers": 14.0,
+  "sessions": 182.0,
   "engagedSessions": 144.0,
-  "screenPageViews": 543.0,
-  "eventCount": 3972.0,
-  "userEngagementDuration": 37878.0,
-  "avgEngagementSeconds": 573.9,
+  "screenPageViews": 544.0,
+  "eventCount": 3978.0,
+  "userEngagementDuration": 37964.0,
+  "avgEngagementSeconds": 566.6,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 8.2
+  "viewsPerUser": 8.1
  },
  "delta_28d": {
-  "activeUsers": 43.5,
-  "sessions": 118.1,
+  "activeUsers": 45.7,
+  "sessions": 119.3,
   "engagedSessions": 157.1,
-  "avgEngagementSeconds": 473.9,
-  "screenPageViews": 348.8
+  "avgEngagementSeconds": 466.6,
+  "screenPageViews": 349.6
  },
  "daily": [
   {
@@ -268,8 +268,8 @@
   },
   {
    "date": "2026-09-09",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 2.0
   },
   {
    "date": "20260701",
@@ -391,13 +391,13 @@
   3.29,
   3.29,
   3.57,
-  3.14,
-  2.71,
-  2.57,
+  3.29,
   2.86,
-  2.43,
+  2.71,
+  3.0,
+  2.57,
+  2.14,
   2.0,
-  1.86,
   2.0,
   2.14,
   2.29,
@@ -411,7 +411,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 28.0
+   "activeUsers": 29.0
   },
   {
    "country": "Italy",
@@ -449,7 +449,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 20.0
+   "activeUsers": 21.0
   },
   {
    "country": "Italy",
@@ -497,13 +497,13 @@
  "events": [
   {
    "name": "session_start",
-   "count": 794.0,
-   "users": 36.0
+   "count": 796.0,
+   "users": 37.0
   },
   {
    "name": "page_view",
-   "count": 630.0,
-   "users": 38.0
+   "count": 631.0,
+   "users": 39.0
   },
   {
    "name": "scroll",
@@ -512,8 +512,8 @@
   },
   {
    "name": "user_engagement",
-   "count": 361.0,
-   "users": 21.0
+   "count": 362.0,
+   "users": 22.0
   },
   {
    "name": "filter_submit",
@@ -532,8 +532,8 @@
   },
   {
    "name": "start_tour",
-   "count": 255.0,
-   "users": 33.0
+   "count": 256.0,
+   "users": 34.0
   },
   {
    "name": "select_tab",

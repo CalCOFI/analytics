@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-09-09",
  "totals_28d": {
-  "activeUsers": 17.0,
-  "newUsers": 10.0,
-  "sessions": 19.0,
+  "activeUsers": 22.0,
+  "newUsers": 15.0,
+  "sessions": 24.0,
   "engagedSessions": 10.0,
-  "screenPageViews": 53.0,
-  "eventCount": 137.0,
+  "screenPageViews": 58.0,
+  "eventCount": 153.0,
   "userEngagementDuration": 402.0,
-  "avgEngagementSeconds": 23.6,
-  "engagedSessionRate": 0.5,
-  "viewsPerUser": 3.1
+  "avgEngagementSeconds": 18.3,
+  "engagedSessionRate": 0.4,
+  "viewsPerUser": 2.6
  },
  "delta_28d": {
-  "activeUsers": -15.0,
-  "sessions": -40.6,
+  "activeUsers": 10.0,
+  "sessions": -25.0,
   "engagedSessions": -61.5,
-  "avgEngagementSeconds": -55.0,
-  "screenPageViews": -46.5
+  "avgEngagementSeconds": -65.1,
+  "screenPageViews": -41.4
  },
  "daily": [
   {
@@ -133,8 +133,8 @@
   },
   {
    "date": "2026-09-09",
-   "activeUsers": 2.0,
-   "sessions": 2.0
+   "activeUsers": 7.0,
+   "sessions": 7.0
   }
  ],
  "daily_mean7": [
@@ -159,13 +159,13 @@
   1.86,
   1.71,
   1.71,
-  1.57
+  2.29
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 12.0
+   "activeUsers": 17.0
   },
   {
    "country": "Italy",
@@ -188,7 +188,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 12.0
+   "activeUsers": 17.0
   },
   {
    "country": "Italy",
@@ -218,8 +218,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 152.0,
-   "users": 17.0
+   "count": 157.0,
+   "users": 22.0
   },
   {
    "name": "user_engagement",
@@ -228,18 +228,18 @@
   },
   {
    "name": "scroll",
-   "count": 93.0,
+   "count": 94.0,
    "users": 7.0
   },
   {
    "name": "session_start",
-   "count": 23.0,
-   "users": 17.0
+   "count": 28.0,
+   "users": 22.0
   },
   {
    "name": "first_visit",
-   "count": 14.0,
-   "users": 14.0
+   "count": 19.0,
+   "users": 19.0
   },
   {
    "name": "click",
@@ -461,57 +461,62 @@
    },
    {
     "date": "2026-09-09",
-    "requests": 334.0,
-    "bytes": 19831586.0
+    "requests": 860.0,
+    "bytes": 54925001.0
+   },
+   {
+    "date": "2026-09-10",
+    "requests": 358.0,
+    "bytes": 5698594.0
    }
   ],
   "totals_28d": {
-   "requests": 32684.0,
-   "bytes": 3350150474.0,
+   "requests": 33568.0,
+   "bytes": 3390942483.0,
    "clients": 1109.0,
-   "tool": 18162.0,
-   "browser": 14522.0
+   "tool": 18670.0,
+   "browser": 14898.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 56
+    "n": 52
    },
    {
     "path": "/robots.txt",
     "n": 15
    },
    {
-    "path": "/sitemap.xml",
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 6
    },
    {
-    "path": "/calcofi-projects",
-    "n": 3
+    "path": "/sitemap.xml",
+    "n": 5
    },
    {
-    "path": "/calcofi-files-public",
-    "n": 3
+    "path": "/favicon.ico",
+    "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ingest/cce-lter_zoodb/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/whales-seabirds-turtles/OBIS-SEAMAP/dwca-zd_507-v1.7/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/erddap/calcofi_ctd/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/NOAA_maritime-boundaries/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/explore-dev-root/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ingest/cce-lter_picoplankton-bacteria/",
+    "path": "/calcofi-files-public/archive/2023-10-16_224648/calcofi.org/bottle-database/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/cce-lter/zooscan/by_taxon/",
     "n": 2
    }
   ]

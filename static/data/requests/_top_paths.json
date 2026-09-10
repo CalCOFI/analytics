@@ -1,51 +1,51 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 75
-   },
-   {
-    "path": "/erddap/convert/time.html",
-    "n": 33
-   },
-   {
-    "path": "/",
-    "n": 29
-   },
-   {
-    "path": "/erddap",
-    "n": 24
+    "n": 58
    },
    {
     "path": "/robots.txt",
-    "n": 17
+    "n": 23
    },
    {
-    "path": "/erddap/rest.html",
-    "n": 14
+    "path": "/",
+    "n": 12
    },
    {
-    "path": "/ip",
-    "n": 14
+    "path": "/erddap",
+    "n": 12
    },
    {
-    "path": "/erddap/legal.html",
-    "n": 13
+    "path": "/erddap/sitemap.xml",
+    "n": 8
    },
    {
-    "path": "/erddap/convert/keywords.html",
-    "n": 10
+    "path": "/erddap/metadata/fgdc/xml/",
+    "n": 6
    },
    {
-    "path": "/erddap/convert/oceanicAtmosphericVariableNames.html",
-    "n": 10
+    "path": "/erddap/subscriptions/add.html",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/cce-lter_euphausiids_sample.graph",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/cce-lter_zooscan_sample.subset",
+    "n": 4
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_cufes_sample.graph",
+    "n": 3
    }
   ]
  },
  "erddap.calcofi.io:443": {
-  "date": "2026-09-07",
+  "date": "2026-09-10",
   "top_paths": [
    {
     "path": "/",
@@ -107,46 +107,46 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "top_paths": [
    {
     "path": "/",
-    "n": 56
+    "n": 52
    },
    {
     "path": "/robots.txt",
     "n": 15
    },
    {
-    "path": "/sitemap.xml",
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 6
    },
    {
-    "path": "/calcofi-projects",
-    "n": 3
+    "path": "/sitemap.xml",
+    "n": 5
    },
    {
-    "path": "/calcofi-files-public",
-    "n": 3
+    "path": "/favicon.ico",
+    "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ingest/cce-lter_zoodb/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/whales-seabirds-turtles/OBIS-SEAMAP/dwca-zd_507-v1.7/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/erddap/calcofi_ctd/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/NOAA_maritime-boundaries/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/explore-dev-root/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ingest/cce-lter_picoplankton-bacteria/",
+    "path": "/calcofi-files-public/archive/2023-10-16_224648/calcofi.org/bottle-database/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/cce-lter/zooscan/by_taxon/",
     "n": 2
    }
   ]
