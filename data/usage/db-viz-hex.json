@@ -10,20 +10,20 @@
   "activeUsers": 66.0,
   "newUsers": 13.0,
   "sessions": 181.0,
-  "engagedSessions": 137.0,
-  "screenPageViews": 539.0,
-  "eventCount": 3952.0,
-  "userEngagementDuration": 37876.0,
+  "engagedSessions": 144.0,
+  "screenPageViews": 543.0,
+  "eventCount": 3972.0,
+  "userEngagementDuration": 37878.0,
   "avgEngagementSeconds": 573.9,
   "engagedSessionRate": 0.8,
   "viewsPerUser": 8.2
  },
  "delta_28d": {
-  "activeUsers": 34.7,
-  "sessions": 103.4,
-  "engagedSessions": 128.3,
-  "avgEngagementSeconds": 464.9,
-  "screenPageViews": 317.8
+  "activeUsers": 43.5,
+  "sessions": 118.1,
+  "engagedSessions": 157.1,
+  "avgEngagementSeconds": 473.9,
+  "screenPageViews": 348.8
  },
  "daily": [
   {
@@ -264,7 +264,12 @@
   {
    "date": "2026-09-08",
    "activeUsers": 5.0,
-   "sessions": 8.0
+   "sessions": 9.0
+  },
+  {
+   "date": "2026-09-09",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   },
   {
    "date": "20260701",
@@ -388,10 +393,11 @@
   3.57,
   3.14,
   2.71,
-  3.0,
+  2.57,
   2.86,
   2.43,
-  2.43,
+  2.0,
+  1.86,
   2.0,
   2.14,
   2.29,
@@ -405,7 +411,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 27.0
+   "activeUsers": 28.0
   },
   {
    "country": "Italy",
@@ -443,7 +449,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 19.0
+   "activeUsers": 20.0
   },
   {
    "country": "Italy",
@@ -491,47 +497,47 @@
  "events": [
   {
    "name": "session_start",
-   "count": 788.0,
-   "users": 35.0
+   "count": 794.0,
+   "users": 36.0
   },
   {
    "name": "page_view",
-   "count": 626.0,
-   "users": 37.0
+   "count": 630.0,
+   "users": 38.0
   },
   {
    "name": "scroll",
-   "count": 581.0,
-   "users": 37.0
+   "count": 585.0,
+   "users": 38.0
   },
   {
    "name": "user_engagement",
-   "count": 359.0,
+   "count": 361.0,
    "users": 21.0
   },
   {
    "name": "filter_submit",
-   "count": 350.0,
+   "count": 351.0,
    "users": 11.0
   },
   {
    "name": "map_query_env",
-   "count": 350.0,
+   "count": 351.0,
    "users": 11.0
   },
   {
    "name": "map_query_sp",
-   "count": 350.0,
+   "count": 351.0,
    "users": 11.0
   },
   {
    "name": "start_tour",
-   "count": 252.0,
-   "users": 32.0
+   "count": 255.0,
+   "users": 33.0
   },
   {
    "name": "select_tab",
-   "count": 146.0,
+   "count": 147.0,
    "users": 15.0
   },
   {
@@ -541,7 +547,7 @@
   },
   {
    "name": "open_filters",
-   "count": 124.0,
+   "count": 126.0,
    "users": 14.0
   },
   {
@@ -895,6 +901,15 @@
     "p95_ms": "124.3"
    },
    {
+    "date": "2026-09-10",
+    "events": "4",
+    "distinct_sessions": "2",
+    "distinct_clients": "2",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1154,7 +1169,7 @@
    },
    {
     "event": "session_start",
-    "n": "324",
+    "n": "326",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1162,7 +1177,7 @@
    },
    {
     "event": "start_tour",
-    "n": "253",
+    "n": "255",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1444,9 +1459,9 @@
    },
    {
     "app_version": "c2f854a",
-    "n": "16",
+    "n": "20",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-08"
+    "last_seen": "2026-09-10"
    },
    {
     "app_version": "cbc4d03",
