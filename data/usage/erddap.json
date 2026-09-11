@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-30",
- "last_day": "2026-09-06",
+ "last_day": "2026-09-09",
  "totals_28d": {
-  "activeUsers": 49.0,
-  "newUsers": 36.0,
-  "sessions": 56.0,
+  "activeUsers": 50.0,
+  "newUsers": 37.0,
+  "sessions": 57.0,
   "engagedSessions": 19.0,
-  "screenPageViews": 107.0,
-  "eventCount": 306.0,
+  "screenPageViews": 108.0,
+  "eventCount": 309.0,
   "userEngagementDuration": 1208.0,
-  "avgEngagementSeconds": 24.7,
+  "avgEngagementSeconds": 24.2,
   "engagedSessionRate": 0.3,
   "viewsPerUser": 2.2
  },
  "delta_28d": {
-  "activeUsers": 122.7,
-  "sessions": 69.7,
+  "activeUsers": 127.3,
+  "sessions": 72.7,
   "engagedSessions": -32.1,
-  "avgEngagementSeconds": -62.6,
-  "screenPageViews": 21.6
+  "avgEngagementSeconds": -63.3,
+  "screenPageViews": 22.7
  },
  "daily": [
   {
@@ -160,6 +160,11 @@
    "date": "2026-09-06",
    "activeUsers": 13.0,
    "sessions": 13.0
+  },
+  {
+   "date": "2026-09-09",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -189,6 +194,7 @@
   1.14,
   2.0,
   3.29,
+  5.0,
   5.0
  ],
  "geo_country": [
@@ -200,7 +206,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 14.0
+   "activeUsers": 15.0
   },
   {
    "country": "Italy",
@@ -229,7 +235,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 14.0
+   "activeUsers": 15.0
   },
   {
    "country": "Italy",
@@ -265,8 +271,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 195.0,
-   "users": 44.0
+   "count": 196.0,
+   "users": 45.0
   },
   {
    "name": "user_engagement",
@@ -280,13 +286,13 @@
   },
   {
    "name": "session_start",
-   "count": 59.0,
-   "users": 43.0
+   "count": 60.0,
+   "users": 44.0
   },
   {
    "name": "first_visit",
-   "count": 39.0,
-   "users": 39.0
+   "count": 40.0,
+   "users": 40.0
   },
   {
    "name": "form_start",
@@ -523,58 +529,63 @@
    },
    {
     "date": "2026-09-10",
-    "requests": 630.0,
-    "bytes": 5110549.0
+    "requests": 4308.0,
+    "bytes": 125445430.0
+   },
+   {
+    "date": "2026-09-11",
+    "requests": 12360.0,
+    "bytes": 395792605.0
    }
   ],
   "totals_28d": {
-   "requests": 68355.0,
-   "bytes": 582942479.0,
+   "requests": 84393.0,
+   "bytes": 1099069965.0,
    "clients": 1192.0,
-   "tool": 49348.0,
-   "browser": 19007.0
+   "tool": 64797.0,
+   "browser": 19596.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/index.html",
-    "n": 58
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 2586
    },
    {
-    "path": "/robots.txt",
-    "n": 23
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 2544
    },
    {
-    "path": "/",
-    "n": 12
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 1803
    },
    {
-    "path": "/erddap",
-    "n": 12
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 785
    },
    {
-    "path": "/erddap/sitemap.xml",
-    "n": 8
+    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
+    "n": 778
    },
    {
-    "path": "/erddap/metadata/fgdc/xml/",
-    "n": 6
+    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
+    "n": 560
    },
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 4
+    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
+    "n": 306
    },
    {
-    "path": "/erddap/tabledap/cce-lter_euphausiids_sample.graph",
-    "n": 4
+    "path": "/erddap/tabledap/farallon_bird-mammal.graph",
+    "n": 298
    },
    {
-    "path": "/erddap/tabledap/cce-lter_zooscan_sample.subset",
-    "n": 4
+    "path": "/erddap/tabledap/farallon_bird-mammal.html",
+    "n": 218
    },
    {
-    "path": "/erddap/tabledap/swfsc_cufes_sample.graph",
-    "n": 3
+    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
+    "n": 131
    }
   ]
  }

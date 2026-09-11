@@ -180,7 +180,7 @@
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 1.0
+   "activeUsers": 2.0
   }
  ],
  "geo": [
@@ -213,6 +213,12 @@
    "countryId": "CN",
    "region": "",
    "activeUsers": 1.0
+  },
+  {
+   "country": "China",
+   "countryId": "CN",
+   "region": "Other",
+   "activeUsers": 1.0
   }
  ],
  "events": [
@@ -229,7 +235,7 @@
   {
    "name": "scroll",
    "count": 94.0,
-   "users": 7.0
+   "users": 8.0
   },
   {
    "name": "session_start",
@@ -466,57 +472,62 @@
    },
    {
     "date": "2026-09-10",
-    "requests": 358.0,
-    "bytes": 5698594.0
+    "requests": 945.0,
+    "bytes": 15708809.0
+   },
+   {
+    "date": "2026-09-11",
+    "requests": 400.0,
+    "bytes": 30397960.0
    }
   ],
   "totals_28d": {
-   "requests": 33116.0,
-   "bytes": 1806941381.0,
+   "requests": 34103.0,
+   "bytes": 1847349556.0,
    "clients": 1109.0,
-   "tool": 18472.0,
-   "browser": 14644.0
+   "tool": 19063.0,
+   "browser": 15040.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 52
-   },
-   {
-    "path": "/robots.txt",
-    "n": 15
+    "n": 60
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 6
+    "n": 26
+   },
+   {
+    "path": "/robots.txt",
+    "n": 22
    },
    {
     "path": "/sitemap.xml",
-    "n": 5
+    "n": 8
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.09.06/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2307SR_CTDPrelim/csvs-plots/S+D/",
+    "n": 2
    },
    {
     "path": "/favicon.ico",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/whales-seabirds-turtles/OBIS-SEAMAP/dwca-zd_507-v1.7/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/NOAA_maritime-boundaries/",
+    "path": "/calcofi-files-public/netcdf/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0507NH_CTDFinalQC/csvs-plots/Secondary/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2023-10-16_224648/calcofi.org/bottle-database/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/cce-lter/zooscan/by_taxon/",
+    "path": "/calcofi-db/erddap/calcofi_ctd/ctd_wide/",
     "n": 2
    }
   ]

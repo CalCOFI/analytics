@@ -465,7 +465,7 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 246.0
+   "activeUsers": 249.0
   },
   {
    "country": "United States",
@@ -478,13 +478,13 @@
    "activeUsers": 3.0
   },
   {
-   "country": "Japan",
-   "countryId": "JP",
-   "activeUsers": 2.0
-  },
-  {
    "country": "China",
    "countryId": "CN",
+   "activeUsers": 3.0
+  },
+  {
+   "country": "Japan",
+   "countryId": "JP",
    "activeUsers": 2.0
   }
  ],
@@ -493,7 +493,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 242.0
+   "activeUsers": 245.0
   },
   {
    "country": "United States",
@@ -514,6 +514,12 @@
    "activeUsers": 3.0
   },
   {
+   "country": "China",
+   "countryId": "CN",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
    "country": "Japan",
    "countryId": "JP",
    "region": "Other",
@@ -523,12 +529,6 @@
    "country": "China",
    "countryId": "CN",
    "region": "",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "China",
-   "countryId": "CN",
-   "region": "Other",
    "activeUsers": 1.0
   },
   {

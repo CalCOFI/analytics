@@ -1,9 +1,9 @@
 country,countryId,region,activeUsers,sessions
 China,CN,,1,1
-China,CN,Other,1,1
+China,CN,Other,2,2
 Italy,IT,Other,3,5
 Japan,JP,Other,2,2
 Singapore,SG,,3,3
-Singapore,SG,(not set),242,242
+Singapore,SG,(not set),245,245
 Singapore,SG,Other,1,1
 United States,US,Other,6,8

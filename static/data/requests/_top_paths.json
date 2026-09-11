@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "top_paths": [
    {
-    "path": "/erddap/index.html",
-    "n": 58
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 2586
    },
    {
-    "path": "/robots.txt",
-    "n": 23
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 2544
    },
    {
-    "path": "/",
-    "n": 12
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 1803
    },
    {
-    "path": "/erddap",
-    "n": 12
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 785
    },
    {
-    "path": "/erddap/sitemap.xml",
-    "n": 8
+    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
+    "n": 778
    },
    {
-    "path": "/erddap/metadata/fgdc/xml/",
-    "n": 6
+    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
+    "n": 560
    },
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 4
+    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
+    "n": 306
    },
    {
-    "path": "/erddap/tabledap/cce-lter_euphausiids_sample.graph",
-    "n": 4
+    "path": "/erddap/tabledap/farallon_bird-mammal.graph",
+    "n": 298
    },
    {
-    "path": "/erddap/tabledap/cce-lter_zooscan_sample.subset",
-    "n": 4
+    "path": "/erddap/tabledap/farallon_bird-mammal.html",
+    "n": 218
    },
    {
-    "path": "/erddap/tabledap/swfsc_cufes_sample.graph",
-    "n": 3
+    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
+    "n": 131
    }
   ]
  },
@@ -107,46 +107,46 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "top_paths": [
    {
     "path": "/",
-    "n": 52
-   },
-   {
-    "path": "/robots.txt",
-    "n": 15
+    "n": 60
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 6
+    "n": 26
+   },
+   {
+    "path": "/robots.txt",
+    "n": 22
    },
    {
     "path": "/sitemap.xml",
-    "n": 5
+    "n": 8
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.09.06/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2307SR_CTDPrelim/csvs-plots/S+D/",
+    "n": 2
    },
    {
     "path": "/favicon.ico",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/whales-seabirds-turtles/OBIS-SEAMAP/dwca-zd_507-v1.7/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/NOAA_maritime-boundaries/",
+    "path": "/calcofi-files-public/netcdf/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0507NH_CTDFinalQC/csvs-plots/Secondary/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2023-10-16_224648/calcofi.org/bottle-database/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/cce-lter/zooscan/by_taxon/",
+    "path": "/calcofi-db/erddap/calcofi_ctd/ctd_wide/",
     "n": 2
    }
   ]

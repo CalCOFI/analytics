@@ -1,11 +1,11 @@
 country,countryId,region,activeUsers,sessions
-Australia,AU,Other,4,4
+Australia,AU,Other,5,5
 Belgium,BE,Other,2,3
 Botswana,BW,,2,2
 Botswana,BW,Other,2,2
 Brazil,BR,Other,2,2
 Canada,CA,Other,2,2
-China,CN,Other,2,2
+China,CN,Other,3,3
 Croatia,HR,Other,1,1
 France,FR,Other,1,2
 Germany,DE,Other,4,4
@@ -33,7 +33,7 @@ Türkiye,TR,Other,1,1
 United Kingdom,GB,Other,4,4
 United States,US,,1,1
 United States,US,Arizona,16,17
-United States,US,California,620,931
+United States,US,California,621,934
 United States,US,Colorado,20,22
 United States,US,Hawaii,11,12
 United States,US,Oregon,13,17
