@@ -7,16 +7,16 @@
  "first_day": "2026-08-28",
  "last_day": "2026-09-10",
  "totals_28d": {
-  "activeUsers": 51.0,
-  "newUsers": 10.0,
-  "sessions": 107.0,
-  "engagedSessions": 89.0,
-  "screenPageViews": 1580.0,
-  "eventCount": 2093.0,
-  "userEngagementDuration": 14527.0,
-  "avgEngagementSeconds": 284.8,
+  "activeUsers": 63.0,
+  "newUsers": 19.0,
+  "sessions": 126.0,
+  "engagedSessions": 96.0,
+  "screenPageViews": 1759.0,
+  "eventCount": 2345.0,
+  "userEngagementDuration": 15776.0,
+  "avgEngagementSeconds": 250.4,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 31.0
+  "viewsPerUser": 27.9
  },
  "delta_28d": {
   "activeUsers": null,
@@ -93,8 +93,8 @@
   },
   {
    "date": "2026-09-10",
-   "activeUsers": 1.0,
-   "sessions": 2.0
+   "activeUsers": 13.0,
+   "sessions": 21.0
   }
  ],
  "daily_mean7": [
@@ -111,18 +111,23 @@
   4.0,
   4.29,
   4.0,
-  3.71
+  5.43
  ],
  "geo_country": [
+  {
+   "country": "United States",
+   "countryId": "US",
+   "activeUsers": 20.0
+  },
   {
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 11.0
   },
   {
-   "country": "United States",
-   "countryId": "US",
-   "activeUsers": 11.0
+   "country": "China",
+   "countryId": "CN",
+   "activeUsers": 2.0
   },
   {
    "country": "New Zealand",
@@ -137,16 +142,22 @@
  ],
  "geo": [
   {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Other",
+   "activeUsers": 20.0
+  },
+  {
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
    "activeUsers": 11.0
   },
   {
-   "country": "United States",
-   "countryId": "US",
+   "country": "China",
+   "countryId": "CN",
    "region": "Other",
-   "activeUsers": 11.0
+   "activeUsers": 2.0
   },
   {
    "country": "New Zealand",
@@ -164,22 +175,27 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1580.0,
-   "users": 20.0
+   "count": 1759.0,
+   "users": 31.0
   },
   {
    "name": "scroll",
-   "count": 207.0,
-   "users": 20.0
+   "count": 232.0,
+   "users": 29.0
   },
   {
    "name": "user_engagement",
-   "count": 153.0,
-   "users": 17.0
+   "count": 174.0,
+   "users": 22.0
   },
   {
    "name": "session_start",
-   "count": 92.0,
+   "count": 108.0,
+   "users": 28.0
+  },
+  {
+   "name": "first_visit",
+   "count": 19.0,
    "users": 19.0
   },
   {
@@ -188,24 +204,19 @@
    "users": 1.0
   },
   {
-   "name": "first_visit",
-   "count": 10.0,
-   "users": 10.0
-  },
-  {
    "name": "click",
    "count": 8.0,
    "users": 3.0
   },
   {
+   "name": "cite_ack",
+   "count": 7.0,
+   "users": 7.0
+  },
+  {
    "name": "feedback",
    "count": 7.0,
    "users": 1.0
-  },
-  {
-   "name": "cite_ack",
-   "count": 5.0,
-   "users": 5.0
   },
   {
    "name": "share",
