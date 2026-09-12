@@ -1,8 +1,8 @@
 country,countryId,region,activeUsers,sessions
 China,CN,,2,2
-China,CN,Other,28,28
+China,CN,Other,30,30
 Germany,DE,Other,1,2
-Italy,IT,Other,4,26
+Italy,IT,Other,5,29
 Singapore,SG,,1,1
 Singapore,SG,Other,1,1
 United States,US,Other,15,33

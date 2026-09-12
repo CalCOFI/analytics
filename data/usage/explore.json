@@ -7,16 +7,16 @@
  "first_day": "2026-08-28",
  "last_day": "2026-09-11",
  "totals_28d": {
-  "activeUsers": 66.0,
-  "newUsers": 20.0,
-  "sessions": 129.0,
-  "engagedSessions": 96.0,
-  "screenPageViews": 1772.0,
-  "eventCount": 2369.0,
-  "userEngagementDuration": 15793.0,
-  "avgEngagementSeconds": 239.3,
-  "engagedSessionRate": 0.7,
-  "viewsPerUser": 26.9
+  "activeUsers": 68.0,
+  "newUsers": 23.0,
+  "sessions": 133.0,
+  "engagedSessions": 108.0,
+  "screenPageViews": 1813.0,
+  "eventCount": 2427.0,
+  "userEngagementDuration": 16025.0,
+  "avgEngagementSeconds": 235.7,
+  "engagedSessionRate": 0.8,
+  "viewsPerUser": 26.7
  },
  "delta_28d": {
   "activeUsers": null,
@@ -93,13 +93,13 @@
   },
   {
    "date": "2026-09-10",
-   "activeUsers": 13.0,
-   "sessions": 21.0
+   "activeUsers": 15.0,
+   "sessions": 23.0
   },
   {
    "date": "2026-09-11",
    "activeUsers": 3.0,
-   "sessions": 3.0
+   "sessions": 5.0
   }
  ],
  "daily_mean7": [
@@ -116,14 +116,14 @@
   4.0,
   4.29,
   4.0,
-  5.43,
-  5.57
+  5.71,
+  5.86
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 20.0
+   "activeUsers": 22.0
   },
   {
    "country": "Italy",
@@ -151,7 +151,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 20.0
+   "activeUsers": 22.0
   },
   {
    "country": "Italy",
@@ -181,28 +181,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1772.0,
-   "users": 33.0
+   "count": 1813.0,
+   "users": 35.0
   },
   {
    "name": "scroll",
-   "count": 238.0,
-   "users": 31.0
+   "count": 241.0,
+   "users": 33.0
   },
   {
    "name": "user_engagement",
-   "count": 177.0,
-   "users": 23.0
+   "count": 179.0,
+   "users": 24.0
   },
   {
    "name": "session_start",
-   "count": 109.0,
-   "users": 29.0
+   "count": 116.0,
+   "users": 32.0
   },
   {
    "name": "first_visit",
-   "count": 20.0,
-   "users": 20.0
+   "count": 23.0,
+   "users": 23.0
   },
   {
    "name": "export",
@@ -210,14 +210,14 @@
    "users": 1.0
   },
   {
+   "name": "cite_ack",
+   "count": 8.0,
+   "users": 8.0
+  },
+  {
    "name": "click",
    "count": 8.0,
    "users": 3.0
-  },
-  {
-   "name": "cite_ack",
-   "count": 7.0,
-   "users": 7.0
   },
   {
    "name": "feedback",
@@ -230,12 +230,12 @@
    "users": 1.0
   },
   {
-   "name": "cite",
-   "count": 4.0,
+   "name": "view_search_results",
+   "count": 5.0,
    "users": 1.0
   },
   {
-   "name": "view_search_results",
+   "name": "cite",
    "count": 4.0,
    "users": 1.0
   }

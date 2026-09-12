@@ -1,5 +1,5 @@
 country,countryId,region,activeUsers,sessions
-Australia,AU,Other,5,5
+Australia,AU,Other,5,6
 Belgium,BE,Other,2,3
 Botswana,BW,,2,2
 Botswana,BW,Other,2,2
@@ -33,7 +33,7 @@ Türkiye,TR,Other,1,1
 United Kingdom,GB,Other,4,4
 United States,US,,1,1
 United States,US,Arizona,16,17
-United States,US,California,621,934
+United States,US,California,622,955
 United States,US,Colorado,20,22
 United States,US,Hawaii,11,12
 United States,US,Oregon,13,17
