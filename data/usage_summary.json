@@ -1,23 +1,23 @@
 {
- "generated": "2026-09-12T01:34:17+00:00",
+ "generated": "2026-09-12T11:17:44+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 1245.0,
-  "activeUsers": 1907.0,
-  "sessions": 2622.0
+  "engagedSessions": 1252.0,
+  "activeUsers": 1954.0,
+  "sessions": 2678.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
-   "engagedSessions": 476.0,
-   "activeUsers": 976.0,
-   "sessions": 1282.0,
+   "engagedSessions": 479.0,
+   "activeUsers": 979.0,
+   "sessions": 1290.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 32.8,
-   "delta": 4660.0,
+   "avgEngagementSeconds": 32.7,
+   "delta": 4690.0,
    "spark": [
     2.0,
     2.0,
@@ -46,7 +46,8 @@
     4.0,
     19.0,
     7.0,
-    9.0
+    9.0,
+    3.0
    ],
    "mostly_automated": false
   },
@@ -130,10 +131,10 @@
    "slug": "docs",
    "title": "docs",
    "engagedSessions": 129.0,
-   "activeUsers": 104.0,
-   "sessions": 165.0,
+   "activeUsers": 107.0,
+   "sessions": 168.0,
    "engagementRate": 0.8,
-   "avgEngagementSeconds": 72.2,
+   "avgEngagementSeconds": 70.1,
    "delta": 126.3,
    "spark": [
     4.0,
@@ -209,7 +210,7 @@
     15.0,
     6.0,
     11.0,
-    1.0
+    4.0
    ],
    "mostly_automated": false
   },
@@ -220,7 +221,7 @@
    "activeUsers": 68.0,
    "sessions": 133.0,
    "engagementRate": 0.8,
-   "avgEngagementSeconds": 235.7,
+   "avgEngagementSeconds": 236.3,
    "delta": null,
    "spark": [
     2.0,
@@ -334,12 +335,12 @@
   {
    "slug": "db-schema",
    "title": "db-schema",
-   "engagedSessions": 39.0,
+   "engagedSessions": 40.0,
    "activeUsers": 35.0,
-   "sessions": 56.0,
+   "sessions": 57.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 24.2,
-   "delta": -27.8,
+   "avgEngagementSeconds": 24.5,
+   "delta": -25.9,
    "spark": [
     1.0,
     1.0,
@@ -383,11 +384,11 @@
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 29.0,
-   "activeUsers": 33.0,
-   "sessions": 52.0,
-   "engagementRate": 0.6,
-   "avgEngagementSeconds": 171.9,
+   "engagedSessions": 30.0,
+   "activeUsers": 39.0,
+   "sessions": 58.0,
+   "engagementRate": 0.5,
+   "avgEngagementSeconds": 145.6,
    "delta": null,
    "spark": [
     1.0,
@@ -396,19 +397,19 @@
     4.0,
     5.0,
     18.0,
-    1.0
+    7.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "calcofi4r",
    "title": "calcofi4r",
-   "engagedSessions": 26.0,
-   "activeUsers": 75.0,
-   "sessions": 85.0,
+   "engagedSessions": 28.0,
+   "activeUsers": 78.0,
+   "sessions": 89.0,
    "engagementRate": 0.3,
-   "avgEngagementSeconds": 9.1,
-   "delta": -39.5,
+   "avgEngagementSeconds": 8.8,
+   "delta": -34.9,
    "spark": [
     1.0,
     8.0,
@@ -499,7 +500,7 @@
     3.0,
     1.0,
     3.0,
-    1.0
+    4.0
    ],
    "mostly_automated": false
   },
@@ -545,10 +546,10 @@
    "slug": "erddap",
    "title": "erddap",
    "engagedSessions": 21.0,
-   "activeUsers": 53.0,
-   "sessions": 60.0,
+   "activeUsers": 54.0,
+   "sessions": 61.0,
    "engagementRate": 0.3,
-   "avgEngagementSeconds": 24.3,
+   "avgEngagementSeconds": 23.9,
    "delta": -27.6,
    "spark": [
     3.0,
@@ -580,7 +581,7 @@
     13.0,
     1.0,
     4.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
@@ -771,10 +772,10 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 8.0,
-   "activeUsers": 176.0,
-   "sessions": 177.0,
+   "activeUsers": 207.0,
+   "sessions": 208.0,
    "engagementRate": 0.0,
-   "avgEngagementSeconds": 2.4,
+   "avgEngagementSeconds": 2.0,
    "delta": 166.7,
    "spark": [
     2.0,
@@ -850,7 +851,7 @@
     1.0,
     4.0,
     3.0,
-    1.0
+    32.0
    ],
    "mostly_automated": true
   },
@@ -926,12 +927,11 @@
    "title": "Hypoxia Story",
    "engagedSessions": 7.0,
    "activeUsers": 12.0,
-   "sessions": 14.0,
-   "engagementRate": 0.5,
+   "sessions": 16.0,
+   "engagementRate": 0.4,
    "avgEngagementSeconds": 137.1,
    "delta": 250.0,
    "spark": [
-    1.0,
     1.0,
     2.0,
     2.0,
@@ -1020,7 +1020,8 @@
     1.0,
     1.0,
     3.0,
-    3.0
+    3.0,
+    0.0
    ],
    "mostly_automated": false
   },

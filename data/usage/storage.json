@@ -11,9 +11,9 @@
   "newUsers": 15.0,
   "sessions": 27.0,
   "engagedSessions": 13.0,
-  "screenPageViews": 71.0,
-  "eventCount": 183.0,
-  "userEngagementDuration": 491.0,
+  "screenPageViews": 72.0,
+  "eventCount": 185.0,
+  "userEngagementDuration": 492.0,
   "avgEngagementSeconds": 20.5,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 3.0
@@ -23,7 +23,7 @@
   "sessions": -20.6,
   "engagedSessions": -50.0,
   "avgEngagementSeconds": -57.0,
-  "screenPageViews": -29.7
+  "screenPageViews": -28.7
  },
  "daily": [
   {
@@ -236,12 +236,12 @@
  "events": [
   {
    "name": "page_view",
-   "count": 172.0,
+   "count": 173.0,
    "users": 24.0
   },
   {
    "name": "user_engagement",
-   "count": 149.0,
+   "count": 150.0,
    "users": 4.0
   },
   {
@@ -494,58 +494,63 @@
    },
    {
     "date": "2026-09-11",
-    "requests": 400.0,
-    "bytes": 30397960.0
+    "requests": 2544.0,
+    "bytes": 40571462.0
+   },
+   {
+    "date": "2026-09-12",
+    "requests": 849.0,
+    "bytes": 4914043.0
    }
   ],
   "totals_28d": {
-   "requests": 33019.0,
-   "bytes": 1643722335.0,
+   "requests": 36012.0,
+   "bytes": 1658809880.0,
    "clients": 1109.0,
-   "tool": 18801.0,
-   "browser": 14218.0
+   "tool": 21411.0,
+   "browser": 14601.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 60
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 26
+    "n": 56
    },
    {
     "path": "/robots.txt",
-    "n": 22
+    "n": 24
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 17
    },
    {
     "path": "/sitemap.xml",
-    "n": 8
+    "n": 10
    },
    {
-    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.09.06/",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/manifests.json",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2307SR_CTDPrelim/csvs-plots/S+D/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/manifests.json",
+    "n": 4
    },
    {
-    "path": "/favicon.ico",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/manifests.json",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/manifests.json",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0507NH_CTDFinalQC/csvs-plots/Secondary/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/manifests.json",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/erddap/calcofi_ctd/ctd_wide/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/manifests.json",
+    "n": 4
    }
   ]
  }

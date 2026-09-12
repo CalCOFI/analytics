@@ -7,16 +7,16 @@
  "first_day": "2026-09-05",
  "last_day": "2026-09-11",
  "totals_28d": {
-  "activeUsers": 33.0,
-  "newUsers": 22.0,
-  "sessions": 52.0,
-  "engagedSessions": 29.0,
-  "screenPageViews": 131.0,
-  "eventCount": 319.0,
-  "userEngagementDuration": 5673.0,
-  "avgEngagementSeconds": 171.9,
-  "engagedSessionRate": 0.6,
-  "viewsPerUser": 4.0
+  "activeUsers": 39.0,
+  "newUsers": 27.0,
+  "sessions": 58.0,
+  "engagedSessions": 30.0,
+  "screenPageViews": 137.0,
+  "eventCount": 338.0,
+  "userEngagementDuration": 5677.0,
+  "avgEngagementSeconds": 145.6,
+  "engagedSessionRate": 0.5,
+  "viewsPerUser": 3.5
  },
  "delta_28d": {
   "activeUsers": null,
@@ -58,8 +58,8 @@
   },
   {
    "date": "2026-09-11",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 7.0,
+   "sessions": 7.0
   }
  ],
  "daily_mean7": [
@@ -69,18 +69,18 @@
   2.25,
   2.8,
   5.33,
-  4.71
+  5.57
  ],
  "geo_country": [
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 19.0
+   "activeUsers": 23.0
   },
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 6.0
+   "activeUsers": 7.0
   },
   {
    "country": "Italy",
@@ -93,13 +93,13 @@
    "country": "China",
    "countryId": "CN",
    "region": "Other",
-   "activeUsers": 19.0
+   "activeUsers": 23.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 6.0
+   "activeUsers": 7.0
   },
   {
    "country": "Italy",
@@ -111,28 +111,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 131.0,
-   "users": 27.0
+   "count": 137.0,
+   "users": 32.0
   },
   {
    "name": "user_engagement",
-   "count": 110.0,
+   "count": 111.0,
    "users": 10.0
   },
   {
    "name": "session_start",
-   "count": 30.0,
-   "users": 25.0
+   "count": 36.0,
+   "users": 30.0
   },
   {
    "name": "first_visit",
-   "count": 22.0,
-   "users": 22.0
+   "count": 27.0,
+   "users": 27.0
   },
   {
    "name": "scroll",
-   "count": 16.0,
-   "users": 2.0
+   "count": 17.0,
+   "users": 3.0
   },
   {
    "name": "click",

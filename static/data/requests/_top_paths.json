@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 2586
+    "path": "/erddap/index.html",
+    "n": 58
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 2544
+    "path": "/erddap/tabledap/documentation.html",
+    "n": 31
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 1803
+    "path": "/erddap/tabledap/cce-lter_picoplankton-bacteria.fgdc",
+    "n": 29
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 785
+    "path": "/robots.txt",
+    "n": 21
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 778
+    "path": "/",
+    "n": 15
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 560
+    "path": "/erddap",
+    "n": 14
    },
    {
-    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
-    "n": 306
+    "path": "/erddap/files/documentation.html",
+    "n": 8
    },
    {
-    "path": "/erddap/tabledap/farallon_bird-mammal.graph",
-    "n": 298
+    "path": "/erddap/info/calcofi_phyllosoma/index.csv",
+    "n": 8
    },
    {
-    "path": "/erddap/tabledap/farallon_bird-mammal.html",
-    "n": 218
+    "path": "/erddap/info/calcofi_phytoplankton/index.csv",
+    "n": 8
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
-    "n": 131
+    "path": "/erddap/info/cce-lter_euphausiids/index.csv",
+    "n": 8
    }
   ]
  },
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "top_paths": [
    {
     "path": "/",
-    "n": 60
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 26
+    "n": 56
    },
    {
     "path": "/robots.txt",
-    "n": 22
+    "n": 24
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 17
    },
    {
     "path": "/sitemap.xml",
-    "n": 8
+    "n": 10
    },
    {
-    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.09.06/",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/manifests.json",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2307SR_CTDPrelim/csvs-plots/S+D/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/manifests.json",
+    "n": 4
    },
    {
-    "path": "/favicon.ico",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/manifests.json",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/manifests.json",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0507NH_CTDFinalQC/csvs-plots/Secondary/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/manifests.json",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/erddap/calcofi_ctd/ctd_wide/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/manifests.json",
+    "n": 4
    }
   ]
  },
