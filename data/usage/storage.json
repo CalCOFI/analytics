@@ -499,58 +499,63 @@
    },
    {
     "date": "2026-09-12",
-    "requests": 849.0,
-    "bytes": 4914043.0
+    "requests": 2760.0,
+    "bytes": 31310833.0
+   },
+   {
+    "date": "2026-09-13",
+    "requests": 1198.0,
+    "bytes": 3651923.0
    }
   ],
   "totals_28d": {
-   "requests": 34516.0,
-   "bytes": 1376995659.0,
+   "requests": 37625.0,
+   "bytes": 1407044372.0,
    "clients": 931.0,
-   "tool": 20890.0,
-   "browser": 13626.0
+   "tool": 22434.0,
+   "browser": 15191.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 56
+    "n": 47
    },
    {
     "path": "/robots.txt",
     "n": 24
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 17
+    "path": "/ip",
+    "n": 14
    },
    {
     "path": "/sitemap.xml",
-    "n": 10
+    "n": 9
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/manifests.json",
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/manifests.json",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/manifests.json",
-    "n": 4
+    "path": "/calcofi-db/ingest/calcofi_mets/obs_mets_full/cruise_key=2016-11-33P4/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/manifests.json",
-    "n": 4
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/cruise/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/manifests.json",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/manifests.json",
-    "n": 4
+    "path": "/calcofi-db/pg/ctd_scan_raw/study=1611SR/",
+    "n": 3
    }
   ]
  }

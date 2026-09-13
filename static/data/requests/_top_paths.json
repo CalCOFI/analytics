@@ -1,63 +1,63 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 58
-   },
-   {
-    "path": "/erddap/tabledap/documentation.html",
-    "n": 31
-   },
-   {
-    "path": "/erddap/tabledap/cce-lter_picoplankton-bacteria.fgdc",
-    "n": 29
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 21
+    "n": 22
    },
    {
     "path": "/",
-    "n": 15
+    "n": 16
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 16
    },
    {
     "path": "/erddap",
-    "n": 14
+    "n": 11
    },
    {
-    "path": "/erddap/files/documentation.html",
-    "n": 8
+    "path": "/erddap/convert/time.html",
+    "n": 9
    },
    {
-    "path": "/erddap/info/calcofi_phyllosoma/index.csv",
-    "n": 8
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 9
    },
    {
-    "path": "/erddap/info/calcofi_phytoplankton/index.csv",
-    "n": 8
+    "path": "/erddap/tabledap/cdfw_dungeness-crab_attribute.graph",
+    "n": 7
    },
    {
-    "path": "/erddap/info/cce-lter_euphausiids/index.csv",
-    "n": 8
+    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
+    "n": 7
+   },
+   {
+    "path": "/.git/HEAD",
+    "n": 6
    }
   ]
  },
  "erddap.calcofi.io:443": {
-  "date": "2026-09-10",
+  "date": "2026-09-12",
   "top_paths": [
    {
     "path": "/",
-    "n": 1
+    "n": 2
    },
    {
     "path": "/erddap",
-    "n": 1
+    "n": 2
    },
    {
     "path": "/erddap/index.html",
-    "n": 1
+    "n": 2
    }
   ]
  },
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "top_paths": [
    {
     "path": "/",
-    "n": 56
+    "n": 47
    },
    {
     "path": "/robots.txt",
     "n": 24
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 17
+    "path": "/ip",
+    "n": 14
    },
    {
     "path": "/sitemap.xml",
-    "n": 10
+    "n": 9
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/manifests.json",
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/manifests.json",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/manifests.json",
-    "n": 4
+    "path": "/calcofi-db/ingest/calcofi_mets/obs_mets_full/cruise_key=2016-11-33P4/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/manifests.json",
-    "n": 4
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/cruise/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/manifests.json",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/manifests.json",
-    "n": 4
+    "path": "/calcofi-db/pg/ctd_scan_raw/study=1611SR/",
+    "n": 3
    }
   ]
  },

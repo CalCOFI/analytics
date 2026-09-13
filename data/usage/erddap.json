@@ -551,58 +551,63 @@
    },
    {
     "date": "2026-09-12",
-    "requests": 937.0,
-    "bytes": 9019172.0
+    "requests": 2149.0,
+    "bytes": 19588000.0
+   },
+   {
+    "date": "2026-09-13",
+    "requests": 879.0,
+    "bytes": 7847150.0
    }
   ],
   "totals_28d": {
-   "requests": 77819.0,
-   "bytes": 1090352234.0,
+   "requests": 79910.0,
+   "bytes": 1108768212.0,
    "clients": 1192.0,
-   "tool": 59376.0,
-   "browser": 18443.0
+   "tool": 60841.0,
+   "browser": 19069.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 58
-   },
-   {
-    "path": "/erddap/tabledap/documentation.html",
-    "n": 31
-   },
-   {
-    "path": "/erddap/tabledap/cce-lter_picoplankton-bacteria.fgdc",
-    "n": 29
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 21
+    "n": 22
    },
    {
     "path": "/",
-    "n": 15
+    "n": 16
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 16
    },
    {
     "path": "/erddap",
-    "n": 14
+    "n": 11
    },
    {
-    "path": "/erddap/files/documentation.html",
-    "n": 8
+    "path": "/erddap/convert/time.html",
+    "n": 9
    },
    {
-    "path": "/erddap/info/calcofi_phyllosoma/index.csv",
-    "n": 8
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 9
    },
    {
-    "path": "/erddap/info/calcofi_phytoplankton/index.csv",
-    "n": 8
+    "path": "/erddap/tabledap/cdfw_dungeness-crab_attribute.graph",
+    "n": 7
    },
    {
-    "path": "/erddap/info/cce-lter_euphausiids/index.csv",
-    "n": 8
+    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
+    "n": 7
+   },
+   {
+    "path": "/.git/HEAD",
+    "n": 6
    }
   ]
  }
