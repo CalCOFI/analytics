@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-05-07",
- "last_day": "2026-09-11",
+ "last_day": "2026-09-12",
  "totals_28d": {
-  "activeUsers": 207.0,
-  "newUsers": 201.0,
-  "sessions": 208.0,
+  "activeUsers": 253.0,
+  "newUsers": 247.0,
+  "sessions": 254.0,
   "engagedSessions": 8.0,
-  "screenPageViews": 216.0,
-  "eventCount": 637.0,
-  "userEngagementDuration": 422.0,
-  "avgEngagementSeconds": 2.0,
+  "screenPageViews": 262.0,
+  "eventCount": 776.0,
+  "userEngagementDuration": 424.0,
+  "avgEngagementSeconds": 1.7,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 30.2,
-  "sessions": 30.0,
+  "activeUsers": 9.1,
+  "sessions": 9.0,
   "engagedSessions": 166.7,
-  "avgEngagementSeconds": 233.3,
-  "screenPageViews": 35.0
+  "avgEngagementSeconds": 325.0,
+  "screenPageViews": 12.4
  },
  "daily": [
   {
@@ -393,8 +393,13 @@
   },
   {
    "date": "2026-09-11",
-   "activeUsers": 32.0,
-   "sessions": 32.0
+   "activeUsers": 153.0,
+   "sessions": 153.0
+  },
+  {
+   "date": "2026-09-12",
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -471,13 +476,14 @@
   6.0,
   6.0,
   3.43,
-  6.57
+  23.86,
+  23.71
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 279.0
+   "activeUsers": 401.0
   },
   {
    "country": "United States",
@@ -498,6 +504,11 @@
    "country": "Japan",
    "countryId": "JP",
    "activeUsers": 2.0
+  },
+  {
+   "country": "Palestine",
+   "countryId": "PS",
+   "activeUsers": 1.0
   }
  ],
  "geo": [
@@ -505,13 +516,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 247.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 31.0
+   "activeUsers": 399.0
   },
   {
    "country": "United States",
@@ -540,6 +545,18 @@
   {
    "country": "China",
    "countryId": "CN",
+   "region": "",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Palestine",
+   "countryId": "PS",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
    "region": "",
    "activeUsers": 1.0
   },
@@ -553,18 +570,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 305.0,
-   "users": 290.0
+   "count": 428.0,
+   "users": 413.0
   },
   {
    "name": "session_start",
-   "count": 290.0,
-   "users": 289.0
+   "count": 413.0,
+   "users": 412.0
   },
   {
    "name": "first_visit",
-   "count": 288.0,
-   "users": 288.0
+   "count": 411.0,
+   "users": 411.0
   },
   {
    "name": "user_engagement",
@@ -573,8 +590,8 @@
   },
   {
    "name": "scroll",
-   "count": 8.0,
-   "users": 8.0
+   "count": 9.0,
+   "users": 9.0
   }
  ]
 }
