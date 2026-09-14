@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-14T01:41:50+00:00",
+ "generated": "2026-09-14T11:17:39+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 1211.0,
-  "activeUsers": 2242.0,
-  "sessions": 2951.0
+  "engagedSessions": 1213.0,
+  "activeUsers": 2250.0,
+  "sessions": 2959.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -13,8 +13,8 @@
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
    "engagedSessions": 480.0,
-   "activeUsers": 988.0,
-   "sessions": 1308.0,
+   "activeUsers": 989.0,
+   "sessions": 1309.0,
    "engagementRate": 0.4,
    "avgEngagementSeconds": 32.4,
    "delta": 4263.6,
@@ -49,7 +49,7 @@
     9.0,
     6.0,
     6.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
@@ -133,10 +133,10 @@
    "slug": "docs",
    "title": "docs",
    "engagedSessions": 123.0,
-   "activeUsers": 104.0,
-   "sessions": 163.0,
+   "activeUsers": 105.0,
+   "sessions": 164.0,
    "engagementRate": 0.8,
-   "avgEngagementSeconds": 72.0,
+   "avgEngagementSeconds": 71.3,
    "delta": 95.2,
    "spark": [
     4.0,
@@ -213,7 +213,8 @@
     6.0,
     11.0,
     4.0,
-    2.0
+    2.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -341,11 +342,11 @@
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 34.0,
-   "activeUsers": 42.0,
-   "sessions": 63.0,
-   "engagementRate": 0.5,
-   "avgEngagementSeconds": 140.9,
+   "engagedSessions": 36.0,
+   "activeUsers": 44.0,
+   "sessions": 65.0,
+   "engagementRate": 0.6,
+   "avgEngagementSeconds": 137.4,
    "delta": null,
    "spark": [
     1.0,
@@ -355,6 +356,7 @@
     5.0,
     18.0,
     8.0,
+    2.0,
     2.0
    ],
    "mostly_automated": false
@@ -949,8 +951,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 6.0,
-   "activeUsers": 522.0,
-   "sessions": 523.0,
+   "activeUsers": 526.0,
+   "sessions": 527.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.2,
    "delta": 20.0,
@@ -1030,7 +1032,7 @@
     3.0,
     153.0,
     23.0,
-    251.0
+    255.0
    ],
    "mostly_automated": true
   },

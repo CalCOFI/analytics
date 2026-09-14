@@ -1,45 +1,45 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 50
+    "n": 55
    },
    {
     "path": "/robots.txt",
-    "n": 22
+    "n": 21
    },
    {
     "path": "/",
-    "n": 16
+    "n": 21
    },
    {
-    "path": "/erddap/subscriptions/add.html",
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
     "n": 16
    },
    {
     "path": "/erddap",
-    "n": 11
+    "n": 14
    },
    {
-    "path": "/erddap/convert/time.html",
+    "path": "/erddap/tabledap/documentation.html",
     "n": 9
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 9
+    "path": "/erddap/sitemap.xml",
+    "n": 8
    },
    {
-    "path": "/erddap/tabledap/cdfw_dungeness-crab_attribute.graph",
+    "path": "/erddap/tabledap/farallon_bird-mammal.html",
     "n": 7
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
-    "n": 7
+    "path": "/erddap/subscriptions/add.html",
+    "n": 6
    },
    {
-    "path": "/.git/HEAD",
+    "path": "/ip",
     "n": 6
    }
   ]
@@ -107,91 +107,55 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 24
-   },
-   {
-    "path": "/ip",
-    "n": 14
+    "n": 18
    },
    {
     "path": "/sitemap.xml",
-    "n": 9
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/",
     "n": 5
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/",
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/ingest/calcofi_mets/obs_mets_full/cruise_key=2016-11-33P4/",
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/cruise/",
+    "path": "/calcofi-files-public/archive/cce-lter/euphausiids/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=1611SR/",
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=nitrate/",
     "n": 3
+   },
+   {
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=alkalinity_rep1/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=ammonia/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=temperature_ave/",
+    "n": 2
    }
   ]
  },
  "storage.calcofi.io:443": {
-  "date": "2026-08-30",
+  "date": "2026-09-14",
   "top_paths": [
    {
-    "path": "/.env",
-    "n": 1
-   },
-   {
-    "path": "/.git/HEAD",
-    "n": 1
-   },
-   {
-    "path": "/.env.backup",
-    "n": 1
-   },
-   {
-    "path": "/.env.old",
-    "n": 1
-   },
-   {
-    "path": "/.env.save",
-    "n": 1
-   },
-   {
-    "path": "/.env.bak",
-    "n": 1
-   },
-   {
-    "path": "/.env.prod",
-    "n": 1
-   },
-   {
-    "path": "/.env.production",
-    "n": 1
-   },
-   {
-    "path": "/.env.staging",
-    "n": 1
-   },
-   {
-    "path": "/.env.local",
+    "path": "/",
     "n": 1
    }
   ]
