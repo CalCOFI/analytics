@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-09-12",
+ "last_day": "2026-09-13",
  "totals_28d": {
   "activeUsers": 988.0,
-  "newUsers": 891.0,
-  "sessions": 1304.0,
-  "engagedSessions": 481.0,
-  "screenPageViews": 1424.0,
-  "eventCount": 5429.0,
+  "newUsers": 892.0,
+  "sessions": 1308.0,
+  "engagedSessions": 480.0,
+  "screenPageViews": 1427.0,
+  "eventCount": 5441.0,
   "userEngagementDuration": 32054.0,
   "avgEngagementSeconds": 32.4,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": 8881.8,
-  "sessions": 9930.8,
-  "engagedSessions": 4710.0,
-  "avgEngagementSeconds": -36.2,
-  "screenPageViews": 10071.4
+  "activeUsers": 8133.3,
+  "sessions": 9242.9,
+  "engagedSessions": 4263.6,
+  "avgEngagementSeconds": -30.5,
+  "screenPageViews": 9413.3
  },
  "daily": [
   {
@@ -175,6 +175,11 @@
    "date": "2026-09-12",
    "activeUsers": 6.0,
    "sessions": 10.0
+  },
+  {
+   "date": "2026-09-13",
+   "activeUsers": 1.0,
+   "sessions": 5.0
   }
  ],
  "daily_mean7": [
@@ -207,13 +212,14 @@
   9.57,
   8.57,
   7.43,
-  7.86
+  7.86,
+  7.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 855.0
+   "activeUsers": 856.0
   },
   {
    "country": "Mexico",
@@ -223,7 +229,7 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 9.0
+   "activeUsers": 11.0
   },
   {
    "country": "Italy",
@@ -361,7 +367,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 628.0
+   "activeUsers": 629.0
   },
   {
    "country": "United States",
@@ -415,7 +421,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "Other",
-   "activeUsers": 7.0
+   "activeUsers": 9.0
   },
   {
    "country": "Italy",
@@ -607,27 +613,27 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1438.0,
-   "users": 917.0
+   "count": 1442.0,
+   "users": 918.0
   },
   {
    "name": "session_start",
-   "count": 1288.0,
-   "users": 910.0
+   "count": 1293.0,
+   "users": 911.0
   },
   {
    "name": "scroll",
-   "count": 1230.0,
-   "users": 847.0
+   "count": 1234.0,
+   "users": 848.0
   },
   {
    "name": "first_visit",
-   "count": 895.0,
-   "users": 894.0
+   "count": 896.0,
+   "users": 895.0
   },
   {
    "name": "user_engagement",
-   "count": 614.0,
+   "count": 615.0,
    "users": 428.0
   },
   {
