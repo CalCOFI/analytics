@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 7.0,
-  "newUsers": 6.0,
-  "sessions": 9.0,
+  "activeUsers": 8.0,
+  "newUsers": 7.0,
+  "sessions": 10.0,
   "engagedSessions": 5.0,
-  "screenPageViews": 7.0,
-  "eventCount": 28.0,
+  "screenPageViews": 8.0,
+  "eventCount": 31.0,
   "userEngagementDuration": 138.0,
-  "avgEngagementSeconds": 19.7,
-  "engagedSessionRate": 0.6,
+  "avgEngagementSeconds": 17.2,
+  "engagedSessionRate": 0.5,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -36.4,
-  "sessions": -50.0,
+  "activeUsers": -27.3,
+  "sessions": -44.4,
   "engagedSessions": -54.5,
-  "avgEngagementSeconds": -70.8,
-  "screenPageViews": -41.7
+  "avgEngagementSeconds": -74.5,
+  "screenPageViews": -33.3
  },
  "daily": [
   {
@@ -212,6 +212,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-09-14",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260507",
    "activeUsers": 2.0,
    "sessions": 3.0
@@ -385,9 +390,10 @@
   1.29,
   1.29,
   1.29,
+  1.14,
   1.29,
   1.29,
-  1.29,
+  1.14,
   1.29,
   1.29,
   1.43,
@@ -417,7 +423,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 10.0
+   "activeUsers": 11.0
   },
   {
    "country": "Denmark",
@@ -435,7 +441,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 10.0
+   "activeUsers": 11.0
   },
   {
    "country": "Denmark",
@@ -453,18 +459,18 @@
  "events": [
   {
    "name": "session_start",
-   "count": 16.0,
-   "users": 12.0
+   "count": 17.0,
+   "users": 13.0
   },
   {
    "name": "page_view",
-   "count": 12.0,
-   "users": 12.0
+   "count": 13.0,
+   "users": 13.0
   },
   {
    "name": "first_visit",
-   "count": 11.0,
-   "users": 11.0
+   "count": 12.0,
+   "users": 12.0
   },
   {
    "name": "user_engagement",

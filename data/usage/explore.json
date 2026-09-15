@@ -8,13 +8,13 @@
  "last_day": "2026-09-14",
  "totals_28d": {
   "activeUsers": 78.0,
-  "newUsers": 30.0,
+  "newUsers": 32.0,
   "sessions": 149.0,
   "engagedSessions": 114.0,
-  "screenPageViews": 2041.0,
-  "eventCount": 2699.0,
-  "userEngagementDuration": 18102.0,
-  "avgEngagementSeconds": 232.1,
+  "screenPageViews": 2045.0,
+  "eventCount": 2710.0,
+  "userEngagementDuration": 18135.0,
+  "avgEngagementSeconds": 232.5,
   "engagedSessionRate": 0.8,
   "viewsPerUser": 26.2
  },
@@ -193,28 +193,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 2041.0,
-   "users": 43.0
+   "count": 2045.0,
+   "users": 44.0
   },
   {
    "name": "scroll",
-   "count": 253.0,
-   "users": 41.0
+   "count": 254.0,
+   "users": 42.0
   },
   {
    "name": "user_engagement",
-   "count": 184.0,
-   "users": 26.0
+   "count": 185.0,
+   "users": 27.0
   },
   {
    "name": "session_start",
-   "count": 130.0,
-   "users": 39.0
+   "count": 132.0,
+   "users": 41.0
   },
   {
    "name": "first_visit",
-   "count": 30.0,
-   "users": 30.0
+   "count": 32.0,
+   "users": 32.0
   },
   {
    "name": "export",
@@ -232,14 +232,14 @@
    "users": 3.0
   },
   {
+   "name": "view_search_results",
+   "count": 8.0,
+   "users": 4.0
+  },
+  {
    "name": "feedback",
    "count": 7.0,
    "users": 1.0
-  },
-  {
-   "name": "view_search_results",
-   "count": 7.0,
-   "users": 3.0
   },
   {
    "name": "share",

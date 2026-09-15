@@ -1,5 +1,9 @@
 country,countryId,region,activeUsers,sessions
 Canada,CA,Other,1,1
 China,CN,Other,23,23
-Italy,IT,Other,3,24
-United States,US,Other,10,17
+Denmark,DK,Other,1,1
+France,FR,Other,1,1
+Italy,IT,Other,3,25
+United Kingdom,GB,Other,1,1
+United States,US,California,12,21
+United States,US,Other,5,5

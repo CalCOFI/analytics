@@ -1,63 +1,63 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 55
-   },
-   {
-    "path": "/robots.txt",
-    "n": 21
-   },
-   {
-    "path": "/",
-    "n": 21
+    "n": 54
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 54
+   },
+   {
+    "path": "/robots.txt",
+    "n": 23
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
+    "n": 17
+   },
+   {
+    "path": "/",
     "n": 16
    },
    {
-    "path": "/erddap",
-    "n": 14
+    "path": "/erddap/tabledap/calcofi_mets.html",
+    "n": 15
    },
    {
-    "path": "/erddap/tabledap/documentation.html",
-    "n": 9
-   },
-   {
-    "path": "/erddap/sitemap.xml",
-    "n": 8
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 15
    },
    {
     "path": "/erddap/tabledap/farallon_bird-mammal.html",
-    "n": 7
+    "n": 14
    },
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 6
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 13
    },
    {
-    "path": "/ip",
-    "n": 6
+    "path": "/erddap/tabledap/calcofi_bottle.html",
+    "n": 12
    }
   ]
  },
  "erddap.calcofi.io:443": {
-  "date": "2026-09-12",
+  "date": "2026-09-15",
   "top_paths": [
    {
     "path": "/",
-    "n": 2
+    "n": 3
    },
    {
     "path": "/erddap",
-    "n": 2
+    "n": 3
    },
    {
     "path": "/erddap/index.html",
-    "n": 2
+    "n": 3
    }
   ]
  },
@@ -107,11 +107,15 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "top_paths": [
    {
     "path": "/",
-    "n": 50
+    "n": 52
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 19
    },
    {
     "path": "/robots.txt",
@@ -119,35 +123,31 @@
    },
    {
     "path": "/sitemap.xml",
+    "n": 6
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=1997-04-32NM/",
     "n": 5
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=1997-09-32NM/",
     "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2007-11-32NM/",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/cce-lter/euphausiids/",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=sigma_theta_1/",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=nitrate/",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2005-11-32NM/",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=alkalinity_rep1/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2022-11-33P4/",
     "n": 3
-   },
-   {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=ammonia/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=temperature_ave/",
-    "n": 2
    }
   ]
  },
