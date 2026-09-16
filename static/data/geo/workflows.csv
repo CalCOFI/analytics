@@ -2,4 +2,5 @@ country,countryId,region,activeUsers,sessions
 Italy,IT,Other,6,48
 Singapore,SG,,1,1
 Singapore,SG,Other,1,1
-United States,US,Other,17,24
+United States,US,Other,9,16
+United States,US,Virginia,10,10

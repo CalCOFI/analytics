@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-09-14",
+ "last_day": "2026-09-15",
  "totals_28d": {
-  "activeUsers": 27.0,
-  "newUsers": 16.0,
-  "sessions": 30.0,
-  "engagedSessions": 15.0,
-  "screenPageViews": 75.0,
-  "eventCount": 195.0,
-  "userEngagementDuration": 737.0,
-  "avgEngagementSeconds": 27.3,
+  "activeUsers": 29.0,
+  "newUsers": 17.0,
+  "sessions": 32.0,
+  "engagedSessions": 16.0,
+  "screenPageViews": 78.0,
+  "eventCount": 206.0,
+  "userEngagementDuration": 757.0,
+  "avgEngagementSeconds": 26.1,
   "engagedSessionRate": 0.5,
-  "viewsPerUser": 2.8
+  "viewsPerUser": 2.7
  },
  "delta_28d": {
-  "activeUsers": 22.7,
-  "sessions": -11.8,
-  "engagedSessions": -42.3,
-  "avgEngagementSeconds": -42.8,
-  "screenPageViews": -25.7
+  "activeUsers": 31.8,
+  "sessions": -5.9,
+  "engagedSessions": -38.5,
+  "avgEngagementSeconds": -45.3,
+  "screenPageViews": -22.8
  },
  "daily": [
   {
@@ -150,6 +150,11 @@
    "date": "2026-09-14",
    "activeUsers": 2.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-09-15",
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -177,13 +182,14 @@
   2.43,
   2.57,
   2.57,
-  2.71
+  2.71,
+  2.57
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 18.0
+   "activeUsers": 20.0
   },
   {
    "country": "Italy",
@@ -211,7 +217,13 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 18.0
+   "activeUsers": 10.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Virginia",
+   "activeUsers": 10.0
   },
   {
    "country": "Italy",
@@ -253,28 +265,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 176.0,
-   "users": 25.0
+   "count": 179.0,
+   "users": 27.0
   },
   {
    "name": "user_engagement",
-   "count": 152.0,
-   "users": 4.0
+   "count": 155.0,
+   "users": 5.0
   },
   {
    "name": "scroll",
-   "count": 99.0,
-   "users": 9.0
+   "count": 101.0,
+   "users": 10.0
   },
   {
    "name": "session_start",
-   "count": 32.0,
-   "users": 25.0
+   "count": 34.0,
+   "users": 27.0
   },
   {
    "name": "first_visit",
-   "count": 22.0,
-   "users": 22.0
+   "count": 23.0,
+   "users": 23.0
   },
   {
    "name": "click",
@@ -531,58 +543,63 @@
    },
    {
     "date": "2026-09-15",
-    "requests": 1964.0,
-    "bytes": 8219669.0
+    "requests": 3797.0,
+    "bytes": 16539380.0
+   },
+   {
+    "date": "2026-09-16",
+    "requests": 801.0,
+    "bytes": 2441449.0
    }
   ],
   "totals_28d": {
-   "requests": 38858.0,
-   "bytes": 1499321441.0,
+   "requests": 41492.0,
+   "bytes": 1510082601.0,
    "clients": 1872.0,
-   "tool": 22166.0,
-   "browser": 16692.0
+   "tool": 23900.0,
+   "browser": 17592.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 52
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 19
+    "n": 43
    },
    {
     "path": "/robots.txt",
-    "n": 18
+    "n": 15
    },
    {
     "path": "/sitemap.xml",
-    "n": 6
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=1997-04-32NM/",
     "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=1997-09-32NM/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2007-11-32NM/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=sigma_theta_1/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2005-11-32NM/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2022-11-33P4/",
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=sigma_theta/a31fac4ae12c7b9c71f299ee/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=transmissometer/db97906a7a10ef00a4a0461c/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=oxygen_ml_l_1/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs/dataset_key=farallon_bird-mammal/3336caea0087176bce47b458/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs/dataset_key=swfsc_ichthyo/d2af5655cb11f86c25e2c86d/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/ingest/cdfw_dungeness-crab/",
+    "n": 2
    }
   ]
  }

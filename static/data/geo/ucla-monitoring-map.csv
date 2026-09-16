@@ -4,7 +4,7 @@ Belgium,BE,Other,2,3
 Botswana,BW,,2,2
 Botswana,BW,Other,2,2
 Brazil,BR,Other,2,2
-Canada,CA,Other,2,2
+Canada,CA,Other,4,4
 China,CN,Other,3,3
 Croatia,HR,Other,1,1
 France,FR,Other,1,2
@@ -33,10 +33,11 @@ Türkiye,TR,Other,1,1
 United Kingdom,GB,Other,4,4
 United States,US,,1,1
 United States,US,Arizona,16,17
-United States,US,California,629,980
+United States,US,California,631,988
 United States,US,Colorado,20,22
+United States,US,Florida,10,10
 United States,US,Hawaii,11,12
 United States,US,Oregon,14,18
-United States,US,Other,80,97
+United States,US,Other,72,90
 United States,US,Virginia,50,51
 United States,US,Washington,36,48
