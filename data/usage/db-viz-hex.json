@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 61.0,
-  "newUsers": 12.0,
-  "sessions": 170.0,
+  "activeUsers": 64.0,
+  "newUsers": 13.0,
+  "sessions": 174.0,
   "engagedSessions": 135.0,
-  "screenPageViews": 527.0,
-  "eventCount": 3833.0,
-  "userEngagementDuration": 37315.0,
-  "avgEngagementSeconds": 611.7,
+  "screenPageViews": 530.0,
+  "eventCount": 3857.0,
+  "userEngagementDuration": 37461.0,
+  "avgEngagementSeconds": 585.3,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 8.6
+  "viewsPerUser": 8.3
  },
  "delta_28d": {
-  "activeUsers": 38.6,
-  "sessions": 109.9,
-  "engagedSessions": 136.8,
-  "avgEngagementSeconds": 461.2,
-  "screenPageViews": 350.4
+  "activeUsers": 52.4,
+  "sessions": 123.1,
+  "engagedSessions": 150.0,
+  "avgEngagementSeconds": 427.8,
+  "screenPageViews": 386.2
  },
  "daily": [
   {
@@ -272,6 +272,11 @@
    "sessions": 2.0
   },
   {
+   "date": "2026-09-15",
+   "activeUsers": 3.0,
+   "sessions": 4.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -392,12 +397,13 @@
   3.29,
   3.57,
   3.29,
-  2.86,
-  2.71,
+  3.14,
   3.0,
-  2.57,
+  2.86,
+  2.86,
+  2.43,
+  1.86,
   2.14,
-  2.0,
   2.0,
   2.14,
   2.29,
@@ -411,7 +417,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 29.0
+   "activeUsers": 32.0
   },
   {
    "country": "Italy",
@@ -449,7 +455,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 21.0
+   "activeUsers": 24.0
   },
   {
    "country": "Italy",
@@ -497,43 +503,43 @@
  "events": [
   {
    "name": "session_start",
-   "count": 796.0,
-   "users": 37.0
+   "count": 803.0,
+   "users": 40.0
   },
   {
    "name": "page_view",
-   "count": 631.0,
-   "users": 39.0
+   "count": 634.0,
+   "users": 41.0
   },
   {
    "name": "scroll",
-   "count": 585.0,
-   "users": 38.0
+   "count": 587.0,
+   "users": 40.0
   },
   {
    "name": "user_engagement",
-   "count": 362.0,
-   "users": 22.0
+   "count": 364.0,
+   "users": 23.0
   },
   {
    "name": "filter_submit",
-   "count": 351.0,
-   "users": 11.0
+   "count": 353.0,
+   "users": 12.0
   },
   {
    "name": "map_query_env",
-   "count": 351.0,
-   "users": 11.0
+   "count": 353.0,
+   "users": 12.0
   },
   {
    "name": "map_query_sp",
-   "count": 351.0,
-   "users": 11.0
+   "count": 353.0,
+   "users": 12.0
   },
   {
    "name": "start_tour",
-   "count": 256.0,
-   "users": 34.0
+   "count": 259.0,
+   "users": 37.0
   },
   {
    "name": "select_tab",
@@ -910,6 +916,15 @@
     "p95_ms": ""
    },
    {
+    "date": "2026-09-15",
+    "events": "15",
+    "distinct_sessions": "3",
+    "distinct_clients": "3",
+    "errors": "0",
+    "p50_ms": "61.0",
+    "p95_ms": "106.5"
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1033,7 +1048,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "104",
+    "n": "107",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1057,9 +1072,9 @@
    },
    {
     "event": "map_query_env",
-    "n": "104",
-    "p50_ms": "28.2",
-    "p95_ms": "95.4",
+    "n": "107",
+    "p50_ms": "27.8",
+    "p95_ms": "94.0",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1073,9 +1088,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "104",
-    "p50_ms": "74.3",
-    "p95_ms": "610.4",
+    "n": "107",
+    "p50_ms": "87.8",
+    "p95_ms": "601.9",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1169,7 +1184,7 @@
    },
    {
     "event": "session_start",
-    "n": "326",
+    "n": "329",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1177,7 +1192,7 @@
    },
    {
     "event": "start_tour",
-    "n": "255",
+    "n": "258",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1196,7 +1211,7 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "277"
+    "n": "283"
    },
    {
     "param": "taxa",
@@ -1276,6 +1291,21 @@
    {
     "param": "taxa",
     "value": "(species: Metacarcinus magister)",
+    "n": "2"
+   },
+   {
+    "param": "taxa",
+    "value": "American White Pelican (species: Pelecanus erythrorhynchos)",
+    "n": "2"
+   },
+   {
+    "param": "taxa",
+    "value": "Baird's Beaked Whale (species: Berardius bairdii)",
+    "n": "2"
+   },
+   {
+    "param": "taxa",
+    "value": "Sooty Shearwater (species: Ardenna grisea)",
     "n": "2"
    },
    {
@@ -1459,9 +1489,9 @@
    },
    {
     "app_version": "c2f854a",
-    "n": "20",
+    "n": "35",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-10"
+    "last_seen": "2026-09-15"
    },
    {
     "app_version": "cbc4d03",

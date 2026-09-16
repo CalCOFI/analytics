@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-09-14",
  "totals_28d": {
-  "activeUsers": 26.0,
-  "newUsers": 15.0,
-  "sessions": 29.0,
+  "activeUsers": 27.0,
+  "newUsers": 16.0,
+  "sessions": 30.0,
   "engagedSessions": 15.0,
-  "screenPageViews": 74.0,
-  "eventCount": 191.0,
-  "userEngagementDuration": 735.0,
-  "avgEngagementSeconds": 28.3,
+  "screenPageViews": 75.0,
+  "eventCount": 195.0,
+  "userEngagementDuration": 737.0,
+  "avgEngagementSeconds": 27.3,
   "engagedSessionRate": 0.5,
-  "viewsPerUser": 2.9
+  "viewsPerUser": 2.8
  },
  "delta_28d": {
-  "activeUsers": 18.2,
-  "sessions": -14.7,
+  "activeUsers": 22.7,
+  "sessions": -11.8,
   "engagedSessions": -42.3,
-  "avgEngagementSeconds": -40.7,
-  "screenPageViews": -26.7
+  "avgEngagementSeconds": -42.8,
+  "screenPageViews": -25.7
  },
  "daily": [
   {
@@ -148,8 +148,8 @@
   },
   {
    "date": "2026-09-14",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -177,7 +177,7 @@
   2.43,
   2.57,
   2.57,
-  2.57
+  2.71
  ],
  "geo_country": [
   {
@@ -199,6 +199,11 @@
    "country": "China",
    "countryId": "CN",
    "activeUsers": 3.0
+  },
+  {
+   "country": "Germany",
+   "countryId": "DE",
+   "activeUsers": 1.0
   }
  ],
  "geo": [
@@ -237,13 +242,19 @@
    "countryId": "CN",
    "region": "",
    "activeUsers": 1.0
+  },
+  {
+   "country": "Germany",
+   "countryId": "DE",
+   "region": "Other",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 175.0,
-   "users": 24.0
+   "count": 176.0,
+   "users": 25.0
   },
   {
    "name": "user_engagement",
@@ -252,18 +263,18 @@
   },
   {
    "name": "scroll",
-   "count": 98.0,
-   "users": 8.0
+   "count": 99.0,
+   "users": 9.0
   },
   {
    "name": "session_start",
-   "count": 31.0,
-   "users": 24.0
+   "count": 32.0,
+   "users": 25.0
   },
   {
    "name": "first_visit",
-   "count": 21.0,
-   "users": 21.0
+   "count": 22.0,
+   "users": 22.0
   },
   {
    "name": "click",
@@ -525,11 +536,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 39533.0,
-   "bytes": 1502504773.0,
+   "requests": 38858.0,
+   "bytes": 1499321441.0,
    "clients": 1872.0,
-   "tool": 22439.0,
-   "browser": 17094.0
+   "tool": 22166.0,
+   "browser": 16692.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
