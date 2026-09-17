@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 315
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 114
-   },
-   {
-    "path": "/erddap/tabledap/farallon_bird-mammal.html",
-    "n": 72
-   },
-   {
-    "path": "/erddap/index.html",
-    "n": 53
-   },
-   {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 46
+    "n": 286
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 34
+    "n": 243
    },
    {
-    "path": "/erddap/tabledap/cce-lter_euphausiids.html",
-    "n": 25
+    "path": "/erddap/search/advanced.itx",
+    "n": 216
    },
    {
-    "path": "/robots.txt",
-    "n": 24
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 144
    },
    {
-    "path": "/erddap/tabledap/cce-lter_zooscan.html",
-    "n": 22
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 79
    },
    {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 22
+    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
+    "n": 67
+   },
+   {
+    "path": "/erddap/index.html",
+    "n": 54
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.html",
+    "n": 44
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.graph",
+    "n": 41
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
+    "n": 37
    }
   ]
  },
@@ -107,46 +107,46 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "top_paths": [
    {
     "path": "/",
-    "n": 43
+    "n": 44
    },
    {
     "path": "/robots.txt",
-    "n": 15
+    "n": 41
    },
    {
-    "path": "/sitemap.xml",
-    "n": 5
+    "path": "/calcofi-db/explore-spike/",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "path": "/calcofi-files-public/archive/sio/mesopelagic-fish/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=sigma_theta/a31fac4ae12c7b9c71f299ee/",
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=c14_mean/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=transmissometer/db97906a7a10ef00a4a0461c/",
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=c14_dark/0f5776f99283aaccd915766f/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=dic_rep1/a84bbac6500f17738ed632fc/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.08.28/parquet/obs_env/measurement_type=salinity_2/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=oxygen_ml_l_1/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_ctd_full/cruise_key=1997-07-31JD/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs/dataset_key=farallon_bird-mammal/3336caea0087176bce47b458/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs/dataset_key=swfsc_ichthyo/d2af5655cb11f86c25e2c86d/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ingest/cdfw_dungeness-crab/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_ctd_full/cruise_key=2018-06-33P4/",
     "n": 2
    }
   ]

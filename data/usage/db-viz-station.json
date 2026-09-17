@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-09-15",
+ "last_day": "2026-09-16",
  "totals_28d": {
-  "activeUsers": 99.0,
+  "activeUsers": 102.0,
   "newUsers": 44.0,
-  "sessions": 132.0,
-  "engagedSessions": 71.0,
-  "screenPageViews": 176.0,
-  "eventCount": 614.0,
-  "userEngagementDuration": 4114.0,
-  "avgEngagementSeconds": 41.6,
+  "sessions": 137.0,
+  "engagedSessions": 75.0,
+  "screenPageViews": 182.0,
+  "eventCount": 633.0,
+  "userEngagementDuration": 4152.0,
+  "avgEngagementSeconds": 40.7,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.8
  },
  "delta_28d": {
-  "activeUsers": 54.7,
-  "sessions": 45.1,
-  "engagedSessions": 34.0,
-  "avgEngagementSeconds": -46.1,
-  "screenPageViews": 64.5
+  "activeUsers": 59.4,
+  "sessions": 50.5,
+  "engagedSessions": 41.5,
+  "avgEngagementSeconds": -47.3,
+  "screenPageViews": 70.1
  },
  "daily": [
   {
@@ -230,6 +230,11 @@
    "date": "2026-09-15",
    "activeUsers": 2.0,
    "sessions": 3.0
+  },
+  {
+   "date": "2026-09-16",
+   "activeUsers": 3.0,
+   "sessions": 5.0
   }
  ],
  "daily_mean7": [
@@ -273,13 +278,14 @@
   3.14,
   2.86,
   3.14,
-  3.29
+  3.29,
+  3.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 86.0
+   "activeUsers": 88.0
   },
   {
    "country": "Italy",
@@ -307,7 +313,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 41.0
+   "activeUsers": 43.0
   },
   {
    "country": "United States",
@@ -355,23 +361,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 283.0,
-   "users": 93.0
+   "count": 289.0,
+   "users": 95.0
   },
   {
    "name": "scroll",
-   "count": 254.0,
-   "users": 66.0
+   "count": 260.0,
+   "users": 68.0
   },
   {
    "name": "user_engagement",
-   "count": 171.0,
-   "users": 40.0
+   "count": 177.0,
+   "users": 42.0
   },
   {
    "name": "session_start",
-   "count": 161.0,
-   "users": 85.0
+   "count": 162.0,
+   "users": 86.0
   },
   {
    "name": "first_visit",

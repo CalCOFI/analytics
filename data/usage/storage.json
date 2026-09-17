@@ -554,57 +554,62 @@
    },
    {
     "date": "2026-09-16",
-    "requests": 801.0,
-    "bytes": 2441449.0
+    "requests": 8056.0,
+    "bytes": 41012150.0
+   },
+   {
+    "date": "2026-09-17",
+    "requests": 1911.0,
+    "bytes": 5383956.0
    }
   ],
   "totals_28d": {
-   "requests": 41060.0,
-   "bytes": 1508981292.0,
+   "requests": 50226.0,
+   "bytes": 1552935949.0,
    "clients": 1872.0,
-   "tool": 23608.0,
-   "browser": 17452.0
+   "tool": 30750.0,
+   "browser": 19476.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 43
+    "n": 44
    },
    {
     "path": "/robots.txt",
-    "n": 15
+    "n": 41
    },
    {
-    "path": "/sitemap.xml",
-    "n": 5
+    "path": "/calcofi-db/explore-spike/",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "path": "/calcofi-files-public/archive/sio/mesopelagic-fish/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=sigma_theta/a31fac4ae12c7b9c71f299ee/",
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=c14_mean/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=transmissometer/db97906a7a10ef00a4a0461c/",
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=c14_dark/0f5776f99283aaccd915766f/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=dic_rep1/a84bbac6500f17738ed632fc/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.08.28/parquet/obs_env/measurement_type=salinity_2/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=oxygen_ml_l_1/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_ctd_full/cruise_key=1997-07-31JD/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs/dataset_key=farallon_bird-mammal/3336caea0087176bce47b458/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs/dataset_key=swfsc_ichthyo/d2af5655cb11f86c25e2c86d/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ingest/cdfw_dungeness-crab/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_ctd_full/cruise_key=2018-06-33P4/",
     "n": 2
    }
   ]

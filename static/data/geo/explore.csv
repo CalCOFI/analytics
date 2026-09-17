@@ -1,7 +1,8 @@
 country,countryId,region,activeUsers,sessions
+Australia,AU,Other,1,1
 China,CN,Other,5,5
 Italy,IT,Other,11,82
 New Zealand,NZ,Other,1,2
 United Kingdom,GB,Other,1,2
-United States,US,California,19,53
-United States,US,Other,18,24
+United States,US,California,19,54
+United States,US,Other,19,25

@@ -1,23 +1,23 @@
 {
- "generated": "2026-09-17T01:43:29+00:00",
+ "generated": "2026-09-17T11:17:34+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 1222.0,
-  "activeUsers": 2278.0,
-  "sessions": 2996.0
+  "engagedSessions": 1240.0,
+  "activeUsers": 2309.0,
+  "sessions": 3034.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
-   "engagedSessions": 479.0,
-   "activeUsers": 992.0,
-   "sessions": 1312.0,
+   "engagedSessions": 485.0,
+   "activeUsers": 1004.0,
+   "sessions": 1326.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 31.6,
-   "delta": 2295.0,
+   "avgEngagementSeconds": 32.1,
+   "delta": 2325.0,
    "spark": [
     2.0,
     2.0,
@@ -52,7 +52,7 @@
     2.0,
     4.0,
     10.0,
-    2.0
+    14.0
    ],
    "mostly_automated": false
   },
@@ -137,12 +137,12 @@
   {
    "slug": "docs",
    "title": "docs",
-   "engagedSessions": 129.0,
-   "activeUsers": 109.0,
-   "sessions": 170.0,
-   "engagementRate": 0.8,
-   "avgEngagementSeconds": 41.8,
-   "delta": 84.3,
+   "engagedSessions": 130.0,
+   "activeUsers": 111.0,
+   "sessions": 174.0,
+   "engagementRate": 0.7,
+   "avgEngagementSeconds": 41.0,
+   "delta": 85.7,
    "spark": [
     4.0,
     1.0,
@@ -222,18 +222,19 @@
     1.0,
     2.0,
     2.0,
-    12.0
+    13.0,
+    1.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 128.0,
-   "activeUsers": 91.0,
-   "sessions": 168.0,
+   "engagedSessions": 130.0,
+   "activeUsers": 94.0,
+   "sessions": 171.0,
    "engagementRate": 0.8,
-   "avgEngagementSeconds": 215.5,
+   "avgEngagementSeconds": 214.0,
    "delta": null,
    "spark": [
     2.0,
@@ -253,19 +254,19 @@
     3.0,
     10.0,
     3.0,
-    10.0
+    13.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 71.0,
-   "activeUsers": 99.0,
-   "sessions": 132.0,
+   "engagedSessions": 75.0,
+   "activeUsers": 102.0,
+   "sessions": 137.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 41.6,
-   "delta": 34.0,
+   "avgEngagementSeconds": 40.7,
+   "delta": 41.5,
    "spark": [
     2.0,
     3.0,
@@ -307,19 +308,20 @@
     2.0,
     1.0,
     4.0,
-    2.0
+    2.0,
+    3.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "ctd-transects",
    "title": "ctd-transects",
-   "engagedSessions": 59.0,
-   "activeUsers": 60.0,
-   "sessions": 85.0,
+   "engagedSessions": 60.0,
+   "activeUsers": 61.0,
+   "sessions": 86.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 67.8,
-   "delta": 73.5,
+   "avgEngagementSeconds": 67.5,
+   "delta": 76.5,
    "spark": [
     2.0,
     7.0,
@@ -351,7 +353,7 @@
     1.0,
     4.0,
     1.0,
-    2.0
+    3.0
    ],
    "mostly_automated": false
   },
@@ -383,12 +385,12 @@
   {
    "slug": "db-schema",
    "title": "db-schema",
-   "engagedSessions": 27.0,
-   "activeUsers": 25.0,
-   "sessions": 42.0,
-   "engagementRate": 0.6,
-   "avgEngagementSeconds": 22.6,
-   "delta": -59.7,
+   "engagedSessions": 30.0,
+   "activeUsers": 28.0,
+   "sessions": 45.0,
+   "engagementRate": 0.7,
+   "avgEngagementSeconds": 23.3,
+   "delta": -55.2,
    "spark": [
     1.0,
     1.0,
@@ -425,7 +427,8 @@
     1.0,
     2.0,
     5.0,
-    1.0
+    1.0,
+    3.0
    ],
    "mostly_automated": false
   },
@@ -433,10 +436,10 @@
    "slug": "calcofi4r",
    "title": "calcofi4r",
    "engagedSessions": 22.0,
-   "activeUsers": 66.0,
-   "sessions": 74.0,
+   "activeUsers": 67.0,
+   "sessions": 76.0,
    "engagementRate": 0.3,
-   "avgEngagementSeconds": 8.0,
+   "avgEngagementSeconds": 7.8,
    "delta": -40.5,
    "spark": [
     1.0,
@@ -528,7 +531,7 @@
     4.0,
     2.0,
     3.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
@@ -668,13 +671,12 @@
    "slug": "db-query",
    "title": "db-query",
    "engagedSessions": 12.0,
-   "activeUsers": 14.0,
-   "sessions": 17.0,
+   "activeUsers": 15.0,
+   "sessions": 18.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 17.4,
+   "avgEngagementSeconds": 17.7,
    "delta": -45.5,
    "spark": [
-    1.0,
     2.0,
     2.0,
     1.0,
@@ -728,6 +730,7 @@
     1.0,
     1.0,
     2.0,
+    1.0,
     1.0,
     1.0,
     1.0,
@@ -808,12 +811,12 @@
   {
    "slug": "hypoxia-story",
    "title": "Hypoxia Story",
-   "engagedSessions": 8.0,
-   "activeUsers": 12.0,
-   "sessions": 19.0,
-   "engagementRate": 0.4,
-   "avgEngagementSeconds": 147.6,
-   "delta": 700.0,
+   "engagedSessions": 9.0,
+   "activeUsers": 13.0,
+   "sessions": 20.0,
+   "engagementRate": 0.5,
+   "avgEngagementSeconds": 136.7,
+   "delta": 800.0,
    "spark": [
     1.0,
     1.0,
@@ -904,7 +907,7 @@
     0.0,
     0.0,
     1.0,
-    0.0
+    1.0
    ],
    "mostly_automated": false
   },
@@ -979,8 +982,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 6.0,
-   "activeUsers": 539.0,
-   "sessions": 540.0,
+   "activeUsers": 543.0,
+   "sessions": 544.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.2,
    "delta": 20.0,
@@ -1063,7 +1066,7 @@
     255.0,
     7.0,
     7.0,
-    2.0
+    6.0
    ],
    "mostly_automated": true
   },

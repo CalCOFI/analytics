@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-28",
- "last_day": "2026-09-11",
+ "last_day": "2026-09-16",
  "totals_28d": {
-  "activeUsers": 25.0,
-  "newUsers": 11.0,
-  "sessions": 42.0,
-  "engagedSessions": 27.0,
-  "screenPageViews": 39.0,
-  "eventCount": 119.0,
-  "userEngagementDuration": 564.0,
-  "avgEngagementSeconds": 22.6,
-  "engagedSessionRate": 0.6,
-  "viewsPerUser": 1.6
+  "activeUsers": 28.0,
+  "newUsers": 12.0,
+  "sessions": 45.0,
+  "engagedSessions": 30.0,
+  "screenPageViews": 43.0,
+  "eventCount": 130.0,
+  "userEngagementDuration": 652.0,
+  "avgEngagementSeconds": 23.3,
+  "engagedSessionRate": 0.7,
+  "viewsPerUser": 1.5
  },
  "delta_28d": {
-  "activeUsers": -51.0,
-  "sessions": -51.7,
-  "engagedSessions": -59.7,
-  "avgEngagementSeconds": -52.5,
-  "screenPageViews": -63.2
+  "activeUsers": -45.1,
+  "sessions": -48.3,
+  "engagedSessions": -55.2,
+  "avgEngagementSeconds": -51.1,
+  "screenPageViews": -59.4
  },
  "daily": [
   {
@@ -205,6 +205,11 @@
    "date": "2026-09-11",
    "activeUsers": 1.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-09-16",
+   "activeUsers": 3.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -243,13 +248,14 @@
   1.57,
   1.71,
   2.14,
-  1.86
+  1.86,
+  2.14
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 18.0
+   "activeUsers": 20.0
   },
   {
    "country": "Italy",
@@ -272,7 +278,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 18.0
+   "activeUsers": 20.0
   },
   {
    "country": "Italy",
@@ -302,18 +308,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 145.0,
-   "users": 24.0
+   "count": 149.0,
+   "users": 26.0
   },
   {
    "name": "user_engagement",
-   "count": 92.0,
-   "users": 11.0
+   "count": 96.0,
+   "users": 13.0
   },
   {
    "name": "session_start",
-   "count": 72.0,
-   "users": 24.0
+   "count": 74.0,
+   "users": 25.0
   },
   {
    "name": "scroll",
@@ -322,8 +328,8 @@
   },
   {
    "name": "first_visit",
-   "count": 20.0,
-   "users": 20.0
+   "count": 21.0,
+   "users": 21.0
   },
   {
    "name": "click",
