@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-09-15",
+ "last_day": "2026-09-16",
  "totals_28d": {
-  "activeUsers": 29.0,
-  "newUsers": 17.0,
-  "sessions": 32.0,
-  "engagedSessions": 16.0,
-  "screenPageViews": 78.0,
-  "eventCount": 206.0,
-  "userEngagementDuration": 757.0,
-  "avgEngagementSeconds": 26.1,
-  "engagedSessionRate": 0.5,
-  "viewsPerUser": 2.7
+  "activeUsers": 30.0,
+  "newUsers": 16.0,
+  "sessions": 34.0,
+  "engagedSessions": 19.0,
+  "screenPageViews": 118.0,
+  "eventCount": 329.0,
+  "userEngagementDuration": 1155.0,
+  "avgEngagementSeconds": 38.5,
+  "engagedSessionRate": 0.6,
+  "viewsPerUser": 3.9
  },
  "delta_28d": {
-  "activeUsers": 31.8,
-  "sessions": -5.9,
-  "engagedSessions": -38.5,
-  "avgEngagementSeconds": -45.3,
-  "screenPageViews": -22.8
+  "activeUsers": 30.4,
+  "sessions": -2.9,
+  "engagedSessions": -26.9,
+  "avgEngagementSeconds": -15.6,
+  "screenPageViews": 15.7
  },
  "daily": [
   {
@@ -155,6 +155,11 @@
    "date": "2026-09-15",
    "activeUsers": 2.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-09-16",
+   "activeUsers": 2.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -183,13 +188,14 @@
   2.57,
   2.57,
   2.71,
-  2.57
+  2.57,
+  2.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 20.0
+   "activeUsers": 21.0
   },
   {
    "country": "Italy",
@@ -217,7 +223,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 10.0
+   "activeUsers": 11.0
   },
   {
    "country": "United States",
@@ -265,23 +271,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 179.0,
-   "users": 27.0
+   "count": 220.0,
+   "users": 28.0
   },
   {
    "name": "user_engagement",
-   "count": 155.0,
-   "users": 5.0
+   "count": 189.0,
+   "users": 6.0
   },
   {
    "name": "scroll",
-   "count": 101.0,
-   "users": 10.0
+   "count": 130.0,
+   "users": 11.0
   },
   {
    "name": "session_start",
-   "count": 34.0,
-   "users": 27.0
+   "count": 36.0,
+   "users": 28.0
+  },
+  {
+   "name": "click",
+   "count": 23.0,
+   "users": 3.0
   },
   {
    "name": "first_visit",
@@ -289,14 +300,9 @@
    "users": 23.0
   },
   {
-   "name": "click",
-   "count": 8.0,
-   "users": 2.0
-  },
-  {
    "name": "file_download",
-   "count": 1.0,
-   "users": 1.0
+   "count": 6.0,
+   "users": 2.0
   }
  ],
  "requests": {
@@ -553,11 +559,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 41492.0,
-   "bytes": 1510082601.0,
+   "requests": 41060.0,
+   "bytes": 1508981292.0,
    "clients": 1872.0,
-   "tool": 23900.0,
-   "browser": 17592.0
+   "tool": 23608.0,
+   "browser": 17452.0
   },
   "first_day": "2026-07-29",
   "top_paths": [

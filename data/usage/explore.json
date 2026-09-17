@@ -5,18 +5,18 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-09-15",
+ "last_day": "2026-09-16",
  "totals_28d": {
-  "activeUsers": 81.0,
-  "newUsers": 34.0,
-  "sessions": 152.0,
-  "engagedSessions": 124.0,
-  "screenPageViews": 2069.0,
-  "eventCount": 2744.0,
-  "userEngagementDuration": 18252.0,
-  "avgEngagementSeconds": 225.3,
+  "activeUsers": 91.0,
+  "newUsers": 39.0,
+  "sessions": 168.0,
+  "engagedSessions": 128.0,
+  "screenPageViews": 2177.0,
+  "eventCount": 2900.0,
+  "userEngagementDuration": 19612.0,
+  "avgEngagementSeconds": 215.5,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 25.5
+  "viewsPerUser": 23.9
  },
  "delta_28d": {
   "activeUsers": null,
@@ -110,6 +110,11 @@
    "date": "2026-09-15",
    "activeUsers": 3.0,
    "sessions": 3.0
+  },
+  {
+   "date": "2026-09-16",
+   "activeUsers": 10.0,
+   "sessions": 16.0
   }
  ],
  "daily_mean7": [
@@ -129,13 +134,14 @@
   5.71,
   5.86,
   7.0,
-  6.57
+  6.57,
+  7.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 32.0
+   "activeUsers": 37.0
   },
   {
    "country": "Italy",
@@ -163,13 +169,13 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 16.0
+   "activeUsers": 19.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 16.0
+   "activeUsers": 18.0
   },
   {
    "country": "Italy",
@@ -199,28 +205,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 2069.0,
-   "users": 46.0
+   "count": 2177.0,
+   "users": 51.0
   },
   {
    "name": "scroll",
-   "count": 257.0,
-   "users": 44.0
+   "count": 273.0,
+   "users": 48.0
   },
   {
    "name": "user_engagement",
-   "count": 187.0,
-   "users": 29.0
+   "count": 198.0,
+   "users": 32.0
   },
   {
    "name": "session_start",
-   "count": 134.0,
-   "users": 43.0
+   "count": 149.0,
+   "users": 48.0
   },
   {
    "name": "first_visit",
-   "count": 34.0,
-   "users": 34.0
+   "count": 39.0,
+   "users": 39.0
   },
   {
    "name": "export",
@@ -249,7 +255,7 @@
   },
   {
    "name": "share",
-   "count": 5.0,
+   "count": 6.0,
    "users": 1.0
   },
   {
