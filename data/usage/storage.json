@@ -559,58 +559,63 @@
    },
    {
     "date": "2026-09-17",
-    "requests": 1911.0,
-    "bytes": 5383956.0
+    "requests": 3700.0,
+    "bytes": 284065632.0
+   },
+   {
+    "date": "2026-09-18",
+    "requests": 1742.0,
+    "bytes": 6878146.0
    }
   ],
   "totals_28d": {
-   "requests": 49299.0,
-   "bytes": 1550348095.0,
-   "clients": 1872.0,
-   "tool": 30480.0,
-   "browser": 18819.0
+   "requests": 52830.0,
+   "bytes": 1835907917.0,
+   "clients": 2548.0,
+   "tool": 31931.0,
+   "browser": 20899.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 44
+    "n": 51
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 20
    },
    {
     "path": "/robots.txt",
-    "n": 41
+    "n": 17
    },
    {
-    "path": "/calcofi-db/explore-spike/",
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2011-08-32NM/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/sio/mesopelagic-fish/",
+    "path": "/calcofi-db/ducklake/",
+    "n": 4
+   },
+   {
+    "path": "/sitemap.xml",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2008-01-31JD/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=c14_mean/",
+    "path": "/calcofi-db/ducklake/tables/obs_mets_full/cruise_key=2004-01-31JD/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=c14_dark/0f5776f99283aaccd915766f/",
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2001-10-32NM/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=dic_rep1/a84bbac6500f17738ed632fc/",
+    "path": "/calcofi-db/ducklake/tables/obs_mets_full/cruise_key=2004-01-31JD/4b9365a3e1702b969f944f06/",
     "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.08.28/parquet/obs_env/measurement_type=salinity_2/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_ctd_full/cruise_key=1997-07-31JD/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_ctd_full/cruise_key=2018-06-33P4/",
-    "n": 2
    }
   ]
  }

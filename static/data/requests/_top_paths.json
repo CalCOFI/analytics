@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "top_paths": [
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 286
+    "n": 136
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 243
-   },
-   {
-    "path": "/erddap/search/advanced.itx",
-    "n": 216
+    "n": 115
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 144
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 79
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 67
+    "n": 65
    },
    {
     "path": "/erddap/index.html",
-    "n": 54
+    "n": 53
    },
    {
-    "path": "/erddap/tabledap/farallon_bird-mammal.html",
-    "n": 44
+    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
+    "n": 37
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 36
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
+    "n": 30
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
+    "n": 29
    },
    {
     "path": "/erddap/tabledap/farallon_bird-mammal.graph",
-    "n": 41
+    "n": 26
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 37
+    "path": "/robots.txt",
+    "n": 22
    }
   ]
  },
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "top_paths": [
    {
     "path": "/",
-    "n": 44
+    "n": 51
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 20
    },
    {
     "path": "/robots.txt",
-    "n": 41
+    "n": 17
    },
    {
-    "path": "/calcofi-db/explore-spike/",
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2011-08-32NM/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/sio/mesopelagic-fish/",
+    "path": "/calcofi-db/ducklake/",
+    "n": 4
+   },
+   {
+    "path": "/sitemap.xml",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2008-01-31JD/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=c14_mean/",
+    "path": "/calcofi-db/ducklake/tables/obs_mets_full/cruise_key=2004-01-31JD/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=c14_dark/0f5776f99283aaccd915766f/",
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2001-10-32NM/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=dic_rep1/a84bbac6500f17738ed632fc/",
+    "path": "/calcofi-db/ducklake/tables/obs_mets_full/cruise_key=2004-01-31JD/4b9365a3e1702b969f944f06/",
     "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.08.28/parquet/obs_env/measurement_type=salinity_2/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_ctd_full/cruise_key=1997-07-31JD/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_ctd_full/cruise_key=2018-06-33P4/",
-    "n": 2
    }
   ]
  },

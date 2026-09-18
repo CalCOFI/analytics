@@ -11,10 +11,10 @@
   "newUsers": 41.0,
   "sessions": 174.0,
   "engagedSessions": 141.0,
-  "screenPageViews": 2269.0,
-  "eventCount": 3015.0,
-  "userEngagementDuration": 20691.0,
-  "avgEngagementSeconds": 213.3,
+  "screenPageViews": 2272.0,
+  "eventCount": 3018.0,
+  "userEngagementDuration": 20727.0,
+  "avgEngagementSeconds": 213.7,
   "engagedSessionRate": 0.8,
   "viewsPerUser": 23.4
  },
@@ -222,7 +222,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 2269.0,
+   "count": 2272.0,
    "users": 53.0
   },
   {
