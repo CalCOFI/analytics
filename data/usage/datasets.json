@@ -5,16 +5,16 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-09-16",
+ "last_day": "2026-09-17",
  "totals_28d": {
-  "activeUsers": 63.0,
-  "newUsers": 41.0,
-  "sessions": 87.0,
-  "engagedSessions": 49.0,
-  "screenPageViews": 178.0,
-  "eventCount": 448.0,
-  "userEngagementDuration": 6891.0,
-  "avgEngagementSeconds": 109.4,
+  "activeUsers": 65.0,
+  "newUsers": 42.0,
+  "sessions": 89.0,
+  "engagedSessions": 51.0,
+  "screenPageViews": 180.0,
+  "eventCount": 454.0,
+  "userEngagementDuration": 6962.0,
+  "avgEngagementSeconds": 107.1,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 2.8
  },
@@ -85,6 +85,11 @@
    "date": "2026-09-16",
    "activeUsers": 1.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-09-17",
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -99,7 +104,8 @@
   5.86,
   7.29,
   7.57,
-  7.0
+  7.0,
+  4.71
  ],
  "geo_country": [
   {
@@ -110,12 +116,12 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 22.0
+   "activeUsers": 23.0
   },
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 3.0
+   "activeUsers": 4.0
   },
   {
    "country": "Denmark",
@@ -154,7 +160,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 15.0
+   "activeUsers": 16.0
   },
   {
    "country": "United States",
@@ -166,7 +172,7 @@
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
-   "activeUsers": 3.0
+   "activeUsers": 4.0
   },
   {
    "country": "Denmark",
@@ -202,23 +208,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 178.0,
-   "users": 53.0
+   "count": 180.0,
+   "users": 55.0
   },
   {
    "name": "user_engagement",
-   "count": 138.0,
-   "users": 23.0
+   "count": 140.0,
+   "users": 25.0
   },
   {
    "name": "session_start",
-   "count": 53.0,
-   "users": 46.0
+   "count": 54.0,
+   "users": 47.0
   },
   {
    "name": "first_visit",
-   "count": 41.0,
-   "users": 41.0
+   "count": 42.0,
+   "users": 42.0
   },
   {
    "name": "scroll",

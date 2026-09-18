@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 3.0,
-  "newUsers": 2.0,
-  "sessions": 3.0,
+  "activeUsers": 5.0,
+  "newUsers": 3.0,
+  "sessions": 5.0,
   "engagedSessions": 2.0,
-  "screenPageViews": 3.0,
-  "eventCount": 13.0,
-  "userEngagementDuration": 26.0,
-  "avgEngagementSeconds": 8.7,
-  "engagedSessionRate": 0.7,
+  "screenPageViews": 5.0,
+  "eventCount": 19.0,
+  "userEngagementDuration": 30.0,
+  "avgEngagementSeconds": 6.0,
+  "engagedSessionRate": 0.4,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -66.7,
-  "sessions": -70.0,
+  "activeUsers": -44.4,
+  "sessions": -50.0,
   "engagedSessions": -33.3,
-  "avgEngagementSeconds": -9.4,
-  "screenPageViews": -70.0
+  "avgEngagementSeconds": -37.5,
+  "screenPageViews": -50.0
  },
  "daily": [
   {
@@ -177,6 +177,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-09-17",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
    "date": "20260507",
    "activeUsers": 1.0,
    "sessions": 2.0
@@ -308,12 +313,13 @@
   1.14,
   1.29,
   1.14,
+  1.29,
+  1.29,
   1.14,
   1.14,
-  1.0,
+  1.29,
   1.14,
-  1.0,
-  1.14,
+  1.29,
   1.14,
   1.29,
   1.57,
@@ -333,7 +339,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 6.0
+   "activeUsers": 8.0
   },
   {
    "country": "Singapore",
@@ -351,7 +357,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 6.0
+   "activeUsers": 8.0
   },
   {
    "country": "Singapore",
@@ -381,28 +387,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 13.0,
-   "users": 11.0
+   "count": 15.0,
+   "users": 13.0
   },
   {
    "name": "session_start",
-   "count": 13.0,
-   "users": 11.0
+   "count": 14.0,
+   "users": 12.0
   },
   {
    "name": "first_visit",
-   "count": 10.0,
-   "users": 10.0
+   "count": 11.0,
+   "users": 11.0
   },
   {
    "name": "scroll",
-   "count": 8.0,
-   "users": 7.0
+   "count": 9.0,
+   "users": 8.0
   },
   {
    "name": "user_engagement",
-   "count": 7.0,
-   "users": 6.0
+   "count": 8.0,
+   "users": 7.0
   }
  ]
 }

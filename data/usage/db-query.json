@@ -10,7 +10,7 @@
   "activeUsers": 15.0,
   "newUsers": 3.0,
   "sessions": 18.0,
-  "engagedSessions": 12.0,
+  "engagedSessions": 13.0,
   "screenPageViews": 19.0,
   "eventCount": 91.0,
   "userEngagementDuration": 265.0,
@@ -21,7 +21,7 @@
  "delta_28d": {
   "activeUsers": -25.0,
   "sessions": -43.8,
-  "engagedSessions": -45.5,
+  "engagedSessions": -40.9,
   "avgEngagementSeconds": -70.7,
   "screenPageViews": -36.7
  },
@@ -668,7 +668,7 @@
   {
    "name": "page_view",
    "count": 47.0,
-   "users": 11.0
+   "users": 12.0
   },
   {
    "name": "scroll",
@@ -678,7 +678,7 @@
   {
    "name": "session_start",
    "count": 37.0,
-   "users": 11.0
+   "users": 12.0
   },
   {
    "name": "user_engagement",
