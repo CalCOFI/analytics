@@ -5,18 +5,18 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-09-17",
+ "last_day": "2026-09-18",
  "totals_28d": {
-  "activeUsers": 97.0,
-  "newUsers": 41.0,
-  "sessions": 174.0,
-  "engagedSessions": 141.0,
-  "screenPageViews": 2272.0,
-  "eventCount": 3018.0,
-  "userEngagementDuration": 20727.0,
-  "avgEngagementSeconds": 213.7,
+  "activeUsers": 102.0,
+  "newUsers": 45.0,
+  "sessions": 181.0,
+  "engagedSessions": 143.0,
+  "screenPageViews": 2291.0,
+  "eventCount": 3054.0,
+  "userEngagementDuration": 20795.0,
+  "avgEngagementSeconds": 203.9,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 23.4
+  "viewsPerUser": 22.5
  },
  "delta_28d": {
   "activeUsers": null,
@@ -120,6 +120,11 @@
    "date": "2026-09-17",
    "activeUsers": 3.0,
    "sessions": 3.0
+  },
+  {
+   "date": "2026-09-18",
+   "activeUsers": 5.0,
+   "sessions": 7.0
   }
  ],
  "daily_mean7": [
@@ -141,13 +146,14 @@
   7.0,
   6.57,
   7.86,
-  7.0
+  7.0,
+  7.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 39.0
+   "activeUsers": 41.0
   },
   {
    "country": "Italy",
@@ -165,8 +171,18 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Hong Kong",
+   "countryId": "HK",
+   "activeUsers": 1.0
+  },
+  {
    "country": "New Zealand",
    "countryId": "NZ",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
    "activeUsers": 1.0
   },
   {
@@ -180,7 +196,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 20.0
+   "activeUsers": 22.0
   },
   {
    "country": "United States",
@@ -207,9 +223,21 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Hong Kong",
+   "countryId": "HK",
+   "region": "",
+   "activeUsers": 1.0
+  },
+  {
    "country": "New Zealand",
    "countryId": "NZ",
    "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
    "activeUsers": 1.0
   },
   {
@@ -222,28 +250,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 2272.0,
-   "users": 53.0
+   "count": 2291.0,
+   "users": 57.0
   },
   {
    "name": "scroll",
-   "count": 281.0,
-   "users": 51.0
+   "count": 285.0,
+   "users": 52.0
   },
   {
    "name": "user_engagement",
-   "count": 202.0,
+   "count": 204.0,
    "users": 34.0
   },
   {
    "name": "session_start",
-   "count": 156.0,
-   "users": 51.0
+   "count": 163.0,
+   "users": 55.0
   },
   {
    "name": "first_visit",
-   "count": 41.0,
-   "users": 41.0
+   "count": 45.0,
+   "users": 45.0
   },
   {
    "name": "export",

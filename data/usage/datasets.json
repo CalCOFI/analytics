@@ -5,15 +5,15 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-09-17",
+ "last_day": "2026-09-18",
  "totals_28d": {
-  "activeUsers": 66.0,
+  "activeUsers": 67.0,
   "newUsers": 43.0,
-  "sessions": 90.0,
-  "engagedSessions": 51.0,
-  "screenPageViews": 181.0,
-  "eventCount": 457.0,
-  "userEngagementDuration": 6962.0,
+  "sessions": 91.0,
+  "engagedSessions": 52.0,
+  "screenPageViews": 183.0,
+  "eventCount": 462.0,
+  "userEngagementDuration": 7068.0,
   "avgEngagementSeconds": 105.5,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 2.7
@@ -90,6 +90,11 @@
    "date": "2026-09-17",
    "activeUsers": 3.0,
    "sessions": 3.0
+  },
+  {
+   "date": "2026-09-18",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -105,17 +110,18 @@
   7.29,
   7.57,
   7.0,
-  4.86
+  4.86,
+  3.86
  ],
  "geo_country": [
   {
-   "country": "China",
-   "countryId": "CN",
-   "activeUsers": 23.0
-  },
-  {
    "country": "United States",
    "countryId": "US",
+   "activeUsers": 24.0
+  },
+  {
+   "country": "China",
+   "countryId": "CN",
    "activeUsers": 23.0
   },
   {
@@ -126,6 +132,11 @@
   {
    "country": "Denmark",
    "countryId": "DK",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
    "activeUsers": 2.0
   },
   {
@@ -141,11 +152,6 @@
   {
    "country": "Russia",
    "countryId": "RU",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
    "activeUsers": 1.0
   },
   {
@@ -165,7 +171,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 16.0
+   "activeUsers": 17.0
   },
   {
    "country": "United States",
@@ -210,6 +216,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "United Kingdom",
    "countryId": "GB",
    "region": "Other",
@@ -219,13 +231,13 @@
  "events": [
   {
    "name": "page_view",
-   "count": 181.0,
-   "users": 56.0
+   "count": 183.0,
+   "users": 57.0
   },
   {
    "name": "user_engagement",
-   "count": 140.0,
-   "users": 25.0
+   "count": 142.0,
+   "users": 26.0
   },
   {
    "name": "session_start",
@@ -248,13 +260,13 @@
    "users": 5.0
   },
   {
-   "name": "form_start",
+   "name": "file_download",
    "count": 2.0,
-   "users": 1.0
+   "users": 2.0
   },
   {
-   "name": "file_download",
-   "count": 1.0,
+   "name": "form_start",
+   "count": 2.0,
    "users": 1.0
   }
  ]
