@@ -1,5 +1,5 @@
 country,countryId,region,activeUsers,sessions
-Brazil,BR,Other,3,3
+Brazil,BR,Other,4,4
 Bulgaria,BG,Other,1,1
 Chile,CL,Other,1,1
 China,CN,Other,1,1
@@ -8,7 +8,7 @@ Cyprus,CY,Other,1,1
 Côte d’Ivoire,CI,Other,1,1
 Italy,IT,Other,9,31
 New Zealand,NZ,Other,2,4
-Singapore,SG,,7,7
+Singapore,SG,,8,8
 Singapore,SG,(not set),80,80
 Singapore,SG,Other,3,3
 United States,US,Other,14,36

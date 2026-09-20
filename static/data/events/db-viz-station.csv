@@ -2,7 +2,7 @@ eventName,eventCount,activeUsers
 click,45,28
 first_visit,76,76
 form_start,7,4
-page_view,299,100
-scroll,270,73
+page_view,301,101
+scroll,272,74
 session_start,169,91
-user_engagement,186,46
+user_engagement,188,47
