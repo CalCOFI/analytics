@@ -5,18 +5,18 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-09-18",
+ "last_day": "2026-09-19",
  "totals_28d": {
-  "activeUsers": 104.0,
+  "activeUsers": 105.0,
   "newUsers": 46.0,
-  "sessions": 183.0,
-  "engagedSessions": 144.0,
-  "screenPageViews": 2333.0,
-  "eventCount": 3110.0,
-  "userEngagementDuration": 21010.0,
-  "avgEngagementSeconds": 202.0,
+  "sessions": 184.0,
+  "engagedSessions": 147.0,
+  "screenPageViews": 2408.0,
+  "eventCount": 3192.0,
+  "userEngagementDuration": 22381.0,
+  "avgEngagementSeconds": 213.2,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 22.4
+  "viewsPerUser": 22.9
  },
  "delta_28d": {
   "activeUsers": null,
@@ -125,6 +125,11 @@
    "date": "2026-09-18",
    "activeUsers": 7.0,
    "sessions": 9.0
+  },
+  {
+   "date": "2026-09-19",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -147,7 +152,8 @@
   6.57,
   7.86,
   7.0,
-  7.71
+  7.71,
+  5.71
  ],
  "geo_country": [
   {
@@ -168,16 +174,16 @@
   {
    "country": "Singapore",
    "countryId": "SG",
+   "activeUsers": 4.0
+  },
+  {
+   "country": "Hong Kong",
+   "countryId": "HK",
    "activeUsers": 2.0
   },
   {
    "country": "Australia",
    "countryId": "AU",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "Hong Kong",
-   "countryId": "HK",
    "activeUsers": 1.0
   },
   {
@@ -223,6 +229,12 @@
    "activeUsers": 2.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
    "country": "Australia",
    "countryId": "AU",
    "region": "Other",
@@ -232,6 +244,12 @@
    "country": "Hong Kong",
    "countryId": "HK",
    "region": "",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Hong Kong",
+   "countryId": "HK",
+   "region": "Other",
    "activeUsers": 1.0
   },
   {
@@ -250,22 +268,22 @@
  "events": [
   {
    "name": "page_view",
-   "count": 2333.0,
+   "count": 2408.0,
    "users": 58.0
   },
   {
    "name": "scroll",
-   "count": 293.0,
+   "count": 294.0,
    "users": 52.0
   },
   {
    "name": "user_engagement",
    "count": 206.0,
-   "users": 34.0
+   "users": 35.0
   },
   {
    "name": "session_start",
-   "count": 166.0,
+   "count": 167.0,
    "users": 56.0
   },
   {
@@ -285,8 +303,13 @@
   },
   {
    "name": "click",
-   "count": 8.0,
+   "count": 9.0,
    "users": 3.0
+  },
+  {
+   "name": "cite",
+   "count": 8.0,
+   "users": 1.0
   },
   {
    "name": "view_search_results",
@@ -301,11 +324,6 @@
   {
    "name": "share",
    "count": 6.0,
-   "users": 1.0
-  },
-  {
-   "name": "cite",
-   "count": 4.0,
    "users": 1.0
   }
  ]

@@ -20,10 +20,10 @@
  },
  "delta_28d": {
   "activeUsers": 42.9,
-  "sessions": 113.9,
-  "engagedSessions": 133.9,
+  "sessions": 119.5,
+  "engagedSessions": 138.2,
   "avgEngagementSeconds": 404.3,
-  "screenPageViews": 361.9
+  "screenPageViews": 366.1
  },
  "daily": [
   {
@@ -940,6 +940,15 @@
     "p95_ms": ""
    },
    {
+    "date": "2026-09-20",
+    "events": "2",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1199,7 +1208,7 @@
    },
    {
     "event": "session_start",
-    "n": "330",
+    "n": "331",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1207,7 +1216,7 @@
    },
    {
     "event": "start_tour",
-    "n": "259",
+    "n": "260",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1504,9 +1513,9 @@
    },
    {
     "app_version": "c2f854a",
-    "n": "37",
+    "n": "39",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-16"
+    "last_seen": "2026-09-20"
    },
    {
     "app_version": "cbc4d03",
