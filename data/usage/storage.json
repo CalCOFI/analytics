@@ -580,58 +580,63 @@
    },
    {
     "date": "2026-09-20",
-    "requests": 2888.0,
-    "bytes": 11888097.0
+    "requests": 4789.0,
+    "bytes": 17341072.0
+   },
+   {
+    "date": "2026-09-21",
+    "requests": 2217.0,
+    "bytes": 545798688.0
    }
   ],
   "totals_28d": {
-   "requests": 66673.0,
-   "bytes": 1890939596.0,
+   "requests": 70791.0,
+   "bytes": 2442191259.0,
    "clients": 2548.0,
-   "tool": 40605.0,
-   "browser": 26068.0
+   "tool": 42055.0,
+   "browser": 28736.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 51
    },
    {
     "path": "/robots.txt",
-    "n": 19
+    "n": 35
    },
    {
-    "path": "/sitemap.xml",
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 8
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs/dataset_key=calcofi_ctd-cast/",
     "n": 5
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=nitrate/c9c586f3b9b3ac33227537d3/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_mets_full/cruise_key=2020-01-33UD/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_mets_full/cruise_key=2005-04-32NM/",
+    "n": 4
+   },
+   {
+    "path": "/favicon.ico",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=dic_rep1/8e2b011ed476c369a0ac34a5/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.06/swfsc_ichthyo.nc",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/ship/9a88861433301d3665cb140d/",
     "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0401JD_CTDFinalQC/csvs-plots/secondary/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_env/measurement_type=phaeopigment/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_env/measurement_type=btl_nitrite/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=oxygen_ml_l_ave_sta_corr/50cd5d45d666aa5e7f150f0b/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=temperature/5bc482cd0ab2f2bc66daf85f/",
-    "n": 2
    }
   ]
  }
