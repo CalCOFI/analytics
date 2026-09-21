@@ -637,11 +637,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 93563.0,
-   "bytes": 1490063932.0,
+   "requests": 90036.0,
+   "bytes": 1473263223.0,
    "clients": 1863.0,
-   "tool": 64931.0,
-   "browser": 28632.0
+   "tool": 62152.0,
+   "browser": 27884.0
   },
   "first_day": "2026-07-29",
   "top_paths": [

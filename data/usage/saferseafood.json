@@ -19,11 +19,11 @@
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -40.0,
-  "sessions": -56.2,
-  "engagedSessions": -55.6,
-  "avgEngagementSeconds": -36.6,
-  "screenPageViews": -40.0
+  "activeUsers": -14.3,
+  "sessions": -36.4,
+  "engagedSessions": 0.0,
+  "avgEngagementSeconds": 115.0,
+  "screenPageViews": -14.3
  },
  "daily": [
   {

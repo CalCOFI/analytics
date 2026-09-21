@@ -1,23 +1,23 @@
 {
- "generated": "2026-09-20T11:17:30+00:00",
+ "generated": "2026-09-21T01:41:43+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 1285.0,
-  "activeUsers": 2396.0,
-  "sessions": 3125.0
+  "engagedSessions": 1274.0,
+  "activeUsers": 2375.0,
+  "sessions": 3097.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
-   "engagedSessions": 493.0,
-   "activeUsers": 1017.0,
-   "sessions": 1345.0,
+   "engagedSessions": 488.0,
+   "activeUsers": 1009.0,
+   "sessions": 1335.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 32.0,
-   "delta": 2365.0,
+   "avgEngagementSeconds": 32.1,
+   "delta": 1852.0,
    "spark": [
     2.0,
     2.0,
@@ -55,6 +55,7 @@
     14.0,
     5.0,
     7.0,
+    1.0,
     1.0
    ],
    "mostly_automated": false
@@ -62,11 +63,11 @@
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 150.0,
-   "activeUsers": 117.0,
-   "sessions": 199.0,
-   "engagementRate": 0.8,
-   "avgEngagementSeconds": 212.9,
+   "engagedSessions": 151.0,
+   "activeUsers": 120.0,
+   "sessions": 202.0,
+   "engagementRate": 0.7,
+   "avgEngagementSeconds": 211.6,
    "delta": null,
    "spark": [
     2.0,
@@ -90,19 +91,19 @@
     3.0,
     7.0,
     12.0,
-    1.0
+    4.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "docs",
    "title": "docs",
-   "engagedSessions": 133.0,
-   "activeUsers": 129.0,
-   "sessions": 188.0,
+   "engagedSessions": 135.0,
+   "activeUsers": 127.0,
+   "sessions": 187.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 35.5,
-   "delta": 87.3,
+   "avgEngagementSeconds": 35.6,
+   "delta": 101.5,
    "spark": [
     4.0,
     1.0,
@@ -185,19 +186,20 @@
     16.0,
     9.0,
     5.0,
-    6.0
+    6.0,
+    3.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
-   "engagedSessions": 131.0,
+   "engagedSessions": 132.0,
    "activeUsers": 61.0,
-   "sessions": 170.0,
+   "sessions": 169.0,
    "engagementRate": 0.8,
    "avgEngagementSeconds": 601.7,
-   "delta": 138.2,
+   "delta": 164.0,
    "spark": [
     1.0,
     1.0,
@@ -271,12 +273,12 @@
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 77.0,
-   "activeUsers": 103.0,
-   "sessions": 134.0,
+   "engagedSessions": 74.0,
+   "activeUsers": 100.0,
+   "sessions": 130.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 56.9,
-   "delta": 30.5,
+   "avgEngagementSeconds": 54.0,
+   "delta": 17.5,
    "spark": [
     2.0,
     3.0,
@@ -322,6 +324,7 @@
     3.0,
     6.0,
     3.0,
+    1.0,
     1.0
    ],
    "mostly_automated": false
@@ -329,12 +332,12 @@
   {
    "slug": "ctd-transects",
    "title": "ctd-transects",
-   "engagedSessions": 67.0,
-   "activeUsers": 65.0,
-   "sessions": 95.0,
+   "engagedSessions": 62.0,
+   "activeUsers": 60.0,
+   "sessions": 89.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 66.7,
-   "delta": 91.4,
+   "avgEngagementSeconds": 72.2,
+   "delta": 55.0,
    "spark": [
     2.0,
     7.0,
@@ -375,11 +378,11 @@
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 54.0,
-   "activeUsers": 69.0,
-   "sessions": 93.0,
+   "engagedSessions": 55.0,
+   "activeUsers": 72.0,
+   "sessions": 96.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 104.2,
+   "avgEngagementSeconds": 99.9,
    "delta": null,
    "spark": [
     1.0,
@@ -396,19 +399,20 @@
     1.0,
     3.0,
     2.0,
-    1.0
+    1.0,
+    3.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-schema",
    "title": "db-schema",
-   "engagedSessions": 31.0,
-   "activeUsers": 31.0,
-   "sessions": 48.0,
-   "engagementRate": 0.6,
-   "avgEngagementSeconds": 25.5,
-   "delta": -53.7,
+   "engagedSessions": 32.0,
+   "activeUsers": 32.0,
+   "sessions": 49.0,
+   "engagementRate": 0.7,
+   "avgEngagementSeconds": 24.7,
+   "delta": -52.2,
    "spark": [
     1.0,
     1.0,
@@ -449,6 +453,7 @@
     3.0,
     1.0,
     1.0,
+    1.0,
     1.0
    ],
    "mostly_automated": false
@@ -456,14 +461,13 @@
   {
    "slug": "calcofi4r",
    "title": "calcofi4r",
-   "engagedSessions": 22.0,
-   "activeUsers": 81.0,
-   "sessions": 90.0,
+   "engagedSessions": 21.0,
+   "activeUsers": 80.0,
+   "sessions": 88.0,
    "engagementRate": 0.2,
    "avgEngagementSeconds": 6.5,
-   "delta": -35.3,
+   "delta": -40.0,
    "spark": [
-    3.0,
     3.0,
     6.0,
     1.0,
@@ -552,19 +556,20 @@
     3.0,
     2.0,
     7.0,
-    9.0
+    9.0,
+    3.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "workflows",
    "title": "workflows",
-   "engagedSessions": 21.0,
-   "activeUsers": 20.0,
-   "sessions": 26.0,
+   "engagedSessions": 20.0,
+   "activeUsers": 18.0,
+   "sessions": 24.0,
    "engagementRate": 0.8,
-   "avgEngagementSeconds": 14.4,
-   "delta": -32.3,
+   "avgEngagementSeconds": 15.8,
+   "delta": -37.5,
    "spark": [
     4.0,
     3.0,
@@ -701,7 +706,7 @@
    "sessions": 19.0,
    "engagementRate": 0.7,
    "avgEngagementSeconds": 16.6,
-   "delta": -40.9,
+   "delta": -31.6,
    "spark": [
     2.0,
     1.0,
@@ -971,8 +976,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 6.0,
-   "activeUsers": 547.0,
-   "sessions": 548.0,
+   "activeUsers": 541.0,
+   "sessions": 542.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.2,
    "delta": 20.0,
@@ -1058,7 +1063,8 @@
     6.0,
     1.0,
     5.0,
-    5.0
+    5.0,
+    3.0
    ],
    "mostly_automated": true
   },
@@ -1067,10 +1073,10 @@
    "title": "ctd-viz",
    "engagedSessions": 6.0,
    "activeUsers": 7.0,
-   "sessions": 9.0,
-   "engagementRate": 0.7,
+   "sessions": 8.0,
+   "engagementRate": 0.8,
    "avgEngagementSeconds": 42.9,
-   "delta": -80.0,
+   "delta": -78.6,
    "spark": [
     2.0,
     3.0,
@@ -1134,7 +1140,7 @@
    "sessions": 7.0,
    "engagementRate": 0.6,
    "avgEngagementSeconds": 23.0,
-   "delta": -55.6,
+   "delta": 0.0,
    "spark": [
     2.0,
     1.0,
@@ -1344,14 +1350,31 @@
    "mostly_automated": false
   },
   {
+   "slug": "ucsb-larvae-dashboard",
+   "title": "Larvae Dashboard",
+   "engagedSessions": 1.0,
+   "activeUsers": 2.0,
+   "sessions": 2.0,
+   "engagementRate": 0.5,
+   "avgEngagementSeconds": 0.5,
+   "delta": null,
+   "spark": [
+    1.0,
+    1.0,
+    1.0,
+    2.0
+   ],
+   "mostly_automated": false
+  },
+  {
    "slug": "ucsb-station-portal",
    "title": "Station Data Portal",
-   "engagedSessions": 3.0,
-   "activeUsers": 2.0,
-   "sessions": 3.0,
+   "engagedSessions": 1.0,
+   "activeUsers": 1.0,
+   "sessions": 1.0,
    "engagementRate": 1.0,
-   "avgEngagementSeconds": 21.5,
-   "delta": 200.0,
+   "avgEngagementSeconds": 42.0,
+   "delta": -66.7,
    "spark": [
     2.0,
     1.0,
@@ -1360,23 +1383,6 @@
     2.0,
     1.0,
     1.0
-   ],
-   "mostly_automated": false
-  },
-  {
-   "slug": "ucsb-larvae-dashboard",
-   "title": "Larvae Dashboard",
-   "engagedSessions": 1.0,
-   "activeUsers": 2.0,
-   "sessions": 2.0,
-   "engagementRate": 0.5,
-   "avgEngagementSeconds": 0.5,
-   "delta": -50.0,
-   "spark": [
-    1.0,
-    1.0,
-    1.0,
-    2.0
    ],
    "mostly_automated": false
   }
