@@ -8,6 +8,6 @@ query_from_url,1,1
 query_run,20,3
 query_success,20,3
 query_view,82,10
-scroll,46,13
+scroll,47,14
 session_start,39,14
 user_engagement,31,7

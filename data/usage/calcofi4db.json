@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-05-07",
- "last_day": "2026-09-20",
+ "last_day": "2026-09-21",
  "totals_28d": {
-  "activeUsers": 542.0,
-  "newUsers": 538.0,
-  "sessions": 543.0,
-  "engagedSessions": 6.0,
-  "screenPageViews": 543.0,
-  "eventCount": 1648.0,
-  "userEngagementDuration": 129.0,
+  "activeUsers": 539.0,
+  "newUsers": 536.0,
+  "sessions": 540.0,
+  "engagedSessions": 5.0,
+  "screenPageViews": 540.0,
+  "eventCount": 1640.0,
+  "userEngagementDuration": 128.0,
   "avgEngagementSeconds": 0.2,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 189.8,
-  "sessions": 188.8,
-  "engagedSessions": 20.0,
-  "avgEngagementSeconds": -90.9,
-  "screenPageViews": 177.0
+  "activeUsers": 183.7,
+  "sessions": 182.7,
+  "engagedSessions": -16.7,
+  "avgEngagementSeconds": -90.5,
+  "screenPageViews": 171.4
  },
  "daily": [
   {
@@ -440,6 +440,11 @@
    "date": "2026-09-20",
    "activeUsers": 4.0,
    "sessions": 4.0
+  },
+  {
+   "date": "2026-09-21",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -525,13 +530,14 @@
   64.57,
   43.43,
   40.86,
-  5.0
+  5.0,
+  4.14
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 699.0
+   "activeUsers": 702.0
   },
   {
    "country": "United States",
@@ -539,14 +545,14 @@
    "activeUsers": 9.0
   },
   {
-   "country": "China",
-   "countryId": "CN",
+   "country": "Argentina",
+   "countryId": "AR",
    "activeUsers": 4.0
   },
   {
-   "country": "Argentina",
-   "countryId": "AR",
-   "activeUsers": 3.0
+   "country": "China",
+   "countryId": "CN",
+   "activeUsers": 4.0
   },
   {
    "country": "Italy",
@@ -599,7 +605,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 695.0
+   "activeUsers": 698.0
   },
   {
    "country": "United States",
@@ -611,7 +617,7 @@
    "country": "Argentina",
    "countryId": "AR",
    "region": "Other",
-   "activeUsers": 3.0
+   "activeUsers": 4.0
   },
   {
    "country": "China",
@@ -695,23 +701,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 739.0,
-   "users": 724.0
+   "count": 740.0,
+   "users": 725.0
   },
   {
    "name": "session_start",
-   "count": 724.0,
-   "users": 723.0
+   "count": 725.0,
+   "users": 724.0
   },
   {
    "name": "first_visit",
-   "count": 722.0,
-   "users": 722.0
+   "count": 723.0,
+   "users": 723.0
   },
   {
    "name": "scroll",
-   "count": 23.0,
-   "users": 23.0
+   "count": 24.0,
+   "users": 24.0
   },
   {
    "name": "user_engagement",

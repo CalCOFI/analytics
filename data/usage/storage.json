@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-09-18",
+ "last_day": "2026-09-21",
  "totals_28d": {
-  "activeUsers": 31.0,
-  "newUsers": 17.0,
-  "sessions": 35.0,
-  "engagedSessions": 19.0,
-  "screenPageViews": 119.0,
-  "eventCount": 332.0,
-  "userEngagementDuration": 1155.0,
-  "avgEngagementSeconds": 37.3,
+  "activeUsers": 29.0,
+  "newUsers": 15.0,
+  "sessions": 32.0,
+  "engagedSessions": 17.0,
+  "screenPageViews": 116.0,
+  "eventCount": 320.0,
+  "userEngagementDuration": 1148.0,
+  "avgEngagementSeconds": 39.6,
   "engagedSessionRate": 0.5,
-  "viewsPerUser": 3.8
+  "viewsPerUser": 4.0
  },
  "delta_28d": {
-  "activeUsers": 34.8,
-  "sessions": 0.0,
-  "engagedSessions": -26.9,
-  "avgEngagementSeconds": -18.2,
-  "screenPageViews": 16.7
+  "activeUsers": 11.5,
+  "sessions": -17.9,
+  "engagedSessions": -41.4,
+  "avgEngagementSeconds": -2.5,
+  "screenPageViews": 8.4
  },
  "daily": [
   {
@@ -165,6 +165,11 @@
    "date": "2026-09-18",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-09-21",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -195,13 +200,14 @@
   2.71,
   2.57,
   2.71,
-  2.71
+  2.71,
+  1.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 21.0
+   "activeUsers": 22.0
   },
   {
    "country": "Italy",
@@ -229,7 +235,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 11.0
+   "activeUsers": 12.0
   },
   {
    "country": "United States",
@@ -277,7 +283,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 221.0,
+   "count": 223.0,
    "users": 29.0
   },
   {
@@ -590,11 +596,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 70791.0,
-   "bytes": 2442191259.0,
+   "requests": 69771.0,
+   "bytes": 2250881299.0,
    "clients": 2548.0,
-   "tool": 42055.0,
-   "browser": 28736.0
+   "tool": 41670.0,
+   "browser": 28101.0
   },
   "first_day": "2026-07-29",
   "top_paths": [

@@ -2,6 +2,7 @@ country,countryId,region,activeUsers,sessions
 ,,,1,1
 (not set),(not set),Other,1,1
 Australia,AU,Other,1,1
+Canada,CA,Other,1,1
 China,CN,Other,5,5
 Hong Kong,HK,,1,1
 Hong Kong,HK,Other,1,1
@@ -10,5 +11,5 @@ New Zealand,NZ,Other,1,2
 Singapore,SG,,2,2
 Singapore,SG,Other,2,2
 United Kingdom,GB,Other,1,2
-United States,US,California,23,70
-United States,US,Other,32,38
+United States,US,California,24,73
+United States,US,Other,33,39
