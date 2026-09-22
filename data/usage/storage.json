@@ -591,57 +591,62 @@
    },
    {
     "date": "2026-09-21",
-    "requests": 2217.0,
-    "bytes": 545798688.0
+    "requests": 4077.0,
+    "bytes": 552573059.0
+   },
+   {
+    "date": "2026-09-22",
+    "requests": 1953.0,
+    "bytes": 153452404.0
    }
   ],
   "totals_28d": {
-   "requests": 69771.0,
-   "bytes": 2250881299.0,
+   "requests": 73584.0,
+   "bytes": 2411108074.0,
    "clients": 2548.0,
-   "tool": 41670.0,
-   "browser": 28101.0
+   "tool": 42935.0,
+   "browser": 30649.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 51
+    "n": 47
    },
    {
     "path": "/robots.txt",
-    "n": 35
+    "n": 14
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 8
+    "path": "/calcofi-files-public/netcdf/sio_pic-zooplankton/v2026.09.06/sio_pic-zooplankton.nc",
+    "n": 6
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs/dataset_key=calcofi_ctd-cast/",
+    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.09.06/farallon_bird-mammal.nc",
     "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_mets_full/cruise_key=2020-01-33UD/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/v2026.09.06/cce-lter_zooscan.nc",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-db/pg/ctd_scan_raw/_issues/study=0107NH/",
     "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_mets_full/cruise_key=2005-04-32NM/",
-    "n": 4
+    "path": "/calcofi-db/pg/ctd_scan_raw/study=1501NH/",
+    "n": 3
    },
    {
-    "path": "/favicon.ico",
-    "n": 4
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_env/measurement_type=oxygen_umol_kg/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=dic_rep1/8e2b011ed476c369a0ac34a5/",
-    "n": 4
+    "path": "/calcofi-db/ducklake-staging/tables/spatial_attribute/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.06/swfsc_ichthyo.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/ship/9a88861433301d3665cb140d/",
+    "path": "/calcofi-db/pg/ctd_scan_raw/study=0602JD/",
     "n": 3
    }
   ]
