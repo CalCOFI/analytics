@@ -613,58 +613,63 @@
    },
    {
     "date": "2026-09-22",
-    "requests": 1953.0,
-    "bytes": 153452404.0
+    "requests": 3529.0,
+    "bytes": 181865491.0
+   },
+   {
+    "date": "2026-09-23",
+    "requests": 2344.0,
+    "bytes": 27281763.0
    }
   ],
   "totals_28d": {
-   "requests": 73176.0,
-   "bytes": 2384861468.0,
+   "requests": 77096.0,
+   "bytes": 2440556318.0,
    "clients": 2548.0,
-   "tool": 42658.0,
-   "browser": 30518.0
+   "tool": 43696.0,
+   "browser": 33400.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
+    "n": 48
    },
    {
     "path": "/robots.txt",
-    "n": 14
+    "n": 22
    },
    {
-    "path": "/calcofi-files-public/netcdf/sio_pic-zooplankton/v2026.09.06/sio_pic-zooplankton.nc",
-    "n": 6
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.09.06/farallon_bird-mammal.nc",
+    "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/v2026.09.06/cce-lter_zooscan.nc",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-db/pg/ctd_scan_raw/_issues/study=0107NH/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=1501NH/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=prochlorococcus/8c5f59f4823c110d434fa4ec/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_env/measurement_type=oxygen_umol_kg/",
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/spatial_attribute/",
+    "path": "/calcofi-db/ducklake-staging/tables/taxon/5e9cefba123c23ad36594ec4/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=0602JD/",
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=salinity_btl/",
     "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.09.06/cce-lter_picoplankton-bacteria.nc",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2107SR_CTDPrelim/db-csvs/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/pg/ctd_scan_raw/_issues/study=0907M2/",
+    "n": 2
    }
   ]
  }

@@ -1,45 +1,45 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "top_paths": [
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 68
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 57
+    "n": 65
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 53
+    "n": 62
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_zooplankton.subset",
+    "n": 51
    },
    {
     "path": "/erddap/index.html",
     "n": 50
    },
    {
-    "path": "/robots.txt",
-    "n": 36
-   },
-   {
-    "path": "/erddap/tabledap/farallon_bird-mammal.graph",
-    "n": 36
-   },
-   {
     "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 31
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 30
+    "n": 45
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 25
+    "n": 32
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 30
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.graph",
+    "n": 28
    },
    {
     "path": "/erddap/tabledap/farallon_bird-mammal.html",
+    "n": 28
+   },
+   {
+    "path": "/robots.txt",
     "n": 23
    }
   ]
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
+    "n": 48
    },
    {
     "path": "/robots.txt",
-    "n": 14
+    "n": 22
    },
    {
-    "path": "/calcofi-files-public/netcdf/sio_pic-zooplankton/v2026.09.06/sio_pic-zooplankton.nc",
-    "n": 6
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.09.06/farallon_bird-mammal.nc",
+    "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/v2026.09.06/cce-lter_zooscan.nc",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-db/pg/ctd_scan_raw/_issues/study=0107NH/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=1501NH/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=prochlorococcus/8c5f59f4823c110d434fa4ec/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_env/measurement_type=oxygen_umol_kg/",
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/spatial_attribute/",
+    "path": "/calcofi-db/ducklake-staging/tables/taxon/5e9cefba123c23ad36594ec4/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=0602JD/",
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=salinity_btl/",
     "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.09.06/cce-lter_picoplankton-bacteria.nc",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2107SR_CTDPrelim/db-csvs/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/pg/ctd_scan_raw/_issues/study=0907M2/",
+    "n": 2
    }
   ]
  },

@@ -1,5 +1,5 @@
 country,countryId,region,activeUsers,sessions
-Argentina,AR,Other,4,4
+Argentina,AR,Other,5,5
 Bangladesh,BD,Other,1,1
 Brazil,BR,Other,2,2
 Chile,CL,Other,1,1
@@ -11,7 +11,7 @@ Japan,JP,Other,2,2
 Kazakhstan,KZ,Other,1,1
 Nigeria,NG,Other,1,1
 Palestine,PS,Other,1,1
-Singapore,SG,,5,5
+Singapore,SG,,7,7
 Singapore,SG,(not set),699,700
 Singapore,SG,Other,1,1
 United States,US,Other,10,12

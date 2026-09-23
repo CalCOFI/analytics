@@ -5,9 +5,9 @@ click,10,3
 export,19,2
 feedback,7,1
 first_visit,65,64
-page_view,2913,78
-scroll,334,72
-session_start,198,75
+page_view,2921,78
+scroll,335,72
+session_start,200,75
 share,6,1
-user_engagement,224,39
+user_engagement,225,40
 view_search_results,8,4
