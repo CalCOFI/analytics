@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-09-21",
+ "last_day": "2026-09-22",
  "totals_28d": {
-  "activeUsers": 29.0,
-  "newUsers": 15.0,
-  "sessions": 32.0,
+  "activeUsers": 30.0,
+  "newUsers": 16.0,
+  "sessions": 33.0,
   "engagedSessions": 17.0,
-  "screenPageViews": 116.0,
-  "eventCount": 320.0,
+  "screenPageViews": 117.0,
+  "eventCount": 324.0,
   "userEngagementDuration": 1148.0,
-  "avgEngagementSeconds": 39.6,
+  "avgEngagementSeconds": 38.3,
   "engagedSessionRate": 0.5,
-  "viewsPerUser": 4.0
+  "viewsPerUser": 3.9
  },
  "delta_28d": {
-  "activeUsers": 11.5,
-  "sessions": -17.9,
-  "engagedSessions": -41.4,
-  "avgEngagementSeconds": -2.5,
-  "screenPageViews": 8.4
+  "activeUsers": 30.4,
+  "sessions": 0.0,
+  "engagedSessions": -32.0,
+  "avgEngagementSeconds": 3.8,
+  "screenPageViews": 41.0
  },
  "daily": [
   {
@@ -170,6 +170,11 @@
    "date": "2026-09-21",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-09-22",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -201,7 +206,8 @@
   2.57,
   2.71,
   2.71,
-  1.71
+  1.71,
+  1.57
  ],
  "geo_country": [
   {
@@ -227,6 +233,11 @@
   {
    "country": "Germany",
    "countryId": "DE",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Nepal",
+   "countryId": "NP",
    "activeUsers": 1.0
   }
  ],
@@ -278,13 +289,19 @@
    "countryId": "DE",
    "region": "Other",
    "activeUsers": 1.0
+  },
+  {
+   "country": "Nepal",
+   "countryId": "NP",
+   "region": "Other",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 223.0,
-   "users": 29.0
+   "count": 224.0,
+   "users": 30.0
   },
   {
    "name": "user_engagement",
@@ -293,18 +310,18 @@
   },
   {
    "name": "scroll",
-   "count": 130.0,
-   "users": 11.0
+   "count": 131.0,
+   "users": 12.0
   },
   {
    "name": "session_start",
-   "count": 37.0,
-   "users": 29.0
+   "count": 38.0,
+   "users": 30.0
   },
   {
    "name": "first_visit",
-   "count": 24.0,
-   "users": 24.0
+   "count": 25.0,
+   "users": 25.0
   },
   {
    "name": "click",
@@ -601,11 +618,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 73584.0,
-   "bytes": 2411108074.0,
+   "requests": 73176.0,
+   "bytes": 2384861468.0,
    "clients": 2548.0,
-   "tool": 42935.0,
-   "browser": 30649.0
+   "tool": 42658.0,
+   "browser": 30518.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
