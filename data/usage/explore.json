@@ -5,18 +5,18 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-09-22",
+ "last_day": "2026-09-23",
  "totals_28d": {
-  "activeUsers": 130.0,
-  "newUsers": 65.0,
-  "sessions": 218.0,
-  "engagedSessions": 161.0,
-  "screenPageViews": 2921.0,
-  "eventCount": 3821.0,
-  "userEngagementDuration": 26040.0,
-  "avgEngagementSeconds": 200.3,
+  "activeUsers": 136.0,
+  "newUsers": 67.0,
+  "sessions": 224.0,
+  "engagedSessions": 165.0,
+  "screenPageViews": 2983.0,
+  "eventCount": 3904.0,
+  "userEngagementDuration": 26610.0,
+  "avgEngagementSeconds": 195.7,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 22.5
+  "viewsPerUser": 21.9
  },
  "delta_28d": {
   "activeUsers": null,
@@ -143,8 +143,13 @@
   },
   {
    "date": "2026-09-22",
-   "activeUsers": 5.0,
+   "activeUsers": 6.0,
    "sessions": 9.0
+  },
+  {
+   "date": "2026-09-23",
+   "activeUsers": 5.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -171,13 +176,14 @@
   7.29,
   7.57,
   6.71,
-  7.0
+  7.14,
+  6.0
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 60.0
+   "activeUsers": 62.0
   },
   {
    "country": "Italy",
@@ -235,13 +241,13 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 33.0
+   "activeUsers": 34.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 27.0
+   "activeUsers": 28.0
   },
   {
    "country": "Italy",
@@ -319,38 +325,38 @@
  "events": [
   {
    "name": "page_view",
-   "count": 2921.0,
-   "users": 78.0
+   "count": 2983.0,
+   "users": 80.0
   },
   {
    "name": "scroll",
-   "count": 335.0,
-   "users": 72.0
+   "count": 344.0,
+   "users": 73.0
   },
   {
    "name": "user_engagement",
-   "count": 225.0,
-   "users": 40.0
+   "count": 228.0,
+   "users": 41.0
   },
   {
    "name": "session_start",
-   "count": 200.0,
-   "users": 75.0
+   "count": 205.0,
+   "users": 78.0
   },
   {
    "name": "first_visit",
-   "count": 65.0,
-   "users": 64.0
+   "count": 67.0,
+   "users": 66.0
+  },
+  {
+   "name": "cite_ack",
+   "count": 19.0,
+   "users": 19.0
   },
   {
    "name": "export",
    "count": 19.0,
    "users": 2.0
-  },
-  {
-   "name": "cite_ack",
-   "count": 17.0,
-   "users": 17.0
   },
   {
    "name": "click",

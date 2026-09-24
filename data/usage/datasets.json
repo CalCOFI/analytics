@@ -5,16 +5,16 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-09-22",
+ "last_day": "2026-09-23",
  "totals_28d": {
-  "activeUsers": 79.0,
-  "newUsers": 49.0,
-  "sessions": 105.0,
-  "engagedSessions": 61.0,
-  "screenPageViews": 203.0,
-  "eventCount": 513.0,
-  "userEngagementDuration": 7256.0,
-  "avgEngagementSeconds": 91.8,
+  "activeUsers": 82.0,
+  "newUsers": 50.0,
+  "sessions": 109.0,
+  "engagedSessions": 64.0,
+  "screenPageViews": 210.0,
+  "eventCount": 526.0,
+  "userEngagementDuration": 7277.0,
+  "avgEngagementSeconds": 88.7,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 2.6
  },
@@ -115,6 +115,11 @@
    "date": "2026-09-22",
    "activeUsers": 4.0,
    "sessions": 5.0
+  },
+  {
+   "date": "2026-09-23",
+   "activeUsers": 3.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -135,13 +140,14 @@
   3.86,
   4.29,
   2.71,
-  2.43
+  2.43,
+  2.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 29.0
+   "activeUsers": 30.0
   },
   {
    "country": "China",
@@ -161,6 +167,11 @@
   {
    "country": "Japan",
    "countryId": "JP",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "United Kingdom",
+   "countryId": "GB",
    "activeUsers": 2.0
   },
   {
@@ -192,11 +203,6 @@
    "country": "Russia",
    "countryId": "RU",
    "activeUsers": 1.0
-  },
-  {
-   "country": "United Kingdom",
-   "countryId": "GB",
-   "activeUsers": 1.0
   }
  ],
  "geo": [
@@ -210,7 +216,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 18.0
+   "activeUsers": 19.0
   },
   {
    "country": "United States",
@@ -233,6 +239,12 @@
   {
    "country": "Japan",
    "countryId": "JP",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "United Kingdom",
+   "countryId": "GB",
    "region": "Other",
    "activeUsers": 2.0
   },
@@ -277,34 +289,28 @@
    "countryId": "SG",
    "region": "Other",
    "activeUsers": 1.0
-  },
-  {
-   "country": "United Kingdom",
-   "countryId": "GB",
-   "region": "Other",
-   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 203.0,
-   "users": 65.0
+   "count": 210.0,
+   "users": 67.0
   },
   {
    "name": "user_engagement",
-   "count": 153.0,
-   "users": 31.0
+   "count": 156.0,
+   "users": 33.0
   },
   {
    "name": "session_start",
-   "count": 64.0,
-   "users": 55.0
+   "count": 66.0,
+   "users": 56.0
   },
   {
    "name": "first_visit",
-   "count": 49.0,
-   "users": 49.0
+   "count": 50.0,
+   "users": 50.0
   },
   {
    "name": "scroll",
