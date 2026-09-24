@@ -1,6 +1,7 @@
 country,countryId,region,activeUsers,sessions
 China,CN,,1,1
 China,CN,Other,3,3
+Colombia,CO,Other,1,1
 Germany,DE,Other,1,1
 Italy,IT,Other,5,34
 Nepal,NP,Other,1,1

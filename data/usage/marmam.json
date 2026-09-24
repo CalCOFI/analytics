@@ -8,22 +8,22 @@
  "last_day": "20260727",
  "totals_28d": {
   "activeUsers": 23.0,
-  "newUsers": 14.0,
+  "newUsers": 16.0,
   "sessions": 25.0,
   "engagedSessions": 8.0,
-  "screenPageViews": 24.0,
-  "eventCount": 91.0,
-  "userEngagementDuration": 335.0,
-  "avgEngagementSeconds": 14.6,
+  "screenPageViews": 26.0,
+  "eventCount": 98.0,
+  "userEngagementDuration": 337.0,
+  "avgEngagementSeconds": 14.7,
   "engagedSessionRate": 0.3,
-  "viewsPerUser": 1.0
+  "viewsPerUser": 1.1
  },
  "delta_28d": {
   "activeUsers": 228.6,
   "sessions": 212.5,
   "engagedSessions": 300.0,
-  "avgEngagementSeconds": 52.1,
-  "screenPageViews": 200.0
+  "avgEngagementSeconds": 53.1,
+  "screenPageViews": 225.0
  },
  "daily": [
   {
@@ -422,18 +422,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 34.0,
-   "users": 27.0
+   "count": 36.0,
+   "users": 28.0
   },
   {
    "name": "session_start",
-   "count": 33.0,
-   "users": 26.0
+   "count": 35.0,
+   "users": 27.0
   },
   {
    "name": "first_visit",
-   "count": 22.0,
-   "users": 22.0
+   "count": 24.0,
+   "users": 23.0
   },
   {
    "name": "scroll",
@@ -442,8 +442,8 @@
   },
   {
    "name": "user_engagement",
-   "count": 18.0,
-   "users": 13.0
+   "count": 19.0,
+   "users": 14.0
   },
   {
    "name": "form_start",

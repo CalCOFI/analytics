@@ -1,6 +1,7 @@
 country,countryId,region,activeUsers,sessions
 Australia,AU,Other,1,2
 Canada,CA,Other,1,1
+India,IN,Other,1,1
 Indonesia,ID,Other,1,1
 Italy,IT,Other,1,1
 Latvia,LV,Other,0,1

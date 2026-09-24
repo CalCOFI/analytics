@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-09-23",
  "totals_28d": {
-  "activeUsers": 30.0,
-  "newUsers": 15.0,
-  "sessions": 33.0,
+  "activeUsers": 31.0,
+  "newUsers": 16.0,
+  "sessions": 34.0,
   "engagedSessions": 17.0,
-  "screenPageViews": 116.0,
-  "eventCount": 321.0,
-  "userEngagementDuration": 1153.0,
-  "avgEngagementSeconds": 38.4,
+  "screenPageViews": 117.0,
+  "eventCount": 326.0,
+  "userEngagementDuration": 1157.0,
+  "avgEngagementSeconds": 37.3,
   "engagedSessionRate": 0.5,
-  "viewsPerUser": 3.9
+  "viewsPerUser": 3.8
  },
  "delta_28d": {
-  "activeUsers": 36.4,
-  "sessions": 6.5,
+  "activeUsers": 40.9,
+  "sessions": 9.7,
   "engagedSessions": -22.7,
-  "avgEngagementSeconds": 12.6,
-  "screenPageViews": 90.2
+  "avgEngagementSeconds": 9.4,
+  "screenPageViews": 91.8
  },
  "daily": [
   {
@@ -178,8 +178,8 @@
   },
   {
    "date": "2026-09-23",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -213,7 +213,7 @@
   2.71,
   1.71,
   1.57,
-  1.43
+  1.57
  ],
  "geo_country": [
   {
@@ -235,6 +235,11 @@
    "country": "Singapore",
    "countryId": "SG",
    "activeUsers": 4.0
+  },
+  {
+   "country": "Colombia",
+   "countryId": "CO",
+   "activeUsers": 1.0
   },
   {
    "country": "Germany",
@@ -291,6 +296,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Colombia",
+   "countryId": "CO",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Germany",
    "countryId": "DE",
    "region": "Other",
@@ -306,28 +317,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 224.0,
-   "users": 30.0
+   "count": 225.0,
+   "users": 31.0
   },
   {
    "name": "user_engagement",
-   "count": 190.0,
+   "count": 191.0,
    "users": 6.0
   },
   {
    "name": "scroll",
-   "count": 131.0,
-   "users": 12.0
+   "count": 132.0,
+   "users": 13.0
   },
   {
    "name": "session_start",
-   "count": 38.0,
-   "users": 30.0
+   "count": 39.0,
+   "users": 31.0
   },
   {
    "name": "first_visit",
-   "count": 25.0,
-   "users": 25.0
+   "count": 26.0,
+   "users": 26.0
   },
   {
    "name": "click",
@@ -624,16 +635,21 @@
    },
    {
     "date": "2026-09-23",
-    "requests": 2344.0,
-    "bytes": 27281763.0
+    "requests": 3724.0,
+    "bytes": 47701500.0
+   },
+   {
+    "date": "2026-09-24",
+    "requests": 851.0,
+    "bytes": 2446928.0
    }
   ],
   "totals_28d": {
-   "requests": 76375.0,
-   "bytes": 2436098851.0,
+   "requests": 78606.0,
+   "bytes": 2458965516.0,
    "clients": 2548.0,
-   "tool": 43361.0,
-   "browser": 33014.0
+   "tool": 44101.0,
+   "browser": 34505.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -650,31 +666,31 @@
     "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=prochlorococcus/8c5f59f4823c110d434fa4ec/",
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=picoeukaryotes/8c988476c520aba131b17ff5/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/taxon/5e9cefba123c23ad36594ec4/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=salinity_btl/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.09.06/cce-lter_picoplankton-bacteria.nc",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2107SR_CTDPrelim/db-csvs/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.08.28/parquet/obs_env/measurement_type=oxygen_umol_kg_ave_sta_corr/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/pg/ctd_scan_raw/_issues/study=0907M2/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.08.28/parquet/obs_ctd_full/cruise_key=1998-02-31JD/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=het_bacteria/fb08964677dad2b3b5ed5928/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_ctd_full/cruise_key=2012-03-3322/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=c14_dark/2625484040ec9cf759c1402e/",
     "n": 2
    }
   ]

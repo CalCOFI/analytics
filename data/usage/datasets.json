@@ -7,16 +7,16 @@
  "first_day": "2026-09-05",
  "last_day": "2026-09-23",
  "totals_28d": {
-  "activeUsers": 82.0,
-  "newUsers": 50.0,
-  "sessions": 109.0,
-  "engagedSessions": 64.0,
-  "screenPageViews": 210.0,
-  "eventCount": 526.0,
-  "userEngagementDuration": 7277.0,
-  "avgEngagementSeconds": 88.7,
+  "activeUsers": 83.0,
+  "newUsers": 51.0,
+  "sessions": 111.0,
+  "engagedSessions": 65.0,
+  "screenPageViews": 212.0,
+  "eventCount": 532.0,
+  "userEngagementDuration": 7281.0,
+  "avgEngagementSeconds": 87.7,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 2.6
+  "viewsPerUser": 2.5
  },
  "delta_28d": {
   "activeUsers": null,
@@ -118,8 +118,8 @@
   },
   {
    "date": "2026-09-23",
-   "activeUsers": 3.0,
-   "sessions": 4.0
+   "activeUsers": 4.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -141,7 +141,7 @@
   4.29,
   2.71,
   2.43,
-  2.71
+  2.86
  ],
  "geo_country": [
   {
@@ -162,6 +162,11 @@
   {
    "country": "Denmark",
    "countryId": "DK",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "India",
+   "countryId": "IN",
    "activeUsers": 2.0
   },
   {
@@ -187,11 +192,6 @@
   {
    "country": "France",
    "countryId": "FR",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "India",
-   "countryId": "IN",
    "activeUsers": 1.0
   },
   {
@@ -237,6 +237,12 @@
    "activeUsers": 2.0
   },
   {
+   "country": "India",
+   "countryId": "IN",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
    "country": "Japan",
    "countryId": "JP",
    "region": "Other",
@@ -257,12 +263,6 @@
   {
    "country": "France",
    "countryId": "FR",
-   "region": "Other",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "India",
-   "countryId": "IN",
    "region": "Other",
    "activeUsers": 1.0
   },
@@ -294,23 +294,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 210.0,
-   "users": 67.0
+   "count": 212.0,
+   "users": 68.0
   },
   {
    "name": "user_engagement",
-   "count": 156.0,
-   "users": 33.0
+   "count": 157.0,
+   "users": 34.0
   },
   {
    "name": "session_start",
-   "count": 66.0,
-   "users": 56.0
+   "count": 68.0,
+   "users": 57.0
   },
   {
    "name": "first_visit",
-   "count": 50.0,
-   "users": 50.0
+   "count": 51.0,
+   "users": 51.0
   },
   {
    "name": "scroll",
