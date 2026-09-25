@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 48.0,
-  "newUsers": 11.0,
-  "sessions": 144.0,
-  "engagedSessions": 112.0,
-  "screenPageViews": 492.0,
-  "eventCount": 3598.0,
-  "userEngagementDuration": 35723.0,
-  "avgEngagementSeconds": 744.2,
+  "activeUsers": 49.0,
+  "newUsers": 12.0,
+  "sessions": 146.0,
+  "engagedSessions": 113.0,
+  "screenPageViews": 494.0,
+  "eventCount": 3692.0,
+  "userEngagementDuration": 36837.0,
+  "avgEngagementSeconds": 751.8,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 10.2
+  "viewsPerUser": 10.1
  },
  "delta_28d": {
-  "activeUsers": 6.7,
-  "sessions": 63.6,
-  "engagedSessions": 72.3,
-  "avgEngagementSeconds": 509.0,
-  "screenPageViews": 290.5
+  "activeUsers": 8.9,
+  "sessions": 65.9,
+  "engagedSessions": 73.8,
+  "avgEngagementSeconds": 515.2,
+  "screenPageViews": 292.1
  },
  "daily": [
   {
@@ -292,6 +292,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-09-24",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -418,7 +423,8 @@
   2.43,
   2.0,
   1.43,
-  1.71,
+  1.29,
+  1.43,
   1.43,
   1.43,
   1.86,
@@ -435,7 +441,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 35.0
+   "activeUsers": 36.0
   },
   {
    "country": "Italy",
@@ -473,7 +479,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 26.0
+   "activeUsers": 27.0
   },
   {
    "country": "Italy",
@@ -521,43 +527,43 @@
  "events": [
   {
    "name": "session_start",
-   "count": 809.0,
-   "users": 43.0
-  },
-  {
-   "name": "page_view",
-   "count": 637.0,
-   "users": 45.0
-  },
-  {
-   "name": "scroll",
-   "count": 591.0,
+   "count": 813.0,
    "users": 44.0
   },
   {
+   "name": "page_view",
+   "count": 639.0,
+   "users": 46.0
+  },
+  {
+   "name": "scroll",
+   "count": 593.0,
+   "users": 45.0
+  },
+  {
    "name": "user_engagement",
-   "count": 368.0,
-   "users": 28.0
+   "count": 370.0,
+   "users": 29.0
   },
   {
    "name": "filter_submit",
-   "count": 354.0,
-   "users": 12.0
+   "count": 367.0,
+   "users": 13.0
   },
   {
    "name": "map_query_env",
-   "count": 354.0,
-   "users": 12.0
+   "count": 367.0,
+   "users": 13.0
   },
   {
    "name": "map_query_sp",
-   "count": 354.0,
-   "users": 12.0
+   "count": 367.0,
+   "users": 13.0
   },
   {
    "name": "start_tour",
-   "count": 262.0,
-   "users": 40.0
+   "count": 264.0,
+   "users": 41.0
   },
   {
    "name": "select_tab",

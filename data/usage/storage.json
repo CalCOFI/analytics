@@ -5,14 +5,14 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-09-23",
+ "last_day": "2026-09-24",
  "totals_28d": {
   "activeUsers": 31.0,
   "newUsers": 16.0,
-  "sessions": 34.0,
+  "sessions": 35.0,
   "engagedSessions": 17.0,
-  "screenPageViews": 117.0,
-  "eventCount": 326.0,
+  "screenPageViews": 118.0,
+  "eventCount": 328.0,
   "userEngagementDuration": 1157.0,
   "avgEngagementSeconds": 37.3,
   "engagedSessionRate": 0.5,
@@ -20,10 +20,10 @@
  },
  "delta_28d": {
   "activeUsers": 40.9,
-  "sessions": 9.7,
+  "sessions": 12.9,
   "engagedSessions": -22.7,
   "avgEngagementSeconds": 9.4,
-  "screenPageViews": 91.8
+  "screenPageViews": 93.4
  },
  "daily": [
   {
@@ -180,6 +180,11 @@
    "date": "2026-09-23",
    "activeUsers": 2.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-09-24",
+   "activeUsers": 0.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -213,7 +218,8 @@
   2.71,
   1.71,
   1.57,
-  1.57
+  1.57,
+  1.29
  ],
  "geo_country": [
   {
@@ -317,7 +323,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 225.0,
+   "count": 226.0,
    "users": 31.0
   },
   {
@@ -332,7 +338,7 @@
   },
   {
    "name": "session_start",
-   "count": 39.0,
+   "count": 40.0,
    "users": 31.0
   },
   {
@@ -640,16 +646,21 @@
    },
    {
     "date": "2026-09-24",
-    "requests": 851.0,
-    "bytes": 2446928.0
+    "requests": 4674.0,
+    "bytes": 13303612.0
+   },
+   {
+    "date": "2026-09-25",
+    "requests": 1138.0,
+    "bytes": 192628827.0
    }
   ],
   "totals_28d": {
-   "requests": 77947.0,
-   "bytes": 2438709341.0,
-   "clients": 2548.0,
-   "tool": 43710.0,
-   "browser": 34237.0
+   "requests": 82908.0,
+   "bytes": 2642194852.0,
+   "clients": 3108.0,
+   "tool": 44385.0,
+   "browser": 38523.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -659,39 +670,39 @@
    },
    {
     "path": "/robots.txt",
-    "n": 22
+    "n": 24
    },
    {
     "path": "/sitemap.xml",
-    "n": 5
+    "n": 6
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.06/calcofi_ctd-cast.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=picoeukaryotes/8c988476c520aba131b17ff5/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=temperature_ave/97ceecabfcd162c7fe588f72/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.08.28/parquet/obs_env/measurement_type=oxygen_umol_kg_ave_sta_corr/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/19-9807NH_CTDFinalQC/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.08.28/parquet/obs_ctd_full/cruise_key=1998-02-31JD/",
-    "n": 2
+    "path": "/calcofi-db/ducklake/tables/ship/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=het_bacteria/fb08964677dad2b3b5ed5928/",
-    "n": 2
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=oxygen_umol_kg_ave_sta_corr/8afc3cd3cc46d50cd54e29c0/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_ctd_full/cruise_key=2012-03-3322/",
-    "n": 2
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=beam_attenuation/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=c14_dark/2625484040ec9cf759c1402e/",
-    "n": 2
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=oxygen_ml_l_2_cruise_corr/1e8e6e794c8e633bfbce77c6/",
+    "n": 3
    }
   ]
  }
