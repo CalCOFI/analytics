@@ -5,25 +5,25 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-09-24",
+ "last_day": "2026-09-25",
  "totals_28d": {
-  "activeUsers": 137.0,
+  "activeUsers": 138.0,
   "newUsers": 67.0,
-  "sessions": 227.0,
-  "engagedSessions": 165.0,
-  "screenPageViews": 2975.0,
-  "eventCount": 3894.0,
-  "userEngagementDuration": 26366.0,
-  "avgEngagementSeconds": 192.5,
+  "sessions": 228.0,
+  "engagedSessions": 164.0,
+  "screenPageViews": 2949.0,
+  "eventCount": 3835.0,
+  "userEngagementDuration": 26234.0,
+  "avgEngagementSeconds": 190.1,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 21.7
+  "viewsPerUser": 21.4
  },
  "delta_28d": {
-  "activeUsers": 6750.0,
-  "sessions": 11250.0,
-  "engagedSessions": 8150.0,
-  "avgEngagementSeconds": 58.4,
-  "screenPageViews": 21150.0
+  "activeUsers": 3350.0,
+  "sessions": 2750.0,
+  "engagedSessions": 2242.9,
+  "avgEngagementSeconds": -55.6,
+  "screenPageViews": 2203.9
  },
  "daily": [
   {
@@ -155,6 +155,11 @@
    "date": "2026-09-24",
    "activeUsers": 2.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-09-25",
+   "activeUsers": 3.0,
+   "sessions": 7.0
   }
  ],
  "daily_mean7": [
@@ -183,13 +188,14 @@
   6.71,
   7.14,
   6.14,
-  6.0
+  6.0,
+  5.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 63.0
+   "activeUsers": 64.0
   },
   {
    "country": "Italy",
@@ -247,7 +253,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 34.0
+   "activeUsers": 35.0
   },
   {
    "country": "United States",
@@ -331,33 +337,33 @@
  "events": [
   {
    "name": "page_view",
-   "count": 2989.0,
-   "users": 81.0
+   "count": 3077.0,
+   "users": 82.0
   },
   {
    "name": "scroll",
-   "count": 346.0,
-   "users": 74.0
+   "count": 352.0,
+   "users": 75.0
   },
   {
    "name": "user_engagement",
-   "count": 232.0,
+   "count": 235.0,
    "users": 41.0
   },
   {
    "name": "session_start",
-   "count": 211.0,
-   "users": 79.0
+   "count": 218.0,
+   "users": 80.0
   },
   {
    "name": "first_visit",
-   "count": 68.0,
-   "users": 67.0
+   "count": 69.0,
+   "users": 68.0
   },
   {
    "name": "cite_ack",
-   "count": 19.0,
-   "users": 19.0
+   "count": 20.0,
+   "users": 20.0
   },
   {
    "name": "export",

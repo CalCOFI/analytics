@@ -1,6 +1,7 @@
 eventName,eventCount,activeUsers
-first_visit,8,8
-page_view,9,9
+click,2,1
+first_visit,9,9
+page_view,10,10
 scroll,8,8
-session_start,8,8
-user_engagement,4,4
+session_start,9,9
+user_engagement,5,5
