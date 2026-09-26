@@ -1,26 +1,34 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 49
+    "n": 51
    },
    {
     "path": "/robots.txt",
-    "n": 39
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 31
+    "n": 33
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 21
+    "n": 24
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 18
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd_thin.csv",
+    "n": 17
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
+    "n": 13
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 14
+    "n": 10
    },
    {
     "path": "/",
@@ -28,19 +36,11 @@
    },
    {
     "path": "/erddap/sitemap.xml",
-    "n": 8
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
-    "n": 7
+    "n": 9
    },
    {
     "path": "/erddap/subscriptions/add.html",
-    "n": 7
-   },
-   {
-    "path": "/erddap/convert/time.html",
-    "n": 7
+    "n": 9
    }
   ]
  },
@@ -107,53 +107,57 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "top_paths": [
    {
     "path": "/",
-    "n": 48
+    "n": 61
    },
    {
     "path": "/robots.txt",
-    "n": 24
+    "n": 25
+   },
+   {
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/sample_spatial/",
+    "n": 3
    },
    {
     "path": "/sitemap.xml",
-    "n": 6
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.06/calcofi_ctd-cast.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=temperature_ave/97ceecabfcd162c7fe588f72/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/19-9807NH_CTDFinalQC/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=long_wave_rad/4925c10ab16fa3c065ec4f69/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/tables/ship/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=est_chlorophyll_a_sta_corr/348a372fd80cd6eb068d2833/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=oxygen_umol_kg_ave_sta_corr/8afc3cd3cc46d50cd54e29c0/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.04/parquet/obs_ctd_full/cruise_key=2023-04-3322/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=beam_attenuation/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.04/parquet/obs_ctd_full/cruise_key=2008-08-32NM/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=oxygen_ml_l_2_cruise_corr/1e8e6e794c8e633bfbce77c6/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.09.06/cce-lter_picoplankton-bacteria.nc",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.10/parquet/climatology/measurement_type=ctdtemp_its90/",
     "n": 3
    }
   ]
  },
  "storage.calcofi.io:443": {
-  "date": "2026-09-14",
+  "date": "2026-09-25",
   "top_paths": [
+   {
+    "path": "/.env",
+    "n": 1
+   },
    {
     "path": "/",
     "n": 1
