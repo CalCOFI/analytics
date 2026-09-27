@@ -656,58 +656,63 @@
    },
    {
     "date": "2026-09-26",
-    "requests": 1316.0,
-    "bytes": 14460984.0
+    "requests": 4817.0,
+    "bytes": 23810298.0
+   },
+   {
+    "date": "2026-09-27",
+    "requests": 1492.0,
+    "bytes": 509649470.0
    }
   ],
   "totals_28d": {
-   "requests": 82042.0,
-   "bytes": 3084236300.0,
+   "requests": 87035.0,
+   "bytes": 3603235084.0,
    "clients": 3108.0,
-   "tool": 44914.0,
-   "browser": 37128.0
+   "tool": 46109.0,
+   "browser": 40926.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 61
+    "n": 47
    },
    {
     "path": "/robots.txt",
-    "n": 25
+    "n": 38
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/sample_spatial/",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/",
+    "n": 4
    },
    {
-    "path": "/sitemap.xml",
-    "n": 3
+    "path": "/.env",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=long_wave_rad/4925c10ab16fa3c065ec4f69/",
-    "n": 3
+    "path": "/.env.local",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=est_chlorophyll_a_sta_corr/348a372fd80cd6eb068d2833/",
-    "n": 3
+    "path": "/.env.production",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.04/parquet/obs_ctd_full/cruise_key=2023-04-3322/",
-    "n": 3
+    "path": "/.env.prod",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.04/parquet/obs_ctd_full/cruise_key=2008-08-32NM/",
-    "n": 3
+    "path": "/.env.backup",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.09.06/cce-lter_picoplankton-bacteria.nc",
-    "n": 3
+    "path": "/.env.bak",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.10/parquet/climatology/measurement_type=ctdtemp_its90/",
-    "n": 3
+    "path": "/.env.old",
+    "n": 4
    }
   ]
  }

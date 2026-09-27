@@ -680,58 +680,63 @@
    },
    {
     "date": "2026-09-26",
-    "requests": 747.0,
-    "bytes": 8552491.0
+    "requests": 3033.0,
+    "bytes": 39849292.0
+   },
+   {
+    "date": "2026-09-27",
+    "requests": 365.0,
+    "bytes": 6882909.0
    }
   ],
   "totals_28d": {
-   "requests": 85066.0,
-   "bytes": 2870218556.0,
+   "requests": 87717.0,
+   "bytes": 2908398266.0,
    "clients": 1895.0,
-   "tool": 57778.0,
-   "browser": 27288.0
+   "tool": 59719.0,
+   "browser": 27998.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 51
+    "n": 47
    },
    {
     "path": "/robots.txt",
-    "n": 33
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 24
+    "n": 22
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 18
+    "n": 22
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd_thin.csv",
-    "n": 17
-   },
-   {
-    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
-    "n": 13
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 22
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 10
+    "n": 16
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
+    "n": 8
+   },
+   {
+    "path": "/erddap/images/erddap2.css",
+    "n": 7
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 7
    },
    {
     "path": "/",
-    "n": 10
+    "n": 6
    },
    {
-    "path": "/erddap/sitemap.xml",
-    "n": 9
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 9
+    "path": "/erddap/tabledap/farallon_bird-mammal.graph",
+    "n": 5
    }
   ]
  }
