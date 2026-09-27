@@ -1,6 +1,6 @@
 country,countryId,region,activeUsers,sessions
 Canada,CA,Other,1,1
-China,CN,Other,23,23
+China,CN,Other,24,24
 Denmark,DK,Other,2,2
 France,FR,Other,1,1
 India,IN,Other,2,2
@@ -9,7 +9,7 @@ Japan,JP,Other,2,3
 New Zealand,NZ,Other,1,1
 Russia,RU,Other,1,1
 Singapore,SG,,1,1
-Singapore,SG,Other,1,1
+Singapore,SG,Other,2,2
 United Kingdom,GB,Other,2,2
 United States,US,California,20,37
-United States,US,Other,12,13
+United States,US,Other,12,14

@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-05-07",
- "last_day": "2026-09-25",
+ "last_day": "2026-09-26",
  "totals_28d": {
-  "activeUsers": 84.0,
-  "newUsers": 74.0,
-  "sessions": 90.0,
-  "engagedSessions": 19.0,
-  "screenPageViews": 104.0,
-  "eventCount": 302.0,
-  "userEngagementDuration": 429.0,
-  "avgEngagementSeconds": 5.1,
+  "activeUsers": 83.0,
+  "newUsers": 73.0,
+  "sessions": 89.0,
+  "engagedSessions": 18.0,
+  "screenPageViews": 102.0,
+  "eventCount": 296.0,
+  "userEngagementDuration": 415.0,
+  "avgEngagementSeconds": 5.0,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 1.2
  },
  "delta_28d": {
-  "activeUsers": -3.4,
-  "sessions": -12.6,
-  "engagedSessions": -53.7,
-  "avgEngagementSeconds": -69.8,
-  "screenPageViews": -16.8
+  "activeUsers": -6.7,
+  "sessions": -15.2,
+  "engagedSessions": -57.1,
+  "avgEngagementSeconds": -70.1,
+  "screenPageViews": -20.3
  },
  "daily": [
   {
@@ -565,6 +565,11 @@
    "date": "2026-09-25",
    "activeUsers": 8.0,
    "sessions": 8.0
+  },
+  {
+   "date": "2026-09-26",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -675,13 +680,14 @@
   4.43,
   4.57,
   4.86,
-  5.0
+  5.0,
+  3.86
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 113.0
+   "activeUsers": 114.0
   },
   {
    "country": "United States",
@@ -749,7 +755,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 103.0
+   "activeUsers": 110.0
   },
   {
    "country": "United States",
@@ -762,12 +768,6 @@
    "countryId": "IT",
    "region": "Other",
    "activeUsers": 9.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 7.0
   },
   {
    "country": "Brazil",
@@ -830,6 +830,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Venezuela",
    "countryId": "VE",
    "region": "Other",
@@ -845,18 +851,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 231.0,
-   "users": 143.0
+   "count": 232.0,
+   "users": 144.0
   },
   {
    "name": "session_start",
-   "count": 160.0,
-   "users": 142.0
+   "count": 161.0,
+   "users": 143.0
   },
   {
    "name": "first_visit",
-   "count": 136.0,
-   "users": 136.0
+   "count": 137.0,
+   "users": 137.0
   },
   {
    "name": "user_engagement",
