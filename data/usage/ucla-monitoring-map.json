@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-09-27",
  "totals_28d": {
-  "activeUsers": 243.0,
-  "newUsers": 157.0,
-  "sessions": 414.0,
-  "engagedSessions": 123.0,
-  "screenPageViews": 419.0,
-  "eventCount": 1530.0,
-  "userEngagementDuration": 8347.0,
+  "activeUsers": 245.0,
+  "newUsers": 158.0,
+  "sessions": 417.0,
+  "engagedSessions": 124.0,
+  "screenPageViews": 422.0,
+  "eventCount": 1542.0,
+  "userEngagementDuration": 8392.0,
   "avgEngagementSeconds": 34.3,
   "engagedSessionRate": 0.3,
   "viewsPerUser": 1.7
  },
  "delta_28d": {
-  "activeUsers": -70.7,
-  "sessions": -59.1,
-  "engagedSessions": -69.6,
+  "activeUsers": -70.5,
+  "sessions": -58.8,
+  "engagedSessions": -69.3,
   "avgEngagementSeconds": 10.3,
-  "screenPageViews": -62.6
+  "screenPageViews": -62.4
  },
  "daily": [
   {
@@ -248,8 +248,8 @@
   },
   {
    "date": "2026-09-27",
-   "activeUsers": 5.0,
-   "sessions": 6.0
+   "activeUsers": 7.0,
+   "sessions": 9.0
   }
  ],
  "daily_mean7": [
@@ -297,13 +297,13 @@
   5.0,
   4.29,
   4.29,
-  4.86
+  5.14
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 895.0
+   "activeUsers": 896.0
   },
   {
    "country": "Mexico",
@@ -451,7 +451,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 657.0
+   "activeUsers": 658.0
   },
   {
    "country": "United States",
@@ -703,28 +703,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1547.0,
-   "users": 958.0
+   "count": 1550.0,
+   "users": 959.0
   },
   {
    "name": "session_start",
-   "count": 1393.0,
-   "users": 950.0
+   "count": 1396.0,
+   "users": 951.0
   },
   {
    "name": "scroll",
-   "count": 1326.0,
-   "users": 884.0
+   "count": 1328.0,
+   "users": 886.0
   },
   {
    "name": "first_visit",
-   "count": 933.0,
-   "users": 932.0
+   "count": 934.0,
+   "users": 933.0
   },
   {
    "name": "user_engagement",
-   "count": 670.0,
-   "users": 450.0
+   "count": 673.0,
+   "users": 451.0
   },
   {
    "name": "click",
