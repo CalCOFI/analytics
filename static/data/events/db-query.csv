@@ -6,9 +6,9 @@ form_start,9,4
 page_view,61,18
 query_error,10,3
 query_from_url,3,2
-query_run,68,7
-query_success,57,7
+query_run,70,7
+query_success,59,7
 query_view,100,14
 scroll,58,17
 session_start,45,17
-user_engagement,40,10
+user_engagement,41,10

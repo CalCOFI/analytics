@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-09-24",
+ "last_day": "2026-09-28",
  "totals_28d": {
-  "activeUsers": 29.0,
+  "activeUsers": 30.0,
   "newUsers": 16.0,
-  "sessions": 33.0,
-  "engagedSessions": 15.0,
-  "screenPageViews": 90.0,
-  "eventCount": 256.0,
+  "sessions": 34.0,
+  "engagedSessions": 16.0,
+  "screenPageViews": 92.0,
+  "eventCount": 259.0,
   "userEngagementDuration": 867.0,
-  "avgEngagementSeconds": 29.9,
+  "avgEngagementSeconds": 28.9,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 3.1
  },
  "delta_28d": {
-  "activeUsers": 61.1,
-  "sessions": 43.5,
-  "engagedSessions": -11.8,
-  "avgEngagementSeconds": 43.1,
-  "screenPageViews": 83.7
+  "activeUsers": 66.7,
+  "sessions": 47.8,
+  "engagedSessions": -5.9,
+  "avgEngagementSeconds": 38.3,
+  "screenPageViews": 87.8
  },
  "daily": [
   {
@@ -185,6 +185,11 @@
    "date": "2026-09-24",
    "activeUsers": 0.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-09-28",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -219,7 +224,8 @@
   1.71,
   1.57,
   1.57,
-  1.29
+  1.29,
+  1.14
  ],
  "geo_country": [
   {
@@ -230,7 +236,7 @@
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 5.0
+   "activeUsers": 6.0
   },
   {
    "country": "China",
@@ -275,7 +281,7 @@
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
-   "activeUsers": 5.0
+   "activeUsers": 6.0
   },
   {
    "country": "China",
@@ -323,8 +329,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 226.0,
-   "users": 31.0
+   "count": 228.0,
+   "users": 32.0
   },
   {
    "name": "user_engagement",
@@ -338,8 +344,8 @@
   },
   {
    "name": "session_start",
-   "count": 40.0,
-   "users": 31.0
+   "count": 41.0,
+   "users": 32.0
   },
   {
    "name": "first_visit",
@@ -666,57 +672,62 @@
    },
    {
     "date": "2026-09-28",
-    "requests": 1685.0,
-    "bytes": 2975361048.0
+    "requests": 3924.0,
+    "bytes": 3169446808.0
+   },
+   {
+    "date": "2026-09-29",
+    "requests": 2410.0,
+    "bytes": 2127592008.0
    }
   ],
   "totals_28d": {
-   "requests": 88570.0,
-   "bytes": 6576270928.0,
+   "requests": 93219.0,
+   "bytes": 8897948696.0,
    "clients": 3108.0,
-   "tool": 46282.0,
-   "browser": 42288.0
+   "tool": 47295.0,
+   "browser": 45924.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 55
+    "n": 50
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 26
    },
    {
     "path": "/robots.txt",
     "n": 22
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.06/calcofi_ctd-cast_full.nc",
-    "n": 6
-   },
-   {
     "path": "/sitemap.xml",
+    "n": 7
+   },
+   {
+    "path": "/favicon.ico",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-db/pg/ctd_scan_raw/_issues/study=9712SP/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.11/",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.06/calcofi_bottle.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/v2026.09.06/cce-lter_zoodb.nc",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=dic_rep1/",
-    "n": 3
+    "path": "/calcofi-db/ducklake/tables/obs_mets_full/cruise_key=2021-01-33UD/",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.06/calcofi_ctd-cast.nc",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.09.06/calcofi_phyllosoma.nc",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.09.11/calcofi_mets.nc",
+    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=par_surf/",
     "n": 3
    }
   ]

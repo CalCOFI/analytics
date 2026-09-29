@@ -12,9 +12,9 @@
   "sessions": 23.0,
   "engagedSessions": 15.0,
   "screenPageViews": 29.0,
-  "eventCount": 253.0,
-  "userEngagementDuration": 2408.0,
-  "avgEngagementSeconds": 120.4,
+  "eventCount": 258.0,
+  "userEngagementDuration": 2538.0,
+  "avgEngagementSeconds": 126.9,
   "engagedSessionRate": 0.7,
   "viewsPerUser": 1.4
  },
@@ -22,7 +22,7 @@
   "activeUsers": 17.6,
   "sessions": -11.5,
   "engagedSessions": -6.2,
-  "avgEngagementSeconds": 279.8,
+  "avgEngagementSeconds": 300.3,
   "screenPageViews": 20.8
  },
  "daily": [
@@ -725,7 +725,7 @@
   },
   {
    "name": "query_run",
-   "count": 68.0,
+   "count": 70.0,
    "users": 7.0
   },
   {
@@ -734,14 +734,14 @@
    "users": 18.0
   },
   {
+   "name": "query_success",
+   "count": 59.0,
+   "users": 7.0
+  },
+  {
    "name": "scroll",
    "count": 58.0,
    "users": 17.0
-  },
-  {
-   "name": "query_success",
-   "count": 57.0,
-   "users": 7.0
   },
   {
    "name": "session_start",
@@ -750,7 +750,7 @@
   },
   {
    "name": "user_engagement",
-   "count": 40.0,
+   "count": 41.0,
    "users": 10.0
   },
   {
