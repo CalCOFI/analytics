@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-30",
- "last_day": "2026-09-28",
+ "last_day": "2026-09-29",
  "totals_28d": {
   "activeUsers": 52.0,
   "newUsers": 41.0,
   "sessions": 57.0,
   "engagedSessions": 17.0,
-  "screenPageViews": 80.0,
-  "eventCount": 247.0,
-  "userEngagementDuration": 463.0,
-  "avgEngagementSeconds": 8.9,
+  "screenPageViews": 158.0,
+  "eventCount": 440.0,
+  "userEngagementDuration": 1945.0,
+  "avgEngagementSeconds": 37.4,
   "engagedSessionRate": 0.3,
-  "viewsPerUser": 1.5
+  "viewsPerUser": 3.0
  },
  "delta_28d": {
-  "activeUsers": 67.7,
-  "sessions": 46.2,
-  "engagedSessions": -32.0,
-  "avgEngagementSeconds": -77.1,
-  "screenPageViews": -27.3
+  "activeUsers": 79.3,
+  "sessions": 58.3,
+  "engagedSessions": -29.2,
+  "avgEngagementSeconds": -7.7,
+  "screenPageViews": 53.4
  },
  "daily": [
   {
@@ -225,6 +225,11 @@
    "date": "2026-09-28",
    "activeUsers": 1.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-09-29",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -267,7 +272,8 @@
   1.57,
   1.43,
   1.29,
-  1.29
+  1.29,
+  1.14
  ],
  "geo_country": [
   {
@@ -278,7 +284,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 19.0
+   "activeUsers": 20.0
   },
   {
    "country": "Italy",
@@ -312,7 +318,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 19.0
+   "activeUsers": 20.0
   },
   {
    "country": "Italy",
@@ -354,17 +360,17 @@
  "events": [
   {
    "name": "page_view",
-   "count": 236.0,
+   "count": 316.0,
    "users": 61.0
   },
   {
    "name": "user_engagement",
-   "count": 167.0,
+   "count": 244.0,
    "users": 20.0
   },
   {
    "name": "scroll",
-   "count": 77.0,
+   "count": 99.0,
    "users": 27.0
   },
   {
@@ -379,13 +385,13 @@
   },
   {
    "name": "form_start",
-   "count": 11.0,
+   "count": 27.0,
    "users": 4.0
   },
   {
    "name": "click",
-   "count": 7.0,
-   "users": 3.0
+   "count": 9.0,
+   "users": 4.0
   },
   {
    "name": "form_submit",
@@ -712,11 +718,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 88352.0,
-   "bytes": 2980413517.0,
+   "requests": 85568.0,
+   "bytes": 2966522419.0,
    "clients": 1895.0,
-   "tool": 60649.0,
-   "browser": 27703.0
+   "tool": 58289.0,
+   "browser": 27279.0
   },
   "first_day": "2026-07-29",
   "top_paths": [

@@ -5,16 +5,16 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-09-28",
+ "last_day": "2026-09-29",
  "totals_28d": {
-  "activeUsers": 94.0,
+  "activeUsers": 96.0,
   "newUsers": 57.0,
-  "sessions": 126.0,
-  "engagedSessions": 75.0,
-  "screenPageViews": 232.0,
-  "eventCount": 601.0,
-  "userEngagementDuration": 8133.0,
-  "avgEngagementSeconds": 86.5,
+  "sessions": 130.0,
+  "engagedSessions": 78.0,
+  "screenPageViews": 238.0,
+  "eventCount": 622.0,
+  "userEngagementDuration": 8312.0,
+  "avgEngagementSeconds": 86.6,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 2.5
  },
@@ -145,6 +145,11 @@
    "date": "2026-09-28",
    "activeUsers": 4.0,
    "sessions": 5.0
+  },
+  {
+   "date": "2026-09-29",
+   "activeUsers": 2.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -171,13 +176,14 @@
   2.71,
   2.71,
   2.29,
-  2.71
+  2.71,
+  2.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 34.0
+   "activeUsers": 35.0
   },
   {
    "country": "China",
@@ -238,6 +244,11 @@
    "country": "Russia",
    "countryId": "RU",
    "activeUsers": 1.0
+  },
+  {
+   "country": "South Korea",
+   "countryId": "KR",
+   "activeUsers": 1.0
   }
  ],
  "geo": [
@@ -251,7 +262,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 21.0
+   "activeUsers": 22.0
   },
   {
    "country": "United States",
@@ -330,23 +341,29 @@
    "countryId": "SG",
    "region": "",
    "activeUsers": 1.0
+  },
+  {
+   "country": "South Korea",
+   "countryId": "KR",
+   "region": "Other",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 232.0,
-   "users": 76.0
+   "count": 238.0,
+   "users": 78.0
   },
   {
    "name": "user_engagement",
-   "count": 180.0,
-   "users": 39.0
+   "count": 190.0,
+   "users": 41.0
   },
   {
    "name": "session_start",
-   "count": 79.0,
-   "users": 63.0
+   "count": 81.0,
+   "users": 65.0
   },
   {
    "name": "first_visit",
@@ -355,18 +372,18 @@
   },
   {
    "name": "scroll",
-   "count": 29.0,
-   "users": 10.0
+   "count": 30.0,
+   "users": 11.0
   },
   {
    "name": "click",
-   "count": 14.0,
-   "users": 6.0
+   "count": 15.0,
+   "users": 7.0
   },
   {
    "name": "file_download",
-   "count": 8.0,
-   "users": 4.0
+   "count": 9.0,
+   "users": 5.0
   },
   {
    "name": "form_start",
