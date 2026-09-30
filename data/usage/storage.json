@@ -677,57 +677,62 @@
    },
    {
     "date": "2026-09-29",
-    "requests": 2410.0,
-    "bytes": 2127592008.0
+    "requests": 4630.0,
+    "bytes": 2133944275.0
+   },
+   {
+    "date": "2026-09-30",
+    "requests": 1869.0,
+    "bytes": 5848255815.0
    }
   ],
   "totals_28d": {
-   "requests": 92635.0,
-   "bytes": 8888996332.0,
+   "requests": 96724.0,
+   "bytes": 14743604414.0,
    "clients": 3108.0,
-   "tool": 46853.0,
-   "browser": 45782.0
+   "tool": 47740.0,
+   "browser": 48984.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 50
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 26
+    "n": 52
    },
    {
     "path": "/robots.txt",
-    "n": 22
+    "n": 19
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.06/calcofi_ctd-cast.nc",
+    "n": 6
    },
    {
     "path": "/sitemap.xml",
-    "n": 7
-   },
-   {
-    "path": "/favicon.ico",
     "n": 5
    },
    {
-    "path": "/calcofi-db/pg/ctd_scan_raw/_issues/study=9712SP/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2501RL_CTDPrelim/metadata/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.06/calcofi_bottle.nc",
+    "path": "/calcofi-files-public/netcdf/swfsc_cufes/v2026.09.06/swfsc_cufes.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/v2026.09.06/cce-lter_zoodb.nc",
+    "path": "/calcofi-files-public/archive/cce-lter/zoodb/",
     "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_mets_full/cruise_key=2021-01-33UD/",
-    "n": 4
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=1998-07-32NM/e5c1bf0b1954ef35102a8f03/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=par_surf/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.08.25/parquet/obs_ctd_full/cruise_key=1998-07-32NM/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2023-01-33UD/16842498bbc9a75c15f4f19f/",
     "n": 3
    }
   ]

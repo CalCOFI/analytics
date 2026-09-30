@@ -7,23 +7,23 @@
  "first_day": "2026-08-28",
  "last_day": "2026-09-29",
  "totals_28d": {
-  "activeUsers": 126.0,
+  "activeUsers": 127.0,
   "newUsers": 65.0,
-  "sessions": 196.0,
-  "engagedSessions": 134.0,
-  "screenPageViews": 2420.0,
-  "eventCount": 3142.0,
-  "userEngagementDuration": 22224.0,
-  "avgEngagementSeconds": 176.4,
+  "sessions": 197.0,
+  "engagedSessions": 135.0,
+  "screenPageViews": 2437.0,
+  "eventCount": 3162.0,
+  "userEngagementDuration": 22434.0,
+  "avgEngagementSeconds": 176.6,
   "engagedSessionRate": 0.7,
   "viewsPerUser": 19.2
  },
  "delta_28d": {
-  "activeUsers": 472.7,
-  "sessions": 317.0,
-  "engagedSessions": 211.6,
+  "activeUsers": 477.3,
+  "sessions": 319.1,
+  "engagedSessions": 214.0,
   "avgEngagementSeconds": -47.7,
-  "screenPageViews": 214.7
+  "screenPageViews": 216.9
  },
  "daily": [
   {
@@ -173,8 +173,8 @@
   },
   {
    "date": "2026-09-29",
-   "activeUsers": 3.0,
-   "sessions": 3.0
+   "activeUsers": 4.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -207,13 +207,13 @@
   5.43,
   3.86,
   3.43,
-  3.29
+  3.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 67.0
+   "activeUsers": 68.0
   },
   {
    "country": "Italy",
@@ -271,7 +271,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 35.0
+   "activeUsers": 36.0
   },
   {
    "country": "United States",
@@ -355,13 +355,13 @@
  "events": [
   {
    "name": "page_view",
-   "count": 3189.0,
-   "users": 85.0
+   "count": 3206.0,
+   "users": 86.0
   },
   {
    "name": "scroll",
-   "count": 359.0,
-   "users": 78.0
+   "count": 360.0,
+   "users": 79.0
   },
   {
    "name": "user_engagement",
@@ -370,8 +370,8 @@
   },
   {
    "name": "session_start",
-   "count": 225.0,
-   "users": 83.0
+   "count": 226.0,
+   "users": 84.0
   },
   {
    "name": "first_visit",
@@ -380,8 +380,8 @@
   },
   {
    "name": "cite_ack",
-   "count": 22.0,
-   "users": 22.0
+   "count": 23.0,
+   "users": 23.0
   },
   {
    "name": "export",
