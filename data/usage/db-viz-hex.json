@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 34.0,
+  "activeUsers": 31.0,
   "newUsers": 11.0,
-  "sessions": 69.0,
-  "engagedSessions": 49.0,
-  "screenPageViews": 207.0,
-  "eventCount": 1491.0,
-  "userEngagementDuration": 13171.0,
-  "avgEngagementSeconds": 387.4,
-  "engagedSessionRate": 0.7,
-  "viewsPerUser": 6.1
+  "sessions": 63.0,
+  "engagedSessions": 48.0,
+  "screenPageViews": 204.0,
+  "eventCount": 1467.0,
+  "userEngagementDuration": 11944.0,
+  "avgEngagementSeconds": 385.3,
+  "engagedSessionRate": 0.8,
+  "viewsPerUser": 6.6
  },
  "delta_28d": {
-  "activeUsers": -40.4,
-  "sessions": -52.7,
-  "engagedSessions": -57.8,
-  "avgEngagementSeconds": -20.0,
-  "screenPageViews": -43.8
+  "activeUsers": -47.5,
+  "sessions": -58.3,
+  "engagedSessions": -58.6,
+  "avgEngagementSeconds": -21.8,
+  "screenPageViews": -44.9
  },
  "daily": [
   {
@@ -302,6 +302,11 @@
    "sessions": 5.0
   },
   {
+   "date": "2026-09-30",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -430,10 +435,11 @@
   1.86,
   1.71,
   1.43,
+  1.43,
   1.86,
   1.86,
   1.86,
-  2.29,
+  1.86,
   2.0,
   2.14,
   2.29,
@@ -555,42 +561,42 @@
  "events": [
   {
    "name": "session_start",
-   "count": 824.0,
+   "count": 826.0,
    "users": 47.0
   },
   {
    "name": "page_view",
-   "count": 645.0,
+   "count": 647.0,
    "users": 49.0
   },
   {
    "name": "scroll",
-   "count": 599.0,
+   "count": 600.0,
    "users": 48.0
   },
   {
    "name": "user_engagement",
-   "count": 375.0,
+   "count": 376.0,
    "users": 31.0
   },
   {
    "name": "filter_submit",
-   "count": 367.0,
+   "count": 372.0,
    "users": 13.0
   },
   {
    "name": "map_query_env",
-   "count": 367.0,
+   "count": 372.0,
    "users": 13.0
   },
   {
    "name": "map_query_sp",
-   "count": 367.0,
+   "count": 372.0,
    "users": 13.0
   },
   {
    "name": "start_tour",
-   "count": 270.0,
+   "count": 271.0,
    "users": 44.0
   },
   {
@@ -605,8 +611,8 @@
   },
   {
    "name": "open_filters",
-   "count": 126.0,
-   "users": 14.0
+   "count": 127.0,
+   "users": 15.0
   },
   {
    "name": "filter_no_results",
@@ -1031,6 +1037,15 @@
     "p95_ms": ""
    },
    {
+    "date": "2026-09-30",
+    "events": "21",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "36.3",
+    "p95_ms": "527.1"
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1154,7 +1169,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "120",
+    "n": "125",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1178,33 +1193,33 @@
    },
    {
     "event": "map_query_env",
-    "n": "120",
-    "p50_ms": "27.4",
-    "p95_ms": "88.2",
+    "n": "125",
+    "p50_ms": "27.0",
+    "p95_ms": "87.8",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
    {
     "event": "map_query_env_poly",
-    "n": "37",
-    "p50_ms": "259.5",
-    "p95_ms": "532.6",
+    "n": "38",
+    "p50_ms": "265.4",
+    "p95_ms": "526.2",
     "error_rate": "0.0",
     "median_n_rows": "13.0"
    },
    {
     "event": "map_query_sp",
-    "n": "120",
-    "p50_ms": "64.4",
-    "p95_ms": "563.6",
+    "n": "125",
+    "p50_ms": "61.6",
+    "p95_ms": "540.7",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
    {
     "event": "map_query_sp_poly",
-    "n": "37",
-    "p50_ms": "426.1",
-    "p95_ms": "1085.0",
+    "n": "38",
+    "p50_ms": "426.3",
+    "p95_ms": "1077.2",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1226,7 +1241,7 @@
    },
    {
     "event": "open_filters",
-    "n": "63",
+    "n": "64",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1250,7 +1265,7 @@
    },
    {
     "event": "select_agg_unit",
-    "n": "38",
+    "n": "39",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1290,7 +1305,7 @@
    },
    {
     "event": "session_start",
-    "n": "338",
+    "n": "339",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1298,7 +1313,7 @@
    },
    {
     "event": "start_tour",
-    "n": "267",
+    "n": "268",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1317,12 +1332,17 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "290"
+    "n": "301"
    },
    {
     "param": "taxa",
     "value": "Pacific sardine (pilchard) (species: Sardinops sagax)",
-    "n": "217"
+    "n": "219"
+   },
+   {
+    "param": "taxa",
+    "value": "Market squid (species: Doryteuthis opalescens)",
+    "n": "13"
    },
    {
     "param": "taxa",
@@ -1377,11 +1397,6 @@
    {
     "param": "env_var",
     "value": "sst_c",
-    "n": "4"
-   },
-   {
-    "param": "taxa",
-    "value": "Market squid (species: Doryteuthis opalescens)",
     "n": "4"
    },
    {
@@ -1625,9 +1640,9 @@
    },
    {
     "app_version": "c2f854a",
-    "n": "136",
+    "n": "157",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-29"
+    "last_seen": "2026-09-30"
    },
    {
     "app_version": "cbc4d03",
