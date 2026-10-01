@@ -682,57 +682,62 @@
    },
    {
     "date": "2026-09-30",
-    "requests": 1869.0,
-    "bytes": 5848255815.0
+    "requests": 2961.0,
+    "bytes": 5852217482.0
+   },
+   {
+    "date": "2026-10-01",
+    "requests": 799.0,
+    "bytes": 4769550594.0
    }
   ],
   "totals_28d": {
-   "requests": 92412.0,
-   "bytes": 14675483298.0,
+   "requests": 94303.0,
+   "bytes": 19448995559.0,
    "clients": 3108.0,
-   "tool": 43531.0,
-   "browser": 48881.0
+   "tool": 44166.0,
+   "browser": 50137.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/",
-    "n": 52
-   },
-   {
     "path": "/robots.txt",
-    "n": 19
+    "n": 48
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.06/calcofi_ctd-cast.nc",
-    "n": 6
+    "path": "/",
+    "n": 44
    },
    {
     "path": "/sitemap.xml",
-    "n": 5
+    "n": 7
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2501RL_CTDPrelim/metadata/",
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_cufes/v2026.09.06/swfsc_cufes.nc",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.08.04/calcofi_ctd-cast_full.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/cce-lter/zoodb/",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.08.04/calcofi_bottle.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=1998-07-32NM/e5c1bf0b1954ef35102a8f03/",
+    "path": "/calcofi-projects/2026-ucsb-capstone/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.08.25/parquet/obs_ctd_full/cruise_key=1998-07-32NM/",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.06/calcofi_ctd-cast.nc",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2023-01-33UD/16842498bbc9a75c15f4f19f/",
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.08.04/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/v2026.09.11/cce-lter_zooscan.nc",
     "n": 3
    }
   ]
