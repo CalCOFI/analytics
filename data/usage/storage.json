@@ -704,58 +704,63 @@
    },
    {
     "date": "2026-10-01",
-    "requests": 799.0,
-    "bytes": 4769550594.0
+    "requests": 2520.0,
+    "bytes": 4776582940.0
+   },
+   {
+    "date": "2026-10-02",
+    "requests": 2176.0,
+    "bytes": 5787367656.0
    }
   ],
   "totals_28d": {
-   "requests": 93690.0,
-   "bytes": 19446822397.0,
+   "requests": 97587.0,
+   "bytes": 25241222399.0,
    "clients": 3108.0,
-   "tool": 43846.0,
-   "browser": 49844.0
+   "tool": 44623.0,
+   "browser": 52964.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/robots.txt",
-    "n": 48
+    "path": "/",
+    "n": 46
    },
    {
-    "path": "/",
-    "n": 44
+    "path": "/robots.txt",
+    "n": 35
    },
    {
     "path": "/sitemap.xml",
-    "n": 7
+    "n": 6
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 4
+    "n": 5
    },
    {
     "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.08.04/calcofi_ctd-cast_full.nc",
-    "n": 4
+    "n": 5
    },
    {
     "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.08.04/calcofi_bottle.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-projects/2026-ucsb-capstone/",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.09.11/calcofi_mets.nc",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.06/calcofi_ctd-cast.nc",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.04/calcofi_bottle.nc",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.08.04/",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.06/swfsc_ichthyo.nc",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/v2026.09.11/cce-lter_zooscan.nc",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.06/calcofi_bottle.nc",
+    "n": 4
    }
   ]
  }

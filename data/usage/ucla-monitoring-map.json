@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-10-01",
  "totals_28d": {
-  "activeUsers": 159.0,
-  "newUsers": 93.0,
-  "sessions": 260.0,
-  "engagedSessions": 91.0,
-  "screenPageViews": 258.0,
-  "eventCount": 941.0,
-  "userEngagementDuration": 5432.0,
-  "avgEngagementSeconds": 34.2,
-  "engagedSessionRate": 0.3,
+  "activeUsers": 161.0,
+  "newUsers": 94.0,
+  "sessions": 262.0,
+  "engagedSessions": 92.0,
+  "screenPageViews": 260.0,
+  "eventCount": 948.0,
+  "userEngagementDuration": 5526.0,
+  "avgEngagementSeconds": 34.3,
+  "engagedSessionRate": 0.4,
   "viewsPerUser": 1.6
  },
  "delta_28d": {
-  "activeUsers": -83.0,
-  "sessions": -78.2,
-  "engagedSessions": -79.8,
-  "avgEngagementSeconds": 5.6,
-  "screenPageViews": -80.3
+  "activeUsers": -82.8,
+  "sessions": -78.1,
+  "engagedSessions": -79.6,
+  "avgEngagementSeconds": 5.9,
+  "screenPageViews": -80.2
  },
  "daily": [
   {
@@ -268,8 +268,8 @@
   },
   {
    "date": "2026-10-01",
-   "activeUsers": 2.0,
-   "sessions": 4.0
+   "activeUsers": 4.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -321,13 +321,13 @@
   5.43,
   5.86,
   5.57,
-  4.43
+  4.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 906.0
+   "activeUsers": 907.0
   },
   {
    "country": "Mexico",
@@ -480,7 +480,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 662.0
+   "activeUsers": 663.0
   },
   {
    "country": "United States",
@@ -738,27 +738,27 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1578.0,
-   "users": 971.0
+   "count": 1580.0,
+   "users": 972.0
   },
   {
    "name": "session_start",
-   "count": 1416.0,
-   "users": 962.0
+   "count": 1417.0,
+   "users": 963.0
   },
   {
    "name": "scroll",
-   "count": 1354.0,
-   "users": 897.0
+   "count": 1356.0,
+   "users": 898.0
   },
   {
    "name": "first_visit",
-   "count": 944.0,
-   "users": 943.0
+   "count": 945.0,
+   "users": 944.0
   },
   {
    "name": "user_engagement",
-   "count": 689.0,
+   "count": 690.0,
    "users": 459.0
   },
   {
