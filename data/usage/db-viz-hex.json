@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 29.0,
-  "newUsers": 10.0,
-  "sessions": 58.0,
-  "engagedSessions": 46.0,
-  "screenPageViews": 200.0,
-  "eventCount": 1422.0,
-  "userEngagementDuration": 11686.0,
-  "avgEngagementSeconds": 403.0,
+  "activeUsers": 28.0,
+  "newUsers": 11.0,
+  "sessions": 56.0,
+  "engagedSessions": 44.0,
+  "screenPageViews": 197.0,
+  "eventCount": 1399.0,
+  "userEngagementDuration": 11566.0,
+  "avgEngagementSeconds": 413.1,
   "engagedSessionRate": 0.8,
-  "viewsPerUser": 6.9
+  "viewsPerUser": 7.0
  },
  "delta_28d": {
-  "activeUsers": -49.1,
-  "sessions": -60.8,
-  "engagedSessions": -59.6,
-  "avgEngagementSeconds": -21.4,
-  "screenPageViews": -45.2
+  "activeUsers": -52.5,
+  "sessions": -62.9,
+  "engagedSessions": -62.4,
+  "avgEngagementSeconds": -16.9,
+  "screenPageViews": -46.8
  },
  "daily": [
   {
@@ -307,6 +307,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-10-02",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -436,9 +441,10 @@
   1.71,
   1.43,
   1.43,
+  1.43,
   1.86,
   1.86,
-  1.86,
+  1.43,
   1.86,
   2.0,
   2.14,
@@ -478,6 +484,11 @@
   {
    "country": "France",
    "countryId": "FR",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Germany",
+   "countryId": "DE",
    "activeUsers": 1.0
   },
   {
@@ -540,6 +551,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Germany",
+   "countryId": "DE",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Indonesia",
    "countryId": "ID",
    "region": "Other",
@@ -561,13 +578,13 @@
  "events": [
   {
    "name": "session_start",
-   "count": 826.0,
-   "users": 47.0
+   "count": 828.0,
+   "users": 48.0
   },
   {
    "name": "page_view",
-   "count": 647.0,
-   "users": 49.0
+   "count": 649.0,
+   "users": 50.0
   },
   {
    "name": "scroll",
@@ -1046,6 +1063,15 @@
     "p95_ms": "527.1"
    },
    {
+    "date": "2026-10-02",
+    "events": "3",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1297,7 +1323,7 @@
    },
    {
     "event": "select_theme",
-    "n": "35",
+    "n": "36",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1305,7 +1331,7 @@
    },
    {
     "event": "session_start",
-    "n": "339",
+    "n": "340",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1313,7 +1339,7 @@
    },
    {
     "event": "start_tour",
-    "n": "268",
+    "n": "269",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1640,9 +1666,9 @@
    },
    {
     "app_version": "c2f854a",
-    "n": "157",
+    "n": "160",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-09-30"
+    "last_seen": "2026-10-02"
    },
    {
     "app_version": "cbc4d03",

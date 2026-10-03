@@ -2,6 +2,7 @@ country,countryId,region,activeUsers,sessions
 ,,,1,1
 (not set),(not set),Other,1,1
 France,FR,Other,1,1
+Germany,DE,Other,1,1
 Indonesia,ID,Other,1,1
 Italy,IT,Other,11,72
 Latvia,LV,Other,1,1

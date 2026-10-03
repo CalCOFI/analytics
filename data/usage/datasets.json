@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-10-01",
+ "last_day": "2026-10-02",
  "totals_28d": {
-  "activeUsers": 103.0,
+  "activeUsers": 105.0,
   "newUsers": 58.0,
-  "sessions": 140.0,
-  "engagedSessions": 84.0,
-  "screenPageViews": 248.0,
-  "eventCount": 649.0,
-  "userEngagementDuration": 8669.0,
-  "avgEngagementSeconds": 84.2,
+  "sessions": 142.0,
+  "engagedSessions": 86.0,
+  "screenPageViews": 222.0,
+  "eventCount": 600.0,
+  "userEngagementDuration": 8532.0,
+  "avgEngagementSeconds": 81.3,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 2.4
+  "viewsPerUser": 2.1
  },
  "delta_28d": {
-  "activeUsers": null,
-  "sessions": null,
-  "engagedSessions": null,
-  "avgEngagementSeconds": null,
-  "screenPageViews": null
+  "activeUsers": 10400.0,
+  "sessions": 3450.0,
+  "engagedSessions": 2050.0,
+  "avgEngagementSeconds": -87.6,
+  "screenPageViews": 534.3
  },
  "daily": [
   {
@@ -160,6 +160,11 @@
    "date": "2026-10-01",
    "activeUsers": 3.0,
    "sessions": 5.0
+  },
+  {
+   "date": "2026-10-02",
+   "activeUsers": 3.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -189,13 +194,14 @@
   2.71,
   2.57,
   2.43,
+  2.71,
   2.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 40.0
+   "activeUsers": 41.0
   },
   {
    "country": "China",
@@ -268,7 +274,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 26.0
+   "activeUsers": 27.0
   },
   {
    "country": "China",
@@ -364,13 +370,13 @@
  "events": [
   {
    "name": "page_view",
-   "count": 248.0,
-   "users": 83.0
+   "count": 257.0,
+   "users": 84.0
   },
   {
    "name": "user_engagement",
-   "count": 197.0,
-   "users": 43.0
+   "count": 203.0,
+   "users": 45.0
   },
   {
    "name": "session_start",
@@ -384,13 +390,13 @@
   },
   {
    "name": "scroll",
-   "count": 33.0,
-   "users": 14.0
+   "count": 36.0,
+   "users": 15.0
   },
   {
    "name": "click",
-   "count": 16.0,
-   "users": 8.0
+   "count": 17.0,
+   "users": 9.0
   },
   {
    "name": "file_download",
