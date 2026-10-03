@@ -709,58 +709,63 @@
    },
    {
     "date": "2026-10-02",
-    "requests": 2176.0,
-    "bytes": 5787367656.0
+    "requests": 3166.0,
+    "bytes": 5792166504.0
+   },
+   {
+    "date": "2026-10-03",
+    "requests": 777.0,
+    "bytes": 3011653401.0
    }
   ],
   "totals_28d": {
-   "requests": 95697.0,
-   "bytes": 25233749323.0,
+   "requests": 97464.0,
+   "bytes": 28250201572.0,
    "clients": 3108.0,
-   "tool": 43073.0,
-   "browser": 52624.0
+   "tool": 43692.0,
+   "browser": 53772.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 44
    },
    {
     "path": "/robots.txt",
-    "n": 35
-   },
-   {
-    "path": "/sitemap.xml",
-    "n": 6
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.08.04/calcofi_ctd-cast_full.nc",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.08.04/calcofi_bottle.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.09.11/calcofi_mets.nc",
-    "n": 4
+    "n": 13
    },
    {
     "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.04/calcofi_bottle.nc",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.04/calcofi_ctd-cast.nc",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.06/swfsc_ichthyo.nc",
+    "path": "/calcofi-files-public/netcdf/swfsc_cufes/v2026.09.04/swfsc_cufes.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.06/calcofi_bottle.nc",
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.07.30/swfsc_ichthyo.nc",
     "n": 4
+   },
+   {
+    "path": "/calcofi-db/stac/collections/cce-lter_euphausiids/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.09.06/calcofi_mets.nc",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/erddap/calcofi_casts/",
+    "n": 3
    }
   ]
  }

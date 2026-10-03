@@ -9,10 +9,10 @@
  "totals_28d": {
   "activeUsers": 165.0,
   "newUsers": 50.0,
-  "sessions": 221.0,
+  "sessions": 222.0,
   "engagedSessions": 159.0,
   "screenPageViews": 319.0,
-  "eventCount": 797.0,
+  "eventCount": 799.0,
   "userEngagementDuration": 5024.0,
   "avgEngagementSeconds": 30.4,
   "engagedSessionRate": 0.7,
@@ -20,7 +20,7 @@
  },
  "delta_28d": {
   "activeUsers": 132.4,
-  "sessions": 137.6,
+  "sessions": 138.7,
   "engagedSessions": 178.9,
   "avgEngagementSeconds": -40.5,
   "screenPageViews": 258.4
@@ -494,7 +494,7 @@
   {
    "date": "2026-10-02",
    "activeUsers": 6.0,
-   "sessions": 7.0
+   "sessions": 8.0
   }
  ],
  "daily_mean7": [

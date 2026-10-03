@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-05-07",
- "last_day": "2026-10-02",
+ "last_day": "2026-10-03",
  "totals_28d": {
-  "activeUsers": 682.0,
-  "newUsers": 678.0,
-  "sessions": 683.0,
-  "engagedSessions": 10.0,
-  "screenPageViews": 684.0,
-  "eventCount": 2096.0,
-  "userEngagementDuration": 221.0,
-  "avgEngagementSeconds": 0.3,
+  "activeUsers": 699.0,
+  "newUsers": 695.0,
+  "sessions": 700.0,
+  "engagedSessions": 11.0,
+  "screenPageViews": 701.0,
+  "eventCount": 2159.0,
+  "userEngagementDuration": 252.0,
+  "avgEngagementSeconds": 0.4,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 208.6,
-  "sessions": 206.3,
-  "engagedSessions": 11.1,
-  "avgEngagementSeconds": -85.7,
-  "screenPageViews": 197.4
+  "activeUsers": 216.3,
+  "sessions": 213.9,
+  "engagedSessions": 22.2,
+  "avgEngagementSeconds": -81.0,
+  "screenPageViews": 204.8
  },
  "daily": [
   {
@@ -498,8 +498,13 @@
   },
   {
    "date": "2026-10-02",
-   "activeUsers": 16.0,
-   "sessions": 16.0
+   "activeUsers": 32.0,
+   "sessions": 32.0
+  },
+  {
+   "date": "2026-10-03",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -597,13 +602,14 @@
   20.71,
   20.57,
   21.86,
-  23.0
+  25.29,
+  23.57
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 875.0
+   "activeUsers": 879.0
   },
   {
    "country": "United States",
@@ -611,19 +617,24 @@
    "activeUsers": 11.0
   },
   {
+   "country": "Brazil",
+   "countryId": "BR",
+   "activeUsers": 10.0
+  },
+  {
    "country": "Argentina",
    "countryId": "AR",
    "activeUsers": 9.0
   },
   {
-   "country": "Brazil",
-   "countryId": "BR",
-   "activeUsers": 6.0
-  },
-  {
    "country": "China",
    "countryId": "CN",
    "activeUsers": 4.0
+  },
+  {
+   "country": "India",
+   "countryId": "IN",
+   "activeUsers": 3.0
   },
   {
    "country": "Italy",
@@ -661,13 +672,23 @@
    "activeUsers": 2.0
   },
   {
-   "country": "Ecuador",
-   "countryId": "EC",
+   "country": "T\u00fcrkiye",
+   "countryId": "TR",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "United Arab Emirates",
+   "countryId": "AE",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Bolivia",
+   "countryId": "BO",
    "activeUsers": 1.0
   },
   {
-   "country": "India",
-   "countryId": "IN",
+   "country": "Ecuador",
+   "countryId": "EC",
    "activeUsers": 1.0
   },
   {
@@ -676,8 +697,18 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Jamaica",
+   "countryId": "JM",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Kazakhstan",
    "countryId": "KZ",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Kyrgyzstan",
+   "countryId": "KG",
    "activeUsers": 1.0
   },
   {
@@ -706,18 +737,18 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Romania",
+   "countryId": "RO",
+   "activeUsers": 1.0
+  },
+  {
    "country": "South Africa",
    "countryId": "ZA",
    "activeUsers": 1.0
   },
   {
-   "country": "T\u00fcrkiye",
-   "countryId": "TR",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "United Arab Emirates",
-   "countryId": "AE",
+   "country": "Ukraine",
+   "countryId": "UA",
    "activeUsers": 1.0
   },
   {
@@ -745,26 +776,32 @@
    "activeUsers": 11.0
   },
   {
+   "country": "Brazil",
+   "countryId": "BR",
+   "region": "Other",
+   "activeUsers": 10.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 10.0
+  },
+  {
    "country": "Argentina",
    "countryId": "AR",
    "region": "Other",
    "activeUsers": 9.0
   },
   {
-   "country": "Brazil",
-   "countryId": "BR",
-   "region": "Other",
-   "activeUsers": 6.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 6.0
-  },
-  {
    "country": "China",
    "countryId": "CN",
+   "region": "Other",
+   "activeUsers": 3.0
+  },
+  {
+   "country": "India",
+   "countryId": "IN",
    "region": "Other",
    "activeUsers": 3.0
   },
@@ -811,6 +848,24 @@
    "activeUsers": 2.0
   },
   {
+   "country": "T\u00fcrkiye",
+   "countryId": "TR",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "United Arab Emirates",
+   "countryId": "AE",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Bolivia",
+   "countryId": "BO",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "China",
    "countryId": "CN",
    "region": "",
@@ -823,20 +878,26 @@
    "activeUsers": 1.0
   },
   {
-   "country": "India",
-   "countryId": "IN",
-   "region": "Other",
-   "activeUsers": 1.0
-  },
-  {
    "country": "Israel",
    "countryId": "IL",
    "region": "Other",
    "activeUsers": 1.0
   },
   {
+   "country": "Jamaica",
+   "countryId": "JM",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Kazakhstan",
    "countryId": "KZ",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Kyrgyzstan",
+   "countryId": "KG",
    "region": "Other",
    "activeUsers": 1.0
   },
@@ -871,6 +932,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Romania",
+   "countryId": "RO",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Singapore",
    "countryId": "SG",
    "region": "Other",
@@ -883,14 +950,8 @@
    "activeUsers": 1.0
   },
   {
-   "country": "T\u00fcrkiye",
-   "countryId": "TR",
-   "region": "Other",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "United Arab Emirates",
-   "countryId": "AE",
+   "country": "Ukraine",
+   "countryId": "UA",
    "region": "Other",
    "activeUsers": 1.0
   },
@@ -910,23 +971,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 945.0,
-   "users": 927.0
+   "count": 962.0,
+   "users": 944.0
   },
   {
    "name": "session_start",
-   "count": 928.0,
-   "users": 927.0
+   "count": 945.0,
+   "users": 944.0
   },
   {
    "name": "first_visit",
-   "count": 925.0,
-   "users": 925.0
+   "count": 942.0,
+   "users": 942.0
   },
   {
    "name": "scroll",
-   "count": 51.0,
-   "users": 49.0
+   "count": 63.0,
+   "users": 61.0
   },
   {
    "name": "user_engagement",
