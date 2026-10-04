@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-04T02:52:15+00:00",
+ "generated": "2026-10-04T11:17:34+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 772.0,
-  "activeUsers": 1658.0,
-  "sessions": 2046.0
+  "engagedSessions": 777.0,
+  "activeUsers": 1670.0,
+  "sessions": 2058.0
  },
  "n_mostly_automated": 1,
  "products": [
@@ -162,12 +162,12 @@
   {
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
-   "engagedSessions": 95.0,
-   "activeUsers": 162.0,
-   "sessions": 252.0,
+   "engagedSessions": 98.0,
+   "activeUsers": 166.0,
+   "sessions": 256.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 35.5,
-   "delta": -79.1,
+   "avgEngagementSeconds": 34.8,
+   "delta": -78.4,
    "spark": [
     2.0,
     2.0,
@@ -219,19 +219,19 @@
     3.0,
     4.0,
     7.0,
-    1.0
+    5.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 82.0,
-   "activeUsers": 104.0,
-   "sessions": 140.0,
+   "engagedSessions": 83.0,
+   "activeUsers": 105.0,
+   "sessions": 141.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 59.8,
-   "delta": 925.0,
+   "avgEngagementSeconds": 62.0,
+   "delta": 937.5,
    "spark": [
     1.0,
     2.0,
@@ -261,7 +261,7 @@
     3.0,
     3.0,
     3.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
@@ -539,12 +539,12 @@
   {
    "slug": "calcofi4r",
    "title": "calcofi4r",
-   "engagedSessions": 20.0,
-   "activeUsers": 82.0,
-   "sessions": 89.0,
+   "engagedSessions": 21.0,
+   "activeUsers": 83.0,
+   "sessions": 90.0,
    "engagementRate": 0.2,
    "avgEngagementSeconds": 4.7,
-   "delta": -42.9,
+   "delta": -40.0,
    "spark": [
     6.0,
     7.0,
@@ -635,7 +635,7 @@
     2.0,
     12.0,
     2.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
@@ -810,8 +810,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 12.0,
-   "activeUsers": 712.0,
-   "sessions": 713.0,
+   "activeUsers": 718.0,
+   "sessions": 719.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.4,
    "delta": 33.3,
@@ -905,7 +905,7 @@
     10.0,
     21.0,
     32.0,
-    15.0
+    21.0
    ],
    "mostly_automated": true
   },

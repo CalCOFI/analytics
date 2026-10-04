@@ -762,58 +762,63 @@
    },
    {
     "date": "2026-10-03",
-    "requests": 1017.0,
-    "bytes": 9227483.0
+    "requests": 2446.0,
+    "bytes": 43730702.0
+   },
+   {
+    "date": "2026-10-04",
+    "requests": 551.0,
+    "bytes": 9299146.0
    }
   ],
   "totals_28d": {
-   "requests": 87480.0,
-   "bytes": 3149594561.0,
+   "requests": 89460.0,
+   "bytes": 3193396926.0,
    "clients": 1895.0,
-   "tool": 60028.0,
-   "browser": 27452.0
+   "tool": 61236.0,
+   "browser": 28224.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 53
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 27
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 24
+    "n": 47
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 19
+    "n": 26
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 18
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 15
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 10
-   },
-   {
-    "path": "/erddap/tabledap/documentation.html",
-    "n": 10
+    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
+    "n": 24
    },
    {
     "path": "/robots.txt",
-    "n": 9
+    "n": 22
    },
    {
-    "path": "/",
-    "n": 9
+    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
+    "n": 20
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 20
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 17
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle.html",
+    "n": 12
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 11
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
+    "n": 8
    }
   ]
  }

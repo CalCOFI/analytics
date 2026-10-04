@@ -714,57 +714,62 @@
    },
    {
     "date": "2026-10-03",
-    "requests": 777.0,
-    "bytes": 3011653401.0
+    "requests": 2046.0,
+    "bytes": 3015661872.0
+   },
+   {
+    "date": "2026-10-04",
+    "requests": 1136.0,
+    "bytes": 5965306002.0
    }
   ],
   "totals_28d": {
-   "requests": 95972.0,
-   "bytes": 28080929688.0,
+   "requests": 98377.0,
+   "bytes": 34050244161.0,
    "clients": 3108.0,
-   "tool": 42485.0,
-   "browser": 53487.0
+   "tool": 43212.0,
+   "browser": 55165.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 44
+    "n": 43
    },
    {
     "path": "/robots.txt",
-    "n": 13
+    "n": 18
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.06/calcofi_ctd-cast_full.nc",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.11/swfsc_ichthyo.nc",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.07.30/calcofi_bottle.nc",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.07.30/calcofi_ctd-cast_full.nc",
+    "n": 4
    },
    {
     "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.04/calcofi_bottle.nc",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.04/calcofi_ctd-cast.nc",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_cufes/v2026.09.04/swfsc_cufes.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.07.30/swfsc_ichthyo.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/stac/collections/cce-lter_euphausiids/",
+    "path": "/calcofi-db/ducklake/releases/RELEASES.md",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.09.06/calcofi_mets.nc",
+    "path": "/calcofi-files-public/manifests/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/erddap/calcofi_casts/",
+    "path": "/sitemap.xml",
     "n": 3
    }
   ]

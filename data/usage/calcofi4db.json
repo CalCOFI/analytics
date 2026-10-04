@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "2026-10-03",
  "totals_28d": {
-  "activeUsers": 712.0,
-  "newUsers": 708.0,
-  "sessions": 713.0,
+  "activeUsers": 718.0,
+  "newUsers": 714.0,
+  "sessions": 719.0,
   "engagedSessions": 12.0,
-  "screenPageViews": 714.0,
-  "eventCount": 2207.0,
+  "screenPageViews": 720.0,
+  "eventCount": 2226.0,
   "userEngagementDuration": 264.0,
   "avgEngagementSeconds": 0.4,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 231.2,
-  "sessions": 228.6,
+  "activeUsers": 234.0,
+  "sessions": 231.3,
   "engagedSessions": 33.3,
   "avgEngagementSeconds": -81.8,
-  "screenPageViews": 218.8
+  "screenPageViews": 221.4
  },
  "daily": [
   {
@@ -503,8 +503,8 @@
   },
   {
    "date": "2026-10-03",
-   "activeUsers": 15.0,
-   "sessions": 15.0
+   "activeUsers": 21.0,
+   "sessions": 21.0
   }
  ],
  "daily_mean7": [
@@ -603,13 +603,13 @@
   20.57,
   21.86,
   25.29,
-  25.57
+  26.43
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 883.0
+   "activeUsers": 888.0
   },
   {
    "country": "United States",
@@ -684,6 +684,11 @@
   {
    "country": "T\u00fcrkiye",
    "countryId": "TR",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Venezuela",
+   "countryId": "VE",
    "activeUsers": 2.0
   },
   {
@@ -774,11 +779,6 @@
   {
    "country": "Ukraine",
    "countryId": "UA",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "Venezuela",
-   "countryId": "VE",
    "activeUsers": 1.0
   }
  ],
@@ -811,7 +811,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "",
-   "activeUsers": 5.0
+   "activeUsers": 10.0
   },
   {
    "country": "India",
@@ -882,6 +882,12 @@
   {
    "country": "T\u00fcrkiye",
    "countryId": "TR",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Venezuela",
+   "countryId": "VE",
    "region": "Other",
    "activeUsers": 2.0
   },
@@ -1004,34 +1010,28 @@
    "countryId": "UA",
    "region": "Other",
    "activeUsers": 1.0
-  },
-  {
-   "country": "Venezuela",
-   "countryId": "VE",
-   "region": "Other",
-   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 976.0,
-   "users": 958.0
+   "count": 982.0,
+   "users": 964.0
   },
   {
    "name": "session_start",
-   "count": 959.0,
-   "users": 958.0
+   "count": 965.0,
+   "users": 964.0
   },
   {
    "name": "first_visit",
-   "count": 956.0,
-   "users": 956.0
+   "count": 962.0,
+   "users": 962.0
   },
   {
    "name": "scroll",
-   "count": 72.0,
-   "users": 70.0
+   "count": 73.0,
+   "users": 71.0
   },
   {
    "name": "user_engagement",
