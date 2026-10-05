@@ -1,12 +1,12 @@
 country,countryId,region,activeUsers,sessions
-Argentina,AR,Other,10,10
+Argentina,AR,Other,11,11
 Armenia,AM,,1,1
 Armenia,AM,Other,1,1
 Bangladesh,BD,Other,2,2
 Bolivia,BO,Other,1,1
-Brazil,BR,Other,12,12
+Brazil,BR,Other,13,13
 Canada,CA,Other,1,1
-Chile,CL,Other,3,3
+Chile,CL,Other,4,4
 China,CN,,1,1
 China,CN,Other,3,3
 Ecuador,EC,Other,1,1
@@ -22,19 +22,19 @@ Libya,LY,Other,1,1
 Mexico,MX,Other,1,1
 Morocco,MA,Other,1,1
 Nigeria,NG,Other,1,1
-Pakistan,PK,Other,3,3
+Pakistan,PK,Other,4,4
 Palestine,PS,Other,1,1
 Qatar,QA,Other,1,1
 Romania,RO,Other,1,1
 Senegal,SN,Other,1,1
-Singapore,SG,,5,5
+Singapore,SG,,7,7
 Singapore,SG,(not set),887,887
 Singapore,SG,Other,1,1
 South Africa,ZA,Other,2,2
 Spain,ES,Other,2,2
 Türkiye,TR,Other,2,2
 Ukraine,UA,Other,1,1
-United Arab Emirates,AE,Other,3,3
-United States,US,Other,12,15
+United Arab Emirates,AE,Other,4,4
+United States,US,Other,13,16
 Venezuela,VE,Other,2,2
 Vietnam,VN,Other,4,4

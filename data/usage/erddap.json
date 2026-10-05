@@ -7,23 +7,23 @@
  "first_day": "2026-07-30",
  "last_day": "2026-10-04",
  "totals_28d": {
-  "activeUsers": 26.0,
+  "activeUsers": 27.0,
   "newUsers": 16.0,
-  "sessions": 28.0,
-  "engagedSessions": 13.0,
-  "screenPageViews": 125.0,
-  "eventCount": 325.0,
-  "userEngagementDuration": 1835.0,
-  "avgEngagementSeconds": 70.6,
+  "sessions": 29.0,
+  "engagedSessions": 14.0,
+  "screenPageViews": 126.0,
+  "eventCount": 328.0,
+  "userEngagementDuration": 1842.0,
+  "avgEngagementSeconds": 68.2,
   "engagedSessionRate": 0.5,
-  "viewsPerUser": 4.8
+  "viewsPerUser": 4.7
  },
  "delta_28d": {
-  "activeUsers": -52.7,
-  "sessions": -56.2,
-  "engagedSessions": -50.0,
-  "avgEngagementSeconds": 200.4,
-  "screenPageViews": -3.8
+  "activeUsers": -50.9,
+  "sessions": -54.7,
+  "engagedSessions": -46.2,
+  "avgEngagementSeconds": 190.2,
+  "screenPageViews": -3.1
  },
  "daily": [
   {
@@ -248,8 +248,8 @@
   },
   {
    "date": "2026-10-04",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -297,7 +297,7 @@
   1.14,
   1.0,
   1.0,
-  1.0
+  1.14
  ],
  "geo_country": [
   {
@@ -333,6 +333,11 @@
   {
    "country": "Ghana",
    "countryId": "GH",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "New Zealand",
+   "countryId": "NZ",
    "activeUsers": 1.0
   }
  ],
@@ -386,6 +391,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "New Zealand",
+   "countryId": "NZ",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Singapore",
    "countryId": "SG",
    "region": "",
@@ -395,18 +406,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 320.0,
-   "users": 64.0
+   "count": 321.0,
+   "users": 65.0
   },
   {
    "name": "user_engagement",
-   "count": 245.0,
-   "users": 21.0
+   "count": 246.0,
+   "users": 22.0
   },
   {
    "name": "scroll",
-   "count": 100.0,
-   "users": 28.0
+   "count": 101.0,
+   "users": 29.0
   },
   {
    "name": "session_start",
@@ -773,58 +784,63 @@
    },
    {
     "date": "2026-10-04",
-    "requests": 551.0,
-    "bytes": 9299146.0
+    "requests": 2804.0,
+    "bytes": 56936323.0
+   },
+   {
+    "date": "2026-10-05",
+    "requests": 582.0,
+    "bytes": 7378021.0
    }
   ],
   "totals_28d": {
-   "requests": 87194.0,
-   "bytes": 3162513832.0,
+   "requests": 90029.0,
+   "bytes": 3217529030.0,
    "clients": 1895.0,
-   "tool": 59917.0,
-   "browser": 27277.0
+   "tool": 61994.0,
+   "browser": 28035.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 47
+    "n": 50
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 26
+    "n": 34
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 24
-   },
-   {
-    "path": "/robots.txt",
-    "n": 22
+    "n": 30
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 20
+    "n": 28
+   },
+   {
+    "path": "/robots.txt",
+    "n": 16
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_mets.graph",
+    "n": 13
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 20
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 17
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_bottle.html",
     "n": 12
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 11
+    "path": "/",
+    "n": 10
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
-    "n": 8
+    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
+    "n": 9
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle.html",
+    "n": 9
    }
   ]
  }

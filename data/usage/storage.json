@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-10-01",
+ "last_day": "2026-10-04",
  "totals_28d": {
-  "activeUsers": 27.0,
-  "newUsers": 14.0,
-  "sessions": 31.0,
-  "engagedSessions": 14.0,
-  "screenPageViews": 84.0,
-  "eventCount": 238.0,
-  "userEngagementDuration": 782.0,
-  "avgEngagementSeconds": 29.0,
+  "activeUsers": 28.0,
+  "newUsers": 15.0,
+  "sessions": 32.0,
+  "engagedSessions": 15.0,
+  "screenPageViews": 86.0,
+  "eventCount": 243.0,
+  "userEngagementDuration": 797.0,
+  "avgEngagementSeconds": 28.5,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 3.1
  },
  "delta_28d": {
-  "activeUsers": 42.1,
-  "sessions": 24.0,
-  "engagedSessions": -12.5,
-  "avgEngagementSeconds": 33.0,
-  "screenPageViews": 44.8
+  "activeUsers": 47.4,
+  "sessions": 28.0,
+  "engagedSessions": -6.2,
+  "avgEngagementSeconds": 30.7,
+  "screenPageViews": 48.3
  },
  "daily": [
   {
@@ -195,6 +195,11 @@
    "date": "2026-10-01",
    "activeUsers": 2.0,
    "sessions": 3.0
+  },
+  {
+   "date": "2026-10-04",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -231,6 +236,7 @@
   1.57,
   1.29,
   1.14,
+  1.14,
   1.14
  ],
  "geo_country": [
@@ -247,7 +253,7 @@
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   },
   {
    "country": "Singapore",
@@ -298,7 +304,7 @@
    "country": "China",
    "countryId": "CN",
    "region": "Other",
-   "activeUsers": 3.0
+   "activeUsers": 4.0
   },
   {
    "country": "Singapore",
@@ -346,13 +352,13 @@
  "events": [
   {
    "name": "page_view",
-   "count": 233.0,
-   "users": 33.0
+   "count": 235.0,
+   "users": 34.0
   },
   {
    "name": "user_engagement",
-   "count": 193.0,
-   "users": 7.0
+   "count": 194.0,
+   "users": 8.0
   },
   {
    "name": "scroll",
@@ -361,13 +367,13 @@
   },
   {
    "name": "session_start",
-   "count": 43.0,
-   "users": 33.0
+   "count": 44.0,
+   "users": 34.0
   },
   {
    "name": "first_visit",
-   "count": 27.0,
-   "users": 27.0
+   "count": 28.0,
+   "users": 28.0
   },
   {
    "name": "click",
@@ -719,58 +725,63 @@
    },
    {
     "date": "2026-10-04",
-    "requests": 1136.0,
-    "bytes": 5965306002.0
+    "requests": 3037.0,
+    "bytes": 6284617884.0
+   },
+   {
+    "date": "2026-10-05",
+    "requests": 1004.0,
+    "bytes": 12655997752.0
    }
   ],
   "totals_28d": {
-   "requests": 97263.0,
-   "bytes": 33975251702.0,
+   "requests": 100168.0,
+   "bytes": 46950561336.0,
    "clients": 3108.0,
-   "tool": 42438.0,
-   "browser": 54825.0
+   "tool": 43516.0,
+   "browser": 56652.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 43
+    "n": 53
    },
    {
     "path": "/robots.txt",
-    "n": 18
+    "n": 14
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 13
+   },
+   {
+    "path": "/sitemap.xml",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.08.04/calcofi_ctd-cast_full.nc",
+    "n": 5
    },
    {
     "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.06/calcofi_ctd-cast_full.nc",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.11/swfsc_ichthyo.nc",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.07.30/calcofi_bottle.nc",
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.04/swfsc_ichthyo.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.07.30/calcofi_ctd-cast_full.nc",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/calcofi_ctd-cast_full.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.04/calcofi_bottle.nc",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.04/calcofi_ctd-cast_full.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.md",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/manifests/",
-    "n": 3
-   },
-   {
-    "path": "/sitemap.xml",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.07.30/cce-lter_euphausiids.nc",
+    "n": 4
    }
   ]
  }

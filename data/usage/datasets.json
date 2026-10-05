@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-10-03",
+ "last_day": "2026-10-04",
  "totals_28d": {
-  "activeUsers": 103.0,
+  "activeUsers": 104.0,
   "newUsers": 59.0,
-  "sessions": 129.0,
-  "engagedSessions": 72.0,
-  "screenPageViews": 181.0,
-  "eventCount": 496.0,
-  "userEngagementDuration": 4091.0,
-  "avgEngagementSeconds": 39.7,
+  "sessions": 131.0,
+  "engagedSessions": 74.0,
+  "screenPageViews": 184.0,
+  "eventCount": 504.0,
+  "userEngagementDuration": 4442.0,
+  "avgEngagementSeconds": 42.7,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 1.8
  },
  "delta_28d": {
-  "activeUsers": 1960.0,
-  "sessions": 545.0,
-  "engagedSessions": 278.9,
-  "avgEngagementSeconds": -96.3,
-  "screenPageViews": 118.1
+  "activeUsers": 1980.0,
+  "sessions": 555.0,
+  "engagedSessions": 289.5,
+  "avgEngagementSeconds": -96.0,
+  "screenPageViews": 121.7
  },
  "daily": [
   {
@@ -170,6 +170,11 @@
    "date": "2026-10-03",
    "activeUsers": 2.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-10-04",
+   "activeUsers": 1.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -201,7 +206,8 @@
   2.43,
   2.71,
   2.71,
-  2.86
+  2.86,
+  2.71
  ],
  "geo_country": [
   {
@@ -245,6 +251,11 @@
    "activeUsers": 2.0
   },
   {
+   "country": "New Zealand",
+   "countryId": "NZ",
+   "activeUsers": 2.0
+  },
+  {
    "country": "United Kingdom",
    "countryId": "GB",
    "activeUsers": 2.0
@@ -257,11 +268,6 @@
   {
    "country": "France",
    "countryId": "FR",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "New Zealand",
-   "countryId": "NZ",
    "activeUsers": 1.0
   },
   {
@@ -325,6 +331,12 @@
    "activeUsers": 2.0
   },
   {
+   "country": "New Zealand",
+   "countryId": "NZ",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
    "country": "Singapore",
    "countryId": "SG",
    "region": "Other",
@@ -345,12 +357,6 @@
   {
    "country": "France",
    "countryId": "FR",
-   "region": "Other",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "New Zealand",
-   "countryId": "NZ",
    "region": "Other",
    "activeUsers": 1.0
   },
@@ -376,17 +382,17 @@
  "events": [
   {
    "name": "page_view",
-   "count": 264.0,
+   "count": 267.0,
    "users": 85.0
   },
   {
    "name": "user_engagement",
-   "count": 209.0,
+   "count": 212.0,
    "users": 46.0
   },
   {
    "name": "session_start",
-   "count": 88.0,
+   "count": 89.0,
    "users": 69.0
   },
   {
@@ -396,7 +402,7 @@
   },
   {
    "name": "scroll",
-   "count": 36.0,
+   "count": 37.0,
    "users": 15.0
   },
   {
