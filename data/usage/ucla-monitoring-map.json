@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-10-05",
  "totals_28d": {
-  "activeUsers": 147.0,
-  "newUsers": 79.0,
-  "sessions": 230.0,
-  "engagedSessions": 86.0,
-  "screenPageViews": 231.0,
-  "eventCount": 841.0,
-  "userEngagementDuration": 4804.0,
-  "avgEngagementSeconds": 32.7,
+  "activeUsers": 151.0,
+  "newUsers": 82.0,
+  "sessions": 235.0,
+  "engagedSessions": 88.0,
+  "screenPageViews": 236.0,
+  "eventCount": 858.0,
+  "userEngagementDuration": 4818.0,
+  "avgEngagementSeconds": 31.9,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.6
  },
  "delta_28d": {
-  "activeUsers": -84.8,
-  "sessions": -81.5,
-  "engagedSessions": -81.6,
-  "avgEngagementSeconds": 0.6,
-  "screenPageViews": -83.0
+  "activeUsers": -84.4,
+  "sessions": -81.1,
+  "engagedSessions": -81.2,
+  "avgEngagementSeconds": -1.8,
+  "screenPageViews": -82.7
  },
  "daily": [
   {
@@ -288,8 +288,8 @@
   },
   {
    "date": "2026-10-05",
-   "activeUsers": 4.0,
-   "sessions": 5.0
+   "activeUsers": 8.0,
+   "sessions": 10.0
   }
  ],
  "daily_mean7": [
@@ -345,13 +345,13 @@
   5.43,
   6.0,
   5.0,
-  4.57
+  5.14
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 916.0
+   "activeUsers": 919.0
   },
   {
    "country": "Mexico",
@@ -528,7 +528,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Colorado",
-   "activeUsers": 23.0
+   "activeUsers": 26.0
   },
   {
    "country": "United States",
@@ -762,27 +762,27 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1602.0,
-   "users": 981.0
+   "count": 1607.0,
+   "users": 984.0
   },
   {
    "name": "session_start",
-   "count": 1439.0,
-   "users": 972.0
+   "count": 1443.0,
+   "users": 975.0
   },
   {
    "name": "scroll",
-   "count": 1378.0,
-   "users": 907.0
+   "count": 1382.0,
+   "users": 909.0
   },
   {
    "name": "first_visit",
-   "count": 954.0,
-   "users": 953.0
+   "count": 957.0,
+   "users": 956.0
   },
   {
    "name": "user_engagement",
-   "count": 700.0,
+   "count": 701.0,
    "users": 466.0
   },
   {

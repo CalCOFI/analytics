@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-10-04",
+ "last_day": "2026-10-05",
  "totals_28d": {
-  "activeUsers": 27.0,
+  "activeUsers": 28.0,
   "newUsers": 15.0,
-  "sessions": 31.0,
-  "engagedSessions": 14.0,
-  "screenPageViews": 85.0,
-  "eventCount": 241.0,
+  "sessions": 32.0,
+  "engagedSessions": 15.0,
+  "screenPageViews": 86.0,
+  "eventCount": 242.0,
   "userEngagementDuration": 793.0,
-  "avgEngagementSeconds": 29.4,
+  "avgEngagementSeconds": 28.3,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 3.1
  },
  "delta_28d": {
-  "activeUsers": 50.0,
-  "sessions": 34.8,
-  "engagedSessions": 0.0,
-  "avgEngagementSeconds": 31.8,
-  "screenPageViews": 54.5
+  "activeUsers": 55.6,
+  "sessions": 39.1,
+  "engagedSessions": 7.1,
+  "avgEngagementSeconds": 26.9,
+  "screenPageViews": 56.4
  },
  "daily": [
   {
@@ -200,6 +200,11 @@
    "date": "2026-10-04",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-10-05",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -237,6 +242,7 @@
   1.29,
   1.14,
   1.14,
+  1.14,
   1.14
  ],
  "geo_country": [
@@ -248,7 +254,7 @@
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 6.0
+   "activeUsers": 7.0
   },
   {
    "country": "China",
@@ -298,7 +304,7 @@
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
-   "activeUsers": 6.0
+   "activeUsers": 7.0
   },
   {
    "country": "China",
@@ -352,7 +358,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 235.0,
+   "count": 236.0,
    "users": 34.0
   },
   {
@@ -730,57 +736,62 @@
    },
    {
     "date": "2026-10-05",
-    "requests": 1004.0,
-    "bytes": 12655997752.0
+    "requests": 2840.0,
+    "bytes": 12685093508.0
+   },
+   {
+    "date": "2026-10-06",
+    "requests": 1809.0,
+    "bytes": 9304691246.0
    }
   ],
   "totals_28d": {
-   "requests": 99344.0,
-   "bytes": 46906055966.0,
+   "requests": 102989.0,
+   "bytes": 56239842968.0,
    "clients": 3108.0,
-   "tool": 42919.0,
-   "browser": 56425.0
+   "tool": 44223.0,
+   "browser": 58766.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 53
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 14
+    "n": 20
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 13
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=specific_volume_anomaly/67611dfe4fe746e91d6ff38a/",
+    "n": 5
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.08.04/calcofi_ctd-cast_full.nc",
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.07.30/calcofi_dic.nc",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.06/calcofi_ctd-cast_full.nc",
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=par/08dfd2d0ff452e55f24fe956/",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.04/swfsc_ichthyo.nc",
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=chlorophyll_a/65b38b6b1d313e5465a60b8d/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/calcofi_ctd-cast_full.nc",
+    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=sigma_theta/28c0c7089295a25cac0061d5/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.08.04/calcofi_bottle.nc",
     "n": 4
    },
    {
     "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.04/calcofi_ctd-cast_full.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.07.30/cce-lter_euphausiids.nc",
     "n": 4
    }
   ]

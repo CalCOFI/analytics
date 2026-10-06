@@ -1,4 +1,5 @@
 country,countryId,region,activeUsers,sessions
 Denmark,DK,Other,1,2
 South Korea,KR,Other,1,1
-United States,US,Other,12,16
+United States,US,California,10,14
+United States,US,Other,3,3
