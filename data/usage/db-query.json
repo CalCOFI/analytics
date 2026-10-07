@@ -9,21 +9,21 @@
  "totals_28d": {
   "activeUsers": 17.0,
   "newUsers": 11.0,
-  "sessions": 19.0,
-  "engagedSessions": 10.0,
-  "screenPageViews": 26.0,
-  "eventCount": 245.0,
-  "userEngagementDuration": 2520.0,
-  "avgEngagementSeconds": 148.2,
-  "engagedSessionRate": 0.5,
-  "viewsPerUser": 1.5
+  "sessions": 21.0,
+  "engagedSessions": 12.0,
+  "screenPageViews": 29.0,
+  "eventCount": 302.0,
+  "userEngagementDuration": 2434.0,
+  "avgEngagementSeconds": 143.2,
+  "engagedSessionRate": 0.6,
+  "viewsPerUser": 1.7
  },
  "delta_28d": {
-  "activeUsers": -5.6,
-  "sessions": -24.0,
-  "engagedSessions": -28.6,
-  "avgEngagementSeconds": 787.4,
-  "screenPageViews": 8.3
+  "activeUsers": -10.5,
+  "sessions": -16.0,
+  "engagedSessions": -20.0,
+  "avgEngagementSeconds": 484.5,
+  "screenPageViews": 16.0
  },
  "daily": [
   {
@@ -382,6 +382,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-10-06",
+   "activeUsers": 2.0,
+   "sessions": 4.0
+  },
+  {
    "date": "20260519",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -624,12 +629,13 @@
   1.43,
   1.43,
   1.43,
-  1.43,
+  1.57,
+  1.57,
   1.43,
   1.14,
   1.0,
-  0.86,
-  0.86,
+  1.0,
+  1.0,
   1.0,
   1.14,
   1.14,
@@ -678,7 +684,7 @@
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   },
   {
    "country": "United Kingdom",
@@ -705,16 +711,16 @@
    "activeUsers": 6.0
   },
   {
-   "country": "Singapore",
-   "countryId": "SG",
+   "country": "China",
+   "countryId": "CN",
    "region": "Other",
    "activeUsers": 5.0
   },
   {
-   "country": "China",
-   "countryId": "CN",
+   "country": "Singapore",
+   "countryId": "SG",
    "region": "Other",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   },
   {
    "country": "Singapore",
@@ -744,43 +750,43 @@
  "events": [
   {
    "name": "query_view",
-   "count": 102.0,
+   "count": 108.0,
    "users": 16.0
   },
   {
    "name": "query_run",
-   "count": 70.0,
+   "count": 92.0,
+   "users": 7.0
+  },
+  {
+   "name": "query_success",
+   "count": 80.0,
    "users": 7.0
   },
   {
    "name": "page_view",
-   "count": 65.0,
-   "users": 22.0
+   "count": 71.0,
+   "users": 23.0
   },
   {
    "name": "scroll",
-   "count": 61.0,
-   "users": 20.0
-  },
-  {
-   "name": "query_success",
-   "count": 59.0,
-   "users": 7.0
-  },
-  {
-   "name": "session_start",
-   "count": 49.0,
+   "count": 67.0,
    "users": 21.0
   },
   {
+   "name": "session_start",
+   "count": 53.0,
+   "users": 22.0
+  },
+  {
    "name": "user_engagement",
-   "count": 42.0,
+   "count": 44.0,
    "users": 11.0
   },
   {
    "name": "first_visit",
-   "count": 16.0,
-   "users": 16.0
+   "count": 17.0,
+   "users": 17.0
   },
   {
    "name": "download",
@@ -789,12 +795,12 @@
   },
   {
    "name": "query_error",
-   "count": 10.0,
+   "count": 11.0,
    "users": 3.0
   },
   {
    "name": "form_start",
-   "count": 9.0,
+   "count": 10.0,
    "users": 4.0
   },
   {

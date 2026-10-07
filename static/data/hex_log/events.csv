@@ -22,6 +22,6 @@ select_layers,7,,,0.0,
 select_map_area,1,,,0.0,
 select_tab,82,,,0.0,
 select_theme,36,,,0.0,
-session_start,343,,,0.0,
-start_tour,272,,,0.0,
+session_start,344,,,0.0,
+start_tour,273,,,0.0,
 test:log_query,1,842.1,842.1,0.0,13319.0
