@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 4.0,
-  "newUsers": 4.0,
-  "sessions": 4.0,
-  "engagedSessions": 3.0,
-  "screenPageViews": 5.0,
-  "eventCount": 17.0,
-  "userEngagementDuration": 98.0,
-  "avgEngagementSeconds": 24.5,
+  "activeUsers": 5.0,
+  "newUsers": 5.0,
+  "sessions": 5.0,
+  "engagedSessions": 4.0,
+  "screenPageViews": 6.0,
+  "eventCount": 21.0,
+  "userEngagementDuration": 171.0,
+  "avgEngagementSeconds": 34.2,
   "engagedSessionRate": 0.8,
   "viewsPerUser": 1.2
  },
  "delta_28d": {
-  "activeUsers": -42.9,
-  "sessions": -55.6,
-  "engagedSessions": -40.0,
-  "avgEngagementSeconds": 24.4,
-  "screenPageViews": -28.6
+  "activeUsers": -28.6,
+  "sessions": -44.4,
+  "engagedSessions": -20.0,
+  "avgEngagementSeconds": 73.6,
+  "screenPageViews": -14.3
  },
  "daily": [
   {
@@ -227,6 +227,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-10-07",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260507",
    "activeUsers": 2.0,
    "sessions": 3.0
@@ -403,11 +408,12 @@
   1.14,
   1.29,
   1.29,
+  1.14,
   1.29,
   1.29,
   1.29,
   1.43,
-  1.43,
+  1.29,
   1.43,
   1.43,
   1.29,
@@ -435,7 +441,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 14.0
+   "activeUsers": 15.0
   },
   {
    "country": "Denmark",
@@ -453,7 +459,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 11.0
+   "activeUsers": 12.0
   },
   {
    "country": "United States",
@@ -477,23 +483,23 @@
  "events": [
   {
    "name": "session_start",
-   "count": 20.0,
-   "users": 16.0
+   "count": 21.0,
+   "users": 17.0
   },
   {
    "name": "page_view",
-   "count": 17.0,
-   "users": 16.0
+   "count": 18.0,
+   "users": 17.0
   },
   {
    "name": "first_visit",
-   "count": 15.0,
-   "users": 15.0
+   "count": 16.0,
+   "users": 16.0
   },
   {
    "name": "user_engagement",
-   "count": 10.0,
-   "users": 9.0
+   "count": 11.0,
+   "users": 10.0
   },
   {
    "name": "scroll",

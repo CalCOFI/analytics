@@ -24,6 +24,7 @@ Panama,PA,Other,1,1
 Philippines,PH,Other,2,2
 Poland,PL,Other,1,2
 Portugal,PT,Other,1,1
+Russia,RU,Other,1,1
 Serbia,RS,Other,1,1
 Singapore,SG,,2,2
 Singapore,SG,Other,9,10
@@ -34,11 +35,12 @@ Türkiye,TR,Other,1,1
 United Kingdom,GB,Other,4,4
 United States,US,,1,1
 United States,US,Arizona,21,22
-United States,US,California,672,1116
+United States,US,California,674,1121
 United States,US,Colorado,27,29
 United States,US,Florida,10,10
 United States,US,Hawaii,11,12
 United States,US,Oregon,17,25
-United States,US,Other,75,94
-United States,US,Virginia,54,55
+United States,US,Other,68,87
+United States,US,Texas,10,11
+United States,US,Virginia,55,56
 United States,US,Washington,36,50

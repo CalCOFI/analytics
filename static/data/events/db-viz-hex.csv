@@ -1,5 +1,5 @@
 eventName,eventCount,activeUsers
-click,9,3
+click,10,4
 depth_profile_transect,4,3
 download_bundle,9,4
 download_integrated_bundle,5,4
@@ -17,13 +17,13 @@ open_filters,127,15
 open_layers,55,15
 open_spatial,5,1
 open_transect,14,5
-page_view,654,51
-scroll,605,49
+page_view,655,51
+scroll,606,49
 select_agg_unit,66,6
 select_layers,44,7
 select_map_area,11,2
 select_tab,147,15
 select_theme,141,5
-session_start,838,49
-start_tour,276,45
+session_start,840,49
+start_tour,277,45
 user_engagement,378,31

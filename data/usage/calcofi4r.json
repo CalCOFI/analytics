@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-05-07",
- "last_day": "2026-10-06",
+ "last_day": "2026-10-07",
  "totals_28d": {
-  "activeUsers": 101.0,
-  "newUsers": 87.0,
-  "sessions": 108.0,
-  "engagedSessions": 20.0,
-  "screenPageViews": 123.0,
-  "eventCount": 354.0,
-  "userEngagementDuration": 394.0,
-  "avgEngagementSeconds": 3.9,
+  "activeUsers": 107.0,
+  "newUsers": 92.0,
+  "sessions": 116.0,
+  "engagedSessions": 22.0,
+  "screenPageViews": 132.0,
+  "eventCount": 381.0,
+  "userEngagementDuration": 457.0,
+  "avgEngagementSeconds": 4.3,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 1.2
  },
  "delta_28d": {
-  "activeUsers": 32.9,
-  "sessions": 24.1,
-  "engagedSessions": -33.3,
-  "avgEngagementSeconds": -65.8,
-  "screenPageViews": 29.5
+  "activeUsers": 39.0,
+  "sessions": 33.3,
+  "engagedSessions": -21.4,
+  "avgEngagementSeconds": -48.2,
+  "screenPageViews": 38.9
  },
  "daily": [
   {
@@ -608,7 +608,12 @@
   },
   {
    "date": "2026-10-06",
-   "activeUsers": 8.0,
+   "activeUsers": 11.0,
+   "sessions": 11.0
+  },
+  {
+   "date": "2026-10-07",
+   "activeUsers": 6.0,
    "sessions": 8.0
   }
  ],
@@ -729,13 +734,14 @@
   4.43,
   4.86,
   5.14,
-  5.71
+  6.14,
+  6.71
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 148.0
+   "activeUsers": 156.0
   },
   {
    "country": "United States",
@@ -817,16 +823,16 @@
    "activeUsers": 16.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 15.0
+  },
+  {
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
    "activeUsers": 9.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 7.0
   },
   {
    "country": "Brazil",
@@ -910,27 +916,27 @@
  "events": [
   {
    "name": "page_view",
-   "count": 282.0,
-   "users": 180.0
+   "count": 294.0,
+   "users": 188.0
   },
   {
    "name": "session_start",
-   "count": 204.0,
-   "users": 179.0
+   "count": 214.0,
+   "users": 187.0
   },
   {
    "name": "first_visit",
-   "count": 173.0,
-   "users": 173.0
+   "count": 181.0,
+   "users": 181.0
   },
   {
    "name": "user_engagement",
-   "count": 77.0,
+   "count": 82.0,
    "users": 13.0
   },
   {
    "name": "scroll",
-   "count": 42.0,
+   "count": 45.0,
    "users": 22.0
   },
   {
