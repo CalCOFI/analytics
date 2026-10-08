@@ -9,21 +9,21 @@
  "totals_28d": {
   "activeUsers": 20.0,
   "newUsers": 7.0,
-  "sessions": 26.0,
-  "engagedSessions": 16.0,
-  "screenPageViews": 77.0,
-  "eventCount": 216.0,
-  "userEngagementDuration": 799.0,
-  "avgEngagementSeconds": 40.0,
+  "sessions": 27.0,
+  "engagedSessions": 17.0,
+  "screenPageViews": 78.0,
+  "eventCount": 219.0,
+  "userEngagementDuration": 811.0,
+  "avgEngagementSeconds": 40.5,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 3.9
  },
  "delta_28d": {
   "activeUsers": -20.0,
-  "sessions": -7.1,
-  "engagedSessions": 33.3,
-  "avgEngagementSeconds": 129.9,
-  "screenPageViews": 22.2
+  "sessions": -3.6,
+  "engagedSessions": 41.7,
+  "avgEngagementSeconds": 132.8,
+  "screenPageViews": 23.8
  },
  "daily": [
   {
@@ -214,7 +214,7 @@
   {
    "date": "2026-10-07",
    "activeUsers": 1.0,
-   "sessions": 1.0
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -370,17 +370,17 @@
  "events": [
   {
    "name": "page_view",
-   "count": 239.0,
+   "count": 240.0,
    "users": 34.0
   },
   {
    "name": "user_engagement",
-   "count": 195.0,
+   "count": 196.0,
    "users": 8.0
   },
   {
    "name": "scroll",
-   "count": 132.0,
+   "count": 133.0,
    "users": 13.0
   },
   {
@@ -758,57 +758,62 @@
    },
    {
     "date": "2026-10-07",
-    "requests": 967.0,
-    "bytes": 6090270558.0
+    "requests": 2198.0,
+    "bytes": 10114445872.0
+   },
+   {
+    "date": "2026-10-08",
+    "requests": 688.0,
+    "bytes": 9400784230.0
    }
   ],
   "totals_28d": {
-   "requests": 103601.0,
-   "bytes": 62291279943.0,
+   "requests": 105520.0,
+   "bytes": 75716239487.0,
    "clients": 3108.0,
-   "tool": 44128.0,
-   "browser": 59473.0
+   "tool": 44791.0,
+   "browser": 60729.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 62
+    "n": 51
    },
    {
     "path": "/robots.txt",
-    "n": 19
+    "n": 20
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "path": "/favicon.ico",
     "n": 6
    },
    {
-    "path": "/sitemap.xml",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.08.04/cce-lter_euphausiids.nc",
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/calcofi_ctd-cast_full.nc",
+    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/v2026.09.11/cce-lter_zoodb.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_cufes/v2026.09.11/swfsc_cufes.nc",
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.08.04/calcofi_dic.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.09.06/calcofi_mets.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=specific_volume_anomaly/8ef620c2f59410cc0b32210d/",
+    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.09.11/calcofi_phyllosoma.nc",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2504SH_CTDPrelim/csvs-plots/D_P/",
+    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/v2026.09.11/calcofi_phytoplankton.nc",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/cce-lter_picoplankton-bacteria/v2026.09.11/cce-lter_picoplankton-bacteria.nc",
     "n": 3
    }
   ]

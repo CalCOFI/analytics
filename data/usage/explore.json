@@ -7,23 +7,23 @@
  "first_day": "2026-08-28",
  "last_day": "2026-10-07",
  "totals_28d": {
-  "activeUsers": 113.0,
+  "activeUsers": 115.0,
   "newUsers": 58.0,
-  "sessions": 174.0,
-  "engagedSessions": 106.0,
-  "screenPageViews": 1822.0,
-  "eventCount": 2376.0,
-  "userEngagementDuration": 16661.0,
-  "avgEngagementSeconds": 147.4,
+  "sessions": 177.0,
+  "engagedSessions": 109.0,
+  "screenPageViews": 1933.0,
+  "eventCount": 2500.0,
+  "userEngagementDuration": 17360.0,
+  "avgEngagementSeconds": 151.0,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 16.1
+  "viewsPerUser": 16.8
  },
  "delta_28d": {
-  "activeUsers": 73.8,
-  "sessions": 35.9,
-  "engagedSessions": -0.9,
-  "avgEngagementSeconds": -40.0,
-  "screenPageViews": 2.2
+  "activeUsers": 76.9,
+  "sessions": 38.3,
+  "engagedSessions": 1.9,
+  "avgEngagementSeconds": -38.5,
+  "screenPageViews": 8.5
  },
  "daily": [
   {
@@ -213,8 +213,8 @@
   },
   {
    "date": "2026-10-07",
-   "activeUsers": 3.0,
-   "sessions": 9.0
+   "activeUsers": 5.0,
+   "sessions": 12.0
   }
  ],
  "daily_mean7": [
@@ -255,7 +255,7 @@
   3.14,
   3.86,
   3.71,
-  3.57
+  3.86
  ],
  "geo_country": [
   {
@@ -301,6 +301,11 @@
   {
    "country": "Australia",
    "countryId": "AU",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Mexico",
+   "countryId": "MX",
    "activeUsers": 1.0
   },
   {
@@ -394,6 +399,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Mexico",
+   "countryId": "MX",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "New Zealand",
    "countryId": "NZ",
    "region": "Other",
@@ -415,23 +426,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 3604.0,
-   "users": 96.0
+   "count": 3715.0,
+   "users": 97.0
   },
   {
    "name": "scroll",
-   "count": 417.0,
-   "users": 88.0
+   "count": 423.0,
+   "users": 89.0
   },
   {
    "name": "user_engagement",
-   "count": 288.0,
-   "users": 53.0
+   "count": 291.0,
+   "users": 54.0
   },
   {
    "name": "session_start",
-   "count": 282.0,
-   "users": 94.0
+   "count": 285.0,
+   "users": 95.0
   },
   {
    "name": "first_visit",
@@ -445,8 +456,8 @@
   },
   {
    "name": "export",
-   "count": 22.0,
-   "users": 4.0
+   "count": 23.0,
+   "users": 5.0
   },
   {
    "name": "click",

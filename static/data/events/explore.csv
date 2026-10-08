@@ -2,12 +2,12 @@ eventName,eventCount,activeUsers
 cite,8,1
 cite_ack,24,24
 click,10,3
-export,22,4
+export,23,5
 feedback,7,1
 first_visit,80,79
-page_view,3604,96
-scroll,417,88
-session_start,282,94
+page_view,3715,97
+scroll,423,89
+session_start,285,95
 share,7,1
-user_engagement,288,53
+user_engagement,291,54
 view_search_results,8,4
