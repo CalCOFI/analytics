@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-10-07",
+ "last_day": "2026-10-08",
  "totals_28d": {
-  "activeUsers": 100.0,
-  "newUsers": 45.0,
-  "sessions": 131.0,
-  "engagedSessions": 85.0,
-  "screenPageViews": 196.0,
-  "eventCount": 536.0,
-  "userEngagementDuration": 5385.0,
-  "avgEngagementSeconds": 53.9,
-  "engagedSessionRate": 0.6,
-  "viewsPerUser": 2.0
+  "activeUsers": 97.0,
+  "newUsers": 41.0,
+  "sessions": 128.0,
+  "engagedSessions": 87.0,
+  "screenPageViews": 180.0,
+  "eventCount": 500.0,
+  "userEngagementDuration": 5406.0,
+  "avgEngagementSeconds": 55.7,
+  "engagedSessionRate": 0.7,
+  "viewsPerUser": 1.9
  },
  "delta_28d": {
-  "activeUsers": 212.5,
-  "sessions": 156.9,
-  "engagedSessions": 203.6,
-  "avgEngagementSeconds": -68.8,
-  "screenPageViews": 67.5
+  "activeUsers": 142.5,
+  "sessions": 113.3,
+  "engagedSessions": 180.6,
+  "avgEngagementSeconds": -60.9,
+  "screenPageViews": 28.6
  },
  "daily": [
   {
@@ -189,7 +189,12 @@
   {
    "date": "2026-10-07",
    "activeUsers": 7.0,
-   "sessions": 11.0
+   "sessions": 12.0
+  },
+  {
+   "date": "2026-10-08",
+   "activeUsers": 5.0,
+   "sessions": 5.0
   }
  ],
  "daily_mean7": [
@@ -225,13 +230,14 @@
   2.71,
   3.14,
   4.0,
-  4.57
+  4.57,
+  4.86
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 54.0
+   "activeUsers": 56.0
   },
   {
    "country": "China",
@@ -309,7 +315,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 37.0
+   "activeUsers": 39.0
   },
   {
    "country": "China",
@@ -411,38 +417,38 @@
  "events": [
   {
    "name": "page_view",
-   "count": 313.0,
-   "users": 100.0
+   "count": 320.0,
+   "users": 102.0
   },
   {
    "name": "user_engagement",
-   "count": 253.0,
-   "users": 53.0
+   "count": 257.0,
+   "users": 54.0
   },
   {
    "name": "session_start",
-   "count": 109.0,
-   "users": 80.0
+   "count": 112.0,
+   "users": 82.0
   },
   {
    "name": "first_visit",
-   "count": 67.0,
-   "users": 67.0
+   "count": 69.0,
+   "users": 69.0
   },
   {
    "name": "scroll",
-   "count": 49.0,
+   "count": 51.0,
    "users": 20.0
   },
   {
    "name": "click",
-   "count": 21.0,
-   "users": 13.0
+   "count": 22.0,
+   "users": 14.0
   },
   {
    "name": "file_download",
-   "count": 11.0,
-   "users": 7.0
+   "count": 12.0,
+   "users": 8.0
   },
   {
    "name": "form_start",

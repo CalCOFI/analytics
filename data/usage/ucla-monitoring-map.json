@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-10-07",
+ "last_day": "2026-10-08",
  "totals_28d": {
-  "activeUsers": 157.0,
-  "newUsers": 87.0,
-  "sessions": 224.0,
+  "activeUsers": 156.0,
+  "newUsers": 82.0,
+  "sessions": 218.0,
   "engagedSessions": 90.0,
-  "screenPageViews": 227.0,
-  "eventCount": 832.0,
-  "userEngagementDuration": 5775.0,
-  "avgEngagementSeconds": 36.8,
+  "screenPageViews": 222.0,
+  "eventCount": 815.0,
+  "userEngagementDuration": 6224.0,
+  "avgEngagementSeconds": 39.9,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": -83.9,
-  "sessions": -82.5,
-  "engagedSessions": -81.1,
-  "avgEngagementSeconds": 12.5,
-  "screenPageViews": -83.8
+  "activeUsers": -84.1,
+  "sessions": -83.2,
+  "engagedSessions": -81.2,
+  "avgEngagementSeconds": 22.4,
+  "screenPageViews": -84.3
  },
  "daily": [
   {
@@ -300,6 +300,11 @@
    "date": "2026-10-07",
    "activeUsers": 15.0,
    "sessions": 17.0
+  },
+  {
+   "date": "2026-10-08",
+   "activeUsers": 5.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -357,13 +362,14 @@
   5.0,
   5.0,
   4.86,
-  6.57
+  6.57,
+  6.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 932.0
+   "activeUsers": 933.0
   },
   {
    "country": "Mexico",
@@ -539,7 +545,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Washington",
-   "activeUsers": 36.0
+   "activeUsers": 37.0
   },
   {
    "country": "United States",
@@ -791,17 +797,17 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1644.0,
+   "count": 1650.0,
    "users": 999.0
   },
   {
    "name": "session_start",
-   "count": 1469.0,
+   "count": 1473.0,
    "users": 989.0
   },
   {
    "name": "scroll",
-   "count": 1414.0,
+   "count": 1420.0,
    "users": 920.0
   },
   {
@@ -811,8 +817,8 @@
   },
   {
    "name": "user_engagement",
-   "count": 725.0,
-   "users": 470.0
+   "count": 731.0,
+   "users": 471.0
   },
   {
    "name": "click",

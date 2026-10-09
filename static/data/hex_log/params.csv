@@ -10,7 +10,7 @@ env_var,ph,4
 env_var,phosphate,3
 env_var,salinity_ave_corr,2
 env_var,sst_c,4
-env_var,temperature,303
+env_var,temperature,311
 layers,ca_county_boundaries,3
 layers,ca_marine_protected_areas,1
 layers,ca_ports,1
@@ -24,7 +24,7 @@ taxa,American White Pelican (species: Pelecanus erythrorhynchos),2
 taxa,Baird's Beaked Whale (species: Berardius bairdii),2
 taxa,Dungeness crab (species: Metacarcinus magister),12
 taxa,Market squid (species: Doryteuthis opalescens),13
-taxa,Northern anchovy (species: Engraulis mordax),9
+taxa,Northern anchovy (species: Engraulis mordax),17
 taxa,Pacific krill (species: Euphausia pacifica),6
 taxa,Pacific sardine (pilchard) (species: Sardinops sagax),225
 taxa,Sardinops sagax,1
