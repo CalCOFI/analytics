@@ -769,53 +769,58 @@
    },
    {
     "date": "2026-10-08",
-    "requests": 688.0,
-    "bytes": 9400784230.0
+    "requests": 1558.0,
+    "bytes": 9441439596.0
+   },
+   {
+    "date": "2026-10-09",
+    "requests": 635.0,
+    "bytes": 8057552564.0
    }
   ],
   "totals_28d": {
-   "requests": 102976.0,
-   "bytes": 75675668025.0,
+   "requests": 104481.0,
+   "bytes": 83773875955.0,
    "clients": 3108.0,
-   "tool": 42631.0,
-   "browser": 60345.0
+   "tool": 43505.0,
+   "browser": 60976.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 51
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 20
+    "n": 29
    },
    {
-    "path": "/favicon.ico",
-    "n": 6
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
+    "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/v2026.09.11/cce-lter_zoodb.nc",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.08.04/calcofi_bottle.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.08.04/calcofi_dic.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.09.11/calcofi_phyllosoma.nc",
+    "path": "/calcofi-files-public/measurement-media/keys/phosphate/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/v2026.09.11/calcofi_phytoplankton.nc",
+    "path": "/calcofi-db/ducklake-staging/tables/dataset/6579894a71822761c9afe23a/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/dataset/54965a789340284e8226db0b/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.11/swfsc_ichthyo.nc",
     "n": 3
    },
    {

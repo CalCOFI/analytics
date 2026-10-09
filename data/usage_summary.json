@@ -1,23 +1,23 @@
 {
- "generated": "2026-10-09T03:04:45+00:00",
+ "generated": "2026-10-09T11:17:37+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 656.0,
-  "activeUsers": 1533.0,
-  "sessions": 1829.0
+  "engagedSessions": 672.0,
+  "activeUsers": 1554.0,
+  "sessions": 1856.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 109.0,
-   "activeUsers": 115.0,
-   "sessions": 176.0,
+   "engagedSessions": 110.0,
+   "activeUsers": 116.0,
+   "sessions": 177.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 151.4,
-   "delta": -0.9,
+   "avgEngagementSeconds": 153.4,
+   "delta": 0.0,
    "spark": [
     2.0,
     2.0,
@@ -57,19 +57,19 @@
     7.0,
     3.0,
     6.0,
-    2.0
+    3.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
-   "engagedSessions": 90.0,
-   "activeUsers": 156.0,
-   "sessions": 218.0,
+   "engagedSessions": 94.0,
+   "activeUsers": 161.0,
+   "sessions": 224.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 39.9,
-   "delta": -81.2,
+   "avgEngagementSeconds": 39.3,
+   "delta": -80.4,
    "spark": [
     2.0,
     2.0,
@@ -126,19 +126,19 @@
     7.0,
     8.0,
     15.0,
-    5.0
+    10.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 87.0,
-   "activeUsers": 97.0,
-   "sessions": 128.0,
+   "engagedSessions": 91.0,
+   "activeUsers": 100.0,
+   "sessions": 132.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 55.7,
-   "delta": 180.6,
+   "avgEngagementSeconds": 55.1,
+   "delta": 193.5,
    "spark": [
     1.0,
     2.0,
@@ -173,7 +173,7 @@
     7.0,
     9.0,
     7.0,
-    5.0
+    8.0
    ],
    "mostly_automated": false
   },
@@ -181,10 +181,10 @@
    "slug": "docs",
    "title": "docs",
    "engagedSessions": 81.0,
-   "activeUsers": 129.0,
-   "sessions": 144.0,
+   "activeUsers": 131.0,
+   "sessions": 146.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 11.4,
+   "avgEngagementSeconds": 11.2,
    "delta": -38.2,
    "spark": [
     1.0,
@@ -276,19 +276,19 @@
     4.0,
     1.0,
     7.0,
-    7.0
+    9.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 73.0,
-   "activeUsers": 73.0,
-   "sessions": 115.0,
+   "engagedSessions": 75.0,
+   "activeUsers": 75.0,
+   "sessions": 117.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 108.0,
-   "delta": -21.5,
+   "avgEngagementSeconds": 119.4,
+   "delta": -19.4,
    "spark": [
     2.0,
     3.0,
@@ -352,7 +352,7 @@
     13.0,
     2.0,
     5.0,
-    2.0
+    4.0
    ],
    "mostly_automated": false
   },
@@ -361,7 +361,7 @@
    "title": "ctd-transects",
    "engagedSessions": 73.0,
    "activeUsers": 61.0,
-   "sessions": 99.0,
+   "sessions": 101.0,
    "engagementRate": 0.7,
    "avgEngagementSeconds": 167.4,
    "delta": 14.1,
@@ -421,12 +421,12 @@
   {
    "slug": "calcofi4r",
    "title": "calcofi4r",
-   "engagedSessions": 20.0,
-   "activeUsers": 108.0,
-   "sessions": 116.0,
+   "engagedSessions": 21.0,
+   "activeUsers": 109.0,
+   "sessions": 118.0,
    "engagementRate": 0.2,
-   "avgEngagementSeconds": 4.0,
-   "delta": -31.0,
+   "avgEngagementSeconds": 5.2,
+   "delta": -27.6,
    "spark": [
     3.0,
     6.0,
@@ -517,19 +517,19 @@
     3.0,
     11.0,
     9.0,
-    2.0
+    3.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
-   "engagedSessions": 16.0,
-   "activeUsers": 19.0,
-   "sessions": 26.0,
+   "engagedSessions": 17.0,
+   "activeUsers": 20.0,
+   "sessions": 27.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 125.9,
-   "delta": -88.6,
+   "avgEngagementSeconds": 119.7,
+   "delta": -87.9,
    "spark": [
     1.0,
     1.0,
@@ -591,7 +591,7 @@
     2.0,
     0.0,
     2.0,
-    1.0,
+    2.0,
     1.0,
     1.0,
     4.0,
@@ -664,12 +664,12 @@
   {
    "slug": "marmam",
    "title": "Marine Mammal App",
-   "engagedSessions": 14.0,
-   "activeUsers": 26.0,
-   "sessions": 31.0,
+   "engagedSessions": 15.0,
+   "activeUsers": 27.0,
+   "sessions": 32.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 13.1,
-   "delta": 600.0,
+   "avgEngagementSeconds": 14.3,
+   "delta": 650.0,
    "spark": [
     1.0,
     1.0,
@@ -712,6 +712,7 @@
     1.0,
     1.0,
     1.0,
+    1.0,
     2.0,
     0.0,
     2.0,
@@ -735,12 +736,12 @@
   {
    "slug": "db-schema",
    "title": "db-schema",
-   "engagedSessions": 14.0,
-   "activeUsers": 25.0,
-   "sessions": 26.0,
-   "engagementRate": 0.5,
-   "avgEngagementSeconds": 17.8,
-   "delta": -66.7,
+   "engagedSessions": 15.0,
+   "activeUsers": 26.0,
+   "sessions": 27.0,
+   "engagementRate": 0.6,
+   "avgEngagementSeconds": 17.2,
+   "delta": -64.3,
    "spark": [
     1.0,
     1.0,
@@ -789,19 +790,20 @@
     4.0,
     2.0,
     3.0,
-    2.0
+    2.0,
+    1.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "erddap",
    "title": "erddap",
-   "engagedSessions": 14.0,
-   "activeUsers": 24.0,
-   "sessions": 26.0,
-   "engagementRate": 0.5,
-   "avgEngagementSeconds": 80.3,
-   "delta": -36.4,
+   "engagedSessions": 15.0,
+   "activeUsers": 25.0,
+   "sessions": 27.0,
+   "engagementRate": 0.6,
+   "avgEngagementSeconds": 90.9,
+   "delta": -31.8,
    "spark": [
     3.0,
     1.0,
@@ -851,7 +853,7 @@
     1.0,
     1.0,
     1.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
@@ -962,8 +964,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 11.0,
-   "activeUsers": 632.0,
-   "sessions": 633.0,
+   "activeUsers": 635.0,
+   "sessions": 636.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.4,
    "delta": 10.0,
@@ -1057,7 +1059,7 @@
     9.0,
     9.0,
     36.0,
-    6.0
+    9.0
    ],
    "mostly_automated": true
   },
@@ -1119,7 +1121,7 @@
    "title": "Capstone App",
    "engagedSessions": 4.0,
    "activeUsers": 8.0,
-   "sessions": 14.0,
+   "sessions": 15.0,
    "engagementRate": 0.3,
    "avgEngagementSeconds": 18.8,
    "delta": -20.0,
@@ -1166,6 +1168,7 @@
     1.0,
     1.0,
     2.0,
+    0.0,
     1.0,
     2.0,
     1.0,

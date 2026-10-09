@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-28",
- "last_day": "2026-10-07",
+ "last_day": "2026-10-08",
  "totals_28d": {
-  "activeUsers": 25.0,
+  "activeUsers": 26.0,
   "newUsers": 13.0,
-  "sessions": 26.0,
-  "engagedSessions": 14.0,
-  "screenPageViews": 26.0,
-  "eventCount": 77.0,
-  "userEngagementDuration": 445.0,
-  "avgEngagementSeconds": 17.8,
-  "engagedSessionRate": 0.5,
+  "sessions": 27.0,
+  "engagedSessions": 15.0,
+  "screenPageViews": 27.0,
+  "eventCount": 79.0,
+  "userEngagementDuration": 447.0,
+  "avgEngagementSeconds": 17.2,
+  "engagedSessionRate": 0.6,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -32.4,
-  "sessions": -56.7,
-  "engagedSessions": -66.7,
-  "avgEngagementSeconds": -24.3,
-  "screenPageViews": -60.0
+  "activeUsers": -29.7,
+  "sessions": -55.0,
+  "engagedSessions": -64.3,
+  "avgEngagementSeconds": -26.8,
+  "screenPageViews": -58.5
  },
  "daily": [
   {
@@ -265,6 +265,11 @@
    "date": "2026-10-07",
    "activeUsers": 2.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-10-08",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -315,7 +320,8 @@
   2.0,
   2.14,
   2.43,
-  2.43
+  2.43,
+  2.29
  ],
  "geo_country": [
   {
@@ -337,6 +343,11 @@
    "country": "Singapore",
    "countryId": "SG",
    "activeUsers": 7.0
+  },
+  {
+   "country": "Mexico",
+   "countryId": "MX",
+   "activeUsers": 1.0
   }
  ],
  "geo": [
@@ -371,6 +382,12 @@
    "activeUsers": 6.0
   },
   {
+   "country": "Mexico",
+   "countryId": "MX",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Singapore",
    "countryId": "SG",
    "region": "",
@@ -380,13 +397,13 @@
  "events": [
   {
    "name": "page_view",
-   "count": 171.0,
-   "users": 42.0
+   "count": 172.0,
+   "users": 43.0
   },
   {
    "name": "user_engagement",
-   "count": 108.0,
-   "users": 20.0
+   "count": 109.0,
+   "users": 21.0
   },
   {
    "name": "session_start",
