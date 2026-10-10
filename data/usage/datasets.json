@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-10-08",
+ "last_day": "2026-10-09",
  "totals_28d": {
-  "activeUsers": 100.0,
-  "newUsers": 42.0,
-  "sessions": 132.0,
-  "engagedSessions": 91.0,
-  "screenPageViews": 187.0,
-  "eventCount": 516.0,
-  "userEngagementDuration": 5507.0,
-  "avgEngagementSeconds": 55.1,
+  "activeUsers": 103.0,
+  "newUsers": 44.0,
+  "sessions": 134.0,
+  "engagedSessions": 90.0,
+  "screenPageViews": 194.0,
+  "eventCount": 532.0,
+  "userEngagementDuration": 5463.0,
+  "avgEngagementSeconds": 53.0,
   "engagedSessionRate": 0.7,
   "viewsPerUser": 1.9
  },
  "delta_28d": {
-  "activeUsers": 150.0,
-  "sessions": 120.0,
-  "engagedSessions": 193.5,
-  "avgEngagementSeconds": -61.4,
-  "screenPageViews": 33.6
+  "activeUsers": 145.2,
+  "sessions": 112.7,
+  "engagedSessions": 164.7,
+  "avgEngagementSeconds": -62.4,
+  "screenPageViews": 36.6
  },
  "daily": [
   {
@@ -193,8 +193,13 @@
   },
   {
    "date": "2026-10-08",
-   "activeUsers": 8.0,
-   "sessions": 9.0
+   "activeUsers": 9.0,
+   "sessions": 10.0
+  },
+  {
+   "date": "2026-10-09",
+   "activeUsers": 4.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -231,7 +236,8 @@
   3.14,
   4.0,
   4.57,
-  5.29
+  5.43,
+  5.57
  ],
  "geo_country": [
   {
@@ -242,7 +248,7 @@
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 25.0
+   "activeUsers": 26.0
   },
   {
    "country": "Italy",
@@ -290,6 +296,11 @@
    "activeUsers": 2.0
   },
   {
+   "country": "",
+   "countryId": "",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Canada",
    "countryId": "CA",
    "activeUsers": 1.0
@@ -321,7 +332,7 @@
    "country": "China",
    "countryId": "CN",
    "region": "Other",
-   "activeUsers": 25.0
+   "activeUsers": 26.0
   },
   {
    "country": "United States",
@@ -384,6 +395,12 @@
    "activeUsers": 2.0
   },
   {
+   "country": "",
+   "countryId": "",
+   "region": "",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Canada",
    "countryId": "CA",
    "region": "Other",
@@ -417,23 +434,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 327.0,
-   "users": 104.0
+   "count": 336.0,
+   "users": 107.0
   },
   {
    "name": "user_engagement",
-   "count": 263.0,
+   "count": 269.0,
    "users": 56.0
   },
   {
    "name": "session_start",
-   "count": 113.0,
-   "users": 84.0
+   "count": 118.0,
+   "users": 88.0
   },
   {
    "name": "first_visit",
-   "count": 70.0,
-   "users": 70.0
+   "count": 73.0,
+   "users": 73.0
   },
   {
    "name": "scroll",
@@ -442,7 +459,7 @@
   },
   {
    "name": "click",
-   "count": 22.0,
+   "count": 23.0,
    "users": 14.0
   },
   {
@@ -452,8 +469,8 @@
   },
   {
    "name": "form_start",
-   "count": 2.0,
-   "users": 1.0
+   "count": 3.0,
+   "users": 2.0
   }
  ]
 }

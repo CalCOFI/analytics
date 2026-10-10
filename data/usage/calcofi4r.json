@@ -19,11 +19,11 @@
   "viewsPerUser": 1.2
  },
  "delta_28d": {
-  "activeUsers": 38.0,
-  "sessions": 31.1,
-  "engagedSessions": -27.6,
-  "avgEngagementSeconds": -41.6,
-  "screenPageViews": 14.5
+  "activeUsers": 39.7,
+  "sessions": 32.6,
+  "engagedSessions": -25.0,
+  "avgEngagementSeconds": -40.9,
+  "screenPageViews": 15.6
  },
  "daily": [
   {
@@ -747,7 +747,7 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 160.0
+   "activeUsers": 162.0
   },
   {
    "country": "United States",
@@ -820,7 +820,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 155.0
+   "activeUsers": 157.0
   },
   {
    "country": "United States",

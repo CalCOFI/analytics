@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-10-08",
+ "last_day": "2026-10-09",
  "totals_28d": {
-  "activeUsers": 75.0,
+  "activeUsers": 77.0,
   "newUsers": 20.0,
-  "sessions": 117.0,
-  "engagedSessions": 75.0,
-  "screenPageViews": 123.0,
-  "eventCount": 459.0,
-  "userEngagementDuration": 8952.0,
-  "avgEngagementSeconds": 119.4,
+  "sessions": 120.0,
+  "engagedSessions": 77.0,
+  "screenPageViews": 125.0,
+  "eventCount": 467.0,
+  "userEngagementDuration": 9032.0,
+  "avgEngagementSeconds": 117.3,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 1.6
  },
  "delta_28d": {
-  "activeUsers": -42.7,
-  "sessions": -32.8,
-  "engagedSessions": -19.4,
-  "avgEngagementSeconds": 175.8,
-  "screenPageViews": -46.3
+  "activeUsers": -39.8,
+  "sessions": -29.4,
+  "engagedSessions": -16.3,
+  "avgEngagementSeconds": 164.8,
+  "screenPageViews": -44.7
  },
  "daily": [
   {
@@ -340,6 +340,11 @@
    "date": "2026-10-08",
    "activeUsers": 4.0,
    "sessions": 4.0
+  },
+  {
+   "date": "2026-10-09",
+   "activeUsers": 2.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -405,13 +410,14 @@
   4.71,
   4.43,
   4.71,
-  5.0
+  5.0,
+  4.86
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 118.0
+   "activeUsers": 119.0
   },
   {
    "country": "Italy",
@@ -471,7 +477,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 18.0
+   "activeUsers": 19.0
   },
   {
    "country": "Italy",
@@ -531,22 +537,22 @@
  "events": [
   {
    "name": "page_view",
-   "count": 400.0,
-   "users": 124.0
+   "count": 402.0,
+   "users": 125.0
   },
   {
    "name": "scroll",
-   "count": 368.0,
-   "users": 95.0
+   "count": 370.0,
+   "users": 96.0
   },
   {
    "name": "user_engagement",
-   "count": 259.0,
-   "users": 60.0
+   "count": 262.0,
+   "users": 61.0
   },
   {
    "name": "session_start",
-   "count": 227.0,
+   "count": 228.0,
    "users": 111.0
   },
   {

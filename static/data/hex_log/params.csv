@@ -1,16 +1,21 @@
 param,value,n
 env_var,chlorophyll_a,10
+env_var,ctdtemp_its90,10
 env_var,dic,4
+env_var,fluorescence_v,2
 env_var,nitrate,3
 env_var,nitrite,10
-env_var,oxygen_saturation,5
+env_var,oxygen_saturation,7
 env_var,oxygen_umol_kg_ave_sta_corr,4
 env_var,par,2
 env_var,ph,4
 env_var,phosphate,3
+env_var,pressure,2
+env_var,salinity,2
 env_var,salinity_ave_corr,2
+env_var,spiciness0,2
 env_var,sst_c,4
-env_var,temperature,311
+env_var,temperature,315
 layers,ca_county_boundaries,3
 layers,ca_marine_protected_areas,1
 layers,ca_ports,1
@@ -20,12 +25,17 @@ taxa,(family: Aetideidae),2
 taxa,(species: Dasyscopelus obtusirostris),2
 taxa,(species: Euphausia brevis),5
 taxa,(species: Metacarcinus magister),2
+taxa,AMPHIPODA GAMMARIDEA (suborder: Gammaridea),2
+taxa,AMPHIPODA HYPERIIDEA (suborder: Hyperiidea),14
 taxa,American White Pelican (species: Pelecanus erythrorhynchos),2
 taxa,Baird's Beaked Whale (species: Berardius bairdii),2
+taxa,California spiny lobster (species: Panulirus interruptus),2
+taxa,Decapods (order: Decapoda),2
 taxa,Dungeness crab (species: Metacarcinus magister),12
+taxa,Killer Whale (species: Orcinus orca),2
 taxa,Market squid (species: Doryteuthis opalescens),13
 taxa,Northern anchovy (species: Engraulis mordax),17
 taxa,Pacific krill (species: Euphausia pacifica),6
-taxa,Pacific sardine (pilchard) (species: Sardinops sagax),225
+taxa,Pacific sardine (pilchard) (species: Sardinops sagax),227
 taxa,Sardinops sagax,1
 taxa,Sooty Shearwater (species: Ardenna grisea),2

@@ -20,7 +20,7 @@
  },
  "delta_28d": {
   "activeUsers": -68.8,
-  "sessions": -84.7,
+  "sessions": -84.6,
   "engagedSessions": -87.9,
   "avgEngagementSeconds": -79.5,
   "screenPageViews": -93.8
@@ -1132,6 +1132,15 @@
     "p95_ms": "13527.7"
    },
    {
+    "date": "2026-10-09",
+    "events": "40",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "30.8",
+    "p95_ms": "98.8"
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1255,7 +1264,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "131",
+    "n": "143",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1279,9 +1288,9 @@
    },
    {
     "event": "map_query_env",
-    "n": "131",
-    "p50_ms": "27.0",
-    "p95_ms": "87.4",
+    "n": "143",
+    "p50_ms": "26.2",
+    "p95_ms": "86.8",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1295,9 +1304,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "131",
-    "p50_ms": "57.8",
-    "p95_ms": "513.1",
+    "n": "143",
+    "p50_ms": "56.1",
+    "p95_ms": "472.6",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1327,7 +1336,7 @@
    },
    {
     "event": "open_filters",
-    "n": "67",
+    "n": "68",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1375,7 +1384,7 @@
    },
    {
     "event": "select_tab",
-    "n": "85",
+    "n": "86",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1391,7 +1400,7 @@
    },
    {
     "event": "session_start",
-    "n": "349",
+    "n": "350",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1399,7 +1408,7 @@
    },
    {
     "event": "start_tour",
-    "n": "278",
+    "n": "279",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1418,17 +1427,22 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "311"
+    "n": "315"
    },
    {
     "param": "taxa",
     "value": "Pacific sardine (pilchard) (species: Sardinops sagax)",
-    "n": "225"
+    "n": "227"
    },
    {
     "param": "taxa",
     "value": "Northern anchovy (species: Engraulis mordax)",
     "n": "17"
+   },
+   {
+    "param": "taxa",
+    "value": "AMPHIPODA HYPERIIDEA (suborder: Hyperiidea)",
+    "n": "14"
    },
    {
     "param": "taxa",
@@ -1447,8 +1461,18 @@
    },
    {
     "param": "env_var",
+    "value": "ctdtemp_its90",
+    "n": "10"
+   },
+   {
+    "param": "env_var",
     "value": "nitrite",
     "n": "10"
+   },
+   {
+    "param": "env_var",
+    "value": "oxygen_saturation",
+    "n": "7"
    },
    {
     "param": "layers",
@@ -1459,11 +1483,6 @@
     "param": "taxa",
     "value": "Pacific krill (species: Euphausia pacifica)",
     "n": "6"
-   },
-   {
-    "param": "env_var",
-    "value": "oxygen_saturation",
-    "n": "5"
    },
    {
     "param": "taxa",
@@ -1507,12 +1526,32 @@
    },
    {
     "param": "env_var",
+    "value": "fluorescence_v",
+    "n": "2"
+   },
+   {
+    "param": "env_var",
     "value": "par",
     "n": "2"
    },
    {
     "param": "env_var",
+    "value": "pressure",
+    "n": "2"
+   },
+   {
+    "param": "env_var",
+    "value": "salinity",
+    "n": "2"
+   },
+   {
+    "param": "env_var",
     "value": "salinity_ave_corr",
+    "n": "2"
+   },
+   {
+    "param": "env_var",
+    "value": "spiciness0",
     "n": "2"
    },
    {
@@ -1537,12 +1576,32 @@
    },
    {
     "param": "taxa",
+    "value": "AMPHIPODA GAMMARIDEA (suborder: Gammaridea)",
+    "n": "2"
+   },
+   {
+    "param": "taxa",
     "value": "American White Pelican (species: Pelecanus erythrorhynchos)",
     "n": "2"
    },
    {
     "param": "taxa",
     "value": "Baird's Beaked Whale (species: Berardius bairdii)",
+    "n": "2"
+   },
+   {
+    "param": "taxa",
+    "value": "California spiny lobster (species: Panulirus interruptus)",
+    "n": "2"
+   },
+   {
+    "param": "taxa",
+    "value": "Decapods (order: Decapoda)",
+    "n": "2"
+   },
+   {
+    "param": "taxa",
+    "value": "Killer Whale (species: Orcinus orca)",
     "n": "2"
    },
    {
@@ -1731,9 +1790,9 @@
    },
    {
     "app_version": "c2f854a",
-    "n": "212",
+    "n": "252",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-10-08"
+    "last_seen": "2026-10-09"
    },
    {
     "app_version": "cbc4d03",

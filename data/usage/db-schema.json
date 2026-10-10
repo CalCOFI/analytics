@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-28",
- "last_day": "2026-10-08",
+ "last_day": "2026-10-09",
  "totals_28d": {
-  "activeUsers": 26.0,
-  "newUsers": 13.0,
-  "sessions": 27.0,
+  "activeUsers": 27.0,
+  "newUsers": 14.0,
+  "sessions": 28.0,
   "engagedSessions": 15.0,
-  "screenPageViews": 27.0,
-  "eventCount": 79.0,
-  "userEngagementDuration": 447.0,
-  "avgEngagementSeconds": 17.2,
-  "engagedSessionRate": 0.6,
+  "screenPageViews": 28.0,
+  "eventCount": 83.0,
+  "userEngagementDuration": 448.0,
+  "avgEngagementSeconds": 16.6,
+  "engagedSessionRate": 0.5,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -29.7,
-  "sessions": -55.0,
-  "engagedSessions": -64.3,
-  "avgEngagementSeconds": -26.8,
-  "screenPageViews": -58.5
+  "activeUsers": -22.9,
+  "sessions": -50.9,
+  "engagedSessions": -62.5,
+  "avgEngagementSeconds": -32.2,
+  "screenPageViews": -54.8
  },
  "daily": [
   {
@@ -270,6 +270,11 @@
    "date": "2026-10-08",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-10-09",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -321,7 +326,8 @@
   2.14,
   2.43,
   2.43,
-  2.29
+  2.29,
+  2.0
  ],
  "geo_country": [
   {
@@ -332,7 +338,7 @@
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 7.0
+   "activeUsers": 8.0
   },
   {
    "country": "Italy",
@@ -367,7 +373,7 @@
    "country": "China",
    "countryId": "CN",
    "region": "Other",
-   "activeUsers": 7.0
+   "activeUsers": 8.0
   },
   {
    "country": "Italy",
@@ -397,18 +403,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 172.0,
-   "users": 43.0
+   "count": 173.0,
+   "users": 44.0
   },
   {
    "name": "user_engagement",
-   "count": 109.0,
-   "users": 21.0
+   "count": 110.0,
+   "users": 22.0
   },
   {
    "name": "session_start",
-   "count": 89.0,
-   "users": 37.0
+   "count": 90.0,
+   "users": 38.0
   },
   {
    "name": "scroll",
@@ -417,8 +423,8 @@
   },
   {
    "name": "first_visit",
-   "count": 33.0,
-   "users": 33.0
+   "count": 34.0,
+   "users": 34.0
   },
   {
    "name": "click",

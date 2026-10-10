@@ -19,11 +19,11 @@
   "viewsPerUser": 3.5
  },
  "delta_28d": {
-  "activeUsers": -29.6,
-  "sessions": -13.3,
+  "activeUsers": -24.0,
+  "sessions": -7.1,
   "engagedSessions": 14.3,
-  "avgEngagementSeconds": 7.8,
-  "screenPageViews": -10.7
+  "avgEngagementSeconds": 0.0,
+  "screenPageViews": -8.2
  },
  "daily": [
   {
@@ -779,11 +779,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 104481.0,
-   "bytes": 83773875955.0,
+   "requests": 101721.0,
+   "bytes": 83742565122.0,
    "clients": 3108.0,
-   "tool": 43505.0,
-   "browser": 60976.0
+   "tool": 41746.0,
+   "browser": 59975.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
