@@ -839,58 +839,63 @@
    },
    {
     "date": "2026-10-09",
-    "requests": 947.0,
-    "bytes": 10412078.0
+    "requests": 3270.0,
+    "bytes": 42676196.0
+   },
+   {
+    "date": "2026-10-10",
+    "requests": 939.0,
+    "bytes": 9160371.0
    }
   ],
   "totals_28d": {
-   "requests": 79125.0,
-   "bytes": 2855290089.0,
+   "requests": 82387.0,
+   "bytes": 2896714578.0,
    "clients": 1895.0,
-   "tool": 49974.0,
-   "browser": 29151.0
+   "tool": 52039.0,
+   "browser": 30348.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 50
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_bottle.graph",
-    "n": 28
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 27
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 25
+    "n": 52
    },
    {
     "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
-    "n": 24
+    "n": 33
    },
    {
     "path": "/erddap/tabledap/calcofi_ctd-cast.html",
-    "n": 24
-   },
-   {
-    "path": "/robots.txt",
-    "n": 20
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 19
+    "n": 29
    },
    {
     "path": "/erddap/tabledap/calcofi_ctd-cast.subset",
-    "n": 18
+    "n": 26
    },
    {
-    "path": "/erddap/tabledap/cce-lter_zoodb.graph",
+    "path": "/erddap/tabledap/calcofi_bottle.html",
+    "n": 23
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle.subset",
+    "n": 20
+   },
+   {
+    "path": "/erddap/tabledap/cce-lter_zooscan_sample.graph",
     "n": 17
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle.graph",
+    "n": 16
+   },
+   {
+    "path": "/",
+    "n": 15
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
+    "n": 14
    }
   ]
  }
