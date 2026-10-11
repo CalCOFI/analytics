@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-30",
- "last_day": "2026-10-09",
+ "last_day": "2026-10-10",
  "totals_28d": {
-  "activeUsers": 26.0,
-  "newUsers": 15.0,
-  "sessions": 28.0,
+  "activeUsers": 27.0,
+  "newUsers": 16.0,
+  "sessions": 29.0,
   "engagedSessions": 16.0,
-  "screenPageViews": 138.0,
-  "eventCount": 361.0,
+  "screenPageViews": 139.0,
+  "eventCount": 364.0,
   "userEngagementDuration": 2336.0,
-  "avgEngagementSeconds": 89.8,
+  "avgEngagementSeconds": 86.5,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 5.3
+  "viewsPerUser": 5.2
  },
  "delta_28d": {
-  "activeUsers": -51.9,
-  "sessions": -54.1,
-  "engagedSessions": -23.8,
-  "avgEngagementSeconds": 275.7,
-  "screenPageViews": 13.1
+  "activeUsers": -49.1,
+  "sessions": -50.8,
+  "engagedSessions": -15.8,
+  "avgEngagementSeconds": 265.0,
+  "screenPageViews": 20.9
  },
  "daily": [
   {
@@ -275,6 +275,11 @@
    "date": "2026-10-09",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-10-10",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -327,13 +332,14 @@
   1.14,
   1.14,
   1.29,
+  1.29,
   1.29
  ],
  "geo_country": [
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 40.0
+   "activeUsers": 41.0
   },
   {
    "country": "United States",
@@ -376,7 +382,7 @@
    "country": "China",
    "countryId": "CN",
    "region": "Other",
-   "activeUsers": 39.0
+   "activeUsers": 40.0
   },
   {
    "country": "United States",
@@ -436,8 +442,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 352.0,
-   "users": 69.0
+   "count": 353.0,
+   "users": 70.0
   },
   {
    "name": "user_engagement",
@@ -451,13 +457,13 @@
   },
   {
    "name": "session_start",
-   "count": 81.0,
-   "users": 62.0
+   "count": 82.0,
+   "users": 63.0
   },
   {
    "name": "first_visit",
-   "count": 58.0,
-   "users": 56.0
+   "count": 59.0,
+   "users": 57.0
   },
   {
    "name": "form_start",
@@ -849,11 +855,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 82387.0,
-   "bytes": 2896714578.0,
+   "requests": 80906.0,
+   "bytes": 2880231318.0,
    "clients": 1895.0,
-   "tool": 52039.0,
-   "browser": 30348.0
+   "tool": 51171.0,
+   "browser": 29735.0
   },
   "first_day": "2026-07-29",
   "top_paths": [

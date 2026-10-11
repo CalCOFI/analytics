@@ -3,7 +3,7 @@ env_var,chlorophyll_a,10
 env_var,ctdtemp_its90,10
 env_var,dic,4
 env_var,fluorescence_v,2
-env_var,nitrate,3
+env_var,nitrate,9
 env_var,nitrite,10
 env_var,oxygen_saturation,7
 env_var,oxygen_umol_kg_ave_sta_corr,4
@@ -15,7 +15,7 @@ env_var,salinity,2
 env_var,salinity_ave_corr,2
 env_var,spiciness0,2
 env_var,sst_c,4
-env_var,temperature,315
+env_var,temperature,321
 layers,ca_county_boundaries,3
 layers,ca_marine_protected_areas,1
 layers,ca_ports,1
@@ -36,6 +36,6 @@ taxa,Killer Whale (species: Orcinus orca),2
 taxa,Market squid (species: Doryteuthis opalescens),13
 taxa,Northern anchovy (species: Engraulis mordax),17
 taxa,Pacific krill (species: Euphausia pacifica),6
-taxa,Pacific sardine (pilchard) (species: Sardinops sagax),227
+taxa,Pacific sardine (pilchard) (species: Sardinops sagax),239
 taxa,Sardinops sagax,1
 taxa,Sooty Shearwater (species: Ardenna grisea),2

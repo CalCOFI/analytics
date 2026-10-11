@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-05-07",
- "last_day": "2026-10-09",
+ "last_day": "2026-10-10",
  "totals_28d": {
-  "activeUsers": 615.0,
-  "newUsers": 613.0,
-  "sessions": 616.0,
+  "activeUsers": 362.0,
+  "newUsers": 360.0,
+  "sessions": 363.0,
   "engagedSessions": 11.0,
-  "screenPageViews": 616.0,
-  "eventCount": 1941.0,
-  "userEngagementDuration": 280.0,
-  "avgEngagementSeconds": 0.5,
+  "screenPageViews": 363.0,
+  "eventCount": 1180.0,
+  "userEngagementDuration": 275.0,
+  "avgEngagementSeconds": 0.8,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 75.2,
-  "sessions": 75.0,
+  "activeUsers": -31.6,
+  "sessions": -31.5,
   "engagedSessions": 37.5,
-  "avgEngagementSeconds": -58.3,
-  "screenPageViews": 71.1
+  "avgEngagementSeconds": 0.0,
+  "screenPageViews": -32.5
  },
  "daily": [
   {
@@ -535,6 +535,11 @@
    "date": "2026-10-09",
    "activeUsers": 3.0,
    "sessions": 3.0
+  },
+  {
+   "date": "2026-10-10",
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -639,13 +644,14 @@
   17.0,
   20.71,
   19.0,
-  14.86
+  14.86,
+  11.86
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 940.0
+   "activeUsers": 942.0
   },
   {
    "country": "Brazil",
@@ -853,7 +859,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 937.0
+   "activeUsers": 939.0
   },
   {
    "country": "Brazil",
@@ -1123,23 +1129,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1065.0,
-   "users": 1047.0
+   "count": 1067.0,
+   "users": 1049.0
   },
   {
    "name": "session_start",
-   "count": 1048.0,
-   "users": 1047.0
+   "count": 1050.0,
+   "users": 1049.0
   },
   {
    "name": "first_visit",
-   "count": 1045.0,
-   "users": 1045.0
+   "count": 1047.0,
+   "users": 1047.0
   },
   {
    "name": "scroll",
-   "count": 100.0,
-   "users": 98.0
+   "count": 101.0,
+   "users": 99.0
   },
   {
    "name": "user_engagement",
