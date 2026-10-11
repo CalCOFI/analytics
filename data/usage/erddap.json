@@ -7,23 +7,23 @@
  "first_day": "2026-07-30",
  "last_day": "2026-10-10",
  "totals_28d": {
-  "activeUsers": 27.0,
-  "newUsers": 16.0,
-  "sessions": 29.0,
+  "activeUsers": 28.0,
+  "newUsers": 17.0,
+  "sessions": 30.0,
   "engagedSessions": 16.0,
-  "screenPageViews": 139.0,
-  "eventCount": 364.0,
+  "screenPageViews": 140.0,
+  "eventCount": 367.0,
   "userEngagementDuration": 2336.0,
-  "avgEngagementSeconds": 86.5,
-  "engagedSessionRate": 0.6,
-  "viewsPerUser": 5.2
+  "avgEngagementSeconds": 83.4,
+  "engagedSessionRate": 0.5,
+  "viewsPerUser": 5.0
  },
  "delta_28d": {
-  "activeUsers": -49.1,
-  "sessions": -50.8,
+  "activeUsers": -47.2,
+  "sessions": -49.2,
   "engagedSessions": -15.8,
-  "avgEngagementSeconds": 265.0,
-  "screenPageViews": 20.9
+  "avgEngagementSeconds": 251.9,
+  "screenPageViews": 21.7
  },
  "daily": [
   {
@@ -278,8 +278,8 @@
   },
   {
    "date": "2026-10-10",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -333,13 +333,13 @@
   1.14,
   1.29,
   1.29,
-  1.29
+  1.43
  ],
  "geo_country": [
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 41.0
+   "activeUsers": 42.0
   },
   {
    "country": "United States",
@@ -382,7 +382,7 @@
    "country": "China",
    "countryId": "CN",
    "region": "Other",
-   "activeUsers": 40.0
+   "activeUsers": 41.0
   },
   {
    "country": "United States",
@@ -442,8 +442,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 353.0,
-   "users": 70.0
+   "count": 354.0,
+   "users": 71.0
   },
   {
    "name": "user_engagement",
@@ -457,13 +457,13 @@
   },
   {
    "name": "session_start",
-   "count": 82.0,
-   "users": 63.0
+   "count": 83.0,
+   "users": 64.0
   },
   {
    "name": "first_visit",
-   "count": 59.0,
-   "users": 57.0
+   "count": 60.0,
+   "users": 58.0
   },
   {
    "name": "form_start",
@@ -850,58 +850,63 @@
    },
    {
     "date": "2026-10-10",
-    "requests": 939.0,
-    "bytes": 9160371.0
+    "requests": 2557.0,
+    "bytes": 40332132.0
+   },
+   {
+    "date": "2026-10-11",
+    "requests": 555.0,
+    "bytes": 7008161.0
    }
   ],
   "totals_28d": {
-   "requests": 80906.0,
-   "bytes": 2880231318.0,
+   "requests": 83079.0,
+   "bytes": 2918411240.0,
    "clients": 1895.0,
-   "tool": 51171.0,
-   "browser": 29735.0
+   "tool": 52516.0,
+   "browser": 30563.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 52
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
-    "n": 33
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
-    "n": 29
+    "n": 48
    },
    {
     "path": "/erddap/tabledap/calcofi_ctd-cast.subset",
-    "n": 26
+    "n": 27
    },
    {
-    "path": "/erddap/tabledap/calcofi_bottle.html",
-    "n": 23
+    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
+    "n": 22
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
+    "n": 21
    },
    {
     "path": "/erddap/tabledap/calcofi_bottle.subset",
+    "n": 21
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle.html",
     "n": 20
    },
    {
-    "path": "/erddap/tabledap/cce-lter_zooscan_sample.graph",
-    "n": 17
+    "path": "/robots.txt",
+    "n": 19
    },
    {
     "path": "/erddap/tabledap/calcofi_bottle.graph",
-    "n": 16
+    "n": 17
    },
    {
-    "path": "/",
-    "n": 15
+    "path": "/erddap/tabledap/calcofi_mets.html",
+    "n": 11
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 14
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 8
    }
   ]
  }

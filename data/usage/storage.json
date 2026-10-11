@@ -779,57 +779,62 @@
    },
    {
     "date": "2026-10-10",
-    "requests": 1592.0,
-    "bytes": 3900920970.0
+    "requests": 4313.0,
+    "bytes": 3908512850.0
+   },
+   {
+    "date": "2026-10-11",
+    "requests": 1172.0,
+    "bytes": 2565437470.0
    }
   ],
   "totals_28d": {
-   "requests": 103349.0,
-   "bytes": 87634927665.0,
+   "requests": 107242.0,
+   "bytes": 90207957015.0,
    "clients": 3108.0,
-   "tool": 41704.0,
-   "browser": 61645.0
+   "tool": 42931.0,
+   "browser": 64311.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 52
+    "n": 47
    },
    {
     "path": "/robots.txt",
-    "n": 18
+    "n": 25
    },
    {
     "path": "/sitemap.xml",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.04/calcofi_ctd-cast_full.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.06/calcofi_bottle.nc",
+    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.09.11/farallon_bird-mammal.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=btl_chlorophyll_a/641c696f7b0f7edee772d10f/",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.07.30/calcofi_bottle.nc",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/sio_pic-zooplankton/v2026.09.06/sio_pic-zooplankton.nc",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.07.30/swfsc_ichthyo.nc",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-db/pg/ctd_scan_raw/study=0304RR/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=oxygen_umol_kg_1/",
+    "path": "/calcofi-db/pg/ctd_scan_raw/study=9403JD/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.08.04/calcofi_ctd-cast.nc",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.08.04/calcofi_ctd-cast_full.nc",
+    "path": "/calcofi-db/ducklake-staging/tables/taxon/58d2722a0801a495a1eb48a6/",
     "n": 3
    }
   ]
