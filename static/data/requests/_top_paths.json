@@ -1,45 +1,45 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "top_paths": [
    {
-    "path": "/erddap/index.html",
-    "n": 48
+    "path": "/favicon.ico",
+    "n": 60
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.subset",
-    "n": 27
+    "path": "/erddap/index.html",
+    "n": 47
    },
    {
     "path": "/erddap/tabledap/calcofi_ctd-cast.html",
     "n": 22
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
+    "path": "/erddap/tabledap/calcofi_ctd-cast.subset",
     "n": 21
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_bottle.subset",
-    "n": 21
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_bottle.html",
-    "n": 20
    },
    {
     "path": "/robots.txt",
-    "n": 19
+    "n": 18
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle.html",
+    "n": 15
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle.subset",
+    "n": 14
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
+    "n": 12
+   },
+   {
+    "path": "/erddap/tabledap/documentation.html",
+    "n": 12
    },
    {
     "path": "/erddap/tabledap/calcofi_bottle.graph",
-    "n": 17
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_mets.html",
-    "n": 11
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
     "n": 8
    }
   ]
@@ -107,46 +107,46 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
+    "n": 49
    },
    {
     "path": "/robots.txt",
-    "n": 25
+    "n": 21
    },
    {
     "path": "/sitemap.xml",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.09.11/farallon_bird-mammal.nc",
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.09.04/cce-lter_euphausiids.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.07.30/calcofi_bottle.nc",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.07.30/calcofi_ctd-cast_full.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/sio_pic-zooplankton/v2026.09.06/sio_pic-zooplankton.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.07.30/swfsc_ichthyo.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=0304RR/",
+    "path": "/calcofi-files-public/archive/calcofi/2022-edna/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=9403JD/",
+    "path": "/calcofi-db/ducklake/tables/grid_crosswalk/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/taxon/58d2722a0801a495a1eb48a6/",
+    "path": "/calcofi-db/ducklake/tables/fish/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.09.11/calcofi_dic.nc",
     "n": 3
    }
   ]

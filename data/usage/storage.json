@@ -784,57 +784,62 @@
    },
    {
     "date": "2026-10-11",
-    "requests": 1172.0,
-    "bytes": 2565437470.0
+    "requests": 1931.0,
+    "bytes": 3523487068.0
+   },
+   {
+    "date": "2026-10-12",
+    "requests": 2287.0,
+    "bytes": 603280233.0
    }
   ],
   "totals_28d": {
-   "requests": 103187.0,
-   "bytes": 89587243453.0,
+   "requests": 106233.0,
+   "bytes": 91148573284.0,
    "clients": 3108.0,
-   "tool": 41237.0,
-   "browser": 61950.0
+   "tool": 42945.0,
+   "browser": 63288.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
+    "n": 49
    },
    {
     "path": "/robots.txt",
-    "n": 25
+    "n": 21
    },
    {
     "path": "/sitemap.xml",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/v2026.09.11/farallon_bird-mammal.nc",
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.09.04/cce-lter_euphausiids.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.07.30/calcofi_bottle.nc",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.07.30/calcofi_ctd-cast_full.nc",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/sio_pic-zooplankton/v2026.09.06/sio_pic-zooplankton.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.07.30/swfsc_ichthyo.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=0304RR/",
+    "path": "/calcofi-files-public/archive/calcofi/2022-edna/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=9403JD/",
+    "path": "/calcofi-db/ducklake/tables/grid_crosswalk/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/taxon/58d2722a0801a495a1eb48a6/",
+    "path": "/calcofi-db/ducklake/tables/fish/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.09.11/calcofi_dic.nc",
     "n": 3
    }
   ]
