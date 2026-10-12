@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-10-10",
+ "last_day": "2026-10-11",
  "totals_28d": {
-  "activeUsers": 104.0,
-  "newUsers": 45.0,
-  "sessions": 136.0,
-  "engagedSessions": 90.0,
-  "screenPageViews": 200.0,
-  "eventCount": 558.0,
-  "userEngagementDuration": 5592.0,
-  "avgEngagementSeconds": 53.8,
+  "activeUsers": 95.0,
+  "newUsers": 40.0,
+  "sessions": 127.0,
+  "engagedSessions": 85.0,
+  "screenPageViews": 188.0,
+  "eventCount": 526.0,
+  "userEngagementDuration": 5539.0,
+  "avgEngagementSeconds": 58.3,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 1.9
+  "viewsPerUser": 2.0
  },
  "delta_28d": {
-  "activeUsers": 136.4,
-  "sessions": 109.2,
-  "engagedSessions": 150.0,
-  "avgEngagementSeconds": -60.8,
-  "screenPageViews": 37.9
+  "activeUsers": 69.6,
+  "sessions": 60.8,
+  "engagedSessions": 93.2,
+  "avgEngagementSeconds": -48.2,
+  "screenPageViews": 13.3
  },
  "daily": [
   {
@@ -204,7 +204,12 @@
   {
    "date": "2026-10-10",
    "activeUsers": 2.0,
-   "sessions": 2.0
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-10-11",
+   "activeUsers": 3.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -243,13 +248,14 @@
   4.57,
   5.43,
   5.71,
-  5.71
+  5.71,
+  6.0
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 58.0
+   "activeUsers": 59.0
   },
   {
    "country": "China",
@@ -322,6 +328,11 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Israel",
+   "countryId": "IL",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Russia",
    "countryId": "RU",
    "activeUsers": 1.0
@@ -337,7 +348,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 40.0
+   "activeUsers": 41.0
   },
   {
    "country": "China",
@@ -430,6 +441,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Israel",
+   "countryId": "IL",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Russia",
    "countryId": "RU",
    "region": "Other",
@@ -451,23 +468,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 345.0,
-   "users": 109.0
+   "count": 354.0,
+   "users": 111.0
   },
   {
    "name": "user_engagement",
-   "count": 278.0,
-   "users": 58.0
+   "count": 286.0,
+   "users": 59.0
   },
   {
    "name": "session_start",
-   "count": 122.0,
-   "users": 90.0
+   "count": 126.0,
+   "users": 91.0
   },
   {
    "name": "first_visit",
-   "count": 75.0,
-   "users": 75.0
+   "count": 76.0,
+   "users": 76.0
   },
   {
    "name": "scroll",

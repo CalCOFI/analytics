@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-10-09",
+ "last_day": "2026-10-11",
  "totals_28d": {
-  "activeUsers": 79.0,
-  "newUsers": 20.0,
-  "sessions": 123.0,
-  "engagedSessions": 80.0,
-  "screenPageViews": 130.0,
-  "eventCount": 487.0,
-  "userEngagementDuration": 9048.0,
-  "avgEngagementSeconds": 114.5,
+  "activeUsers": 77.0,
+  "newUsers": 19.0,
+  "sessions": 119.0,
+  "engagedSessions": 79.0,
+  "screenPageViews": 128.0,
+  "eventCount": 482.0,
+  "userEngagementDuration": 8954.0,
+  "avgEngagementSeconds": 116.3,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 1.6
+  "viewsPerUser": 1.7
  },
  "delta_28d": {
-  "activeUsers": -37.8,
-  "sessions": -26.8,
-  "engagedSessions": -11.1,
-  "avgEngagementSeconds": 156.7,
-  "screenPageViews": -41.7
+  "activeUsers": -37.4,
+  "sessions": -26.1,
+  "engagedSessions": -9.2,
+  "avgEngagementSeconds": 152.3,
+  "screenPageViews": -39.0
  },
  "daily": [
   {
@@ -345,6 +345,11 @@
    "date": "2026-10-09",
    "activeUsers": 4.0,
    "sessions": 6.0
+  },
+  {
+   "date": "2026-10-11",
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -411,13 +416,14 @@
   4.43,
   4.71,
   5.0,
-  5.14
+  5.14,
+  4.57
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 119.0
+   "activeUsers": 120.0
   },
   {
    "country": "Italy",
@@ -445,6 +451,11 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Israel",
+   "countryId": "IL",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Mexico",
    "countryId": "MX",
    "activeUsers": 1.0
@@ -465,7 +476,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 68.0
+   "activeUsers": 69.0
   },
   {
    "country": "United States",
@@ -510,6 +521,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Israel",
+   "countryId": "IL",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Mexico",
    "countryId": "MX",
    "region": "Other",
@@ -537,33 +554,33 @@
  "events": [
   {
    "name": "page_view",
-   "count": 407.0,
-   "users": 125.0
+   "count": 409.0,
+   "users": 127.0
   },
   {
    "name": "scroll",
-   "count": 375.0,
-   "users": 96.0
+   "count": 377.0,
+   "users": 98.0
   },
   {
    "name": "user_engagement",
-   "count": 269.0,
-   "users": 61.0
+   "count": 270.0,
+   "users": 62.0
   },
   {
    "name": "session_start",
-   "count": 231.0,
-   "users": 111.0
+   "count": 232.0,
+   "users": 112.0
   },
   {
    "name": "first_visit",
-   "count": 89.0,
-   "users": 89.0
+   "count": 90.0,
+   "users": 90.0
   },
   {
    "name": "click",
-   "count": 69.0,
-   "users": 35.0
+   "count": 72.0,
+   "users": 37.0
   },
   {
    "name": "form_start",
