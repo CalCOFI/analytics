@@ -789,16 +789,21 @@
    },
    {
     "date": "2026-10-12",
-    "requests": 2287.0,
-    "bytes": 603280233.0
+    "requests": 9816.0,
+    "bytes": 626312134.0
+   },
+   {
+    "date": "2026-10-13",
+    "requests": 6369.0,
+    "bytes": 19175934.0
    }
   ],
   "totals_28d": {
-   "requests": 102436.0,
-   "bytes": 91132033904.0,
+   "requests": 116334.0,
+   "bytes": 91174241739.0,
    "clients": 3108.0,
-   "tool": 40763.0,
-   "browser": 61673.0
+   "tool": 52934.0,
+   "browser": 63400.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -808,39 +813,39 @@
    },
    {
     "path": "/robots.txt",
-    "n": 21
+    "n": 33
+   },
+   {
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=est_chlorophyll_a_sta_corr/12ee3c335685753708221a27/",
+    "n": 5
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=oxygen_umol_kg_1/e6af30495dcfd9051af9cfdd/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.09.04/cce-lter_euphausiids.nc",
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2005-01-32NM/ab80af78c9c09dadd5cbb278/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.07.30/calcofi_ctd-cast_full.nc",
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=r_dynamic_height/ec8f4f9d0f87b3b33a5f0e78/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/calcofi/2022-edna/",
-    "n": 3
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2002-07-32NM/cfd98bd01a94bbc2abc3790e/",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake/tables/grid_crosswalk/",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2001-04-31JD/ae51989ecdcf51a7fe9b6b62/",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake/tables/fish/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.09.11/calcofi_dic.nc",
-    "n": 3
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=r_temperature/f8d567b6358bbb5137299fba/",
+    "n": 4
    }
   ]
  }
