@@ -5,12 +5,12 @@ download:integrated_bundle,19,19439.7,300486.6,0.0,12.0
 download_bundle,4,35161.9,47975.9,0.0,18.5
 download_integrated_bundle,3,20994.5,23676.0,0.0,12.0
 filter_no_results,36,,,1.0,
-filter_submit,147,,,0.0,
+filter_submit,148,,,0.0,
 map:get_env,18,25.4,34.8,0.0,
 map:get_sp,18,230.5,318.9,0.0,
-map_query_env,147,26.2,86.7,0.0,
+map_query_env,148,26.2,86.7,0.0,
 map_query_env_poly,42,254.3,519.3,0.0,12.5
-map_query_sp,147,54.9,468.7,0.0,
+map_query_sp,148,54.9,467.8,0.0,
 map_query_sp_poly,42,426.3,1046.5,0.0,
 open_cite_data,1,,,0.0,
 open_feedback,25,,,0.0,
@@ -22,6 +22,6 @@ select_layers,7,,,0.0,
 select_map_area,1,,,0.0,
 select_tab,87,,,0.0,
 select_theme,36,,,0.0,
-session_start,353,,,0.0,
-start_tour,282,,,0.0,
+session_start,354,,,0.0,
+start_tour,283,,,0.0,
 test:log_query,1,842.1,842.1,0.0,13319.0

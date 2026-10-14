@@ -15,13 +15,14 @@ env_var,salinity,2
 env_var,salinity_ave_corr,2
 env_var,spiciness0,2
 env_var,sst_c,4
-env_var,temperature,321
+env_var,temperature,323
 layers,ca_county_boundaries,3
 layers,ca_marine_protected_areas,1
 layers,ca_ports,1
 layers,noaa_maritime_eez,7
 taxa,(class: Appendicularia),2
 taxa,(family: Aetideidae),2
+taxa,(genus: Synechococcus),2
 taxa,(species: Dasyscopelus obtusirostris),2
 taxa,(species: Euphausia brevis),5
 taxa,(species: Metacarcinus magister),2

@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 20.0,
+  "activeUsers": 21.0,
   "newUsers": 14.0,
-  "sessions": 26.0,
-  "engagedSessions": 19.0,
-  "screenPageViews": 35.0,
-  "eventCount": 374.0,
-  "userEngagementDuration": 3083.0,
-  "avgEngagementSeconds": 154.2,
-  "engagedSessionRate": 0.7,
-  "viewsPerUser": 1.8
+  "sessions": 28.0,
+  "engagedSessions": 21.0,
+  "screenPageViews": 36.0,
+  "eventCount": 400.0,
+  "userEngagementDuration": 3377.0,
+  "avgEngagementSeconds": 160.8,
+  "engagedSessionRate": 0.8,
+  "viewsPerUser": 1.7
  },
  "delta_28d": {
-  "activeUsers": -68.8,
-  "sessions": -85.1,
-  "engagedSessions": -86.0,
-  "avgEngagementSeconds": -73.7,
-  "screenPageViews": -93.4
+  "activeUsers": -67.7,
+  "sessions": -84.1,
+  "engagedSessions": -84.6,
+  "avgEngagementSeconds": -72.2,
+  "screenPageViews": -93.2
  },
  "daily": [
   {
@@ -342,6 +342,11 @@
    "sessions": 3.0
   },
   {
+   "date": "2026-10-13",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -476,11 +481,12 @@
   1.86,
   1.43,
   1.57,
+  1.57,
   1.43,
-  1.29,
+  1.57,
   1.86,
   1.71,
-  1.57,
+  1.71,
   2.0,
   2.0,
   2.14,
@@ -495,7 +501,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 42.0
+   "activeUsers": 43.0
   },
   {
    "country": "Italy",
@@ -553,7 +559,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 30.0
+   "activeUsers": 31.0
   },
   {
    "country": "United States",
@@ -625,47 +631,47 @@
  "events": [
   {
    "name": "session_start",
-   "count": 856.0,
-   "users": 54.0
+   "count": 861.0,
+   "users": 55.0
   },
   {
    "name": "page_view",
-   "count": 669.0,
-   "users": 56.0
+   "count": 671.0,
+   "users": 57.0
   },
   {
    "name": "scroll",
-   "count": 615.0,
-   "users": 54.0
+   "count": 617.0,
+   "users": 55.0
   },
   {
    "name": "filter_submit",
-   "count": 394.0,
-   "users": 17.0
+   "count": 399.0,
+   "users": 19.0
   },
   {
    "name": "map_query_env",
-   "count": 394.0,
-   "users": 17.0
+   "count": 399.0,
+   "users": 19.0
   },
   {
    "name": "map_query_sp",
-   "count": 394.0,
-   "users": 17.0
+   "count": 399.0,
+   "users": 19.0
   },
   {
    "name": "user_engagement",
-   "count": 382.0,
-   "users": 34.0
+   "count": 385.0,
+   "users": 35.0
   },
   {
    "name": "start_tour",
-   "count": 286.0,
-   "users": 50.0
+   "count": 288.0,
+   "users": 51.0
   },
   {
    "name": "select_tab",
-   "count": 152.0,
+   "count": 155.0,
    "users": 18.0
   },
   {
@@ -1173,6 +1179,15 @@
     "p95_ms": "978.0"
    },
    {
+    "date": "2026-10-13",
+    "events": "5",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "71.4",
+    "p95_ms": "193.2"
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1296,7 +1311,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "147",
+    "n": "148",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1320,7 +1335,7 @@
    },
    {
     "event": "map_query_env",
-    "n": "147",
+    "n": "148",
     "p50_ms": "26.2",
     "p95_ms": "86.7",
     "error_rate": "0.0",
@@ -1336,9 +1351,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "147",
+    "n": "148",
     "p50_ms": "54.9",
-    "p95_ms": "468.7",
+    "p95_ms": "467.8",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1432,7 +1447,7 @@
    },
    {
     "event": "session_start",
-    "n": "353",
+    "n": "354",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1440,7 +1455,7 @@
    },
    {
     "event": "start_tour",
-    "n": "282",
+    "n": "283",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1459,7 +1474,7 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "321"
+    "n": "323"
    },
    {
     "param": "taxa",
@@ -1594,6 +1609,11 @@
    {
     "param": "taxa",
     "value": "(family: Aetideidae)",
+    "n": "2"
+   },
+   {
+    "param": "taxa",
+    "value": "(genus: Synechococcus)",
     "n": "2"
    },
    {
@@ -1822,9 +1842,9 @@
    },
    {
     "app_version": "c2f854a",
-    "n": "284",
+    "n": "289",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-10-10"
+    "last_seen": "2026-10-13"
    },
    {
     "app_version": "cbc4d03",
