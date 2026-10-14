@@ -865,58 +865,63 @@
    },
    {
     "date": "2026-10-13",
-    "requests": 969.0,
-    "bytes": 5172942.0
+    "requests": 2788.0,
+    "bytes": 86740645.0
+   },
+   {
+    "date": "2026-10-14",
+    "requests": 1876.0,
+    "bytes": 930799125.0
    }
   ],
   "totals_28d": {
-   "requests": 72368.0,
-   "bytes": 2736492356.0,
+   "requests": 76063.0,
+   "bytes": 3748859184.0,
    "clients": 1895.0,
-   "tool": 47397.0,
-   "browser": 24971.0
+   "tool": 50589.0,
+   "browser": 25474.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/index.html",
-    "n": 49
-   },
-   {
-    "path": "/robots.txt",
-    "n": 32
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.subset",
-    "n": 18
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
-    "n": 14
+    "path": "/erddap/tabledap/calcofi_ctd_measurement.csv",
+    "n": 137
    },
    {
     "path": "/erddap/griddap/documentation.html",
-    "n": 14
+    "n": 96
    },
    {
-    "path": "/erddap/tabledap/calcofi_bottle.subset",
-    "n": 12
+    "path": "/erddap/index.html",
+    "n": 74
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 11
+    "path": "/erddap/information.html",
+    "n": 40
    },
    {
-    "path": "/favicon.ico",
-    "n": 7
+    "path": "/erddap/convert/time.html",
+    "n": 32
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 7
+    "path": "/erddap/tabledap/cce-lter_zooscan_sample.graph",
+    "n": 22
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
-    "n": 6
+    "path": "/robots.txt",
+    "n": 20
+   },
+   {
+    "path": "/",
+    "n": 19
+   },
+   {
+    "path": "/erddap/files/documentation.html",
+    "n": 19
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 17
    }
   ]
  }

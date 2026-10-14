@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "top_paths": [
    {
-    "path": "/erddap/index.html",
-    "n": 49
-   },
-   {
-    "path": "/robots.txt",
-    "n": 32
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.subset",
-    "n": 18
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
-    "n": 14
+    "path": "/erddap/tabledap/calcofi_ctd_measurement.csv",
+    "n": 137
    },
    {
     "path": "/erddap/griddap/documentation.html",
-    "n": 14
+    "n": 96
    },
    {
-    "path": "/erddap/tabledap/calcofi_bottle.subset",
-    "n": 12
+    "path": "/erddap/index.html",
+    "n": 74
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 11
+    "path": "/erddap/information.html",
+    "n": 40
    },
    {
-    "path": "/favicon.ico",
-    "n": 7
+    "path": "/erddap/convert/time.html",
+    "n": 32
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 7
+    "path": "/erddap/tabledap/cce-lter_zooscan_sample.graph",
+    "n": 22
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
-    "n": 6
+    "path": "/robots.txt",
+    "n": 20
+   },
+   {
+    "path": "/",
+    "n": 19
+   },
+   {
+    "path": "/erddap/files/documentation.html",
+    "n": 19
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 17
    }
   ]
  },
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "top_paths": [
    {
     "path": "/",
-    "n": 49
+    "n": 54
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 18
    },
    {
     "path": "/robots.txt",
-    "n": 33
+    "n": 18
    },
    {
-    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=est_chlorophyll_a_sta_corr/12ee3c335685753708221a27/",
-    "n": 5
+    "path": "/calcofi-db/ducklake/releases/v2026.10.13/RELEASE_NOTES.html",
+    "n": 6
    },
    {
-    "path": "/sitemap.xml",
-    "n": 5
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=btl_silicate/9e2af5011a890f64c4c067fa/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=oxygen_umol_kg_1/e6af30495dcfd9051af9cfdd/",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0302JD_CTDFinalQC/asc-hdr-btl/orig_asc-hdr/north/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2005-01-32NM/ab80af78c9c09dadd5cbb278/",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2111SR_CTDPrelim/20-2111SRCTDPrelim/csvs-plots/primary/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=r_dynamic_height/ec8f4f9d0f87b3b33a5f0e78/",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-05_134129/swfsc.noaa.gov/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2002-07-32NM/cfd98bd01a94bbc2abc3790e/",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2111SR_CTDPrelim/20-2111SRCTDPrelim/csvs-plots/secondary/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2001-04-31JD/ae51989ecdcf51a7fe9b6b62/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=r_temperature/f8d567b6358bbb5137299fba/",
-    "n": 4
+    "path": "/calcofi-db/ducklake/releases/v2026.10.13/catalog.json",
+    "n": 3
    }
   ]
  },

@@ -1,23 +1,23 @@
 {
- "generated": "2026-10-14T02:10:01+00:00",
+ "generated": "2026-10-14T11:17:34+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 643.0,
-  "activeUsers": 1235.0,
-  "sessions": 1527.0
+  "engagedSessions": 650.0,
+  "activeUsers": 1245.0,
+  "sessions": 1544.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 106.0,
-   "activeUsers": 109.0,
-   "sessions": 175.0,
+   "engagedSessions": 111.0,
+   "activeUsers": 113.0,
+   "sessions": 182.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 181.8,
-   "delta": -24.3,
+   "avgEngagementSeconds": 179.8,
+   "delta": -20.7,
    "spark": [
     2.0,
     2.0,
@@ -61,7 +61,7 @@
     7.0,
     3.0,
     5.0,
-    4.0
+    8.0
    ],
    "mostly_automated": false
   },
@@ -70,9 +70,9 @@
    "title": "Dataset Catalog",
    "engagedSessions": 90.0,
    "activeUsers": 100.0,
-   "sessions": 132.0,
+   "sessions": 133.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 55.9,
+   "avgEngagementSeconds": 89.6,
    "delta": 83.7,
    "spark": [
     1.0,
@@ -121,10 +121,10 @@
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
    "engagedSessions": 86.0,
-   "activeUsers": 136.0,
-   "sessions": 191.0,
-   "engagementRate": 0.5,
-   "avgEngagementSeconds": 43.4,
+   "activeUsers": 138.0,
+   "sessions": 195.0,
+   "engagementRate": 0.4,
+   "avgEngagementSeconds": 42.8,
    "delta": -82.3,
    "spark": [
     2.0,
@@ -186,19 +186,19 @@
     4.0,
     0.0,
     3.0,
-    4.0
+    6.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 79.0,
-   "activeUsers": 78.0,
-   "sessions": 118.0,
+   "engagedSessions": 80.0,
+   "activeUsers": 79.0,
+   "sessions": 120.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 121.1,
-   "delta": -2.5,
+   "avgEngagementSeconds": 119.5,
+   "delta": -1.2,
    "spark": [
     2.0,
     3.0,
@@ -266,7 +266,7 @@
     4.0,
     3.0,
     2.0,
-    3.0
+    4.0
    ],
    "mostly_automated": false
   },
@@ -377,10 +377,10 @@
    "slug": "ctd-transects",
    "title": "ctd-transects",
    "engagedSessions": 69.0,
-   "activeUsers": 62.0,
-   "sessions": 103.0,
+   "activeUsers": 63.0,
+   "sessions": 104.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 135.1,
+   "avgEngagementSeconds": 133.0,
    "delta": 11.3,
    "spark": [
     2.0,
@@ -436,7 +436,7 @@
     1.0,
     1.0,
     2.0,
-    2.0
+    3.0
    ],
    "mostly_automated": false
   },
@@ -710,13 +710,12 @@
    "slug": "db-query",
    "title": "db-query",
    "engagedSessions": 14.0,
-   "activeUsers": 20.0,
-   "sessions": 25.0,
-   "engagementRate": 0.6,
-   "avgEngagementSeconds": 131.7,
+   "activeUsers": 21.0,
+   "sessions": 26.0,
+   "engagementRate": 0.5,
+   "avgEngagementSeconds": 125.4,
    "delta": 0.0,
    "spark": [
-    1.0,
     2.0,
     1.0,
     3.0,
@@ -771,6 +770,7 @@
     1.0,
     2.0,
     2.0,
+    1.0,
     1.0,
     1.0,
     1.0,
@@ -1044,12 +1044,12 @@
   {
    "slug": "storage",
    "title": "storage",
-   "engagedSessions": 11.0,
-   "activeUsers": 13.0,
-   "sessions": 19.0,
+   "engagedSessions": 12.0,
+   "activeUsers": 14.0,
+   "sessions": 20.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 9.6,
-   "delta": -42.1,
+   "avgEngagementSeconds": 8.9,
+   "delta": -36.8,
    "spark": [
     3.0,
     2.0,
@@ -1085,6 +1085,7 @@
     0.0,
     1.0,
     2.0,
+    1.0,
     1.0,
     1.0,
     1.0,

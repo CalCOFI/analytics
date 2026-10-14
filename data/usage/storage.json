@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-10-08",
+ "last_day": "2026-10-13",
  "totals_28d": {
-  "activeUsers": 13.0,
+  "activeUsers": 14.0,
   "newUsers": 5.0,
-  "sessions": 19.0,
-  "engagedSessions": 11.0,
-  "screenPageViews": 21.0,
-  "eventCount": 47.0,
+  "sessions": 20.0,
+  "engagedSessions": 12.0,
+  "screenPageViews": 22.0,
+  "eventCount": 48.0,
   "userEngagementDuration": 125.0,
-  "avgEngagementSeconds": 9.6,
+  "avgEngagementSeconds": 8.9,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 1.6
  },
  "delta_28d": {
-  "activeUsers": -58.1,
-  "sessions": -45.7,
-  "engagedSessions": -42.1,
-  "avgEngagementSeconds": -74.3,
-  "screenPageViews": -82.4
+  "activeUsers": -54.8,
+  "sessions": -42.9,
+  "engagedSessions": -36.8,
+  "avgEngagementSeconds": -76.1,
+  "screenPageViews": -81.5
  },
  "daily": [
   {
@@ -220,6 +220,11 @@
    "date": "2026-10-08",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-10-13",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -261,6 +266,7 @@
   1.14,
   1.14,
   1.0,
+  1.14,
   1.14
  ],
  "geo_country": [
@@ -376,7 +382,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 241.0,
+   "count": 242.0,
    "users": 34.0
   },
   {
@@ -794,58 +800,63 @@
    },
    {
     "date": "2026-10-13",
-    "requests": 6369.0,
-    "bytes": 19175934.0
+    "requests": 8698.0,
+    "bytes": 31992194.0
+   },
+   {
+    "date": "2026-10-14",
+    "requests": 1928.0,
+    "bytes": 20505761.0
    }
   ],
   "totals_28d": {
-   "requests": 108278.0,
-   "bytes": 91133229589.0,
+   "requests": 112535.0,
+   "bytes": 91166551610.0,
    "clients": 3108.0,
-   "tool": 46280.0,
-   "browser": 61998.0
+   "tool": 50010.0,
+   "browser": 62525.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 49
+    "n": 54
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 18
    },
    {
     "path": "/robots.txt",
-    "n": 33
+    "n": 18
    },
    {
-    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=est_chlorophyll_a_sta_corr/12ee3c335685753708221a27/",
-    "n": 5
+    "path": "/calcofi-db/ducklake/releases/v2026.10.13/RELEASE_NOTES.html",
+    "n": 6
    },
    {
-    "path": "/sitemap.xml",
-    "n": 5
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=btl_silicate/9e2af5011a890f64c4c067fa/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=oxygen_umol_kg_1/e6af30495dcfd9051af9cfdd/",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0302JD_CTDFinalQC/asc-hdr-btl/orig_asc-hdr/north/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2005-01-32NM/ab80af78c9c09dadd5cbb278/",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2111SR_CTDPrelim/20-2111SRCTDPrelim/csvs-plots/primary/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=r_dynamic_height/ec8f4f9d0f87b3b33a5f0e78/",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-05_134129/swfsc.noaa.gov/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2002-07-32NM/cfd98bd01a94bbc2abc3790e/",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2111SR_CTDPrelim/20-2111SRCTDPrelim/csvs-plots/secondary/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2001-04-31JD/ae51989ecdcf51a7fe9b6b62/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=r_temperature/f8d567b6358bbb5137299fba/",
-    "n": 4
+    "path": "/calcofi-db/ducklake/releases/v2026.10.13/catalog.json",
+    "n": 3
    }
   ]
  }
