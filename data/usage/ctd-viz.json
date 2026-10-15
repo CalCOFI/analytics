@@ -7,23 +7,23 @@
  "first_day": "2026-07-27",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 0,
-  "newUsers": 0,
-  "sessions": 0,
-  "engagedSessions": 0,
-  "screenPageViews": 0,
-  "eventCount": 0,
-  "userEngagementDuration": 0,
-  "avgEngagementSeconds": 0,
-  "engagedSessionRate": 0,
-  "viewsPerUser": 0
+  "activeUsers": 1.0,
+  "newUsers": 0.0,
+  "sessions": 1.0,
+  "engagedSessions": 1.0,
+  "screenPageViews": 4.0,
+  "eventCount": 13.0,
+  "userEngagementDuration": 850.0,
+  "avgEngagementSeconds": 850.0,
+  "engagedSessionRate": 1.0,
+  "viewsPerUser": 4.0
  },
  "delta_28d": {
-  "activeUsers": -100.0,
-  "sessions": -100.0,
-  "engagedSessions": -100.0,
-  "avgEngagementSeconds": -100.0,
-  "screenPageViews": -100.0
+  "activeUsers": -91.7,
+  "sessions": -94.1,
+  "engagedSessions": -91.7,
+  "avgEngagementSeconds": 175.9,
+  "screenPageViews": -94.8
  },
  "daily": [
   {
@@ -147,6 +147,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-10-14",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260727",
    "activeUsers": 4.0,
    "sessions": 4.0
@@ -177,7 +182,8 @@
   1.57,
   1.57,
   1.0,
-  1.57
+  1.14,
+  1.43
  ],
  "geo_country": [
   {
@@ -189,6 +195,11 @@
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 4.0
+  },
+  {
+   "country": "Mexico",
+   "countryId": "MX",
+   "activeUsers": 1.0
   }
  ],
  "geo": [
@@ -205,6 +216,12 @@
    "activeUsers": 4.0
   },
   {
+   "country": "Mexico",
+   "countryId": "MX",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
@@ -214,18 +231,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 177.0,
-   "users": 12.0
+   "count": 181.0,
+   "users": 13.0
   },
   {
    "name": "scroll",
-   "count": 175.0,
-   "users": 12.0
+   "count": 179.0,
+   "users": 13.0
   },
   {
    "name": "user_engagement",
-   "count": 150.0,
-   "users": 10.0
+   "count": 153.0,
+   "users": 11.0
   },
   {
    "name": "session_start",
@@ -239,8 +256,8 @@
   },
   {
    "name": "click",
-   "count": 1.0,
-   "users": 1.0
+   "count": 3.0,
+   "users": 2.0
   }
  ]
 }
