@@ -876,58 +876,63 @@
    },
    {
     "date": "2026-10-14",
-    "requests": 1876.0,
-    "bytes": 930799125.0
+    "requests": 3733.0,
+    "bytes": 1609135692.0
+   },
+   {
+    "date": "2026-10-15",
+    "requests": 314.0,
+    "bytes": 30192415.0
    }
   ],
   "totals_28d": {
-   "requests": 71008.0,
-   "bytes": 3636301745.0,
+   "requests": 73179.0,
+   "bytes": 4344830727.0,
    "clients": 1895.0,
-   "tool": 47579.0,
-   "browser": 23429.0
+   "tool": 49327.0,
+   "browser": 23852.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/calcofi_ctd_measurement.csv",
-    "n": 137
-   },
-   {
-    "path": "/erddap/griddap/documentation.html",
-    "n": 96
+    "path": "/erddap/tabledap/calcofi_ctd-cast.csv",
+    "n": 58
    },
    {
     "path": "/erddap/index.html",
-    "n": 74
+    "n": 48
    },
    {
-    "path": "/erddap/information.html",
-    "n": 40
-   },
-   {
-    "path": "/erddap/convert/time.html",
-    "n": 32
-   },
-   {
-    "path": "/erddap/tabledap/cce-lter_zooscan_sample.graph",
-    "n": 22
+    "path": "/erddap/tabledap/calcofi_bottle.csv",
+    "n": 16
    },
    {
     "path": "/robots.txt",
-    "n": 20
+    "n": 14
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo_sample.csv",
+    "n": 14
    },
    {
     "path": "/",
-    "n": 19
+    "n": 9
    },
    {
-    "path": "/erddap/files/documentation.html",
-    "n": 19
+    "path": "/erddap/tabledap/calcofi_ctd-cast.subset",
+    "n": 9
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 17
+    "path": "/erddap",
+    "n": 6
+   },
+   {
+    "path": "/erddap/sitemap.xml",
+    "n": 6
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle.parquetWMeta",
+    "n": 5
    }
   ]
  }

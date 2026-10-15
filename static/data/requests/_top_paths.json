@@ -1,51 +1,51 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/calcofi_ctd_measurement.csv",
-    "n": 137
-   },
-   {
-    "path": "/erddap/griddap/documentation.html",
-    "n": 96
+    "path": "/erddap/tabledap/calcofi_ctd-cast.csv",
+    "n": 58
    },
    {
     "path": "/erddap/index.html",
-    "n": 74
+    "n": 48
    },
    {
-    "path": "/erddap/information.html",
-    "n": 40
-   },
-   {
-    "path": "/erddap/convert/time.html",
-    "n": 32
-   },
-   {
-    "path": "/erddap/tabledap/cce-lter_zooscan_sample.graph",
-    "n": 22
+    "path": "/erddap/tabledap/calcofi_bottle.csv",
+    "n": 16
    },
    {
     "path": "/robots.txt",
-    "n": 20
+    "n": 14
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo_sample.csv",
+    "n": 14
    },
    {
     "path": "/",
-    "n": 19
+    "n": 9
    },
    {
-    "path": "/erddap/files/documentation.html",
-    "n": 19
+    "path": "/erddap/tabledap/calcofi_ctd-cast.subset",
+    "n": 9
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 17
+    "path": "/erddap",
+    "n": 6
+   },
+   {
+    "path": "/erddap/sitemap.xml",
+    "n": 6
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle.parquetWMeta",
+    "n": 5
    }
   ]
  },
  "erddap.calcofi.io:443": {
-  "date": "2026-09-26",
+  "date": "2026-10-14",
   "top_paths": [
    {
     "path": "/",
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "top_paths": [
    {
     "path": "/",
-    "n": 54
+    "n": 52
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 18
+    "n": 22
    },
    {
     "path": "/robots.txt",
-    "n": 18
+    "n": 21
    },
    {
-    "path": "/calcofi-db/ducklake/releases/v2026.10.13/RELEASE_NOTES.html",
-    "n": 6
+    "path": "/sitemap.xml",
+    "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=btl_silicate/9e2af5011a890f64c4c067fa/",
+    "path": "/calcofi-files-public/archive/2025-03-24_180847/swfsc.noaa.gov/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0302JD_CTDFinalQC/asc-hdr-btl/orig_asc-hdr/north/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=par_surf/ea11b16b2fc8e780baf5ca79/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2111SR_CTDPrelim/20-2111SRCTDPrelim/csvs-plots/primary/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2304SH_CTDPrelim/csvs-plots/S_D/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_134129/swfsc.noaa.gov/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2001RL_CTDFinalQC/csvs-plots/secondary/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2111SR_CTDPrelim/20-2111SRCTDPrelim/csvs-plots/secondary/",
-    "n": 3
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2001-10-32NM/e568969631e1b6121522c794/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake/releases/v2026.10.13/catalog.json",
-    "n": 3
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=specific_volume_anomaly/51b3e07c31f522325f91381c/",
+    "n": 2
    }
   ]
  },

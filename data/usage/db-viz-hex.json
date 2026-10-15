@@ -9,21 +9,21 @@
  "totals_28d": {
   "activeUsers": 23.0,
   "newUsers": 16.0,
-  "sessions": 30.0,
+  "sessions": 31.0,
   "engagedSessions": 22.0,
-  "screenPageViews": 38.0,
-  "eventCount": 414.0,
+  "screenPageViews": 39.0,
+  "eventCount": 419.0,
   "userEngagementDuration": 3387.0,
   "avgEngagementSeconds": 147.3,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 1.6
+  "viewsPerUser": 1.7
  },
  "delta_28d": {
   "activeUsers": -62.9,
-  "sessions": -82.5,
+  "sessions": -81.9,
   "engagedSessions": -83.5,
   "avgEngagementSeconds": -75.3,
-  "screenPageViews": -92.8
+  "screenPageViews": -92.6
  },
  "daily": [
   {
@@ -349,7 +349,7 @@
   {
    "date": "2026-10-14",
    "activeUsers": 2.0,
-   "sessions": 2.0
+   "sessions": 3.0
   },
   {
    "date": "20260701",
@@ -558,6 +558,11 @@
    "country": "New Zealand",
    "countryId": "NZ",
    "activeUsers": 1.0
+  },
+  {
+   "country": "Colombia",
+   "countryId": "CO",
+   "activeUsers": 0.0
   }
  ],
  "geo": [
@@ -632,22 +637,28 @@
    "countryId": "NZ",
    "region": "Other",
    "activeUsers": 1.0
+  },
+  {
+   "country": "Colombia",
+   "countryId": "CO",
+   "region": "Other",
+   "activeUsers": 0.0
   }
  ],
  "events": [
   {
    "name": "session_start",
-   "count": 865.0,
+   "count": 867.0,
    "users": 57.0
   },
   {
    "name": "page_view",
-   "count": 673.0,
+   "count": 674.0,
    "users": 59.0
   },
   {
    "name": "scroll",
-   "count": 619.0,
+   "count": 620.0,
    "users": 57.0
   },
   {
@@ -672,7 +683,7 @@
   },
   {
    "name": "start_tour",
-   "count": 290.0,
+   "count": 291.0,
    "users": 53.0
   },
   {

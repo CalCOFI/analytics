@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-10-14",
  "totals_28d": {
-  "activeUsers": 16.0,
-  "newUsers": 5.0,
-  "sessions": 24.0,
+  "activeUsers": 18.0,
+  "newUsers": 7.0,
+  "sessions": 26.0,
   "engagedSessions": 15.0,
-  "screenPageViews": 28.0,
-  "eventCount": 60.0,
+  "screenPageViews": 30.0,
+  "eventCount": 67.0,
   "userEngagementDuration": 215.0,
-  "avgEngagementSeconds": 13.4,
+  "avgEngagementSeconds": 11.9,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 1.8
+  "viewsPerUser": 1.7
  },
  "delta_28d": {
-  "activeUsers": -46.7,
-  "sessions": -29.4,
+  "activeUsers": -40.0,
+  "sessions": -23.5,
   "engagedSessions": -21.1,
-  "avgEngagementSeconds": -65.2,
-  "screenPageViews": -76.3
+  "avgEngagementSeconds": -69.1,
+  "screenPageViews": -74.6
  },
  "daily": [
   {
@@ -228,8 +228,8 @@
   },
   {
    "date": "2026-10-14",
-   "activeUsers": 2.0,
-   "sessions": 4.0
+   "activeUsers": 4.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -273,13 +273,13 @@
   1.0,
   1.14,
   1.14,
-  1.14
+  1.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 23.0
+   "activeUsers": 25.0
   },
   {
    "country": "Italy",
@@ -328,7 +328,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 10.0
+   "activeUsers": 12.0
   },
   {
    "country": "Italy",
@@ -388,8 +388,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 248.0,
-   "users": 35.0
+   "count": 250.0,
+   "users": 37.0
   },
   {
    "name": "user_engagement",
@@ -398,18 +398,18 @@
   },
   {
    "name": "scroll",
-   "count": 134.0,
-   "users": 14.0
+   "count": 135.0,
+   "users": 15.0
   },
   {
    "name": "session_start",
-   "count": 46.0,
-   "users": 34.0
+   "count": 48.0,
+   "users": 36.0
   },
   {
    "name": "first_visit",
-   "count": 28.0,
-   "users": 28.0
+   "count": 30.0,
+   "users": 30.0
   },
   {
    "name": "click",
@@ -811,58 +811,63 @@
    },
    {
     "date": "2026-10-14",
-    "requests": 1928.0,
-    "bytes": 20505761.0
+    "requests": 2529.0,
+    "bytes": 28517214.0
+   },
+   {
+    "date": "2026-10-15",
+    "requests": 2505.0,
+    "bytes": 9325803.0
    }
   ],
   "totals_28d": {
-   "requests": 108835.0,
-   "bytes": 90882485978.0,
+   "requests": 111941.0,
+   "bytes": 90899823234.0,
    "clients": 3108.0,
-   "tool": 48427.0,
-   "browser": 60408.0
+   "tool": 50870.0,
+   "browser": 61071.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 54
+    "n": 52
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 18
+    "n": 22
    },
    {
     "path": "/robots.txt",
-    "n": 18
+    "n": 21
    },
    {
-    "path": "/calcofi-db/ducklake/releases/v2026.10.13/RELEASE_NOTES.html",
-    "n": 6
+    "path": "/sitemap.xml",
+    "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=btl_silicate/9e2af5011a890f64c4c067fa/",
+    "path": "/calcofi-files-public/archive/2025-03-24_180847/swfsc.noaa.gov/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0302JD_CTDFinalQC/asc-hdr-btl/orig_asc-hdr/north/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=par_surf/ea11b16b2fc8e780baf5ca79/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2111SR_CTDPrelim/20-2111SRCTDPrelim/csvs-plots/primary/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2304SH_CTDPrelim/csvs-plots/S_D/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-05_134129/swfsc.noaa.gov/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2001RL_CTDFinalQC/csvs-plots/secondary/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2111SR_CTDPrelim/20-2111SRCTDPrelim/csvs-plots/secondary/",
-    "n": 3
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2001-10-32NM/e568969631e1b6121522c794/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake/releases/v2026.10.13/catalog.json",
-    "n": 3
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=specific_volume_anomaly/51b3e07c31f522325f91381c/",
+    "n": 2
    }
   ]
  }
