@@ -10,5 +10,5 @@ query_run,108,9
 query_success,91,9
 query_view,123,21
 scroll,78,27
-session_start,62,28
-user_engagement,52,13
+session_start,63,28
+user_engagement,53,13

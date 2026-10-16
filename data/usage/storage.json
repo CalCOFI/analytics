@@ -9,18 +9,18 @@
  "totals_28d": {
   "activeUsers": 18.0,
   "newUsers": 6.0,
-  "sessions": 26.0,
+  "sessions": 27.0,
   "engagedSessions": 17.0,
   "screenPageViews": 36.0,
-  "eventCount": 89.0,
+  "eventCount": 91.0,
   "userEngagementDuration": 261.0,
   "avgEngagementSeconds": 14.5,
-  "engagedSessionRate": 0.7,
+  "engagedSessionRate": 0.6,
   "viewsPerUser": 2.0
  },
  "delta_28d": {
   "activeUsers": -41.9,
-  "sessions": -25.7,
+  "sessions": -22.9,
   "engagedSessions": -10.5,
   "avgEngagementSeconds": -61.1,
   "screenPageViews": -69.7
@@ -234,7 +234,7 @@
   {
    "date": "2026-10-15",
    "activeUsers": 1.0,
-   "sessions": 1.0
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -410,7 +410,7 @@
   },
   {
    "name": "user_engagement",
-   "count": 212.0,
+   "count": 213.0,
    "users": 10.0
   },
   {
@@ -420,7 +420,7 @@
   },
   {
    "name": "session_start",
-   "count": 48.0,
+   "count": 49.0,
    "users": 36.0
   },
   {
@@ -833,58 +833,63 @@
    },
    {
     "date": "2026-10-15",
-    "requests": 2505.0,
-    "bytes": 9325803.0
+    "requests": 7010.0,
+    "bytes": 18476882.0
+   },
+   {
+    "date": "2026-10-16",
+    "requests": 2779.0,
+    "bytes": 127828660.0
    }
   ],
   "totals_28d": {
-   "requests": 107298.0,
-   "bytes": 90866415669.0,
-   "clients": 3108.0,
-   "tool": 48633.0,
-   "browser": 58665.0
+   "requests": 114582.0,
+   "bytes": 91003395408.0,
+   "clients": 3219.0,
+   "tool": 55256.0,
+   "browser": 59326.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 52
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 22
+    "n": 46
    },
    {
     "path": "/robots.txt",
+    "n": 32
+   },
+   {
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=salinity_ave_corr/",
     "n": 21
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=temperature_ave/3534ec1f0c4efa1267f8acb6/",
+    "n": 14
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=1996-04-31JD/aea597865483b61d6b96c6da/",
+    "n": 13
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2019-07-39C2/7b6f0457f265420be13f932b/",
+    "n": 12
+   },
+   {
+    "path": "/calcofi-db/ducklake/tables/obs_mets_full/cruise_key=2019-02-33UD/6173cc851638ff44b2c44704/",
+    "n": 11
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 9
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2025-03-24_180847/swfsc.noaa.gov/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=par_surf/ea11b16b2fc8e780baf5ca79/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2304SH_CTDPrelim/csvs-plots/S_D/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2001RL_CTDFinalQC/csvs-plots/secondary/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2001-10-32NM/e568969631e1b6121522c794/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=specific_volume_anomaly/51b3e07c31f522325f91381c/",
-    "n": 2
+    "path": "/calcofi-db/bathymetry/",
+    "n": 5
    }
   ]
  }
