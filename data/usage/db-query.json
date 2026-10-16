@@ -7,23 +7,23 @@
  "first_day": "2026-05-19",
  "last_day": "20260728",
  "totals_28d": {
-  "activeUsers": 21.0,
-  "newUsers": 14.0,
-  "sessions": 26.0,
-  "engagedSessions": 14.0,
-  "screenPageViews": 35.0,
-  "eventCount": 356.0,
-  "userEngagementDuration": 2633.0,
-  "avgEngagementSeconds": 125.4,
-  "engagedSessionRate": 0.5,
-  "viewsPerUser": 1.7
+  "activeUsers": 22.0,
+  "newUsers": 15.0,
+  "sessions": 28.0,
+  "engagedSessions": 16.0,
+  "screenPageViews": 36.0,
+  "eventCount": 371.0,
+  "userEngagementDuration": 2662.0,
+  "avgEngagementSeconds": 121.0,
+  "engagedSessionRate": 0.6,
+  "viewsPerUser": 1.6
  },
  "delta_28d": {
-  "activeUsers": 40.0,
-  "sessions": 44.4,
-  "engagedSessions": 7.7,
-  "avgEngagementSeconds": 608.5,
-  "screenPageViews": 84.2
+  "activeUsers": 46.7,
+  "sessions": 55.6,
+  "engagedSessions": 23.1,
+  "avgEngagementSeconds": 583.6,
+  "screenPageViews": 89.5
  },
  "daily": [
   {
@@ -412,6 +412,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-10-15",
+   "activeUsers": 1.0,
+   "sessions": 2.0
+  },
+  {
    "date": "20260519",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -662,8 +667,9 @@
   1.43,
   1.43,
   1.29,
-  1.14,
+  1.29,
   1.0,
+  0.86,
   0.86,
   0.86,
   1.0,
@@ -699,12 +705,12 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 11.0
+   "activeUsers": 12.0
   },
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 7.0
+   "activeUsers": 8.0
   },
   {
    "country": "China",
@@ -732,7 +738,13 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 10.0
+   "activeUsers": 11.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "Other",
+   "activeUsers": 7.0
   },
   {
    "country": "China",
@@ -743,12 +755,6 @@
   {
    "country": "Italy",
    "countryId": "IT",
-   "region": "Other",
-   "activeUsers": 6.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
    "region": "Other",
    "activeUsers": 6.0
   },
@@ -786,33 +792,33 @@
  "events": [
   {
    "name": "query_view",
-   "count": 122.0,
-   "users": 20.0
+   "count": 123.0,
+   "users": 21.0
   },
   {
    "name": "query_run",
-   "count": 104.0,
-   "users": 8.0
+   "count": 108.0,
+   "users": 9.0
   },
   {
    "name": "query_success",
-   "count": 90.0,
-   "users": 8.0
+   "count": 91.0,
+   "users": 9.0
   },
   {
    "name": "page_view",
-   "count": 82.0,
-   "users": 28.0
+   "count": 83.0,
+   "users": 29.0
   },
   {
    "name": "scroll",
-   "count": 77.0,
-   "users": 26.0
+   "count": 78.0,
+   "users": 27.0
   },
   {
    "name": "session_start",
-   "count": 60.0,
-   "users": 27.0
+   "count": 62.0,
+   "users": 28.0
   },
   {
    "name": "user_engagement",
@@ -821,17 +827,17 @@
   },
   {
    "name": "first_visit",
-   "count": 21.0,
-   "users": 21.0
+   "count": 22.0,
+   "users": 22.0
+  },
+  {
+   "name": "query_error",
+   "count": 16.0,
+   "users": 4.0
   },
   {
    "name": "download",
    "count": 14.0,
-   "users": 3.0
-  },
-  {
-   "name": "query_error",
-   "count": 13.0,
    "users": 3.0
   },
   {
@@ -841,8 +847,8 @@
   },
   {
    "name": "query_from_url",
-   "count": 7.0,
-   "users": 4.0
+   "count": 8.0,
+   "users": 5.0
   }
  ]
 }

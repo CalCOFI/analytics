@@ -1,7 +1,7 @@
 country,countryId,region,activeUsers,sessions
 ,,,1,1
 (not set),(not set),Other,1,1
-Canada,CA,Other,1,1
+Canada,CA,Other,2,3
 China,CN,Other,26,26
 Denmark,DK,Other,2,2
 France,FR,Other,1,1
@@ -9,15 +9,16 @@ Hong Kong,HK,,1,1
 Hong Kong,HK,Other,1,1
 India,IN,Other,3,3
 Israel,IL,Other,1,1
-Italy,IT,Other,5,44
+Italy,IT,Other,5,45
 Japan,JP,Other,3,4
 Mexico,MX,Other,4,6
 New Zealand,NZ,Other,2,10
 Russia,RU,Other,1,1
-Singapore,SG,,3,3
-Singapore,SG,Other,3,3
-South Korea,KR,Other,2,4
+Singapore,SG,,11,11
+Singapore,SG,Other,6,6
+South Korea,KR,Other,2,5
+Switzerland,CH,Other,1,1
 Türkiye,TR,Other,1,1
 United Kingdom,GB,Other,2,3
-United States,US,California,48,94
-United States,US,Other,21,26
+United States,US,California,52,106
+United States,US,Other,22,27
