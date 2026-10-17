@@ -10,7 +10,7 @@
   "activeUsers": 27.0,
   "newUsers": 13.0,
   "sessions": 28.0,
-  "engagedSessions": 16.0,
+  "engagedSessions": 17.0,
   "screenPageViews": 206.0,
   "eventCount": 516.0,
   "userEngagementDuration": 2527.0,
@@ -21,7 +21,7 @@
  "delta_28d": {
   "activeUsers": -48.1,
   "sessions": -50.9,
-  "engagedSessions": -11.1,
+  "engagedSessions": -5.6,
   "avgEngagementSeconds": 1001.2,
   "screenPageViews": 171.1
  },
@@ -908,11 +908,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 71231.0,
-   "bytes": 4298078271.0,
+   "requests": 68213.0,
+   "bytes": 4252883069.0,
    "clients": 1895.0,
-   "tool": 48053.0,
-   "browser": 23178.0
+   "tool": 46171.0,
+   "browser": 22042.0
   },
   "first_day": "2026-07-29",
   "top_paths": [

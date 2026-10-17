@@ -12,6 +12,7 @@ China,CN,Other,3,3
 Colombia,CO,Other,1,1
 Ecuador,EC,Other,2,2
 France,FR,Other,3,3
+Germany,DE,,0,1
 Germany,DE,Other,1,1
 Honduras,HN,Other,1,1
 India,IN,Other,4,4
@@ -34,7 +35,7 @@ Romania,RO,Other,1,1
 Russia,RU,Other,1,4
 Senegal,SN,Other,1,1
 Singapore,SG,,1,1
-Singapore,SG,(not set),959,957
+Singapore,SG,(not set),960,957
 Singapore,SG,Other,1,1
 South Africa,ZA,Other,2,2
 Spain,ES,Other,2,2

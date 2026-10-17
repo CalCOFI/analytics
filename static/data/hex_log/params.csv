@@ -15,7 +15,7 @@ env_var,salinity,2
 env_var,salinity_ave_corr,2
 env_var,spiciness0,2
 env_var,sst_c,4
-env_var,temperature,323
+env_var,temperature,334
 layers,ca_county_boundaries,3
 layers,ca_marine_protected_areas,1
 layers,ca_ports,1
@@ -30,7 +30,7 @@ taxa,AMPHIPODA GAMMARIDEA (suborder: Gammaridea),2
 taxa,AMPHIPODA HYPERIIDEA (suborder: Hyperiidea),14
 taxa,American White Pelican (species: Pelecanus erythrorhynchos),2
 taxa,Baird's Beaked Whale (species: Berardius bairdii),2
-taxa,California spiny lobster (species: Panulirus interruptus),2
+taxa,California spiny lobster (species: Panulirus interruptus),13
 taxa,Decapods (order: Decapoda),2
 taxa,Dungeness crab (species: Metacarcinus magister),12
 taxa,Killer Whale (species: Orcinus orca),2
