@@ -838,58 +838,63 @@
    },
    {
     "date": "2026-10-16",
-    "requests": 2779.0,
-    "bytes": 127828660.0
+    "requests": 4599.0,
+    "bytes": 136124711.0
+   },
+   {
+    "date": "2026-10-17",
+    "requests": 5424.0,
+    "bytes": 10242350.0
    }
   ],
   "totals_28d": {
-   "requests": 104283.0,
-   "bytes": 90966834769.0,
-   "clients": 3219.0,
-   "tool": 49316.0,
-   "browser": 54967.0
+   "requests": 111527.0,
+   "bytes": 90985373170.0,
+   "clients": 4034.0,
+   "tool": 55628.0,
+   "browser": 55899.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 60
    },
    {
     "path": "/robots.txt",
-    "n": 32
+    "n": 20
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=salinity_ave_corr/",
-    "n": 21
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=temperature_ave/3534ec1f0c4efa1267f8acb6/",
-    "n": 14
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=1996-04-31JD/aea597865483b61d6b96c6da/",
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=1998-09-32NM/413794526f2ea090deddedf9/",
     "n": 13
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2019-07-39C2/7b6f0457f265420be13f932b/",
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2023-01-33UD/fa1d65f958ba800b764cf2cb/",
+    "n": 13
+   },
+   {
+    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=btl_silicate/28db49ca4445eed3c9f47d95/",
     "n": 12
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_mets_full/cruise_key=2019-02-33UD/6173cc851638ff44b2c44704/",
+    "path": "/calcofi-db/pg/ctd_scan_raw/study=1704SH/",
     "n": 11
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 9
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2026-01-33UD/365f513e236a5a3fd174566a/",
+    "n": 10
    },
    {
     "path": "/sitemap.xml",
+    "n": 7
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 5
    },
    {
-    "path": "/calcofi-db/bathymetry/",
-    "n": 5
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 4
    }
   ]
  }

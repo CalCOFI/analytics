@@ -1,51 +1,51 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 54
+    "n": 49
    },
    {
     "path": "/erddap/outOfDateDatasets.html",
-    "n": 41
+    "n": 39
    },
    {
-    "path": "/erddap/metadata/iso19115/xml/cce-lter_zooscan_iso19115.xml",
-    "n": 40
+    "path": "/erddap/tabledap/sio_mesopelagic-fish.html",
+    "n": 16
    },
    {
-    "path": "/erddap/tabledap/farallon_bird-mammal_attribute.iso19115",
-    "n": 36
+    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
+    "n": 13
    },
    {
     "path": "/robots.txt",
-    "n": 27
+    "n": 12
    },
    {
-    "path": "/erddap/categorize/standard_name/_null/index.htmlTable",
-    "n": 15
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 13
+    "path": "/erddap/convert/time.html",
+    "n": 9
    },
    {
     "path": "/",
     "n": 9
    },
    {
-    "path": "/erddap/sitemap.xml",
+    "path": "/erddap/subscriptions/add.html",
+    "n": 8
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo_sample.csv",
     "n": 7
    },
    {
-    "path": "/erddap/images/erddap2.css",
+    "path": "/erddap/tabledap/swfsc_ichthyo.csv",
     "n": 7
    }
   ]
  },
  "erddap.calcofi.io:443": {
-  "date": "2026-10-14",
+  "date": "2026-10-17",
   "top_paths": [
    {
     "path": "/",
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 60
    },
    {
     "path": "/robots.txt",
-    "n": 32
+    "n": 20
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=salinity_ave_corr/",
-    "n": 21
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=temperature_ave/3534ec1f0c4efa1267f8acb6/",
-    "n": 14
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=1996-04-31JD/aea597865483b61d6b96c6da/",
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=1998-09-32NM/413794526f2ea090deddedf9/",
     "n": 13
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2019-07-39C2/7b6f0457f265420be13f932b/",
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2023-01-33UD/fa1d65f958ba800b764cf2cb/",
+    "n": 13
+   },
+   {
+    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=btl_silicate/28db49ca4445eed3c9f47d95/",
     "n": 12
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_mets_full/cruise_key=2019-02-33UD/6173cc851638ff44b2c44704/",
+    "path": "/calcofi-db/pg/ctd_scan_raw/study=1704SH/",
     "n": 11
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 9
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2026-01-33UD/365f513e236a5a3fd174566a/",
+    "n": 10
    },
    {
     "path": "/sitemap.xml",
+    "n": 7
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 5
    },
    {
-    "path": "/calcofi-db/bathymetry/",
-    "n": 5
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 4
    }
   ]
  },
