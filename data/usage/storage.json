@@ -843,58 +843,63 @@
    },
    {
     "date": "2026-10-17",
-    "requests": 5424.0,
-    "bytes": 10242350.0
+    "requests": 8262.0,
+    "bytes": 25399536.0
+   },
+   {
+    "date": "2026-10-18",
+    "requests": 3352.0,
+    "bytes": 18188477.0
    }
   ],
   "totals_28d": {
-   "requests": 106738.0,
-   "bytes": 90968032098.0,
-   "clients": 4034.0,
-   "tool": 52879.0,
-   "browser": 53859.0
+   "requests": 112928.0,
+   "bytes": 91001377761.0,
+   "clients": 4845.0,
+   "tool": 58038.0,
+   "browser": 54890.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 60
+    "n": 52
    },
    {
     "path": "/robots.txt",
-    "n": 20
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=1998-09-32NM/413794526f2ea090deddedf9/",
-    "n": 13
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2023-01-33UD/fa1d65f958ba800b764cf2cb/",
-    "n": 13
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=btl_silicate/28db49ca4445eed3c9f47d95/",
-    "n": 12
-   },
-   {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=1704SH/",
-    "n": 11
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2026-01-33UD/365f513e236a5a3fd174566a/",
-    "n": 10
+    "n": 33
    },
    {
     "path": "/sitemap.xml",
-    "n": 7
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/",
     "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.07.30/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.08.04/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/swfsc_cufes/v2026.09.04/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/measurement-media/keys/est_nitrate_sta_corr/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 3
    }
   ]
  }

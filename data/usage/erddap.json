@@ -7,23 +7,23 @@
  "first_day": "2026-07-30",
  "last_day": "2026-10-17",
  "totals_28d": {
-  "activeUsers": 29.0,
-  "newUsers": 13.0,
-  "sessions": 32.0,
-  "engagedSessions": 21.0,
-  "screenPageViews": 307.0,
-  "eventCount": 721.0,
-  "userEngagementDuration": 2527.0,
-  "avgEngagementSeconds": 87.1,
-  "engagedSessionRate": 0.7,
-  "viewsPerUser": 10.6
+  "activeUsers": 31.0,
+  "newUsers": 15.0,
+  "sessions": 36.0,
+  "engagedSessions": 23.0,
+  "screenPageViews": 338.0,
+  "eventCount": 794.0,
+  "userEngagementDuration": 2603.0,
+  "avgEngagementSeconds": 84.0,
+  "engagedSessionRate": 0.6,
+  "viewsPerUser": 10.9
  },
  "delta_28d": {
-  "activeUsers": -44.2,
-  "sessions": -43.9,
-  "engagedSessions": 16.7,
-  "avgEngagementSeconds": 924.7,
-  "screenPageViews": 303.9
+  "activeUsers": -40.4,
+  "sessions": -36.8,
+  "engagedSessions": 27.8,
+  "avgEngagementSeconds": 888.2,
+  "screenPageViews": 344.7
  },
  "daily": [
   {
@@ -298,8 +298,8 @@
   },
   {
    "date": "2026-10-17",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 3.0,
+   "sessions": 5.0
   }
  ],
  "daily_mean7": [
@@ -357,7 +357,7 @@
   1.43,
   2.0,
   2.0,
-  2.0
+  2.29
  ],
  "geo_country": [
   {
@@ -368,7 +368,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 28.0
+   "activeUsers": 29.0
   },
   {
    "country": "Italy",
@@ -379,6 +379,11 @@
    "country": "Singapore",
    "countryId": "SG",
    "activeUsers": 4.0
+  },
+  {
+   "country": "South Korea",
+   "countryId": "KR",
+   "activeUsers": 2.0
   },
   {
    "country": "Bangladesh",
@@ -398,11 +403,6 @@
   {
    "country": "New Zealand",
    "countryId": "NZ",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "South Korea",
-   "countryId": "KR",
    "activeUsers": 1.0
   }
  ],
@@ -417,7 +417,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 28.0
+   "activeUsers": 29.0
   },
   {
    "country": "Italy",
@@ -430,6 +430,12 @@
    "countryId": "SG",
    "region": "Other",
    "activeUsers": 3.0
+  },
+  {
+   "country": "South Korea",
+   "countryId": "KR",
+   "region": "Other",
+   "activeUsers": 2.0
   },
   {
    "country": "Bangladesh",
@@ -466,39 +472,33 @@
    "countryId": "SG",
    "region": "",
    "activeUsers": 1.0
-  },
-  {
-   "country": "South Korea",
-   "countryId": "KR",
-   "region": "Other",
-   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 533.0,
-   "users": 77.0
+   "count": 564.0,
+   "users": 79.0
   },
   {
    "name": "user_engagement",
-   "count": 306.0,
-   "users": 29.0
+   "count": 312.0,
+   "users": 30.0
   },
   {
    "name": "scroll",
-   "count": 272.0,
-   "users": 32.0
+   "count": 302.0,
+   "users": 33.0
   },
   {
    "name": "session_start",
-   "count": 88.0,
-   "users": 67.0
+   "count": 92.0,
+   "users": 69.0
   },
   {
    "name": "first_visit",
-   "count": 62.0,
-   "users": 60.0
+   "count": 64.0,
+   "users": 62.0
   },
   {
    "name": "form_start",
@@ -920,58 +920,63 @@
    },
    {
     "date": "2026-10-17",
-    "requests": 1083.0,
-    "bytes": 6456968.0
+    "requests": 2500.0,
+    "bytes": 21713920.0
+   },
+   {
+    "date": "2026-10-18",
+    "requests": 549.0,
+    "bytes": 5674248.0
    }
   ],
   "totals_28d": {
-   "requests": 69019.0,
-   "bytes": 4243462775.0,
+   "requests": 70985.0,
+   "bytes": 4264393975.0,
    "clients": 1895.0,
-   "tool": 46744.0,
-   "browser": 22275.0
+   "tool": 47804.0,
+   "browser": 23181.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 49
-   },
-   {
-    "path": "/erddap/outOfDateDatasets.html",
-    "n": 39
-   },
-   {
-    "path": "/erddap/tabledap/sio_mesopelagic-fish.html",
-    "n": 16
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 13
-   },
-   {
-    "path": "/robots.txt",
-    "n": 12
-   },
-   {
-    "path": "/erddap/convert/time.html",
-    "n": 9
+    "n": 55
    },
    {
     "path": "/",
+    "n": 18
+   },
+   {
+    "path": "/robots.txt",
+    "n": 13
+   },
+   {
+    "path": "/erddap",
     "n": 9
    },
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 8
+    "path": "/.git/config",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo_sample.csv",
-    "n": 7
+    "path": "/erddap/outOfDateDatasets.html",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.csv",
-    "n": 7
+    "path": "/erddap/search/advanced.mat",
+    "n": 6
+   },
+   {
+    "path": "/erddap/griddap/index.xhtml",
+    "n": 5
+   },
+   {
+    "path": "/erddap/tabledap/cdfw_dungeness-crab_sample.html",
+    "n": 5
+   },
+   {
+    "path": "/erddap/categorize/ioos_category/index.html",
+    "n": 4
    }
   ]
  }

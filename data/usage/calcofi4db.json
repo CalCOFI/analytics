@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-05-07",
- "last_day": "2026-10-16",
+ "last_day": "2026-10-17",
  "totals_28d": {
-  "activeUsers": 348.0,
-  "newUsers": 345.0,
-  "sessions": 354.0,
+  "activeUsers": 350.0,
+  "newUsers": 347.0,
+  "sessions": 356.0,
   "engagedSessions": 14.0,
-  "screenPageViews": 354.0,
-  "eventCount": 1140.0,
+  "screenPageViews": 356.0,
+  "eventCount": 1146.0,
   "userEngagementDuration": 392.0,
   "avgEngagementSeconds": 1.1,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -36.8,
-  "sessions": -35.9,
+  "activeUsers": -36.5,
+  "sessions": -35.5,
   "engagedSessions": 133.3,
   "avgEngagementSeconds": 450.0,
-  "screenPageViews": -35.9
+  "screenPageViews": -35.5
  },
  "daily": [
   {
@@ -570,6 +570,11 @@
    "date": "2026-10-16",
    "activeUsers": 0.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-10-17",
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -681,13 +686,14 @@
   9.43,
   4.86,
   3.71,
-  3.29
+  3.29,
+  3.14
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 962.0
+   "activeUsers": 963.0
   },
   {
    "country": "Brazil",
@@ -999,6 +1005,12 @@
    "activeUsers": 2.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 2.0
+  },
+  {
    "country": "South Africa",
    "countryId": "ZA",
    "region": "Other",
@@ -1151,12 +1163,6 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "region": "",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
    "region": "Other",
    "activeUsers": 1.0
   },
@@ -1182,18 +1188,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1093.0,
-   "users": 1070.0
+   "count": 1095.0,
+   "users": 1072.0
   },
   {
    "name": "session_start",
-   "count": 1074.0,
-   "users": 1069.0
+   "count": 1076.0,
+   "users": 1071.0
   },
   {
    "name": "first_visit",
-   "count": 1067.0,
-   "users": 1067.0
+   "count": 1069.0,
+   "users": 1069.0
   },
   {
    "name": "scroll",

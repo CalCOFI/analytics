@@ -1,51 +1,51 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 49
-   },
-   {
-    "path": "/erddap/outOfDateDatasets.html",
-    "n": 39
-   },
-   {
-    "path": "/erddap/tabledap/sio_mesopelagic-fish.html",
-    "n": 16
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 13
-   },
-   {
-    "path": "/robots.txt",
-    "n": 12
-   },
-   {
-    "path": "/erddap/convert/time.html",
-    "n": 9
+    "n": 55
    },
    {
     "path": "/",
+    "n": 18
+   },
+   {
+    "path": "/robots.txt",
+    "n": 13
+   },
+   {
+    "path": "/erddap",
     "n": 9
    },
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 8
+    "path": "/.git/config",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo_sample.csv",
-    "n": 7
+    "path": "/erddap/outOfDateDatasets.html",
+    "n": 6
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.csv",
-    "n": 7
+    "path": "/erddap/search/advanced.mat",
+    "n": 6
+   },
+   {
+    "path": "/erddap/griddap/index.xhtml",
+    "n": 5
+   },
+   {
+    "path": "/erddap/tabledap/cdfw_dungeness-crab_sample.html",
+    "n": 5
+   },
+   {
+    "path": "/erddap/categorize/ioos_category/index.html",
+    "n": 4
    }
   ]
  },
  "erddap.calcofi.io:443": {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "top_paths": [
    {
     "path": "/",
@@ -62,7 +62,7 @@
   ]
  },
  "erddap.calcofi.io:80": {
-  "date": "2026-08-30",
+  "date": "2026-10-17",
   "top_paths": [
    {
     "path": "/.env",
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "top_paths": [
    {
     "path": "/",
-    "n": 60
+    "n": 52
    },
    {
     "path": "/robots.txt",
-    "n": 20
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=1998-09-32NM/413794526f2ea090deddedf9/",
-    "n": 13
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2023-01-33UD/fa1d65f958ba800b764cf2cb/",
-    "n": 13
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=btl_silicate/28db49ca4445eed3c9f47d95/",
-    "n": 12
-   },
-   {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=1704SH/",
-    "n": 11
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2026-01-33UD/365f513e236a5a3fd174566a/",
-    "n": 10
+    "n": 33
    },
    {
     "path": "/sitemap.xml",
-    "n": 7
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/",
     "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.07.30/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.08.04/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/swfsc_cufes/v2026.09.04/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/measurement-media/keys/est_nitrate_sta_corr/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 3
    }
   ]
  },
