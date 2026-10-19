@@ -848,57 +848,62 @@
    },
    {
     "date": "2026-10-18",
-    "requests": 3352.0,
-    "bytes": 18188477.0
+    "requests": 7614.0,
+    "bytes": 49704739.0
+   },
+   {
+    "date": "2026-10-19",
+    "requests": 5220.0,
+    "bytes": 60616613.0
    }
   ],
   "totals_28d": {
-   "requests": 108851.0,
-   "bytes": 90448804702.0,
-   "clients": 4845.0,
-   "tool": 56653.0,
-   "browser": 52198.0
+   "requests": 118333.0,
+   "bytes": 90540937577.0,
+   "clients": 6420.0,
+   "tool": 65415.0,
+   "browser": 52918.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 52
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 33
+    "n": 24
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 6
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/",
+    "path": "/calcofi-db/ducklake/releases/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.07.30/",
+    "path": "/calcofi-db/ingest/calcofi_mets/obs_mets_full/cruise_key=2004-07-31JD/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.08.04/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=phosphate/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_cufes/v2026.09.04/",
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=sss_psu/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf",
+    "path": "/calcofi-db/pg/ctd_scan_raw/_issues/study=2211SR/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/measurement-media/keys/est_nitrate_sta_corr/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/",
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=dic/",
     "n": 3
    }
   ]

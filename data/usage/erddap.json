@@ -925,58 +925,63 @@
    },
    {
     "date": "2026-10-18",
-    "requests": 549.0,
-    "bytes": 5674248.0
+    "requests": 1861.0,
+    "bytes": 23922970.0
+   },
+   {
+    "date": "2026-10-19",
+    "requests": 1092.0,
+    "bytes": 51331978.0
    }
   ],
   "totals_28d": {
-   "requests": 68499.0,
-   "bytes": 4214339004.0,
+   "requests": 70903.0,
+   "bytes": 4283919704.0,
    "clients": 1895.0,
-   "tool": 46408.0,
-   "browser": 22091.0
+   "tool": 47997.0,
+   "browser": 22906.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/index.html",
-    "n": 55
+    "path": "/erddap/tabledap/calcofi_ctd-cast.csv",
+    "n": 62
    },
    {
-    "path": "/",
-    "n": 18
+    "path": "/erddap/index.html",
+    "n": 56
    },
    {
     "path": "/robots.txt",
-    "n": 13
+    "n": 23
+   },
+   {
+    "path": "/",
+    "n": 20
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 20
    },
    {
     "path": "/erddap",
-    "n": 9
+    "n": 18
    },
    {
-    "path": "/.git/config",
+    "path": "/erddap/information.html",
+    "n": 11
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 10
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 7
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
     "n": 6
-   },
-   {
-    "path": "/erddap/outOfDateDatasets.html",
-    "n": 6
-   },
-   {
-    "path": "/erddap/search/advanced.mat",
-    "n": 6
-   },
-   {
-    "path": "/erddap/griddap/index.xhtml",
-    "n": 5
-   },
-   {
-    "path": "/erddap/tabledap/cdfw_dungeness-crab_sample.html",
-    "n": 5
-   },
-   {
-    "path": "/erddap/categorize/ioos_category/index.html",
-    "n": 4
    }
   ]
  }

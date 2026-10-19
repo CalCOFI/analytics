@@ -296,7 +296,7 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 30.0
+   "activeUsers": 32.0
   },
   {
    "country": "China",
@@ -403,16 +403,16 @@
    "activeUsers": 26.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "(not set)",
+   "activeUsers": 24.0
+  },
+  {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
    "activeUsers": 24.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "(not set)",
-   "activeUsers": 22.0
   },
   {
    "country": "Singapore",
