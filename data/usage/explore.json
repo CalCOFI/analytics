@@ -5,25 +5,25 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-10-16",
+ "last_day": "2026-10-17",
  "totals_28d": {
-  "activeUsers": 126.0,
-  "newUsers": 58.0,
-  "sessions": 202.0,
-  "engagedSessions": 141.0,
-  "screenPageViews": 2167.0,
-  "eventCount": 2872.0,
-  "userEngagementDuration": 22376.0,
-  "avgEngagementSeconds": 177.6,
+  "activeUsers": 123.0,
+  "newUsers": 59.0,
+  "sessions": 199.0,
+  "engagedSessions": 139.0,
+  "screenPageViews": 2142.0,
+  "eventCount": 2844.0,
+  "userEngagementDuration": 22285.0,
+  "avgEngagementSeconds": 181.2,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 17.2
+  "viewsPerUser": 17.4
  },
  "delta_28d": {
-  "activeUsers": 4.1,
-  "sessions": -1.0,
-  "engagedSessions": -9.0,
-  "avgEngagementSeconds": -15.9,
-  "screenPageViews": -23.3
+  "activeUsers": -1.6,
+  "sessions": -4.8,
+  "engagedSessions": -12.0,
+  "avgEngagementSeconds": -11.9,
+  "screenPageViews": -25.0
  },
  "daily": [
   {
@@ -255,6 +255,11 @@
    "date": "2026-10-16",
    "activeUsers": 7.0,
    "sessions": 8.0
+  },
+  {
+   "date": "2026-10-17",
+   "activeUsers": 1.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -303,13 +308,14 @@
   5.0,
   8.29,
   8.43,
-  9.0
+  9.0,
+  8.14
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 121.0
+   "activeUsers": 122.0
   },
   {
    "country": "Italy",
@@ -377,7 +383,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 63.0
+   "activeUsers": 64.0
   },
   {
    "country": "United States",
@@ -485,28 +491,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 4991.0,
-   "users": 139.0
+   "count": 4997.0,
+   "users": 140.0
   },
   {
    "name": "scroll",
-   "count": 554.0,
-   "users": 130.0
+   "count": 555.0,
+   "users": 131.0
   },
   {
    "name": "session_start",
-   "count": 384.0,
-   "users": 137.0
+   "count": 386.0,
+   "users": 138.0
   },
   {
    "name": "user_engagement",
-   "count": 378.0,
-   "users": 74.0
+   "count": 380.0,
+   "users": 75.0
   },
   {
    "name": "first_visit",
-   "count": 118.0,
-   "users": 116.0
+   "count": 119.0,
+   "users": 117.0
   },
   {
    "name": "cite_ack",

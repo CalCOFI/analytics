@@ -9,21 +9,21 @@
  "totals_28d": {
   "activeUsers": 31.0,
   "newUsers": 15.0,
-  "sessions": 36.0,
-  "engagedSessions": 23.0,
-  "screenPageViews": 338.0,
-  "eventCount": 794.0,
-  "userEngagementDuration": 2603.0,
-  "avgEngagementSeconds": 84.0,
+  "sessions": 37.0,
+  "engagedSessions": 24.0,
+  "screenPageViews": 340.0,
+  "eventCount": 800.0,
+  "userEngagementDuration": 2608.0,
+  "avgEngagementSeconds": 84.1,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 10.9
+  "viewsPerUser": 11.0
  },
  "delta_28d": {
   "activeUsers": -40.4,
-  "sessions": -36.8,
-  "engagedSessions": 27.8,
-  "avgEngagementSeconds": 888.2,
-  "screenPageViews": 344.7
+  "sessions": -35.1,
+  "engagedSessions": 33.3,
+  "avgEngagementSeconds": 889.4,
+  "screenPageViews": 347.4
  },
  "daily": [
   {
@@ -299,7 +299,7 @@
   {
    "date": "2026-10-17",
    "activeUsers": 3.0,
-   "sessions": 5.0
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -383,7 +383,7 @@
   {
    "country": "South Korea",
    "countryId": "KR",
-   "activeUsers": 2.0
+   "activeUsers": 3.0
   },
   {
    "country": "Bangladesh",
@@ -435,7 +435,7 @@
    "country": "South Korea",
    "countryId": "KR",
    "region": "Other",
-   "activeUsers": 2.0
+   "activeUsers": 3.0
   },
   {
    "country": "Bangladesh",
@@ -477,22 +477,22 @@
  "events": [
   {
    "name": "page_view",
-   "count": 564.0,
+   "count": 566.0,
    "users": 79.0
   },
   {
    "name": "user_engagement",
-   "count": 312.0,
+   "count": 313.0,
    "users": 30.0
   },
   {
    "name": "scroll",
-   "count": 302.0,
+   "count": 304.0,
    "users": 33.0
   },
   {
    "name": "session_start",
-   "count": 92.0,
+   "count": 93.0,
    "users": 69.0
   },
   {
@@ -930,11 +930,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 70985.0,
-   "bytes": 4264393975.0,
+   "requests": 68499.0,
+   "bytes": 4214339004.0,
    "clients": 1895.0,
-   "tool": 47804.0,
-   "browser": 23181.0
+   "tool": 46408.0,
+   "browser": 22091.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
