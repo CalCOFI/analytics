@@ -7,22 +7,22 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 23.0,
+  "activeUsers": 22.0,
   "newUsers": 16.0,
-  "sessions": 32.0,
-  "engagedSessions": 22.0,
-  "screenPageViews": 40.0,
-  "eventCount": 437.0,
-  "userEngagementDuration": 3549.0,
-  "avgEngagementSeconds": 154.3,
+  "sessions": 31.0,
+  "engagedSessions": 21.0,
+  "screenPageViews": 39.0,
+  "eventCount": 432.0,
+  "userEngagementDuration": 3537.0,
+  "avgEngagementSeconds": 160.8,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 1.7
+  "viewsPerUser": 1.8
  },
  "delta_28d": {
-  "activeUsers": -62.3,
+  "activeUsers": -62.1,
   "sessions": -81.1,
-  "engagedSessions": -83.3,
-  "avgEngagementSeconds": -74.4,
+  "engagedSessions": -83.6,
+  "avgEngagementSeconds": -74.6,
   "screenPageViews": -92.4
  },
  "daily": [
@@ -1235,6 +1235,15 @@
     "p95_ms": "252.1"
    },
    {
+    "date": "2026-10-20",
+    "events": "2",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1494,7 +1503,7 @@
    },
    {
     "event": "session_start",
-    "n": "359",
+    "n": "360",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1502,7 +1511,7 @@
    },
    {
     "event": "start_tour",
-    "n": "288",
+    "n": "289",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1889,9 +1898,9 @@
    },
    {
     "app_version": "c2f854a",
-    "n": "315",
+    "n": "317",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-10-17"
+    "last_seen": "2026-10-20"
    },
    {
     "app_version": "cbc4d03",
