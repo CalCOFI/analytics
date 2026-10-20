@@ -853,58 +853,63 @@
    },
    {
     "date": "2026-10-19",
-    "requests": 5220.0,
-    "bytes": 60616613.0
+    "requests": 11927.0,
+    "bytes": 89690568.0
+   },
+   {
+    "date": "2026-10-20",
+    "requests": 3695.0,
+    "bytes": 21567060.0
    }
   ],
   "totals_28d": {
-   "requests": 114804.0,
-   "bytes": 90359072086.0,
+   "requests": 125206.0,
+   "bytes": 90409713101.0,
    "clients": 6420.0,
-   "tool": 64011.0,
-   "browser": 50793.0
+   "tool": 72701.0,
+   "browser": 52505.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 50
+    "n": 51
    },
    {
     "path": "/robots.txt",
-    "n": 24
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 6
+    "n": 35
    },
    {
     "path": "/sitemap.xml",
+    "n": 6
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=btl_temperature/ab7ebd09158660e67b6fd8b9/",
     "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake/releases/",
-    "n": 4
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=temperature_ave/f6048aa1aca5609487d4b93a/",
+    "n": 5
    },
    {
-    "path": "/calcofi-db/ingest/calcofi_mets/obs_mets_full/cruise_key=2004-07-31JD/",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=spar/061327a883f276694461045b/",
+    "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=phosphate/",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=btl_nitrate/2d866cbdcc0165bfaddbcc3e/",
+    "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=sss_psu/",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=wind_dir_deg/1d27cb391bdf37669c3340a4/",
+    "n": 5
    },
    {
-    "path": "/calcofi-db/pg/ctd_scan_raw/_issues/study=2211SR/",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=r_depth/d57ca90621c52cf54446d9c0/",
+    "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=dic/",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=dic_rep1/fe762c593cce1fff9b885ed4/",
+    "n": 5
    }
   ]
  }
