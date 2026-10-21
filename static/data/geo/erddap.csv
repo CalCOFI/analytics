@@ -2,7 +2,7 @@ country,countryId,region,activeUsers,sessions
 Bangladesh,BD,Other,1,1
 Canada,CA,Other,1,1
 China,CN,,1,1
-China,CN,Other,44,45
+China,CN,Other,45,46
 Germany,DE,Other,1,2
 Ghana,GH,Other,1,1
 Italy,IT,Other,5,33
@@ -10,5 +10,5 @@ New Zealand,NZ,Other,1,1
 Singapore,SG,,1,1
 Singapore,SG,Other,3,3
 South Korea,KR,Other,3,7
-United States,US,California,10,30
+United States,US,California,11,31
 United States,US,Other,20,23

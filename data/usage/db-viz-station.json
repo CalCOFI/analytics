@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-10-16",
+ "last_day": "2026-10-20",
  "totals_28d": {
-  "activeUsers": 70.0,
-  "newUsers": 15.0,
-  "sessions": 109.0,
-  "engagedSessions": 75.0,
-  "screenPageViews": 116.0,
-  "eventCount": 439.0,
-  "userEngagementDuration": 7771.0,
-  "avgEngagementSeconds": 111.0,
+  "activeUsers": 73.0,
+  "newUsers": 16.0,
+  "sessions": 113.0,
+  "engagedSessions": 77.0,
+  "screenPageViews": 120.0,
+  "eventCount": 455.0,
+  "userEngagementDuration": 7934.0,
+  "avgEngagementSeconds": 108.7,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 1.7
+  "viewsPerUser": 1.6
  },
  "delta_28d": {
-  "activeUsers": -17.6,
-  "sessions": -3.5,
-  "engagedSessions": 27.1,
-  "avgEngagementSeconds": 109.4,
-  "screenPageViews": -19.4
+  "activeUsers": -14.1,
+  "sessions": 0.0,
+  "engagedSessions": 30.5,
+  "avgEngagementSeconds": 105.1,
+  "screenPageViews": -16.7
  },
  "daily": [
   {
@@ -375,6 +375,16 @@
    "date": "2026-10-16",
    "activeUsers": 2.0,
    "sessions": 3.0
+  },
+  {
+   "date": "2026-10-19",
+   "activeUsers": 3.0,
+   "sessions": 3.0
+  },
+  {
+   "date": "2026-10-20",
+   "activeUsers": 0.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -447,13 +457,15 @@
   3.43,
   4.0,
   3.57,
-  3.29
+  3.29,
+  3.14,
+  2.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 128.0
+   "activeUsers": 129.0
   },
   {
    "country": "Italy",
@@ -463,7 +475,7 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   },
   {
    "country": "Canada",
@@ -518,7 +530,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 19.0
+   "activeUsers": 20.0
   },
   {
    "country": "Italy",
@@ -530,7 +542,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "Other",
-   "activeUsers": 3.0
+   "activeUsers": 4.0
   },
   {
    "country": "Canada",
@@ -584,33 +596,33 @@
  "events": [
   {
    "name": "page_view",
-   "count": 429.0,
-   "users": 135.0
+   "count": 433.0,
+   "users": 137.0
   },
   {
    "name": "scroll",
-   "count": 398.0,
-   "users": 106.0
+   "count": 401.0,
+   "users": 107.0
   },
   {
    "name": "user_engagement",
-   "count": 285.0,
-   "users": 68.0
+   "count": 288.0,
+   "users": 69.0
   },
   {
    "name": "session_start",
-   "count": 245.0,
-   "users": 120.0
+   "count": 247.0,
+   "users": 121.0
   },
   {
    "name": "first_visit",
-   "count": 95.0,
-   "users": 95.0
+   "count": 96.0,
+   "users": 96.0
   },
   {
    "name": "click",
-   "count": 80.0,
-   "users": 39.0
+   "count": 83.0,
+   "users": 40.0
   },
   {
    "name": "form_start",

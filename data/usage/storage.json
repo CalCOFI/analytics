@@ -858,58 +858,63 @@
    },
    {
     "date": "2026-10-20",
-    "requests": 3695.0,
-    "bytes": 21567060.0
+    "requests": 7445.0,
+    "bytes": 904021191.0
+   },
+   {
+    "date": "2026-10-21",
+    "requests": 3530.0,
+    "bytes": 57147911.0
    }
   ],
   "totals_28d": {
-   "requests": 121482.0,
-   "bytes": 90362011601.0,
+   "requests": 128762.0,
+   "bytes": 91301613643.0,
    "clients": 6420.0,
-   "tool": 71888.0,
-   "browser": 49594.0
+   "tool": 77361.0,
+   "browser": 51401.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 51
+    "n": 79
    },
    {
     "path": "/robots.txt",
-    "n": 35
+    "n": 24
    },
    {
-    "path": "/sitemap.xml",
-    "n": 6
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 17
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=btl_temperature/ab7ebd09158660e67b6fd8b9/",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
     "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=temperature_ave/f6048aa1aca5609487d4b93a/",
-    "n": 5
+    "path": "/calcofi-files-public/_spatial/",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=spar/061327a883f276694461045b/",
-    "n": 5
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/calcofi_ctd-cast.nc",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=btl_nitrate/2d866cbdcc0165bfaddbcc3e/",
-    "n": 5
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/calcofi_ctd-cast_full.nc",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=wind_dir_deg/1d27cb391bdf37669c3340a4/",
-    "n": 5
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.09.11/calcofi_dic.nc",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=r_depth/d57ca90621c52cf54446d9c0/",
-    "n": 5
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.09.11/calcofi_mets.nc",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=dic_rep1/fe762c593cce1fff9b885ed4/",
-    "n": 5
+    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.09.11/calcofi_phyllosoma.nc",
+    "n": 4
    }
   ]
  }
