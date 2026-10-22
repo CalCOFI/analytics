@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "top_paths": [
    {
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 2632
+   },
+   {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 559
+    "n": 1474
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 969
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 215
+    "n": 570
    },
    {
-    "path": "/erddap/griddap/index.html",
-    "n": 135
-   },
-   {
-    "path": "/erddap/search/advanced.html",
-    "n": 108
-   },
-   {
-    "path": "/erddap/index.html",
-    "n": 66
+    "path": "/erddap/tabledap/farallon_bird-mammal.graph",
+    "n": 247
    },
    {
     "path": "/erddap/tabledap/farallon_bird-mammal.html",
-    "n": 45
+    "n": 207
    },
    {
-    "path": "/",
-    "n": 29
+    "path": "/erddap/tabledap/calcofi_ctd-cast.subset",
+    "n": 199
    },
    {
-    "path": "/erddap",
-    "n": 21
+    "path": "/erddap/tabledap/calcofi_bottle.subset",
+    "n": 148
    },
    {
-    "path": "/robots.txt",
-    "n": 21
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 140
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
-    "n": 18
+    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
+    "n": 134
    }
   ]
  },
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "top_paths": [
    {
     "path": "/",
-    "n": 79
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 24
+    "n": 25
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 17
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0504NH_CTDFinalQC/asc-hdr-btl/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
-    "n": 5
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2006-07-32NM/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/_spatial/",
-    "n": 4
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2004-11-33RR/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/calcofi_ctd-cast.nc",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/CA_marine-protected-areas/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/calcofi_ctd-cast_full.nc",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0504NH_CTDFinalQC/Metadata/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.09.11/calcofi_dic.nc",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2311SR_CTDPrelim/metadata/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.09.11/calcofi_mets.nc",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2408SR_CTDPrelim/metadata/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.09.11/calcofi_phyllosoma.nc",
-    "n": 4
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=par_surf/",
+    "n": 3
    }
   ]
  },

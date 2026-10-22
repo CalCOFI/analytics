@@ -869,58 +869,63 @@
    },
    {
     "date": "2026-10-21",
-    "requests": 3530.0,
-    "bytes": 57147911.0
+    "requests": 6337.0,
+    "bytes": 72438230.0
+   },
+   {
+    "date": "2026-10-22",
+    "requests": 5414.0,
+    "bytes": 19609923.0
    }
   ],
   "totals_28d": {
-   "requests": 124088.0,
-   "bytes": 91288310031.0,
+   "requests": 132309.0,
+   "bytes": 91323210273.0,
    "clients": 6420.0,
-   "tool": 76746.0,
-   "browser": 47342.0
+   "tool": 80738.0,
+   "browser": 51571.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 79
+    "n": 46
    },
    {
     "path": "/robots.txt",
-    "n": 24
+    "n": 25
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 17
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0504NH_CTDFinalQC/asc-hdr-btl/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
-    "n": 5
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2006-07-32NM/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/_spatial/",
-    "n": 4
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2004-11-33RR/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/calcofi_ctd-cast.nc",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/CA_marine-protected-areas/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/calcofi_ctd-cast_full.nc",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0504NH_CTDFinalQC/Metadata/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.09.11/calcofi_dic.nc",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2311SR_CTDPrelim/metadata/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.09.11/calcofi_mets.nc",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2408SR_CTDPrelim/metadata/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.09.11/calcofi_phyllosoma.nc",
-    "n": 4
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=par_surf/",
+    "n": 3
    }
   ]
  }
