@@ -874,58 +874,63 @@
    },
    {
     "date": "2026-10-22",
-    "requests": 5414.0,
-    "bytes": 19609923.0
+    "requests": 6244.0,
+    "bytes": 26260797.0
+   },
+   {
+    "date": "2026-10-23",
+    "requests": 2891.0,
+    "bytes": 41526533.0
    }
   ],
   "totals_28d": {
-   "requests": 129110.0,
-   "bytes": 90639195995.0,
+   "requests": 132831.0,
+   "bytes": 90687373402.0,
    "clients": 6420.0,
-   "tool": 79650.0,
-   "browser": 49460.0
+   "tool": 82738.0,
+   "browser": 50093.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 46
+    "n": 48
    },
    {
     "path": "/robots.txt",
-    "n": 25
+    "n": 16
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0504NH_CTDFinalQC/asc-hdr-btl/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/bottle/CalCOFI_Database_194903-202105_csv_16October2023/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2006-07-32NM/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/bottle-database/CalCOFI_Database_194903-202105_csv_16October2023/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2004-11-33RR/",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=oxygen_saturation/359379ab4c30206a78e5684e/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/CA_marine-protected-areas/",
-    "n": 3
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=salinity_ave_corr/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0504NH_CTDFinalQC/Metadata/",
-    "n": 3
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=ph/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2311SR_CTDPrelim/metadata/",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2408SR_CTDPrelim/metadata/",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=btl_silicate/0ea73c6344e73bdb7910e9ea/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=par_surf/",
-    "n": 3
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=sw_ph/",
+    "n": 2
    }
   ]
  }

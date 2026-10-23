@@ -7,23 +7,23 @@
  "first_day": "2026-08-28",
  "last_day": "2026-10-22",
  "totals_28d": {
-  "activeUsers": 113.0,
-  "newUsers": 55.0,
-  "sessions": 183.0,
-  "engagedSessions": 135.0,
-  "screenPageViews": 2030.0,
-  "eventCount": 2683.0,
+  "activeUsers": 115.0,
+  "newUsers": 58.0,
+  "sessions": 185.0,
+  "engagedSessions": 136.0,
+  "screenPageViews": 2033.0,
+  "eventCount": 2694.0,
   "userEngagementDuration": 20841.0,
-  "avgEngagementSeconds": 184.4,
+  "avgEngagementSeconds": 181.2,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 18.0
+  "viewsPerUser": 17.7
  },
  "delta_28d": {
-  "activeUsers": -19.3,
-  "sessions": -22.1,
-  "engagedSessions": -20.1,
-  "avgEngagementSeconds": -6.8,
-  "screenPageViews": -33.7
+  "activeUsers": -17.9,
+  "sessions": -21.3,
+  "engagedSessions": -19.5,
+  "avgEngagementSeconds": -8.4,
+  "screenPageViews": -33.6
  },
  "daily": [
   {
@@ -278,8 +278,8 @@
   },
   {
    "date": "2026-10-22",
-   "activeUsers": 3.0,
-   "sessions": 4.0
+   "activeUsers": 5.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -333,13 +333,13 @@
   8.0,
   7.57,
   6.43,
-  3.14
+  3.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 126.0
+   "activeUsers": 128.0
   },
   {
    "country": "Italy",
@@ -419,7 +419,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 16.0
+   "activeUsers": 18.0
   },
   {
    "country": "Italy",
@@ -515,18 +515,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 5107.0,
-   "users": 145.0
+   "count": 5110.0,
+   "users": 147.0
   },
   {
    "name": "scroll",
-   "count": 565.0,
-   "users": 136.0
+   "count": 567.0,
+   "users": 138.0
   },
   {
    "name": "session_start",
-   "count": 398.0,
-   "users": 143.0
+   "count": 401.0,
+   "users": 145.0
   },
   {
    "name": "user_engagement",
@@ -535,8 +535,8 @@
   },
   {
    "name": "first_visit",
-   "count": 124.0,
-   "users": 122.0
+   "count": 127.0,
+   "users": 124.0
   },
   {
    "name": "cite_ack",

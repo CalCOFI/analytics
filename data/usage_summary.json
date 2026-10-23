@@ -1,23 +1,23 @@
 {
- "generated": "2026-10-23T01:59:17+00:00",
+ "generated": "2026-10-23T11:17:33+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 671.0,
-  "activeUsers": 1358.0,
-  "sessions": 1660.0
+  "engagedSessions": 677.0,
+  "activeUsers": 1372.0,
+  "sessions": 1676.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 135.0,
-   "activeUsers": 113.0,
-   "sessions": 183.0,
+   "engagedSessions": 136.0,
+   "activeUsers": 115.0,
+   "sessions": 185.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 184.4,
-   "delta": -20.1,
+   "avgEngagementSeconds": 181.2,
+   "delta": -19.5,
    "spark": [
     2.0,
     2.0,
@@ -69,19 +69,19 @@
     2.0,
     2.0,
     0.0,
-    3.0
+    5.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 115.0,
-   "activeUsers": 166.0,
-   "sessions": 216.0,
+   "engagedSessions": 117.0,
+   "activeUsers": 170.0,
+   "sessions": 221.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 63.8,
-   "delta": 69.1,
+   "avgEngagementSeconds": 62.5,
+   "delta": 72.1,
    "spark": [
     1.0,
     2.0,
@@ -130,7 +130,7 @@
     12.0,
     13.0,
     8.0,
-    1.0
+    5.0
    ],
    "mostly_automated": false
   },
@@ -138,10 +138,10 @@
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
    "engagedSessions": 86.0,
-   "activeUsers": 135.0,
-   "sessions": 189.0,
+   "activeUsers": 136.0,
+   "sessions": 190.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 44.4,
+   "avgEngagementSeconds": 44.1,
    "delta": -61.4,
    "spark": [
     2.0,
@@ -212,19 +212,19 @@
     3.0,
     3.0,
     2.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 76.0,
-   "activeUsers": 77.0,
-   "sessions": 114.0,
+   "engagedSessions": 77.0,
+   "activeUsers": 78.0,
+   "sessions": 116.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 104.4,
-   "delta": 43.4,
+   "avgEngagementSeconds": 103.1,
+   "delta": 45.3,
    "spark": [
     2.0,
     3.0,
@@ -298,7 +298,9 @@
     2.0,
     3.0,
     3.0,
-    3.0
+    3.0,
+    1.0,
+    0.0
    ],
    "mostly_automated": false
   },
@@ -480,12 +482,12 @@
   {
    "slug": "erddap",
    "title": "erddap",
-   "engagedSessions": 30.0,
-   "activeUsers": 47.0,
-   "sessions": 55.0,
+   "engagedSessions": 31.0,
+   "activeUsers": 49.0,
+   "sessions": 57.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 67.8,
-   "delta": 100.0,
+   "avgEngagementSeconds": 65.2,
+   "delta": 106.7,
    "spark": [
     3.0,
     1.0,
@@ -546,7 +548,7 @@
     5.0,
     4.0,
     7.0,
-    1.0
+    3.0
    ],
    "mostly_automated": false
   },
@@ -984,8 +986,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 12.0,
-   "activeUsers": 445.0,
-   "sessions": 450.0,
+   "activeUsers": 446.0,
+   "sessions": 451.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.7,
    "delta": 100.0,
@@ -1079,9 +1081,65 @@
     70.0,
     45.0,
     4.0,
-    8.0
+    9.0
    ],
    "mostly_automated": true
+  },
+  {
+   "slug": "workflows",
+   "title": "workflows",
+   "engagedSessions": 5.0,
+   "activeUsers": 6.0,
+   "sessions": 7.0,
+   "engagementRate": 0.7,
+   "avgEngagementSeconds": 6.5,
+   "delta": -73.7,
+   "spark": [
+    4.0,
+    3.0,
+    3.0,
+    1.0,
+    1.0,
+    3.0,
+    3.0,
+    1.0,
+    1.0,
+    1.0,
+    2.0,
+    3.0,
+    1.0,
+    1.0,
+    2.0,
+    1.0,
+    2.0,
+    2.0,
+    2.0,
+    2.0,
+    1.0,
+    1.0,
+    2.0,
+    1.0,
+    1.0,
+    1.0,
+    2.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    2.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "mostly_automated": false
   },
   {
    "slug": "saferseafood",
@@ -1252,61 +1310,6 @@
    "mostly_automated": false
   },
   {
-   "slug": "workflows",
-   "title": "workflows",
-   "engagedSessions": 4.0,
-   "activeUsers": 5.0,
-   "sessions": 6.0,
-   "engagementRate": 0.7,
-   "avgEngagementSeconds": 5.4,
-   "delta": -78.9,
-   "spark": [
-    4.0,
-    3.0,
-    3.0,
-    1.0,
-    1.0,
-    3.0,
-    3.0,
-    1.0,
-    1.0,
-    1.0,
-    2.0,
-    3.0,
-    1.0,
-    1.0,
-    2.0,
-    1.0,
-    2.0,
-    2.0,
-    2.0,
-    2.0,
-    1.0,
-    1.0,
-    2.0,
-    1.0,
-    1.0,
-    1.0,
-    2.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    2.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0
-   ],
-   "mostly_automated": false
-  },
-  {
    "slug": "hypoxia-story",
    "title": "Hypoxia Story",
    "engagedSessions": 4.0,
@@ -1413,10 +1416,10 @@
    "slug": "marmam",
    "title": "Marine Mammal App",
    "engagedSessions": 2.0,
-   "activeUsers": 7.0,
-   "sessions": 10.0,
+   "activeUsers": 8.0,
+   "sessions": 11.0,
    "engagementRate": 0.2,
-   "avgEngagementSeconds": 9.0,
+   "avgEngagementSeconds": 8.0,
    "delta": -85.7,
    "spark": [
     1.0,
@@ -1457,6 +1460,7 @@
     0.0,
     4.0,
     0.0,
+    1.0,
     1.0,
     1.0,
     1.0,
@@ -1616,6 +1620,24 @@
    "mostly_automated": false
   },
   {
+   "slug": "ucsb-larvae-dashboard",
+   "title": "Larvae Dashboard",
+   "engagedSessions": 0.0,
+   "activeUsers": 1.0,
+   "sessions": 1.0,
+   "engagementRate": 0.0,
+   "avgEngagementSeconds": 0.0,
+   "delta": -100.0,
+   "spark": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    2.0
+   ],
+   "mostly_automated": false
+  },
+  {
    "slug": "pollutants",
    "title": "pollutants",
    "engagedSessions": 0,
@@ -1638,23 +1660,6 @@
     1.0,
     1.0,
     1.0
-   ],
-   "mostly_automated": false
-  },
-  {
-   "slug": "ucsb-larvae-dashboard",
-   "title": "Larvae Dashboard",
-   "engagedSessions": 0,
-   "activeUsers": 0,
-   "sessions": 0,
-   "engagementRate": 0,
-   "avgEngagementSeconds": 0,
-   "delta": -100.0,
-   "spark": [
-    1.0,
-    1.0,
-    1.0,
-    2.0
    ],
    "mostly_automated": false
   }

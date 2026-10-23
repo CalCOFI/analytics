@@ -7,23 +7,23 @@
  "first_day": "2026-07-30",
  "last_day": "2026-10-22",
  "totals_28d": {
-  "activeUsers": 47.0,
-  "newUsers": 27.0,
-  "sessions": 55.0,
-  "engagedSessions": 30.0,
-  "screenPageViews": 366.0,
-  "eventCount": 878.0,
-  "userEngagementDuration": 3188.0,
-  "avgEngagementSeconds": 67.8,
+  "activeUsers": 49.0,
+  "newUsers": 28.0,
+  "sessions": 57.0,
+  "engagedSessions": 31.0,
+  "screenPageViews": 368.0,
+  "eventCount": 885.0,
+  "userEngagementDuration": 3195.0,
+  "avgEngagementSeconds": 65.2,
   "engagedSessionRate": 0.5,
-  "viewsPerUser": 7.8
+  "viewsPerUser": 7.5
  },
  "delta_28d": {
-  "activeUsers": -9.6,
-  "sessions": -1.8,
-  "engagedSessions": 100.0,
-  "avgEngagementSeconds": 927.3,
-  "screenPageViews": 381.6
+  "activeUsers": -5.8,
+  "sessions": 1.8,
+  "engagedSessions": 106.7,
+  "avgEngagementSeconds": 887.9,
+  "screenPageViews": 384.2
  },
  "daily": [
   {
@@ -323,8 +323,8 @@
   },
   {
    "date": "2026-10-22",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 3.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -387,18 +387,18 @@
   2.86,
   3.14,
   3.86,
-  3.29
+  3.57
  ],
  "geo_country": [
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 55.0
+   "activeUsers": 56.0
   },
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 34.0
+   "activeUsers": 35.0
   },
   {
    "country": "Italy",
@@ -446,13 +446,13 @@
    "country": "China",
    "countryId": "CN",
    "region": "Other",
-   "activeUsers": 53.0
+   "activeUsers": 54.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 22.0
+   "activeUsers": 23.0
   },
   {
    "country": "United States",
@@ -524,28 +524,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 595.0,
-   "users": 97.0
+   "count": 597.0,
+   "users": 98.0
   },
   {
    "name": "user_engagement",
-   "count": 330.0,
+   "count": 332.0,
    "users": 36.0
   },
   {
    "name": "scroll",
-   "count": 311.0,
-   "users": 38.0
+   "count": 312.0,
+   "users": 39.0
   },
   {
    "name": "session_start",
-   "count": 112.0,
-   "users": 85.0
+   "count": 113.0,
+   "users": 86.0
   },
   {
    "name": "first_visit",
-   "count": 79.0,
-   "users": 76.0
+   "count": 80.0,
+   "users": 77.0
   },
   {
    "name": "form_start",
@@ -992,58 +992,63 @@
    },
    {
     "date": "2026-10-22",
-    "requests": 8626.0,
-    "bytes": 275292766.0
+    "requests": 10626.0,
+    "bytes": 295226929.0
+   },
+   {
+    "date": "2026-10-23",
+    "requests": 964.0,
+    "bytes": 55267852.0
    }
   ],
   "totals_28d": {
-   "requests": 86035.0,
-   "bytes": 3521406743.0,
+   "requests": 88999.0,
+   "bytes": 3596608758.0,
    "clients": 1827.0,
-   "tool": 45651.0,
-   "browser": 40384.0
+   "tool": 46665.0,
+   "browser": 42334.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 2632
-   },
-   {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 1474
+    "n": 93
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 969
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 70
+   },
+   {
+    "path": "/erddap/index.html",
+    "n": 47
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 570
+    "n": 40
    },
    {
-    "path": "/erddap/tabledap/farallon_bird-mammal.graph",
-    "n": 247
-   },
-   {
-    "path": "/erddap/tabledap/farallon_bird-mammal.html",
-    "n": 207
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.subset",
-    "n": 199
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_bottle.subset",
-    "n": 148
+    "path": "/erddap/info/index.mat",
+    "n": 40
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 140
+    "n": 38
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
-    "n": 134
+    "path": "/erddap/tabledap/farallon_bird-mammal.html",
+    "n": 28
+   },
+   {
+    "path": "/robots.txt",
+    "n": 23
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
+    "n": 22
+   },
+   {
+    "path": "/erddap/images/erddap2.css",
+    "n": 21
    }
   ]
  }
