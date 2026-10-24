@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "top_paths": [
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 93
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 70
+    "n": 92
    },
    {
     "path": "/erddap/index.html",
-    "n": 47
+    "n": 53
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 33
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 40
-   },
-   {
-    "path": "/erddap/info/index.mat",
-    "n": 40
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 38
-   },
-   {
-    "path": "/erddap/tabledap/farallon_bird-mammal.html",
-    "n": 28
+    "n": 31
    },
    {
     "path": "/robots.txt",
-    "n": 23
-   },
-   {
-    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
-    "n": 22
+    "n": 26
    },
    {
     "path": "/erddap/images/erddap2.css",
-    "n": 21
+    "n": 23
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 16
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.html",
+    "n": 15
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
+    "n": 14
+   },
+   {
+    "path": "/erddap/images/wz_dragdrop.js",
+    "n": 13
    }
   ]
  },
@@ -107,46 +107,46 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "top_paths": [
    {
     "path": "/",
-    "n": 48
+    "n": 47
    },
    {
     "path": "/robots.txt",
-    "n": 16
+    "n": 24
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/bottle/CalCOFI_Database_194903-202105_csv_16October2023/",
+    "path": "/sitemap.xml",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1501NH_CTDFinalQC/db_csv/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/BOEMWindLayers_4Download.gdb/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/_spatial/BOEM_WindPlanningAreas/old/BOEM-wind-energy-areas/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/bottle-database/CalCOFI_Database_194903-202105_csv_16October2023/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=salinity_2/60d551922aa7d23b4c9d72b7/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=oxygen_saturation/359379ab4c30206a78e5684e/",
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=dic/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=salinity_ave_corr/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1511OC_CTDFinalQC/csv-plot/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=ph/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=btl_silicate/0ea73c6344e73bdb7910e9ea/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=sw_ph/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1604SH_CTDFinalQC/asc-hdr-btl/",
     "n": 2
    }
   ]

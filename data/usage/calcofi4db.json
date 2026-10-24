@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "2026-10-23",
  "totals_28d": {
-  "activeUsers": 435.0,
-  "newUsers": 432.0,
-  "sessions": 441.0,
+  "activeUsers": 437.0,
+  "newUsers": 434.0,
+  "sessions": 443.0,
   "engagedSessions": 12.0,
-  "screenPageViews": 441.0,
-  "eventCount": 1389.0,
+  "screenPageViews": 443.0,
+  "eventCount": 1395.0,
   "userEngagementDuration": 325.0,
   "avgEngagementSeconds": 0.7,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -25.4,
-  "sessions": -24.5,
+  "activeUsers": -25.0,
+  "sessions": -24.1,
   "engagedSessions": 100.0,
   "avgEngagementSeconds": 133.3,
-  "screenPageViews": -24.6
+  "screenPageViews": -24.3
  },
  "daily": [
   {
@@ -603,8 +603,8 @@
   },
   {
    "date": "2026-10-23",
-   "activeUsers": 2.0,
-   "sessions": 3.0
+   "activeUsers": 4.0,
+   "sessions": 5.0
   }
  ],
  "daily_mean7": [
@@ -723,13 +723,13 @@
   19.14,
   19.14,
   20.29,
-  20.57
+  20.86
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 1102.0
+   "activeUsers": 1104.0
   },
   {
    "country": "United States",
@@ -993,6 +993,12 @@
    "activeUsers": 4.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 4.0
+  },
+  {
    "country": "T\u00fcrkiye",
    "countryId": "TR",
    "region": "Other",
@@ -1044,12 +1050,6 @@
    "country": "Russia",
    "countryId": "RU",
    "region": "Other",
-   "activeUsers": 2.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
    "activeUsers": 2.0
   },
   {
@@ -1230,18 +1230,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1238.0,
-   "users": 1212.0
+   "count": 1240.0,
+   "users": 1214.0
   },
   {
    "name": "session_start",
-   "count": 1219.0,
-   "users": 1211.0
+   "count": 1221.0,
+   "users": 1213.0
   },
   {
    "name": "first_visit",
-   "count": 1209.0,
-   "users": 1209.0
+   "count": 1211.0,
+   "users": 1211.0
   },
   {
    "name": "scroll",
