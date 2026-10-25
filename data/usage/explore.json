@@ -7,23 +7,23 @@
  "first_day": "2026-08-28",
  "last_day": "2026-10-24",
  "totals_28d": {
-  "activeUsers": 119.0,
-  "newUsers": 61.0,
-  "sessions": 189.0,
-  "engagedSessions": 140.0,
-  "screenPageViews": 2261.0,
-  "eventCount": 2941.0,
-  "userEngagementDuration": 21250.0,
-  "avgEngagementSeconds": 178.6,
+  "activeUsers": 126.0,
+  "newUsers": 68.0,
+  "sessions": 196.0,
+  "engagedSessions": 141.0,
+  "screenPageViews": 2269.0,
+  "eventCount": 2964.0,
+  "userEngagementDuration": 21254.0,
+  "avgEngagementSeconds": 168.7,
   "engagedSessionRate": 0.7,
-  "viewsPerUser": 19.0
+  "viewsPerUser": 18.0
  },
  "delta_28d": {
-  "activeUsers": -13.8,
-  "sessions": -16.0,
-  "engagedSessions": -13.0,
-  "avgEngagementSeconds": -4.8,
-  "screenPageViews": -20.4
+  "activeUsers": -8.7,
+  "sessions": -12.9,
+  "engagedSessions": -12.4,
+  "avgEngagementSeconds": -10.1,
+  "screenPageViews": -20.1
  },
  "daily": [
   {
@@ -288,8 +288,8 @@
   },
   {
    "date": "2026-10-24",
-   "activeUsers": 2.0,
-   "sessions": 2.0
+   "activeUsers": 9.0,
+   "sessions": 9.0
   }
  ],
  "daily_mean7": [
@@ -345,7 +345,7 @@
   6.43,
   3.43,
   2.86,
-  2.14
+  3.14
  ],
  "geo_country": [
   {
@@ -357,6 +357,11 @@
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 13.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "activeUsers": 9.0
   },
   {
    "country": "Canada",
@@ -371,11 +376,6 @@
   {
    "country": "Mexico",
    "countryId": "MX",
-   "activeUsers": 4.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
    "activeUsers": 4.0
   },
   {
@@ -446,6 +446,12 @@
    "activeUsers": 7.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 7.0
+  },
+  {
    "country": "China",
    "countryId": "CN",
    "region": "Other",
@@ -456,12 +462,6 @@
    "countryId": "MX",
    "region": "Other",
    "activeUsers": 4.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 2.0
   },
   {
    "country": "Singapore",
@@ -527,18 +527,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 5338.0,
-   "users": 150.0
+   "count": 5346.0,
+   "users": 157.0
   },
   {
    "name": "scroll",
-   "count": 574.0,
-   "users": 141.0
+   "count": 575.0,
+   "users": 142.0
   },
   {
    "name": "session_start",
-   "count": 406.0,
-   "users": 148.0
+   "count": 413.0,
+   "users": 155.0
   },
   {
    "name": "user_engagement",
@@ -547,8 +547,8 @@
   },
   {
    "name": "first_visit",
-   "count": 130.0,
-   "users": 127.0
+   "count": 137.0,
+   "users": 134.0
   },
   {
    "name": "cite_ack",

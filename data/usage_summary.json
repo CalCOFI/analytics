@@ -1,23 +1,23 @@
 {
- "generated": "2026-10-25T01:40:15+00:00",
+ "generated": "2026-10-25T11:17:31+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 674.0,
-  "activeUsers": 1357.0,
-  "sessions": 1656.0
+  "engagedSessions": 683.0,
+  "activeUsers": 1389.0,
+  "sessions": 1690.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 140.0,
-   "activeUsers": 119.0,
-   "sessions": 189.0,
+   "engagedSessions": 141.0,
+   "activeUsers": 126.0,
+   "sessions": 196.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 178.6,
-   "delta": -13.0,
+   "avgEngagementSeconds": 168.7,
+   "delta": -12.4,
    "spark": [
     2.0,
     2.0,
@@ -71,19 +71,19 @@
     0.0,
     5.0,
     3.0,
-    2.0
+    9.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 115.0,
-   "activeUsers": 171.0,
-   "sessions": 223.0,
+   "engagedSessions": 117.0,
+   "activeUsers": 176.0,
+   "sessions": 228.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 60.3,
-   "delta": 59.7,
+   "avgEngagementSeconds": 60.4,
+   "delta": 62.5,
    "spark": [
     1.0,
     2.0,
@@ -134,7 +134,7 @@
     8.0,
     5.0,
     1.0,
-    3.0
+    8.0
    ],
    "mostly_automated": false
   },
@@ -224,12 +224,12 @@
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 79.0,
-   "activeUsers": 80.0,
-   "sessions": 115.0,
+   "engagedSessions": 82.0,
+   "activeUsers": 82.0,
+   "sessions": 119.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 87.2,
-   "delta": 51.9,
+   "avgEngagementSeconds": 85.1,
+   "delta": 57.7,
    "spark": [
     2.0,
     3.0,
@@ -305,7 +305,8 @@
     3.0,
     3.0,
     1.0,
-    3.0
+    3.0,
+    2.0
    ],
    "mostly_automated": false
   },
@@ -387,10 +388,10 @@
    "slug": "docs",
    "title": "docs",
    "engagedSessions": 47.0,
-   "activeUsers": 91.0,
-   "sessions": 100.0,
+   "activeUsers": 92.0,
+   "sessions": 101.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 8.7,
+   "avgEngagementSeconds": 8.6,
    "delta": -68.2,
    "spark": [
     3.0,
@@ -482,19 +483,19 @@
     5.0,
     4.0,
     1.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "erddap",
    "title": "erddap",
-   "engagedSessions": 30.0,
-   "activeUsers": 48.0,
-   "sessions": 56.0,
+   "engagedSessions": 31.0,
+   "activeUsers": 51.0,
+   "sessions": 59.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 65.6,
-   "delta": 87.5,
+   "avgEngagementSeconds": 61.7,
+   "delta": 93.8,
    "spark": [
     3.0,
     1.0,
@@ -556,6 +557,7 @@
     4.0,
     7.0,
     3.0,
+    3.0,
     1.0
    ],
    "mostly_automated": false
@@ -563,12 +565,12 @@
   {
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
-   "engagedSessions": 20.0,
-   "activeUsers": 22.0,
-   "sessions": 31.0,
+   "engagedSessions": 22.0,
+   "activeUsers": 25.0,
+   "sessions": 34.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 110.1,
-   "delta": -70.1,
+   "avgEngagementSeconds": 102.0,
+   "delta": -67.2,
    "spark": [
     1.0,
     1.0,
@@ -639,6 +641,7 @@
     0.0,
     0.0,
     1.0,
+    3.0,
     1.0,
     1.0,
     4.0,
@@ -716,10 +719,10 @@
    "slug": "calcofi4r",
    "title": "calcofi4r",
    "engagedSessions": 16.0,
-   "activeUsers": 94.0,
-   "sessions": 101.0,
+   "activeUsers": 96.0,
+   "sessions": 103.0,
    "engagementRate": 0.2,
-   "avgEngagementSeconds": 4.1,
+   "avgEngagementSeconds": 4.0,
    "delta": -11.1,
    "spark": [
     6.0,
@@ -811,7 +814,7 @@
     5.0,
     2.0,
     2.0,
-    2.0
+    4.0
    ],
    "mostly_automated": false
   },
@@ -995,10 +998,10 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 12.0,
-   "activeUsers": 431.0,
-   "sessions": 437.0,
+   "activeUsers": 440.0,
+   "sessions": 446.0,
    "engagementRate": 0.0,
-   "avgEngagementSeconds": 0.8,
+   "avgEngagementSeconds": 0.7,
    "delta": 100.0,
    "spark": [
     1.0,
@@ -1090,7 +1093,7 @@
     4.0,
     9.0,
     4.0,
-    1.0
+    10.0
    ],
    "mostly_automated": true
   },

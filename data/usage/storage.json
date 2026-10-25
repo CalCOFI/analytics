@@ -884,16 +884,21 @@
    },
    {
     "date": "2026-10-24",
-    "requests": 3396.0,
-    "bytes": 12229692.0
+    "requests": 4773.0,
+    "bytes": 49220792.0
+   },
+   {
+    "date": "2026-10-25",
+    "requests": 1571.0,
+    "bytes": 59644136.0
    }
   ],
   "totals_28d": {
-   "requests": 129452.0,
-   "bytes": 90170449300.0,
+   "requests": 132400.0,
+   "bytes": 90267084536.0,
    "clients": 6420.0,
-   "tool": 83668.0,
-   "browser": 45784.0
+   "tool": 85948.0,
+   "browser": 46452.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -903,38 +908,38 @@
    },
    {
     "path": "/robots.txt",
-    "n": 24
+    "n": 19
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1501NH_CTDFinalQC/db_csv/",
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.11/swfsc_ichthyo.nc",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/_spatial/BOEM_WindPlanningAreas/BOEMWindLayers_4Download.gdb/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/_spatial/BOEM_WindPlanningAreas/old/BOEM-wind-energy-areas/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.04/parquet/obs_env/measurement_type=uws_flow/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=salinity_2/60d551922aa7d23b4c9d72b7/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.04/parquet/obs_mets_full/cruise_key=2016-01-33UD/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=dic/",
+    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_ctd_full/cruise_key=1994-01-31JD/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1511OC_CTDFinalQC/csv-plot/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2211SR_CTDPrelim/db-csvs/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1604SH_CTDFinalQC/asc-hdr-btl/",
+    "path": "/calcofi-files-public/netcdf/sio_pic-zooplankton/v2026.08.04/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/_sync/swfsc/ichthyo",
     "n": 2
    }
   ]
