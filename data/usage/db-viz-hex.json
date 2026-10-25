@@ -19,11 +19,11 @@
   "viewsPerUser": 1.8
  },
  "delta_28d": {
-  "activeUsers": -51.1,
-  "sessions": -76.2,
-  "engagedSessions": -80.2,
-  "avgEngagementSeconds": -85.8,
-  "screenPageViews": -91.3
+  "activeUsers": -46.3,
+  "sessions": -66.7,
+  "engagedSessions": -70.1,
+  "avgEngagementSeconds": -79.9,
+  "screenPageViews": -86.3
  },
  "daily": [
   {
@@ -672,37 +672,37 @@
  "events": [
   {
    "name": "session_start",
-   "count": 874.0,
+   "count": 871.0,
    "users": 59.0
   },
   {
    "name": "page_view",
-   "count": 678.0,
+   "count": 677.0,
    "users": 61.0
   },
   {
    "name": "scroll",
-   "count": 623.0,
+   "count": 622.0,
    "users": 59.0
   },
   {
    "name": "filter_submit",
-   "count": 403.0,
+   "count": 401.0,
    "users": 20.0
   },
   {
    "name": "map_query_env",
-   "count": 403.0,
+   "count": 401.0,
    "users": 20.0
   },
   {
    "name": "map_query_sp",
-   "count": 403.0,
+   "count": 401.0,
    "users": 20.0
   },
   {
    "name": "user_engagement",
-   "count": 388.0,
+   "count": 387.0,
    "users": 37.0
   },
   {
@@ -712,22 +712,22 @@
   },
   {
    "name": "select_tab",
-   "count": 155.0,
+   "count": 151.0,
    "users": 18.0
   },
   {
    "name": "select_theme",
-   "count": 141.0,
+   "count": 140.0,
    "users": 5.0
   },
   {
    "name": "open_filters",
-   "count": 132.0,
+   "count": 130.0,
    "users": 19.0
   },
   {
    "name": "filter_no_results",
-   "count": 99.0,
+   "count": 98.0,
    "users": 7.0
   }
  ],

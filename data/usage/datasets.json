@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-10-23",
+ "last_day": "2026-10-24",
  "totals_28d": {
-  "activeUsers": 170.0,
+  "activeUsers": 171.0,
   "newUsers": 86.0,
-  "sessions": 221.0,
-  "engagedSessions": 117.0,
-  "screenPageViews": 287.0,
-  "eventCount": 884.0,
-  "userEngagementDuration": 10651.0,
-  "avgEngagementSeconds": 62.7,
+  "sessions": 223.0,
+  "engagedSessions": 115.0,
+  "screenPageViews": 285.0,
+  "eventCount": 882.0,
+  "userEngagementDuration": 10311.0,
+  "avgEngagementSeconds": 60.3,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.7
  },
  "delta_28d": {
-  "activeUsers": 93.2,
-  "sessions": 87.3,
-  "engagedSessions": 69.6,
-  "avgEngagementSeconds": -27.2,
-  "screenPageViews": 30.5
+  "activeUsers": 90.0,
+  "sessions": 84.3,
+  "engagedSessions": 59.7,
+  "avgEngagementSeconds": -31.6,
+  "screenPageViews": 26.7
  },
  "daily": [
   {
@@ -270,6 +270,11 @@
    "date": "2026-10-23",
    "activeUsers": 1.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-10-24",
+   "activeUsers": 3.0,
+   "sessions": 5.0
   }
  ],
  "daily_mean7": [
@@ -321,7 +326,8 @@
   11.57,
   10.86,
   7.29,
-  7.14
+  7.14,
+  6.43
  ],
  "geo_country": [
   {
@@ -332,7 +338,7 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 52.0
+   "activeUsers": 51.0
   },
   {
    "country": "China",
@@ -380,6 +386,11 @@
    "activeUsers": 2.0
   },
   {
+   "country": "Israel",
+   "countryId": "IL",
+   "activeUsers": 2.0
+  },
+  {
    "country": "New Zealand",
    "countryId": "NZ",
    "activeUsers": 2.0
@@ -407,11 +418,6 @@
   {
    "country": "France",
    "countryId": "FR",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "Israel",
-   "countryId": "IL",
    "activeUsers": 1.0
   },
   {
@@ -505,15 +511,15 @@
    "activeUsers": 2.0
   },
   {
-   "country": "New Zealand",
-   "countryId": "NZ",
+   "country": "Israel",
+   "countryId": "IL",
    "region": "Other",
    "activeUsers": 2.0
   },
   {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
+   "country": "New Zealand",
+   "countryId": "NZ",
+   "region": "Other",
    "activeUsers": 2.0
   },
   {
@@ -553,9 +559,9 @@
    "activeUsers": 1.0
   },
   {
-   "country": "Israel",
-   "countryId": "IL",
-   "region": "Other",
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
    "activeUsers": 1.0
   },
   {
@@ -574,28 +580,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 507.0,
-   "users": 189.0
+   "count": 510.0,
+   "users": 191.0
   },
   {
    "name": "user_engagement",
-   "count": 400.0,
+   "count": 402.0,
    "users": 88.0
   },
   {
    "name": "session_start",
-   "count": 231.0,
-   "users": 159.0
+   "count": 236.0,
+   "users": 161.0
   },
   {
    "name": "first_visit",
-   "count": 140.0,
-   "users": 140.0
+   "count": 142.0,
+   "users": 142.0
   },
   {
    "name": "scroll",
-   "count": 89.0,
-   "users": 36.0
+   "count": 91.0,
+   "users": 38.0
   },
   {
    "name": "click",
