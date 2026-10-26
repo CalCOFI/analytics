@@ -9,18 +9,18 @@
  "totals_28d": {
   "activeUsers": 21.0,
   "newUsers": 16.0,
-  "sessions": 29.0,
+  "sessions": 30.0,
   "engagedSessions": 19.0,
   "screenPageViews": 36.0,
-  "eventCount": 345.0,
+  "eventCount": 347.0,
   "userEngagementDuration": 2491.0,
   "avgEngagementSeconds": 118.6,
-  "engagedSessionRate": 0.7,
+  "engagedSessionRate": 0.6,
   "viewsPerUser": 1.7
  },
  "delta_28d": {
   "activeUsers": -48.8,
-  "sessions": -63.7,
+  "sessions": -62.5,
   "engagedSessions": -65.5,
   "avgEngagementSeconds": -64.5,
   "screenPageViews": -83.6
@@ -377,6 +377,11 @@
    "sessions": 3.0
   },
   {
+   "date": "2026-10-25",
+   "activeUsers": 0.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -518,12 +523,13 @@
   1.14,
   1.14,
   1.29,
-  1.14,
   1.0,
+  0.86,
+  0.86,
   1.43,
   1.57,
+  1.57,
   1.71,
-  2.14,
   2.0,
   2.14,
   2.29,
@@ -706,7 +712,7 @@
  "events": [
   {
    "name": "session_start",
-   "count": 863.0,
+   "count": 864.0,
    "users": 59.0
   },
   {
@@ -736,7 +742,7 @@
   },
   {
    "name": "user_engagement",
-   "count": 386.0,
+   "count": 387.0,
    "users": 37.0
   },
   {

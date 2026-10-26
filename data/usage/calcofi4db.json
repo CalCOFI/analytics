@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "2026-10-25",
  "totals_28d": {
-  "activeUsers": 425.0,
-  "newUsers": 422.0,
-  "sessions": 431.0,
+  "activeUsers": 426.0,
+  "newUsers": 423.0,
+  "sessions": 432.0,
   "engagedSessions": 12.0,
-  "screenPageViews": 431.0,
-  "eventCount": 1359.0,
+  "screenPageViews": 432.0,
+  "eventCount": 1362.0,
   "userEngagementDuration": 325.0,
   "avgEngagementSeconds": 0.8,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -30.0,
-  "sessions": -29.1,
+  "activeUsers": -29.8,
+  "sessions": -28.9,
   "engagedSessions": 100.0,
   "avgEngagementSeconds": 166.7,
-  "screenPageViews": -29.2
+  "screenPageViews": -29.1
  },
  "daily": [
   {
@@ -613,8 +613,8 @@
   },
   {
    "date": "2026-10-25",
-   "activeUsers": 4.0,
-   "sessions": 4.0
+   "activeUsers": 5.0,
+   "sessions": 5.0
   }
  ],
  "daily_mean7": [
@@ -735,13 +735,13 @@
   20.29,
   20.86,
   22.0,
-  20.86
+  21.0
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 1118.0
+   "activeUsers": 1119.0
   },
   {
    "country": "United States",
@@ -987,6 +987,12 @@
    "activeUsers": 6.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 5.0
+  },
+  {
    "country": "United Arab Emirates",
    "countryId": "AE",
    "region": "Other",
@@ -1002,12 +1008,6 @@
    "country": "India",
    "countryId": "IN",
    "region": "Other",
-   "activeUsers": 4.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
    "activeUsers": 4.0
   },
   {
@@ -1242,18 +1242,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1254.0,
-   "users": 1228.0
+   "count": 1255.0,
+   "users": 1229.0
   },
   {
    "name": "session_start",
-   "count": 1235.0,
-   "users": 1227.0
+   "count": 1236.0,
+   "users": 1228.0
   },
   {
    "name": "first_visit",
-   "count": 1225.0,
-   "users": 1225.0
+   "count": 1226.0,
+   "users": 1226.0
   },
   {
    "name": "scroll",
