@@ -231,22 +231,22 @@
  "events": [
   {
    "name": "page_view",
-   "count": 181.0,
-   "users": 13.0
-  },
-  {
-   "name": "scroll",
    "count": 179.0,
    "users": 13.0
   },
   {
+   "name": "scroll",
+   "count": 177.0,
+   "users": 13.0
+  },
+  {
    "name": "user_engagement",
-   "count": 153.0,
+   "count": 152.0,
    "users": 11.0
   },
   {
    "name": "session_start",
-   "count": 49.0,
+   "count": 47.0,
    "users": 11.0
   },
   {

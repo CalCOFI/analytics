@@ -475,18 +475,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 46.0,
-   "users": 36.0
-  },
-  {
-   "name": "session_start",
    "count": 45.0,
    "users": 35.0
   },
   {
+   "name": "session_start",
+   "count": 44.0,
+   "users": 34.0
+  },
+  {
    "name": "first_visit",
-   "count": 31.0,
-   "users": 31.0
+   "count": 30.0,
+   "users": 30.0
   },
   {
    "name": "scroll",

@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 25.0,
-  "newUsers": 19.0,
-  "sessions": 34.0,
-  "engagedSessions": 22.0,
-  "screenPageViews": 42.0,
-  "eventCount": 384.0,
-  "userEngagementDuration": 2549.0,
-  "avgEngagementSeconds": 102.0,
-  "engagedSessionRate": 0.6,
+  "activeUsers": 21.0,
+  "newUsers": 16.0,
+  "sessions": 29.0,
+  "engagedSessions": 19.0,
+  "screenPageViews": 36.0,
+  "eventCount": 345.0,
+  "userEngagementDuration": 2491.0,
+  "avgEngagementSeconds": 118.6,
+  "engagedSessionRate": 0.7,
   "viewsPerUser": 1.7
  },
  "delta_28d": {
-  "activeUsers": -39.0,
-  "sessions": -63.4,
-  "engagedSessions": -67.2,
-  "avgEngagementSeconds": -81.4,
-  "screenPageViews": -85.3
+  "activeUsers": -48.8,
+  "sessions": -63.7,
+  "engagedSessions": -65.5,
+  "avgEngagementSeconds": -64.5,
+  "screenPageViews": -83.6
  },
  "daily": [
   {
@@ -555,6 +555,11 @@
    "activeUsers": 2.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "activeUsers": 2.0
+  },
+  {
    "country": "",
    "countryId": "",
    "activeUsers": 1.0
@@ -592,11 +597,6 @@
   {
    "country": "New Zealand",
    "countryId": "NZ",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
    "activeUsers": 1.0
   },
   {
@@ -691,6 +691,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Colombia",
    "countryId": "CO",
    "region": "Other",
@@ -700,18 +706,18 @@
  "events": [
   {
    "name": "session_start",
-   "count": 876.0,
-   "users": 62.0
+   "count": 863.0,
+   "users": 59.0
   },
   {
    "name": "page_view",
-   "count": 680.0,
-   "users": 64.0
+   "count": 671.0,
+   "users": 61.0
   },
   {
    "name": "scroll",
-   "count": 624.0,
-   "users": 61.0
+   "count": 615.0,
+   "users": 58.0
   },
   {
    "name": "filter_submit",
@@ -730,17 +736,17 @@
   },
   {
    "name": "user_engagement",
-   "count": 387.0,
+   "count": 386.0,
    "users": 37.0
   },
   {
    "name": "start_tour",
-   "count": 296.0,
-   "users": 57.0
+   "count": 292.0,
+   "users": 55.0
   },
   {
    "name": "select_tab",
-   "count": 151.0,
+   "count": 145.0,
    "users": 18.0
   },
   {

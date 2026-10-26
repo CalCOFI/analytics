@@ -99,16 +99,11 @@
  "events": [
   {
    "name": "page_view",
-   "count": 4.0,
+   "count": 3.0,
    "users": 3.0
   },
   {
    "name": "scroll",
-   "count": 4.0,
-   "users": 3.0
-  },
-  {
-   "name": "session_start",
    "count": 3.0,
    "users": 3.0
   },
@@ -118,8 +113,13 @@
    "users": 2.0
   },
   {
-   "name": "user_engagement",
+   "name": "session_start",
    "count": 2.0,
+   "users": 2.0
+  },
+  {
+   "name": "user_engagement",
+   "count": 1.0,
    "users": 1.0
   }
  ]
