@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-10-25",
+ "last_day": "2026-10-26",
  "totals_28d": {
-  "activeUsers": 177.0,
-  "newUsers": 90.0,
-  "sessions": 228.0,
-  "engagedSessions": 117.0,
-  "screenPageViews": 288.0,
-  "eventCount": 887.0,
-  "userEngagementDuration": 10454.0,
-  "avgEngagementSeconds": 59.1,
+  "activeUsers": 182.0,
+  "newUsers": 92.0,
+  "sessions": 235.0,
+  "engagedSessions": 122.0,
+  "screenPageViews": 300.0,
+  "eventCount": 927.0,
+  "userEngagementDuration": 10747.0,
+  "avgEngagementSeconds": 59.0,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.6
  },
  "delta_28d": {
-  "activeUsers": 88.3,
-  "sessions": 81.0,
-  "engagedSessions": 56.0,
-  "avgEngagementSeconds": -31.7,
-  "screenPageViews": 24.1
+  "activeUsers": 87.6,
+  "sessions": 79.4,
+  "engagedSessions": 56.4,
+  "avgEngagementSeconds": -31.2,
+  "screenPageViews": 25.5
  },
  "daily": [
   {
@@ -280,6 +280,11 @@
    "date": "2026-10-25",
    "activeUsers": 5.0,
    "sessions": 5.0
+  },
+  {
+   "date": "2026-10-26",
+   "activeUsers": 8.0,
+   "sessions": 12.0
   }
  ],
  "daily_mean7": [
@@ -333,18 +338,19 @@
   7.29,
   7.14,
   7.14,
-  7.43
+  7.43,
+  6.86
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 88.0
+   "activeUsers": 90.0
   },
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 55.0
+   "activeUsers": 57.0
   },
   {
    "country": "China",
@@ -367,6 +373,11 @@
    "activeUsers": 4.0
   },
   {
+   "country": "Japan",
+   "countryId": "JP",
+   "activeUsers": 4.0
+  },
+  {
    "country": "Mexico",
    "countryId": "MX",
    "activeUsers": 4.0
@@ -375,11 +386,6 @@
    "country": "Russia",
    "countryId": "RU",
    "activeUsers": 4.0
-  },
-  {
-   "country": "Japan",
-   "countryId": "JP",
-   "activeUsers": 3.0
   },
   {
    "country": "United Kingdom",
@@ -427,6 +433,11 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Malta",
+   "countryId": "MT",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Switzerland",
    "countryId": "CH",
    "activeUsers": 1.0
@@ -442,19 +453,19 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 58.0
+   "activeUsers": 59.0
   },
   {
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 47.0
+   "activeUsers": 49.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 30.0
+   "activeUsers": 31.0
   },
   {
    "country": "China",
@@ -487,6 +498,12 @@
    "activeUsers": 4.0
   },
   {
+   "country": "Japan",
+   "countryId": "JP",
+   "region": "Other",
+   "activeUsers": 4.0
+  },
+  {
    "country": "Mexico",
    "countryId": "MX",
    "region": "Other",
@@ -497,12 +514,6 @@
    "countryId": "RU",
    "region": "Other",
    "activeUsers": 4.0
-  },
-  {
-   "country": "Japan",
-   "countryId": "JP",
-   "region": "Other",
-   "activeUsers": 3.0
   },
   {
    "country": "United Kingdom",
@@ -571,6 +582,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Malta",
+   "countryId": "MT",
+   "region": "",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Switzerland",
    "countryId": "CH",
    "region": "Other",
@@ -586,38 +603,38 @@
  "events": [
   {
    "name": "page_view",
-   "count": 520.0,
-   "users": 197.0
+   "count": 539.0,
+   "users": 201.0
   },
   {
    "name": "user_engagement",
-   "count": 405.0,
-   "users": 90.0
+   "count": 425.0,
+   "users": 94.0
   },
   {
    "name": "session_start",
-   "count": 245.0,
-   "users": 168.0
+   "count": 251.0,
+   "users": 171.0
   },
   {
    "name": "first_visit",
-   "count": 147.0,
-   "users": 147.0
+   "count": 149.0,
+   "users": 149.0
   },
   {
    "name": "scroll",
-   "count": 93.0,
-   "users": 40.0
+   "count": 104.0,
+   "users": 44.0
   },
   {
    "name": "click",
-   "count": 47.0,
-   "users": 19.0
+   "count": 51.0,
+   "users": 22.0
   },
   {
    "name": "file_download",
-   "count": 28.0,
-   "users": 12.0
+   "count": 30.0,
+   "users": 13.0
   },
   {
    "name": "form_start",

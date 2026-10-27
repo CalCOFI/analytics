@@ -507,23 +507,23 @@
  "events": [
   {
    "name": "session_start",
-   "count": 26.0,
-   "users": 20.0
-  },
-  {
-   "name": "page_view",
-   "count": 22.0,
-   "users": 20.0
-  },
-  {
-   "name": "first_visit",
-   "count": 19.0,
+   "count": 25.0,
    "users": 19.0
   },
   {
+   "name": "page_view",
+   "count": 21.0,
+   "users": 19.0
+  },
+  {
+   "name": "first_visit",
+   "count": 18.0,
+   "users": 18.0
+  },
+  {
    "name": "user_engagement",
-   "count": 14.0,
-   "users": 12.0
+   "count": 13.0,
+   "users": 11.0
   },
   {
    "name": "scroll",
