@@ -1,5 +1,6 @@
 country,countryId,region,activeUsers,sessions
 Brazil,BR,Other,1,1
+Canada,CA,Other,2,2
 China,CN,,1,1
 China,CN,Other,1,1
 India,IN,Other,1,1

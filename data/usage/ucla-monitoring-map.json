@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-10-26",
  "totals_28d": {
-  "activeUsers": 122.0,
-  "newUsers": 64.0,
-  "sessions": 172.0,
-  "engagedSessions": 73.0,
-  "screenPageViews": 180.0,
-  "eventCount": 662.0,
+  "activeUsers": 125.0,
+  "newUsers": 65.0,
+  "sessions": 175.0,
+  "engagedSessions": 74.0,
+  "screenPageViews": 183.0,
+  "eventCount": 671.0,
   "userEngagementDuration": 5498.0,
-  "avgEngagementSeconds": 45.1,
+  "avgEngagementSeconds": 44.0,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.5
  },
  "delta_28d": {
-  "activeUsers": -41.6,
-  "sessions": -51.1,
-  "engagedSessions": -31.8,
-  "avgEngagementSeconds": 76.2,
-  "screenPageViews": -47.4
+  "activeUsers": -40.2,
+  "sessions": -50.3,
+  "engagedSessions": -30.8,
+  "avgEngagementSeconds": 71.9,
+  "screenPageViews": -46.5
  },
  "daily": [
   {
@@ -383,8 +383,8 @@
   },
   {
    "date": "2026-10-26",
-   "activeUsers": 5.0,
-   "sessions": 5.0
+   "activeUsers": 8.0,
+   "sessions": 8.0
   }
  ],
  "daily_mean7": [
@@ -459,13 +459,13 @@
   2.43,
   2.57,
   2.57,
-  2.86
+  3.29
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 977.0
+   "activeUsers": 978.0
   },
   {
    "country": "Mexico",
@@ -488,14 +488,14 @@
    "activeUsers": 6.0
   },
   {
-   "country": "Sweden",
-   "countryId": "SE",
+   "country": "Canada",
+   "countryId": "CA",
    "activeUsers": 5.0
   },
   {
-   "country": "Canada",
-   "countryId": "CA",
-   "activeUsers": 4.0
+   "country": "Sweden",
+   "countryId": "SE",
+   "activeUsers": 5.0
   },
   {
    "country": "Germany",
@@ -623,7 +623,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 705.0
+   "activeUsers": 706.0
   },
   {
    "country": "United States",
@@ -704,16 +704,16 @@
    "activeUsers": 6.0
   },
   {
-   "country": "Sweden",
-   "countryId": "SE",
+   "country": "Canada",
+   "countryId": "CA",
    "region": "Other",
    "activeUsers": 5.0
   },
   {
-   "country": "Canada",
-   "countryId": "CA",
+   "country": "Sweden",
+   "countryId": "SE",
    "region": "Other",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   },
   {
    "country": "Germany",
@@ -893,23 +893,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1749.0,
-   "users": 1039.0
+   "count": 1752.0,
+   "users": 1040.0
   },
   {
    "name": "session_start",
-   "count": 1566.0,
-   "users": 1026.0
+   "count": 1568.0,
+   "users": 1027.0
   },
   {
    "name": "scroll",
-   "count": 1509.0,
-   "users": 954.0
+   "count": 1512.0,
+   "users": 955.0
   },
   {
    "name": "first_visit",
-   "count": 1007.0,
-   "users": 1006.0
+   "count": 1008.0,
+   "users": 1007.0
   },
   {
    "name": "user_engagement",
