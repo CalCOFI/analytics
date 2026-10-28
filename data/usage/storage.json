@@ -312,7 +312,7 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 3.0
+   "activeUsers": 4.0
   },
   {
    "country": "Colombia",
@@ -369,7 +369,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "Other",
-   "activeUsers": 2.0
+   "activeUsers": 3.0
   },
   {
    "country": "China",
@@ -905,58 +905,63 @@
    },
    {
     "date": "2026-10-27",
-    "requests": 1067.0,
-    "bytes": 24702631.0
+    "requests": 3400.0,
+    "bytes": 63173638.0
+   },
+   {
+    "date": "2026-10-28",
+    "requests": 1447.0,
+    "bytes": 34235002.0
    }
   ],
   "totals_28d": {
-   "requests": 126934.0,
-   "bytes": 80376359680.0,
+   "requests": 130714.0,
+   "bytes": 80449065689.0,
    "clients": 6420.0,
-   "tool": 86871.0,
-   "browser": 40063.0
+   "tool": 89851.0,
+   "browser": 40863.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 48
+    "n": 49
    },
    {
     "path": "/robots.txt",
-    "n": 19
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 11
+    "n": 29
    },
    {
     "path": "/sitemap.xml",
-    "n": 6
+    "n": 8
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 5
    },
    {
     "path": "/calcofi-files-public/_spatial/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-09-26_003050/swfsc/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-10-03_020000/calcofi/ctd-cast/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2105SH_CTDFinalQC/csv-plots/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-09-08_180505/swfsc/ichthyo/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/sample_spatial/7a9166100b09a8caabea89d2/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-10-07_020000/_lookups/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1104SH_CTDFinalQC/asc-hdr/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/sio_mesopelagic-fish/v2026.09.11/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.07.30/",
-    "n": 2
+    "path": "/calcofi-db/stac/",
+    "n": 3
    }
   ]
  }

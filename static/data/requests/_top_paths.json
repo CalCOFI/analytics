@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 54
+    "n": 55
    },
    {
-    "path": "/erddap/tabledap/cce-lter_zooscan_sample.graph",
-    "n": 45
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 48
    },
    {
-    "path": "/erddap/tabledap/cce-lter_zooscan_sample.html",
-    "n": 28
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 48
    },
    {
-    "path": "/erddap/tabledap/cce-lter_zooscan_sample.subset",
-    "n": 27
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 32
    },
    {
-    "path": "/",
-    "n": 15
-   },
-   {
-    "path": "/erddap",
-    "n": 13
+    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
+    "n": 20
    },
    {
     "path": "/erddap/subscriptions/add.html",
-    "n": 12
+    "n": 17
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
-    "n": 12
+    "path": "/",
+    "n": 16
    },
    {
     "path": "/robots.txt",
-    "n": 10
+    "n": 16
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.csv",
-    "n": 9
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 14
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 14
    }
   ]
  },
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "top_paths": [
    {
     "path": "/",
-    "n": 48
+    "n": 49
    },
    {
     "path": "/robots.txt",
-    "n": 19
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 11
+    "n": 29
    },
    {
     "path": "/sitemap.xml",
-    "n": 6
+    "n": 8
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 5
    },
    {
     "path": "/calcofi-files-public/_spatial/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-09-26_003050/swfsc/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-10-03_020000/calcofi/ctd-cast/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2105SH_CTDFinalQC/csv-plots/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-09-08_180505/swfsc/ichthyo/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/sample_spatial/7a9166100b09a8caabea89d2/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-10-07_020000/_lookups/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1104SH_CTDFinalQC/asc-hdr/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/sio_mesopelagic-fish/v2026.09.11/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.07.30/",
-    "n": 2
+    "path": "/calcofi-db/stac/",
+    "n": 3
    }
   ]
  },
