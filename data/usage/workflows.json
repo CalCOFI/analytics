@@ -345,33 +345,33 @@
  "events": [
   {
    "name": "page_view",
-   "count": 83.0,
-   "users": 19.0
+   "count": 77.0,
+   "users": 18.0
   },
   {
    "name": "user_engagement",
-   "count": 57.0,
+   "count": 51.0,
    "users": 3.0
   },
   {
    "name": "session_start",
-   "count": 48.0,
-   "users": 17.0
+   "count": 44.0,
+   "users": 16.0
   },
   {
    "name": "scroll",
-   "count": 23.0,
-   "users": 6.0
-  },
-  {
-   "name": "first_visit",
-   "count": 15.0,
-   "users": 15.0
+   "count": 21.0,
+   "users": 5.0
   },
   {
    "name": "click",
    "count": 14.0,
    "users": 3.0
+  },
+  {
+   "name": "first_visit",
+   "count": 14.0,
+   "users": 14.0
   }
  ]
 }

@@ -5,25 +5,25 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-10-26",
+ "last_day": "2026-10-27",
  "totals_28d": {
   "activeUsers": 191.0,
-  "newUsers": 130.0,
-  "sessions": 270.0,
-  "engagedSessions": 159.0,
-  "screenPageViews": 2507.0,
-  "eventCount": 3389.0,
-  "userEngagementDuration": 23735.0,
-  "avgEngagementSeconds": 124.3,
+  "newUsers": 129.0,
+  "sessions": 269.0,
+  "engagedSessions": 161.0,
+  "screenPageViews": 2560.0,
+  "eventCount": 3462.0,
+  "userEngagementDuration": 25043.0,
+  "avgEngagementSeconds": 131.1,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 13.1
+  "viewsPerUser": 13.4
  },
  "delta_28d": {
   "activeUsers": 45.8,
-  "sessions": 31.7,
-  "engagedSessions": 12.0,
-  "avgEngagementSeconds": -29.3,
-  "screenPageViews": -0.9
+  "sessions": 32.5,
+  "engagedSessions": 16.7,
+  "avgEngagementSeconds": -23.7,
+  "screenPageViews": 3.7
  },
  "daily": [
   {
@@ -299,7 +299,12 @@
   {
    "date": "2026-10-26",
    "activeUsers": 8.0,
-   "sessions": 15.0
+   "sessions": 16.0
+  },
+  {
+   "date": "2026-10-27",
+   "activeUsers": 4.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -357,7 +362,8 @@
   2.86,
   3.14,
   12.0,
-  12.86
+  12.86,
+  13.14
  ],
  "geo_country": [
   {
@@ -368,7 +374,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 134.0
+   "activeUsers": 135.0
   },
   {
    "country": "Italy",
@@ -454,7 +460,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 42.0
+   "activeUsers": 43.0
   },
   {
    "country": "United States",
@@ -556,22 +562,22 @@
  "events": [
   {
    "name": "page_view",
-   "count": 5713.0,
+   "count": 5797.0,
    "users": 222.0
   },
   {
    "name": "scroll",
-   "count": 616.0,
+   "count": 631.0,
    "users": 157.0
   },
   {
    "name": "session_start",
-   "count": 492.0,
+   "count": 497.0,
    "users": 219.0
   },
   {
    "name": "user_engagement",
-   "count": 414.0,
+   "count": 430.0,
    "users": 84.0
   },
   {
