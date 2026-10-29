@@ -5,7 +5,7 @@ download_bundle,6,4
 download_integrated_bundle,3,3
 filter_no_results,100,8
 filter_submit,411,22
-first_visit,43,42
+first_visit,42,41
 form_start,5,2
 map_query_env,411,22
 map_query_env_poly,65,8
@@ -26,4 +26,4 @@ select_tab,139,17
 select_theme,140,5
 session_start,856,60
 start_tour,287,55
-user_engagement,386,38
+user_engagement,386,39

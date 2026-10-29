@@ -2521,23 +2521,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 35.0,
-   "users": 23.0
+   "count": 34.0,
+   "users": 22.0
   },
   {
    "name": "session_start",
-   "count": 29.0,
-   "users": 18.0
+   "count": 27.0,
+   "users": 17.0
   },
   {
    "name": "user_engagement",
-   "count": 19.0,
-   "users": 16.0
+   "count": 18.0,
+   "users": 15.0
   },
   {
    "name": "first_visit",
-   "count": 17.0,
-   "users": 17.0
+   "count": 16.0,
+   "users": 16.0
   },
   {
    "name": "scroll",

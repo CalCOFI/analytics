@@ -503,28 +503,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 195.0,
-   "users": 67.0
+   "count": 187.0,
+   "users": 64.0
   },
   {
    "name": "user_engagement",
-   "count": 118.0,
-   "users": 33.0
+   "count": 114.0,
+   "users": 32.0
   },
   {
    "name": "session_start",
-   "count": 108.0,
-   "users": 56.0
+   "count": 103.0,
+   "users": 53.0
   },
   {
    "name": "scroll",
-   "count": 64.0,
-   "users": 19.0
+   "count": 61.0,
+   "users": 18.0
   },
   {
    "name": "first_visit",
-   "count": 51.0,
-   "users": 51.0
+   "count": 48.0,
+   "users": 48.0
   },
   {
    "name": "click",

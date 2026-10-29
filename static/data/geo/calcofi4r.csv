@@ -1,18 +1,20 @@
 country,countryId,region,activeUsers,sessions
-Brazil,BR,Other,4,4
+Brazil,BR,Other,5,5
 Bulgaria,BG,Other,1,1
 Chile,CL,Other,1,1
 China,CN,Other,1,1
 Cyprus,CY,,1,1
 Cyprus,CY,Other,1,1
 Côte d’Ivoire,CI,Other,1,1
+Germany,DE,Other,1,1
 Italy,IT,Other,9,40
 Mexico,MX,Other,2,4
 New Zealand,NZ,Other,2,4
 Poland,PL,Other,1,1
-Singapore,SG,,2,2
+Singapore,SG,,3,3
 Singapore,SG,(not set),200,200
 Singapore,SG,Other,3,3
-United States,US,Other,17,49
+United States,US,,1,1
+United States,US,Other,18,50
 Venezuela,VE,Other,1,1
 Vietnam,VN,Other,1,1
