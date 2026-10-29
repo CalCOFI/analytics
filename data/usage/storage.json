@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-10-28",
  "totals_28d": {
-  "activeUsers": 17.0,
-  "newUsers": 5.0,
-  "sessions": 23.0,
+  "activeUsers": 21.0,
+  "newUsers": 9.0,
+  "sessions": 27.0,
   "engagedSessions": 17.0,
-  "screenPageViews": 30.0,
-  "eventCount": 77.0,
+  "screenPageViews": 34.0,
+  "eventCount": 89.0,
   "userEngagementDuration": 253.0,
-  "avgEngagementSeconds": 14.9,
-  "engagedSessionRate": 0.7,
-  "viewsPerUser": 1.8
+  "avgEngagementSeconds": 12.0,
+  "engagedSessionRate": 0.6,
+  "viewsPerUser": 1.6
  },
  "delta_28d": {
-  "activeUsers": -45.2,
-  "sessions": -36.1,
+  "activeUsers": -32.3,
+  "sessions": -25.0,
   "engagedSessions": 0.0,
-  "avgEngagementSeconds": -47.0,
-  "screenPageViews": -68.8
+  "avgEngagementSeconds": -57.3,
+  "screenPageViews": -64.6
  },
  "daily": [
   {
@@ -248,8 +248,8 @@
   },
   {
    "date": "2026-10-28",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 5.0,
+   "sessions": 5.0
   }
  ],
  "daily_mean7": [
@@ -297,13 +297,13 @@
   1.57,
   1.86,
   1.86,
-  1.86
+  2.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 27.0
+   "activeUsers": 30.0
   },
   {
    "country": "Italy",
@@ -344,6 +344,11 @@
    "country": "Taiwan",
    "countryId": "TW",
    "activeUsers": 1.0
+  },
+  {
+   "country": "United Kingdom",
+   "countryId": "GB",
+   "activeUsers": 1.0
   }
  ],
  "geo": [
@@ -351,7 +356,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 14.0
+   "activeUsers": 17.0
   },
   {
    "country": "United States",
@@ -418,13 +423,19 @@
    "countryId": "TW",
    "region": "Other",
    "activeUsers": 1.0
+  },
+  {
+   "country": "United Kingdom",
+   "countryId": "GB",
+   "region": "Other",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 216.0,
-   "users": 39.0
+   "count": 220.0,
+   "users": 43.0
   },
   {
    "name": "user_engagement",
@@ -438,13 +449,13 @@
   },
   {
    "name": "session_start",
-   "count": 48.0,
-   "users": 37.0
+   "count": 52.0,
+   "users": 41.0
   },
   {
    "name": "first_visit",
-   "count": 30.0,
-   "users": 30.0
+   "count": 34.0,
+   "users": 34.0
   },
   {
    "name": "click",
@@ -916,58 +927,63 @@
    },
    {
     "date": "2026-10-28",
-    "requests": 1447.0,
-    "bytes": 34235002.0
+    "requests": 2514.0,
+    "bytes": 52659243.0
+   },
+   {
+    "date": "2026-10-29",
+    "requests": 675.0,
+    "bytes": 13686694.0
    }
   ],
   "totals_28d": {
-   "requests": 128194.0,
-   "bytes": 75672482749.0,
+   "requests": 129936.0,
+   "bytes": 75704593684.0,
    "clients": 6420.0,
-   "tool": 89163.0,
-   "browser": 39031.0
+   "tool": 90092.0,
+   "browser": 39844.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 49
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 29
-   },
-   {
-    "path": "/sitemap.xml",
-    "n": 8
+    "n": 14
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/_spatial/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-09-26_003050/swfsc/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-10-03_020000/calcofi/ctd-cast/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-09-08_180505/swfsc/ichthyo/",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-10-07_020000/_lookups/",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/stac/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1902RL_CTDFinalQC/asc-hdr-btl/btl/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0511NH_CTDFinalQC/asc-hdr-btl/btl/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1104SH_CTDFinalQC/csvs-plots/secondary/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0407JD_CTDFinalQC/csvs-plots/secondary/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/",
+    "n": 2
    }
   ]
  }

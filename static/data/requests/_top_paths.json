@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "top_paths": [
    {
-    "path": "/erddap/index.html",
-    "n": 55
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 141
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 94
+   },
+   {
+    "path": "/erddap/index.html",
     "n": 48
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 48
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 32
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 20
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 17
-   },
-   {
-    "path": "/",
-    "n": 16
-   },
-   {
-    "path": "/robots.txt",
-    "n": 16
+    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
+    "n": 41
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 14
+    "n": 38
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 26
+   },
+   {
+    "path": "/erddap/images/erddap2.css",
+    "n": 25
    },
    {
     "path": "/erddap/images/wz_tooltip.js",
-    "n": 14
+    "n": 23
+   },
+   {
+    "path": "/erddap/images/wz_dragdrop.js",
+    "n": 20
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.html",
+    "n": 18
    }
   ]
  },
@@ -107,52 +107,52 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 49
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 29
-   },
-   {
-    "path": "/sitemap.xml",
-    "n": 8
+    "n": 14
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/_spatial/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-09-26_003050/swfsc/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-10-03_020000/calcofi/ctd-cast/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-09-08_180505/swfsc/ichthyo/",
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-10-07_020000/_lookups/",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/stac/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1902RL_CTDFinalQC/asc-hdr-btl/btl/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0511NH_CTDFinalQC/asc-hdr-btl/btl/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1104SH_CTDFinalQC/csvs-plots/secondary/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0407JD_CTDFinalQC/csvs-plots/secondary/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/",
+    "n": 2
    }
   ]
  },
  "storage.calcofi.io:443": {
-  "date": "2026-10-27",
+  "date": "2026-10-29",
   "top_paths": [
    {
     "path": "/",

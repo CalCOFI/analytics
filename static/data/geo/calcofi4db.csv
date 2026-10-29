@@ -34,8 +34,8 @@ Qatar,QA,Other,1,1
 Romania,RO,Other,1,1
 Russia,RU,Other,2,7
 Senegal,SN,Other,1,1
-Singapore,SG,,15,15
-Singapore,SG,(not set),1123,1121
+Singapore,SG,,12,12
+Singapore,SG,(not set),1134,1132
 Singapore,SG,Other,1,1
 South Africa,ZA,Other,2,2
 Spain,ES,Other,2,2
@@ -44,8 +44,9 @@ Ukraine,UA,Other,1,1
 United Arab Emirates,AE,Other,5,5
 United Kingdom,GB,,2,2
 United Kingdom,GB,Other,2,2
-United States,US,,6,6
-United States,US,California,12,16
-United States,US,Other,19,19
+United States,US,,10,10
+United States,US,California,16,20
+United States,US,Colorado,12,12
+United States,US,Other,15,15
 Venezuela,VE,Other,2,2
 Vietnam,VN,Other,4,4

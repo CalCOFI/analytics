@@ -12,9 +12,11 @@ Mexico,MX,Other,2,4
 New Zealand,NZ,Other,2,4
 Poland,PL,Other,1,1
 Singapore,SG,,3,3
-Singapore,SG,(not set),200,200
+Singapore,SG,(not set),202,202
 Singapore,SG,Other,3,3
-United States,US,,1,1
-United States,US,Other,18,50
+United Kingdom,GB,,1,1
+United States,US,,2,2
+United States,US,California,11,35
+United States,US,Other,11,19
 Venezuela,VE,Other,1,1
 Vietnam,VN,Other,1,1

@@ -2,7 +2,7 @@ country,countryId,region,activeUsers,sessions
 ,,,1,1
 (not set),(not set),Other,1,1
 Canada,CA,Other,1,1
-China,CN,Other,1,1
+China,CN,Other,2,2
 Colombia,CO,Other,0,1
 France,FR,Other,1,1
 Germany,DE,Other,1,1
