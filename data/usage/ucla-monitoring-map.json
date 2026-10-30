@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-10-28",
+ "last_day": "2026-10-29",
  "totals_28d": {
-  "activeUsers": 131.0,
-  "newUsers": 71.0,
-  "sessions": 193.0,
-  "engagedSessions": 72.0,
-  "screenPageViews": 191.0,
-  "eventCount": 716.0,
-  "userEngagementDuration": 4310.0,
-  "avgEngagementSeconds": 32.9,
+  "activeUsers": 127.0,
+  "newUsers": 68.0,
+  "sessions": 186.0,
+  "engagedSessions": 71.0,
+  "screenPageViews": 186.0,
+  "eventCount": 694.0,
+  "userEngagementDuration": 4145.0,
+  "avgEngagementSeconds": 32.6,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.5
  },
  "delta_28d": {
-  "activeUsers": -25.1,
-  "sessions": -32.3,
-  "engagedSessions": -27.3,
-  "avgEngagementSeconds": -0.6,
-  "screenPageViews": -32.7
+  "activeUsers": -24.4,
+  "sessions": -31.6,
+  "engagedSessions": -26.8,
+  "avgEngagementSeconds": -4.7,
+  "screenPageViews": -30.9
  },
  "daily": [
   {
@@ -395,6 +395,11 @@
    "date": "2026-10-28",
    "activeUsers": 3.0,
    "sessions": 10.0
+  },
+  {
+   "date": "2026-10-29",
+   "activeUsers": 3.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -471,13 +476,14 @@
   2.57,
   3.29,
   4.29,
-  4.29
+  4.29,
+  4.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 986.0
+   "activeUsers": 987.0
   },
   {
    "country": "Mexico",
@@ -575,6 +581,11 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Denmark",
+   "countryId": "DK",
+   "activeUsers": 1.0
+  },
+  {
    "country": "France",
    "countryId": "FR",
    "activeUsers": 1.0
@@ -635,7 +646,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 710.0
+   "activeUsers": 711.0
   },
   {
    "country": "United States",
@@ -812,6 +823,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Denmark",
+   "countryId": "DK",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "France",
    "countryId": "FR",
    "region": "Other",
@@ -905,28 +922,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1764.0,
-   "users": 1049.0
+   "count": 1768.0,
+   "users": 1051.0
   },
   {
    "name": "session_start",
-   "count": 1593.0,
-   "users": 1035.0
+   "count": 1596.0,
+   "users": 1037.0
   },
   {
    "name": "scroll",
-   "count": 1519.0,
-   "users": 960.0
+   "count": 1523.0,
+   "users": 962.0
   },
   {
    "name": "first_visit",
-   "count": 1015.0,
-   "users": 1014.0
+   "count": 1017.0,
+   "users": 1016.0
   },
   {
    "name": "user_engagement",
-   "count": 791.0,
-   "users": 493.0
+   "count": 794.0,
+   "users": 495.0
   },
   {
    "name": "click",
