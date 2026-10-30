@@ -932,58 +932,63 @@
    },
    {
     "date": "2026-10-29",
-    "requests": 675.0,
-    "bytes": 13686694.0
+    "requests": 1158.0,
+    "bytes": 32095641.0
+   },
+   {
+    "date": "2026-10-30",
+    "requests": 1276.0,
+    "bytes": 271180845.0
    }
   ],
   "totals_28d": {
-   "requests": 126770.0,
-   "bytes": 69912427180.0,
+   "requests": 128529.0,
+   "bytes": 70202016972.0,
    "clients": 6420.0,
-   "tool": 89360.0,
-   "browser": 37410.0
+   "tool": 90207.0,
+   "browser": 38322.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 50
+    "n": 55
    },
    {
     "path": "/robots.txt",
-    "n": 14
+    "n": 26
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 3
+    "n": 12
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1108NH_CTDFinalQC/metadata/",
+    "n": 12
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/",
-    "n": 3
+    "path": "/sitemap.xml",
+    "n": 6
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1902RL_CTDFinalQC/asc-hdr-btl/btl/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/calcofi/phytoplankton/",
+    "n": 6
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0511NH_CTDFinalQC/asc-hdr-btl/btl/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1104SH_CTDFinalQC/csvs-plots/secondary/",
-    "n": 2
+    "path": "/calcofi-db/qc/ctd/",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0407JD_CTDFinalQC/csvs-plots/secondary/",
-    "n": 2
+    "path": "/calcofi-db/erddap/",
+    "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/",
-    "n": 2
+    "path": "/calcofi-db/ducklake-staging/",
+    "n": 4
    }
   ]
  }

@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "2026-10-29",
  "totals_28d": {
-  "activeUsers": 363.0,
-  "newUsers": 359.0,
-  "sessions": 370.0,
-  "engagedSessions": 6.0,
-  "screenPageViews": 369.0,
-  "eventCount": 1146.0,
-  "userEngagementDuration": 246.0,
+  "activeUsers": 371.0,
+  "newUsers": 367.0,
+  "sessions": 378.0,
+  "engagedSessions": 7.0,
+  "screenPageViews": 377.0,
+  "eventCount": 1172.0,
+  "userEngagementDuration": 256.0,
   "avgEngagementSeconds": 0.7,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -48.2,
-  "sessions": -47.3,
-  "engagedSessions": -45.5,
+  "activeUsers": -47.1,
+  "sessions": -46.2,
+  "engagedSessions": -36.4,
   "avgEngagementSeconds": 75.0,
-  "screenPageViews": -47.5
+  "screenPageViews": -46.4
  },
  "daily": [
   {
@@ -633,8 +633,8 @@
   },
   {
    "date": "2026-10-29",
-   "activeUsers": 12.0,
-   "sessions": 12.0
+   "activeUsers": 20.0,
+   "sessions": 20.0
   }
  ],
  "daily_mean7": [
@@ -759,13 +759,13 @@
   11.86,
   7.0,
   13.0,
-  13.43
+  14.57
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 1154.0
+   "activeUsers": 1161.0
   },
   {
    "country": "United States",
@@ -953,6 +953,11 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Portugal",
+   "countryId": "PT",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Qatar",
    "countryId": "QA",
    "activeUsers": 1.0
@@ -993,6 +998,12 @@
    "activeUsers": 17.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 15.0
+  },
+  {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
@@ -1015,12 +1026,6 @@
    "countryId": "US",
    "region": "(not set)",
    "activeUsers": 10.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 8.0
   },
   {
    "country": "Chile",
@@ -1245,6 +1250,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Portugal",
+   "countryId": "PT",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Qatar",
    "countryId": "QA",
    "region": "Other",
@@ -1290,28 +1301,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1315.0,
-   "users": 1288.0
+   "count": 1323.0,
+   "users": 1296.0
   },
   {
    "name": "session_start",
-   "count": 1296.0,
-   "users": 1287.0
+   "count": 1304.0,
+   "users": 1295.0
   },
   {
    "name": "first_visit",
-   "count": 1285.0,
-   "users": 1285.0
+   "count": 1293.0,
+   "users": 1293.0
   },
   {
    "name": "scroll",
-   "count": 108.0,
-   "users": 104.0
+   "count": 109.0,
+   "users": 105.0
   },
   {
    "name": "user_engagement",
-   "count": 27.0,
-   "users": 11.0
+   "count": 28.0,
+   "users": 12.0
   },
   {
    "name": "click",

@@ -1,19 +1,21 @@
 country,countryId,region,activeUsers,sessions
 Bangladesh,BD,Other,1,1
 Canada,CA,Other,2,2
-China,CN,,5,5
+China,CN,,8,8
 China,CN,Other,58,59
 Germany,DE,Other,1,2
 Ghana,GH,Other,1,1
-Guatemala,GT,Other,1,1
+Guatemala,GT,Other,2,2
 Ireland,IE,Other,1,1
 Italy,IT,Other,5,33
 Japan,JP,Other,1,1
 Netherlands,NL,Other,1,1
 New Zealand,NZ,Other,1,1
-Singapore,SG,,278,278
+Philippines,PH,Other,1,1
+Singapore,SG,,488,489
 Singapore,SG,(not set),72,72
 Singapore,SG,Other,6,6
 South Korea,KR,Other,3,7
 United States,US,California,13,35
-United States,US,Other,31,36
+United States,US,Other,25,29
+United States,US,Virginia,10,11
