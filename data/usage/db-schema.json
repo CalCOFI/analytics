@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-28",
- "last_day": "2026-10-25",
+ "last_day": "2026-10-30",
  "totals_28d": {
-  "activeUsers": 34.0,
+  "activeUsers": 35.0,
   "newUsers": 22.0,
-  "sessions": 34.0,
+  "sessions": 35.0,
   "engagedSessions": 18.0,
-  "screenPageViews": 37.0,
-  "eventCount": 113.0,
-  "userEngagementDuration": 547.0,
-  "avgEngagementSeconds": 16.1,
+  "screenPageViews": 38.0,
+  "eventCount": 115.0,
+  "userEngagementDuration": 567.0,
+  "avgEngagementSeconds": 16.2,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 13.3,
-  "sessions": -15.0,
-  "engagedSessions": -28.0,
-  "avgEngagementSeconds": -34.3,
-  "screenPageViews": 0.0
+  "activeUsers": 20.7,
+  "sessions": -10.3,
+  "engagedSessions": -25.0,
+  "avgEngagementSeconds": -32.8,
+  "screenPageViews": 2.7
  },
  "daily": [
   {
@@ -330,6 +330,11 @@
    "date": "2026-10-25",
    "activeUsers": 6.0,
    "sessions": 6.0
+  },
+  {
+   "date": "2026-10-30",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -393,7 +398,8 @@
   2.14,
   2.14,
   1.57,
-  2.14
+  2.14,
+  1.86
  ],
  "geo_country": [
   {
@@ -409,7 +415,7 @@
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 13.0
+   "activeUsers": 14.0
   },
   {
    "country": "Italy",
@@ -440,16 +446,16 @@
    "activeUsers": 16.0
   },
   {
+   "country": "China",
+   "countryId": "CN",
+   "region": "Other",
+   "activeUsers": 14.0
+  },
+  {
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
    "activeUsers": 14.0
-  },
-  {
-   "country": "China",
-   "countryId": "CN",
-   "region": "Other",
-   "activeUsers": 13.0
   },
   {
    "country": "United States",
@@ -503,13 +509,13 @@
  "events": [
   {
    "name": "page_view",
-   "count": 187.0,
-   "users": 64.0
+   "count": 188.0,
+   "users": 65.0
   },
   {
    "name": "user_engagement",
    "count": 114.0,
-   "users": 32.0
+   "users": 33.0
   },
   {
    "name": "session_start",

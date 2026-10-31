@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 24.0,
-  "newUsers": 18.0,
-  "sessions": 32.0,
-  "engagedSessions": 19.0,
-  "screenPageViews": 37.0,
-  "eventCount": 382.0,
-  "userEngagementDuration": 2571.0,
-  "avgEngagementSeconds": 107.1,
+  "activeUsers": 26.0,
+  "newUsers": 20.0,
+  "sessions": 35.0,
+  "engagedSessions": 22.0,
+  "screenPageViews": 39.0,
+  "eventCount": 402.0,
+  "userEngagementDuration": 2723.0,
+  "avgEngagementSeconds": 104.7,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 1.5
  },
  "delta_28d": {
-  "activeUsers": -22.6,
-  "sessions": -47.5,
-  "engagedSessions": -61.2,
-  "avgEngagementSeconds": -71.6,
-  "screenPageViews": -81.8
+  "activeUsers": -10.3,
+  "sessions": -39.7,
+  "engagedSessions": -52.2,
+  "avgEngagementSeconds": -73.8,
+  "screenPageViews": -80.3
  },
  "daily": [
   {
@@ -402,6 +402,11 @@
    "sessions": 3.0
   },
   {
+   "date": "2026-10-30",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -548,12 +553,13 @@
   0.86,
   1.0,
   1.43,
+  1.57,
+  1.29,
   1.43,
-  1.14,
-  1.71,
-  1.71,
-  1.71,
-  2.14,
+  1.86,
+  1.86,
+  1.86,
+  2.0,
   2.0,
   2.14,
   2.29,
@@ -567,7 +573,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 52.0
+   "activeUsers": 54.0
   },
   {
    "country": "Italy",
@@ -645,13 +651,13 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 37.0
+   "activeUsers": 38.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 15.0
+   "activeUsers": 16.0
   },
   {
    "country": "Italy",
@@ -747,43 +753,43 @@
  "events": [
   {
    "name": "session_start",
-   "count": 860.0,
-   "users": 63.0
-  },
-  {
-   "name": "page_view",
-   "count": 668.0,
+   "count": 864.0,
    "users": 65.0
   },
   {
+   "name": "page_view",
+   "count": 670.0,
+   "users": 67.0
+  },
+  {
    "name": "scroll",
-   "count": 611.0,
-   "users": 61.0
+   "count": 613.0,
+   "users": 63.0
   },
   {
    "name": "filter_submit",
-   "count": 412.0,
-   "users": 23.0
+   "count": 414.0,
+   "users": 24.0
   },
   {
    "name": "map_query_env",
-   "count": 412.0,
-   "users": 23.0
+   "count": 414.0,
+   "users": 24.0
   },
   {
    "name": "map_query_sp",
-   "count": 412.0,
-   "users": 23.0
+   "count": 414.0,
+   "users": 24.0
   },
   {
    "name": "user_engagement",
-   "count": 387.0,
-   "users": 41.0
+   "count": 390.0,
+   "users": 43.0
   },
   {
    "name": "start_tour",
-   "count": 289.0,
-   "users": 58.0
+   "count": 290.0,
+   "users": 59.0
   },
   {
    "name": "select_tab",
@@ -1377,12 +1383,21 @@
    },
    {
     "date": "2026-10-30",
-    "events": "14",
-    "distinct_sessions": "1",
-    "distinct_clients": "1",
+    "events": "22",
+    "distinct_sessions": "2",
+    "distinct_clients": "2",
     "errors": "0",
-    "p50_ms": "196.1",
-    "p95_ms": "532.5"
+    "p50_ms": "101.2",
+    "p95_ms": "504.3"
+   },
+   {
+    "date": "2026-10-31",
+    "events": "7",
+    "distinct_sessions": "2",
+    "distinct_clients": "2",
+    "errors": "0",
+    "p50_ms": "68.0",
+    "p95_ms": "190.9"
    },
    {
     "date": "7/15/2026 ",
@@ -1508,7 +1523,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "166",
+    "n": "169",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1532,9 +1547,9 @@
    },
    {
     "event": "map_query_env",
-    "n": "165",
-    "p50_ms": "25.2",
-    "p95_ms": "84.9",
+    "n": "168",
+    "p50_ms": "25.1",
+    "p95_ms": "84.0",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1548,9 +1563,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "166",
-    "p50_ms": "54.5",
-    "p95_ms": "453.8",
+    "n": "169",
+    "p50_ms": "54.9",
+    "p95_ms": "452.4",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1644,7 +1659,7 @@
    },
    {
     "event": "session_start",
-    "n": "367",
+    "n": "370",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1652,7 +1667,7 @@
    },
    {
     "event": "start_tour",
-    "n": "296",
+    "n": "299",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1671,7 +1686,7 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "363"
+    "n": "369"
    },
    {
     "param": "taxa",
@@ -1754,6 +1769,11 @@
     "n": "5"
    },
    {
+    "param": "taxa",
+    "value": "Humpback Whale (species: Megaptera novaeangliae)",
+    "n": "5"
+   },
+   {
     "param": "env_var",
     "value": "dic",
     "n": "4"
@@ -1791,11 +1811,6 @@
    {
     "param": "layers",
     "value": "ca_county_boundaries",
-    "n": "3"
-   },
-   {
-    "param": "taxa",
-    "value": "Humpback Whale (species: Megaptera novaeangliae)",
     "n": "3"
    },
    {
@@ -2054,9 +2069,9 @@
    },
    {
     "app_version": "c2f854a",
-    "n": "389",
+    "n": "404",
     "first_seen": "2026-09-08",
-    "last_seen": "2026-10-30"
+    "last_seen": "2026-10-31"
    },
    {
     "app_version": "cbc4d03",
