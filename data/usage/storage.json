@@ -943,22 +943,27 @@
    },
    {
     "date": "2026-10-30",
-    "requests": 1276.0,
-    "bytes": 271180845.0
+    "requests": 2568.0,
+    "bytes": 335012283.0
+   },
+   {
+    "date": "2026-10-31",
+    "requests": 583.0,
+    "bytes": 26169482.0
    }
   ],
   "totals_28d": {
-   "requests": 126483.0,
-   "bytes": 67186355100.0,
+   "requests": 128358.0,
+   "bytes": 67276356020.0,
    "clients": 6420.0,
-   "tool": 89565.0,
-   "browser": 36918.0
+   "tool": 91021.0,
+   "browser": 37337.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 55
+    "n": 51
    },
    {
     "path": "/robots.txt",
@@ -966,35 +971,35 @@
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 12
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1108NH_CTDFinalQC/metadata/",
-    "n": 12
+    "n": 9
    },
    {
     "path": "/sitemap.xml",
     "n": 6
    },
    {
-    "path": "/calcofi-files-public/archive/calcofi/phytoplankton/",
-    "n": 6
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.09.11/cce-lter_euphausiids.nc",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 5
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2111SR_CTDPrelim/20-2111SRCTDPrelim/csvs-plots/secondary/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/qc/ctd/",
-    "n": 4
+    "path": "/calcofi-files-public/measurement-media/keys/oxygen_ml_l_1/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/erddap/",
-    "n": 4
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/",
-    "n": 4
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/calcofi_ctd-cast.nc",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/calcofi_ctd-cast_full.nc",
+    "n": 2
    }
   ]
  }

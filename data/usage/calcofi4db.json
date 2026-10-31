@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "2026-10-30",
  "totals_28d": {
-  "activeUsers": 355.0,
-  "newUsers": 351.0,
-  "sessions": 362.0,
+  "activeUsers": 361.0,
+  "newUsers": 357.0,
+  "sessions": 368.0,
   "engagedSessions": 6.0,
-  "screenPageViews": 361.0,
-  "eventCount": 1112.0,
+  "screenPageViews": 367.0,
+  "eventCount": 1130.0,
   "userEngagementDuration": 242.0,
   "avgEngagementSeconds": 0.7,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -50.8,
-  "sessions": -49.9,
+  "activeUsers": -49.9,
+  "sessions": -49.0,
   "engagedSessions": -50.0,
   "avgEngagementSeconds": 75.0,
-  "screenPageViews": -50.1
+  "screenPageViews": -49.2
  },
  "daily": [
   {
@@ -638,8 +638,8 @@
   },
   {
    "date": "2026-10-30",
-   "activeUsers": 7.0,
-   "sessions": 7.0
+   "activeUsers": 13.0,
+   "sessions": 13.0
   }
  ],
  "daily_mean7": [
@@ -765,13 +765,13 @@
   7.0,
   13.0,
   14.57,
-  15.0
+  15.86
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 1168.0
+   "activeUsers": 1174.0
   },
   {
    "country": "United States",
@@ -1010,6 +1010,12 @@
    "activeUsers": 14.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 13.0
+  },
+  {
    "country": "United States",
    "countryId": "US",
    "region": "Colorado",
@@ -1026,12 +1032,6 @@
    "countryId": "US",
    "region": "(not set)",
    "activeUsers": 11.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 7.0
   },
   {
    "country": "Chile",
@@ -1307,18 +1307,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1330.0,
-   "users": 1303.0
+   "count": 1336.0,
+   "users": 1309.0
   },
   {
    "name": "session_start",
-   "count": 1311.0,
-   "users": 1302.0
+   "count": 1317.0,
+   "users": 1308.0
   },
   {
    "name": "first_visit",
-   "count": 1300.0,
-   "users": 1300.0
+   "count": 1306.0,
+   "users": 1306.0
   },
   {
    "name": "scroll",

@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 26.0,
-  "newUsers": 20.0,
-  "sessions": 35.0,
-  "engagedSessions": 22.0,
-  "screenPageViews": 39.0,
-  "eventCount": 402.0,
-  "userEngagementDuration": 2723.0,
-  "avgEngagementSeconds": 104.7,
+  "activeUsers": 28.0,
+  "newUsers": 22.0,
+  "sessions": 37.0,
+  "engagedSessions": 23.0,
+  "screenPageViews": 41.0,
+  "eventCount": 418.0,
+  "userEngagementDuration": 3266.0,
+  "avgEngagementSeconds": 116.6,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 1.5
  },
  "delta_28d": {
-  "activeUsers": -10.3,
-  "sessions": -39.7,
-  "engagedSessions": -52.2,
-  "avgEngagementSeconds": -73.8,
-  "screenPageViews": -80.3
+  "activeUsers": -3.4,
+  "sessions": -36.2,
+  "engagedSessions": -50.0,
+  "avgEngagementSeconds": -70.8,
+  "screenPageViews": -79.3
  },
  "daily": [
   {
@@ -403,8 +403,8 @@
   },
   {
    "date": "2026-10-30",
-   "activeUsers": 2.0,
-   "sessions": 3.0
+   "activeUsers": 4.0,
+   "sessions": 5.0
   },
   {
    "date": "20260701",
@@ -553,13 +553,13 @@
   0.86,
   1.0,
   1.43,
+  1.86,
   1.57,
-  1.29,
-  1.43,
-  1.86,
-  1.86,
-  1.86,
-  2.0,
+  1.71,
+  2.14,
+  2.14,
+  2.14,
+  2.29,
   2.0,
   2.14,
   2.29,
@@ -581,6 +581,11 @@
    "activeUsers": 11.0
   },
   {
+   "country": "Mexico",
+   "countryId": "MX",
+   "activeUsers": 3.0
+  },
+  {
    "country": "United Kingdom",
    "countryId": "GB",
    "activeUsers": 3.0
@@ -588,11 +593,6 @@
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 2.0
-  },
-  {
-   "country": "Mexico",
-   "countryId": "MX",
    "activeUsers": 2.0
   },
   {
@@ -666,6 +666,12 @@
    "activeUsers": 11.0
   },
   {
+   "country": "Mexico",
+   "countryId": "MX",
+   "region": "Other",
+   "activeUsers": 3.0
+  },
+  {
    "country": "United Kingdom",
    "countryId": "GB",
    "region": "Other",
@@ -674,12 +680,6 @@
   {
    "country": "China",
    "countryId": "CN",
-   "region": "Other",
-   "activeUsers": 2.0
-  },
-  {
-   "country": "Mexico",
-   "countryId": "MX",
    "region": "Other",
    "activeUsers": 2.0
   },
@@ -753,33 +753,33 @@
  "events": [
   {
    "name": "session_start",
-   "count": 864.0,
-   "users": 65.0
-  },
-  {
-   "name": "page_view",
-   "count": 670.0,
+   "count": 868.0,
    "users": 67.0
   },
   {
+   "name": "page_view",
+   "count": 672.0,
+   "users": 69.0
+  },
+  {
    "name": "scroll",
-   "count": 613.0,
-   "users": 63.0
+   "count": 615.0,
+   "users": 65.0
   },
   {
    "name": "filter_submit",
-   "count": 414.0,
-   "users": 24.0
+   "count": 415.0,
+   "users": 25.0
   },
   {
    "name": "map_query_env",
-   "count": 414.0,
-   "users": 24.0
+   "count": 415.0,
+   "users": 25.0
   },
   {
    "name": "map_query_sp",
-   "count": 414.0,
-   "users": 24.0
+   "count": 415.0,
+   "users": 25.0
   },
   {
    "name": "user_engagement",
@@ -788,8 +788,8 @@
   },
   {
    "name": "start_tour",
-   "count": 290.0,
-   "users": 59.0
+   "count": 292.0,
+   "users": 61.0
   },
   {
    "name": "select_tab",
