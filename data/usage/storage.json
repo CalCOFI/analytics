@@ -948,16 +948,21 @@
    },
    {
     "date": "2026-10-31",
-    "requests": 583.0,
-    "bytes": 26169482.0
+    "requests": 1279.0,
+    "bytes": 60433274.0
+   },
+   {
+    "date": "2026-11-01",
+    "requests": 756.0,
+    "bytes": 25553162.0
    }
   ],
   "totals_28d": {
-   "requests": 125321.0,
-   "bytes": 60991738136.0,
+   "requests": 126773.0,
+   "bytes": 61051555090.0,
    "clients": 6420.0,
-   "tool": 90129.0,
-   "browser": 35192.0
+   "tool": 91094.0,
+   "browser": 35679.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -967,38 +972,38 @@
    },
    {
     "path": "/robots.txt",
-    "n": 26
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 9
+    "n": 21
    },
    {
     "path": "/sitemap.xml",
-    "n": 6
+    "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/v2026.09.11/cce-lter_euphausiids.nc",
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2111SR_CTDPrelim/20-2111SRCTDPrelim/csvs-plots/secondary/",
+    "path": "/calcofi-db/pg/ctd_scan_raw/study=0007NH/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/measurement-media/keys/oxygen_ml_l_1/",
+    "path": "/calcofi-db/ingest/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/pg/ctd_scan_raw/study=1511OC/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
+    "path": "/calcofi-files-public/measurement-media/keys/oxygen_btl_ml_l/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/calcofi_ctd-cast.nc",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/calcofi_ctd-cast_full.nc",
+    "path": "/calcofi-files-public/_spatial/",
     "n": 2
    }
   ]

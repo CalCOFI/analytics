@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-01T02:35:44+00:00",
+ "generated": "2026-11-01T11:17:43+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 817.0,
-  "activeUsers": 3401.0,
-  "sessions": 3697.0
+  "engagedSessions": 839.0,
+  "activeUsers": 3761.0,
+  "sessions": 4057.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "erddap",
    "title": "erddap",
-   "engagedSessions": 181.0,
-   "activeUsers": 1939.0,
-   "sessions": 1946.0,
+   "engagedSessions": 202.0,
+   "activeUsers": 2287.0,
+   "sessions": 2294.0,
    "engagementRate": 0.1,
-   "avgEngagementSeconds": 1.0,
-   "delta": 1192.9,
+   "avgEngagementSeconds": 0.8,
+   "delta": 1342.9,
    "spark": [
     3.0,
     1.0,
@@ -86,7 +86,8 @@
     43.0,
     490.0,
     648.0,
-    682.0
+    983.0,
+    47.0
    ],
    "mostly_automated": false
   },
@@ -94,10 +95,10 @@
    "slug": "explore",
    "title": "explore",
    "engagedSessions": 158.0,
-   "activeUsers": 193.0,
-   "sessions": 260.0,
+   "activeUsers": 194.0,
+   "sessions": 261.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 147.6,
+   "avgEngagementSeconds": 147.1,
    "delta": 13.7,
    "spark": [
     2.0,
@@ -158,7 +159,8 @@
     6.0,
     4.0,
     5.0,
-    3.0
+    3.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -166,10 +168,10 @@
    "slug": "datasets",
    "title": "Dataset Catalog",
    "engagedSessions": 123.0,
-   "activeUsers": 204.0,
-   "sessions": 252.0,
+   "activeUsers": 206.0,
+   "sessions": 254.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 50.4,
+   "avgEngagementSeconds": 50.0,
    "delta": 44.7,
    "spark": [
     1.0,
@@ -228,7 +230,7 @@
     7.0,
     4.0,
     10.0,
-    7.0
+    9.0
    ],
    "mostly_automated": false
   },
@@ -420,12 +422,12 @@
   {
    "slug": "ctd-transects",
    "title": "ctd-transects",
-   "engagedSessions": 55.0,
-   "activeUsers": 64.0,
-   "sessions": 94.0,
+   "engagedSessions": 56.0,
+   "activeUsers": 65.0,
+   "sessions": 95.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 154.9,
-   "delta": -6.8,
+   "avgEngagementSeconds": 154.8,
+   "delta": -5.1,
    "spark": [
     2.0,
     7.0,
@@ -493,7 +495,8 @@
     3.0,
     1.0,
     1.0,
-    4.0
+    4.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -501,13 +504,12 @@
    "slug": "docs",
    "title": "docs",
    "engagedSessions": 34.0,
-   "activeUsers": 94.0,
-   "sessions": 99.0,
+   "activeUsers": 96.0,
+   "sessions": 101.0,
    "engagementRate": 0.3,
-   "avgEngagementSeconds": 6.5,
+   "avgEngagementSeconds": 6.4,
    "delta": -78.6,
    "spark": [
-    1.0,
     3.0,
     2.0,
     2.0,
@@ -596,7 +598,8 @@
     1.0,
     12.0,
     8.0,
-    4.0
+    4.0,
+    2.0
    ],
    "mostly_automated": false
   },
@@ -1047,10 +1050,10 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 6.0,
-   "activeUsers": 356.0,
-   "sessions": 363.0,
+   "activeUsers": 362.0,
+   "sessions": 369.0,
    "engagementRate": 0.0,
-   "avgEngagementSeconds": 0.7,
+   "avgEngagementSeconds": 0.6,
    "delta": -50.0,
    "spark": [
     1.0,
@@ -1142,7 +1145,7 @@
     46.0,
     20.0,
     13.0,
-    10.0
+    16.0
    ],
    "mostly_automated": true
   },
