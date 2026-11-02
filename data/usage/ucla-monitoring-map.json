@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-10-30",
+ "last_day": "2026-11-01",
  "totals_28d": {
-  "activeUsers": 119.0,
-  "newUsers": 61.0,
-  "sessions": 183.0,
+  "activeUsers": 120.0,
+  "newUsers": 62.0,
+  "sessions": 185.0,
   "engagedSessions": 66.0,
-  "screenPageViews": 179.0,
-  "eventCount": 673.0,
+  "screenPageViews": 181.0,
+  "eventCount": 679.0,
   "userEngagementDuration": 4236.0,
-  "avgEngagementSeconds": 35.6,
+  "avgEngagementSeconds": 35.3,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.5
  },
  "delta_28d": {
-  "activeUsers": -29.6,
-  "sessions": -29.3,
+  "activeUsers": -29.0,
+  "sessions": -28.6,
   "engagedSessions": -34.7,
-  "avgEngagementSeconds": 5.0,
-  "screenPageViews": -30.9
+  "avgEngagementSeconds": 4.1,
+  "screenPageViews": -30.1
  },
  "daily": [
   {
@@ -405,6 +405,11 @@
    "date": "2026-10-30",
    "activeUsers": 2.0,
    "sessions": 7.0
+  },
+  {
+   "date": "2026-11-01",
+   "activeUsers": 1.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -483,13 +488,14 @@
   4.29,
   4.29,
   4.71,
-  4.71
+  4.71,
+  4.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 987.0
+   "activeUsers": 988.0
   },
   {
    "country": "Mexico",
@@ -652,7 +658,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 711.0
+   "activeUsers": 712.0
   },
   {
    "country": "United States",
@@ -928,23 +934,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1779.0,
-   "users": 1051.0
+   "count": 1781.0,
+   "users": 1052.0
   },
   {
    "name": "session_start",
-   "count": 1608.0,
-   "users": 1037.0
+   "count": 1610.0,
+   "users": 1038.0
   },
   {
    "name": "scroll",
-   "count": 1533.0,
+   "count": 1534.0,
    "users": 962.0
   },
   {
    "name": "first_visit",
-   "count": 1017.0,
-   "users": 1016.0
+   "count": 1018.0,
+   "users": 1017.0
   },
   {
    "name": "user_engagement",

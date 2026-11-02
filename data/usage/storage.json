@@ -959,26 +959,35 @@
    },
    {
     "date": "2026-11-01",
-    "requests": 756.0,
-    "bytes": 25553162.0
+    "requests": 1379.0,
+    "bytes": 254772814.0
+   },
+   {
+    "date": "2026-11-02",
+    "requests": 321.0,
+    "bytes": 678419853.0
    }
   ],
   "totals_28d": {
-   "requests": 123933.0,
-   "bytes": 48366461582.0,
+   "requests": 124877.0,
+   "bytes": 49274101087.0,
    "clients": 6420.0,
-   "tool": 89729.0,
-   "browser": 34204.0
+   "tool": 90291.0,
+   "browser": 34586.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 51
+    "n": 53
    },
    {
     "path": "/robots.txt",
-    "n": 21
+    "n": 18
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.11/swfsc_ichthyo.nc",
+    "n": 6
    },
    {
     "path": "/sitemap.xml",
@@ -986,30 +995,26 @@
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=0007NH/",
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/latest.txt",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ingest/",
+    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=sigma_theta_ave/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=1511OC/",
+    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/measurement-media/keys/oxygen_btl_ml_l/",
+    "path": "/calcofi-files-public/archive/swfsc/",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/_spatial/",
+    "path": "/calcofi-db/ducklake/releases/RELEASES.md",
     "n": 2
    }
   ]

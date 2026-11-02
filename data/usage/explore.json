@@ -7,23 +7,23 @@
  "first_day": "2026-08-28",
  "last_day": "2026-11-01",
  "totals_28d": {
-  "activeUsers": 189.0,
+  "activeUsers": 190.0,
   "newUsers": 132.0,
-  "sessions": 251.0,
-  "engagedSessions": 154.0,
-  "screenPageViews": 2811.0,
-  "eventCount": 3657.0,
-  "userEngagementDuration": 27963.0,
-  "avgEngagementSeconds": 148.0,
+  "sessions": 253.0,
+  "engagedSessions": 155.0,
+  "screenPageViews": 2825.0,
+  "eventCount": 3675.0,
+  "userEngagementDuration": 27999.0,
+  "avgEngagementSeconds": 147.4,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 14.9
  },
  "delta_28d": {
-  "activeUsers": 42.1,
-  "sessions": 22.4,
-  "engagedSessions": 17.6,
-  "avgEngagementSeconds": 0.4,
-  "screenPageViews": 26.2
+  "activeUsers": 42.9,
+  "sessions": 23.4,
+  "engagedSessions": 18.3,
+  "avgEngagementSeconds": 0.0,
+  "screenPageViews": 26.9
  },
  "daily": [
   {
@@ -328,8 +328,8 @@
   },
   {
    "date": "2026-11-01",
-   "activeUsers": 2.0,
-   "sessions": 2.0
+   "activeUsers": 3.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -393,18 +393,18 @@
   14.0,
   14.0,
   12.86,
-  4.14
+  4.29
  ],
  "geo_country": [
+  {
+   "country": "United States",
+   "countryId": "US",
+   "activeUsers": 138.0
+  },
   {
    "country": "Singapore",
    "countryId": "SG",
    "activeUsers": 138.0
-  },
-  {
-   "country": "United States",
-   "countryId": "US",
-   "activeUsers": 137.0
   },
   {
    "country": "Italy",
@@ -495,7 +495,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 44.0
+   "activeUsers": 45.0
   },
   {
    "country": "United States",
@@ -609,22 +609,22 @@
  "events": [
   {
    "name": "page_view",
-   "count": 6282.0,
+   "count": 6296.0,
    "users": 229.0
   },
   {
    "name": "scroll",
-   "count": 647.0,
+   "count": 648.0,
    "users": 162.0
   },
   {
    "name": "session_start",
-   "count": 518.0,
+   "count": 520.0,
    "users": 226.0
   },
   {
    "name": "user_engagement",
-   "count": 439.0,
+   "count": 440.0,
    "users": 89.0
   },
   {

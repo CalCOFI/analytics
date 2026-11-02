@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-02T02:45:00+00:00",
+ "generated": "2026-11-02T11:17:38+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 835.0,
-  "activeUsers": 4558.0,
-  "sessions": 4834.0
+  "engagedSessions": 857.0,
+  "activeUsers": 4940.0,
+  "sessions": 5216.0
  },
  "n_mostly_automated": 1,
  "products": [
   {
    "slug": "erddap",
    "title": "erddap",
-   "engagedSessions": 238.0,
-   "activeUsers": 3118.0,
-   "sessions": 3125.0,
+   "engagedSessions": 258.0,
+   "activeUsers": 3479.0,
+   "sessions": 3484.0,
    "engagementRate": 0.1,
    "avgEngagementSeconds": 0.6,
-   "delta": 1486.7,
+   "delta": 1620.0,
    "spark": [
     3.0,
     1.0,
@@ -87,19 +87,20 @@
     490.0,
     648.0,
     983.0,
-    879.0
+    1239.0,
+    1.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 154.0,
-   "activeUsers": 189.0,
-   "sessions": 251.0,
+   "engagedSessions": 155.0,
+   "activeUsers": 190.0,
+   "sessions": 253.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 148.0,
-   "delta": 17.6,
+   "avgEngagementSeconds": 147.4,
+   "delta": 18.3,
    "spark": [
     2.0,
     2.0,
@@ -161,19 +162,19 @@
     5.0,
     3.0,
     1.0,
-    2.0
+    3.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 116.0,
-   "activeUsers": 202.0,
-   "sessions": 249.0,
+   "engagedSessions": 117.0,
+   "activeUsers": 203.0,
+   "sessions": 250.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 48.7,
-   "delta": 43.2,
+   "avgEngagementSeconds": 49.2,
+   "delta": 44.4,
    "spark": [
     1.0,
     2.0,
@@ -232,7 +233,7 @@
     4.0,
     10.0,
     9.0,
-    3.0
+    4.0
    ],
    "mostly_automated": false
   },
@@ -240,10 +241,10 @@
    "slug": "ucla-monitoring-map",
    "title": "CA Ocean & Coastal Monitoring Map",
    "engagedSessions": 66.0,
-   "activeUsers": 119.0,
-   "sessions": 183.0,
+   "activeUsers": 120.0,
+   "sessions": 185.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 35.6,
+   "avgEngagementSeconds": 35.3,
    "delta": -34.7,
    "spark": [
     2.0,
@@ -321,7 +322,8 @@
     10.0,
     3.0,
     5.0,
-    2.0
+    2.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -507,13 +509,12 @@
    "slug": "docs",
    "title": "docs",
    "engagedSessions": 33.0,
-   "activeUsers": 92.0,
-   "sessions": 97.0,
+   "activeUsers": 93.0,
+   "sessions": 98.0,
    "engagementRate": 0.3,
-   "avgEngagementSeconds": 6.6,
+   "avgEngagementSeconds": 6.5,
    "delta": -70.5,
    "spark": [
-    3.0,
     2.0,
     2.0,
     3.0,
@@ -602,7 +603,8 @@
     12.0,
     8.0,
     4.0,
-    2.0
+    2.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -951,8 +953,8 @@
    "slug": "calcofi4r",
    "title": "calcofi4r",
    "engagedSessions": 9.0,
-   "activeUsers": 125.0,
-   "sessions": 128.0,
+   "activeUsers": 126.0,
+   "sessions": 129.0,
    "engagementRate": 0.1,
    "avgEngagementSeconds": 2.9,
    "delta": -57.1,
@@ -1046,7 +1048,7 @@
     10.0,
     5.0,
     28.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
@@ -1188,10 +1190,10 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 5.0,
-   "activeUsers": 373.0,
-   "sessions": 380.0,
+   "activeUsers": 389.0,
+   "sessions": 396.0,
    "engagementRate": 0.0,
-   "avgEngagementSeconds": 0.6,
+   "avgEngagementSeconds": 0.5,
    "delta": -58.3,
    "spark": [
     47.0,
@@ -1283,7 +1285,7 @@
     20.0,
     13.0,
     16.0,
-    20.0
+    36.0
    ],
    "mostly_automated": true
   },
