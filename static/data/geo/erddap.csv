@@ -1,36 +1,41 @@
 country,countryId,region,activeUsers,sessions
-Argentina,AR,Other,1,1
+Argentina,AR,Other,2,2
 Bangladesh,BD,Other,2,2
-Brazil,BR,Other,3,3
+Brazil,BR,Other,5,5
 Canada,CA,Other,2,2
-China,CN,,16,16
-China,CN,(not set),30,30
-China,CN,Beijing,21,21
+China,CN,,19,19
+China,CN,(not set),45,45
+China,CN,Beijing,35,35
 China,CN,Other,46,47
-Colombia,CO,Other,6,6
-Ecuador,EC,Other,1,1
+Colombia,CO,Other,8,8
+Costa Rica,CR,Other,1,1
+Ecuador,EC,Other,2,2
 France,FR,Other,1,1
-Germany,DE,Other,1,2
+Germany,DE,Other,3,4
 Ghana,GH,Other,1,1
 Guatemala,GT,Other,2,2
+Indonesia,ID,Other,1,1
 Ireland,IE,Other,1,1
 Italy,IT,Other,6,34
 Japan,JP,Other,2,2
-Malaysia,MY,Other,3,3
+Malaysia,MY,Other,4,4
 Mexico,MX,Other,3,3
-Nepal,NP,Other,1,1
+Morocco,MA,Other,1,1
+Nepal,NP,Other,2,2
 Netherlands,NL,Other,1,1
 New Zealand,NZ,Other,1,1
 Pakistan,PK,Other,1,1
-Philippines,PH,Other,1,1
+Philippines,PH,Other,2,2
 Qatar,QA,Other,1,1
-Singapore,SG,,982,983
-Singapore,SG,(not set),1159,1160
+Singapore,SG,,817,820
+Singapore,SG,(not set),2096,2090
 Singapore,SG,Other,6,6
 South Korea,KR,Other,3,7
 Syria,SY,,1,1
 Syria,SY,Other,1,1
-United States,US,California,14,37
-United States,US,Other,45,49
+United Kingdom,GB,Other,1,1
+United States,US,California,17,40
+United States,US,Other,53,57
 United States,US,Virginia,10,11
-Vietnam,VN,Other,1,1
+Uzbekistan,UZ,,1,1
+Vietnam,VN,Other,5,5
