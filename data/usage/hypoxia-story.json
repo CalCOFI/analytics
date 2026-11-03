@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2023-02-14",
- "last_day": "2026-10-31",
+ "last_day": "2026-11-02",
  "totals_28d": {
-  "activeUsers": 6.0,
-  "newUsers": 3.0,
-  "sessions": 6.0,
-  "engagedSessions": 5.0,
-  "screenPageViews": 6.0,
-  "eventCount": 22.0,
-  "userEngagementDuration": 116.0,
-  "avgEngagementSeconds": 19.3,
-  "engagedSessionRate": 0.8,
+  "activeUsers": 7.0,
+  "newUsers": 4.0,
+  "sessions": 7.0,
+  "engagedSessions": 6.0,
+  "screenPageViews": 7.0,
+  "eventCount": 26.0,
+  "userEngagementDuration": 187.0,
+  "avgEngagementSeconds": 26.7,
+  "engagedSessionRate": 0.9,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -25.0,
-  "sessions": -60.0,
-  "engagedSessions": 66.7,
-  "avgEngagementSeconds": -33.0,
-  "screenPageViews": -57.1
+  "activeUsers": -12.5,
+  "sessions": -53.3,
+  "engagedSessions": 100.0,
+  "avgEngagementSeconds": -7.3,
+  "screenPageViews": -50.0
  },
  "daily": [
   {
@@ -1990,6 +1990,11 @@
    "date": "2026-10-31",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-11-02",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -2385,13 +2390,14 @@
   0.86,
   0.86,
   0.86,
+  1.0,
   1.0
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 12.0
+   "activeUsers": 14.0
   },
   {
    "country": "Spain",
@@ -2461,7 +2467,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 2.0
+   "activeUsers": 4.0
   },
   {
    "country": "China",
@@ -2533,23 +2539,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 34.0,
-   "users": 22.0
+   "count": 35.0,
+   "users": 23.0
   },
   {
    "name": "session_start",
-   "count": 27.0,
-   "users": 17.0
+   "count": 28.0,
+   "users": 18.0
   },
   {
    "name": "user_engagement",
-   "count": 17.0,
-   "users": 14.0
+   "count": 18.0,
+   "users": 15.0
   },
   {
    "name": "first_visit",
-   "count": 16.0,
-   "users": 16.0
+   "count": 17.0,
+   "users": 17.0
   },
   {
    "name": "scroll",

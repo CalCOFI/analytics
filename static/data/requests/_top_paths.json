@@ -1,51 +1,51 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "top_paths": [
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 222
+    "n": 225
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 189
+    "n": 166
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 96
+    "n": 121
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.png",
-    "n": 95
+    "n": 119
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 72
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 59
+    "n": 79
    },
    {
     "path": "/erddap/index.html",
-    "n": 50
+    "n": 59
    },
    {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 35
+    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
+    "n": 55
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.png",
-    "n": 32
+    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
+    "n": 47
    },
    {
-    "path": "/erddap/images/erddap2.css",
-    "n": 29
+    "path": "/erddap/tabledap/calcofi_bottle.csv",
+    "n": 47
+   },
+   {
+    "path": "/",
+    "n": 34
    }
   ]
  },
  "erddap.calcofi.io:443": {
-  "date": "2026-10-27",
+  "date": "2026-11-03",
   "top_paths": [
    {
     "path": "/",
@@ -107,46 +107,46 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "top_paths": [
    {
     "path": "/",
-    "n": 53
+    "n": 47
    },
    {
     "path": "/robots.txt",
-    "n": 18
+    "n": 27
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.11/swfsc_ichthyo.nc",
-    "n": 6
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 16
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2017-01-33UD/6c4acb460caf1ba3a9dc327a/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2020-01-33UD/15a7e8d37456ed04d9a9cfcc/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/latest.txt",
+    "path": "/calcofi-db/ducklake/releases/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=sigma_theta_ave/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2021-11-33P4/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/",
+    "path": "/.env",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/swfsc/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.md",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2017-01-33UD/529bd3d4010e8e1315e99184/",
     "n": 2
    }
   ]

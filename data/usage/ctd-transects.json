@@ -7,23 +7,23 @@
  "first_day": "2026-08-10",
  "last_day": "2026-11-02",
  "totals_28d": {
-  "activeUsers": 52.0,
-  "newUsers": 25.0,
-  "sessions": 76.0,
-  "engagedSessions": 43.0,
-  "screenPageViews": 535.0,
-  "eventCount": 706.0,
+  "activeUsers": 54.0,
+  "newUsers": 27.0,
+  "sessions": 78.0,
+  "engagedSessions": 45.0,
+  "screenPageViews": 537.0,
+  "eventCount": 714.0,
   "userEngagementDuration": 6581.0,
-  "avgEngagementSeconds": 126.6,
+  "avgEngagementSeconds": 121.9,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 10.3
+  "viewsPerUser": 9.9
  },
  "delta_28d": {
-  "activeUsers": -16.1,
-  "sessions": -22.4,
-  "engagedSessions": -38.6,
-  "avgEngagementSeconds": -12.1,
-  "screenPageViews": -24.1
+  "activeUsers": -12.9,
+  "sessions": -20.4,
+  "engagedSessions": -35.7,
+  "avgEngagementSeconds": -15.3,
+  "screenPageViews": -23.8
  },
  "daily": [
   {
@@ -368,8 +368,8 @@
   },
   {
    "date": "2026-11-02",
-   "activeUsers": 2.0,
-   "sessions": 2.0
+   "activeUsers": 4.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -441,13 +441,13 @@
   2.14,
   2.29,
   2.14,
-  2.14
+  2.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 79.0
+   "activeUsers": 81.0
   },
   {
    "country": "Italy",
@@ -495,7 +495,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 48.0
+   "activeUsers": 50.0
   },
   {
    "country": "United States",
@@ -567,18 +567,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1721.0,
-   "users": 88.0
+   "count": 1723.0,
+   "users": 90.0
   },
   {
    "name": "scroll",
-   "count": 260.0,
-   "users": 62.0
+   "count": 262.0,
+   "users": 64.0
   },
   {
    "name": "session_start",
-   "count": 198.0,
-   "users": 78.0
+   "count": 200.0,
+   "users": 80.0
   },
   {
    "name": "user_engagement",
@@ -587,8 +587,8 @@
   },
   {
    "name": "first_visit",
-   "count": 63.0,
-   "users": 61.0
+   "count": 65.0,
+   "users": 63.0
   },
   {
    "name": "click",

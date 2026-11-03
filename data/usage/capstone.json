@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260721",
  "totals_28d": {
-  "activeUsers": 8.0,
-  "newUsers": 7.0,
-  "sessions": 10.0,
-  "engagedSessions": 5.0,
-  "screenPageViews": 9.0,
-  "eventCount": 38.0,
-  "userEngagementDuration": 331.0,
-  "avgEngagementSeconds": 41.4,
+  "activeUsers": 9.0,
+  "newUsers": 8.0,
+  "sessions": 11.0,
+  "engagedSessions": 6.0,
+  "screenPageViews": 10.0,
+  "eventCount": 42.0,
+  "userEngagementDuration": 337.0,
+  "avgEngagementSeconds": 37.4,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 14.3,
-  "sessions": -28.6,
-  "engagedSessions": 0.0,
-  "avgEngagementSeconds": 96.2,
-  "screenPageViews": -10.0
+  "activeUsers": 28.6,
+  "sessions": -21.4,
+  "engagedSessions": 20.0,
+  "avgEngagementSeconds": 77.3,
+  "screenPageViews": 0.0
  },
  "daily": [
   {
@@ -272,6 +272,11 @@
    "sessions": 2.0
   },
   {
+   "date": "2026-11-02",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260507",
    "activeUsers": 1.0,
    "sessions": 2.0
@@ -448,6 +453,7 @@
   1.0,
   0.86,
   1.0,
+  1.0,
   1.14,
   1.14,
   1.29,
@@ -477,7 +483,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 16.0
+   "activeUsers": 17.0
   },
   {
    "country": "Mexico",
@@ -530,7 +536,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 11.0
+   "activeUsers": 12.0
   },
   {
    "country": "United States",
@@ -596,28 +602,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 34.0,
-   "users": 25.0
+   "count": 35.0,
+   "users": 26.0
   },
   {
    "name": "session_start",
-   "count": 31.0,
-   "users": 23.0
+   "count": 32.0,
+   "users": 24.0
   },
   {
    "name": "scroll",
-   "count": 24.0,
-   "users": 18.0
+   "count": 25.0,
+   "users": 19.0
+  },
+  {
+   "name": "first_visit",
+   "count": 21.0,
+   "users": 21.0
   },
   {
    "name": "user_engagement",
    "count": 21.0,
    "users": 17.0
-  },
-  {
-   "name": "first_visit",
-   "count": 20.0,
-   "users": 20.0
   },
   {
    "name": "click",

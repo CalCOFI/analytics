@@ -976,57 +976,62 @@
    },
    {
     "date": "2026-11-02",
-    "requests": 321.0,
-    "bytes": 678419853.0
+    "requests": 1816.0,
+    "bytes": 966277476.0
+   },
+   {
+    "date": "2026-11-03",
+    "requests": 633.0,
+    "bytes": 21425772.0
    }
   ],
   "totals_28d": {
-   "requests": 121618.0,
-   "bytes": 39937609614.0,
+   "requests": 123746.0,
+   "bytes": 40246893009.0,
    "clients": 6420.0,
-   "tool": 89236.0,
-   "browser": 32382.0
+   "tool": 90661.0,
+   "browser": 33085.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 53
+    "n": 47
    },
    {
     "path": "/robots.txt",
-    "n": 18
+    "n": 27
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.11/swfsc_ichthyo.nc",
-    "n": 6
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 16
    },
    {
     "path": "/sitemap.xml",
     "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2017-01-33UD/6c4acb460caf1ba3a9dc327a/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2020-01-33UD/15a7e8d37456ed04d9a9cfcc/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/latest.txt",
+    "path": "/calcofi-db/ducklake/releases/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=sigma_theta_ave/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2021-11-33P4/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/",
+    "path": "/.env",
     "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/swfsc/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.md",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2017-01-33UD/529bd3d4010e8e1315e99184/",
     "n": 2
    }
   ]
