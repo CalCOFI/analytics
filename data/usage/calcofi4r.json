@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-05-07",
- "last_day": "2026-11-01",
+ "last_day": "2026-11-02",
  "totals_28d": {
-  "activeUsers": 126.0,
-  "newUsers": 121.0,
-  "sessions": 129.0,
-  "engagedSessions": 9.0,
-  "screenPageViews": 135.0,
-  "eventCount": 417.0,
-  "userEngagementDuration": 361.0,
-  "avgEngagementSeconds": 2.9,
+  "activeUsers": 116.0,
+  "newUsers": 112.0,
+  "sessions": 119.0,
+  "engagedSessions": 8.0,
+  "screenPageViews": 125.0,
+  "eventCount": 387.0,
+  "userEngagementDuration": 351.0,
+  "avgEngagementSeconds": 3.0,
   "engagedSessionRate": 0.1,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 34.0,
-  "sessions": 26.5,
-  "engagedSessions": -57.1,
-  "avgEngagementSeconds": -29.3,
-  "screenPageViews": 15.4
+  "activeUsers": 11.5,
+  "sessions": 7.2,
+  "engagedSessions": -60.0,
+  "avgEngagementSeconds": -21.1,
+  "screenPageViews": -0.8
  },
  "daily": [
   {
@@ -715,6 +715,11 @@
    "date": "2026-11-01",
    "activeUsers": 2.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-11-02",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -855,13 +860,14 @@
   5.29,
   5.71,
   9.14,
-  8.86
+  8.86,
+  8.43
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 245.0
+   "activeUsers": 246.0
   },
   {
    "country": "United States",
@@ -944,7 +950,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 240.0
+   "activeUsers": 242.0
   },
   {
    "country": "United States",
@@ -986,12 +992,6 @@
    "country": "New Zealand",
    "countryId": "NZ",
    "region": "Other",
-   "activeUsers": 2.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
    "activeUsers": 2.0
   },
   {
@@ -1049,6 +1049,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 1.0
+  },
+  {
    "country": "United Kingdom",
    "countryId": "GB",
    "region": "",
@@ -1076,18 +1082,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 406.0,
-   "users": 292.0
-  },
-  {
-   "name": "session_start",
-   "count": 320.0,
+   "count": 405.0,
    "users": 291.0
   },
   {
+   "name": "session_start",
+   "count": 319.0,
+   "users": 290.0
+  },
+  {
    "name": "first_visit",
-   "count": 284.0,
-   "users": 284.0
+   "count": 283.0,
+   "users": 283.0
   },
   {
    "name": "user_engagement",

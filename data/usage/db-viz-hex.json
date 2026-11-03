@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 27.0,
+  "activeUsers": 29.0,
   "newUsers": 22.0,
-  "sessions": 35.0,
-  "engagedSessions": 21.0,
-  "screenPageViews": 39.0,
-  "eventCount": 402.0,
-  "userEngagementDuration": 3127.0,
-  "avgEngagementSeconds": 115.8,
+  "sessions": 36.0,
+  "engagedSessions": 22.0,
+  "screenPageViews": 40.0,
+  "eventCount": 408.0,
+  "userEngagementDuration": 3137.0,
+  "avgEngagementSeconds": 108.2,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": 17.4,
-  "sessions": 6.1,
-  "engagedSessions": -8.7,
-  "avgEngagementSeconds": 13.9,
-  "screenPageViews": -22.0
+  "activeUsers": 61.1,
+  "sessions": 44.0,
+  "engagedSessions": 46.7,
+  "avgEngagementSeconds": 0.7,
+  "screenPageViews": 60.0
  },
  "daily": [
   {
@@ -412,6 +412,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-11-02",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -560,12 +565,13 @@
   1.43,
   1.86,
   1.57,
-  1.71,
-  1.71,
-  2.14,
-  2.14,
   1.86,
   1.86,
+  1.86,
+  2.29,
+  2.0,
+  1.57,
+  2.0,
   2.0,
   2.14,
   2.29,
@@ -759,48 +765,43 @@
  "events": [
   {
    "name": "session_start",
-   "count": 853.0,
+   "count": 821.0,
    "users": 68.0
   },
   {
    "name": "page_view",
-   "count": 657.0,
+   "count": 633.0,
    "users": 70.0
   },
   {
    "name": "scroll",
-   "count": 599.0,
+   "count": 575.0,
    "users": 65.0
   },
   {
    "name": "filter_submit",
-   "count": 415.0,
+   "count": 414.0,
    "users": 25.0
   },
   {
    "name": "map_query_env",
-   "count": 415.0,
+   "count": 414.0,
    "users": 25.0
   },
   {
    "name": "map_query_sp",
-   "count": 415.0,
+   "count": 414.0,
    "users": 25.0
   },
   {
    "name": "user_engagement",
-   "count": 388.0,
+   "count": 364.0,
    "users": 43.0
   },
   {
    "name": "start_tour",
-   "count": 291.0,
+   "count": 283.0,
    "users": 61.0
-  },
-  {
-   "name": "select_tab",
-   "count": 144.0,
-   "users": 18.0
   },
   {
    "name": "select_theme",
@@ -808,8 +809,13 @@
    "users": 5.0
   },
   {
+   "name": "select_tab",
+   "count": 135.0,
+   "users": 18.0
+  },
+  {
    "name": "open_filters",
-   "count": 125.0,
+   "count": 113.0,
    "users": 18.0
   },
   {
@@ -1406,6 +1412,24 @@
     "p95_ms": "190.9"
    },
    {
+    "date": "2026-11-02",
+    "events": "2",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
+    "date": "2026-11-03",
+    "events": "20",
+    "distinct_sessions": "3",
+    "distinct_clients": "3",
+    "errors": "1",
+    "p50_ms": "29.3",
+    "p95_ms": "127.2"
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1521,7 +1545,7 @@
    },
    {
     "event": "filter_no_results",
-    "n": "41",
+    "n": "42",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "1.0",
@@ -1529,7 +1553,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "169",
+    "n": "173",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1553,9 +1577,9 @@
    },
    {
     "event": "map_query_env",
-    "n": "168",
-    "p50_ms": "25.1",
-    "p95_ms": "84.0",
+    "n": "172",
+    "p50_ms": "24.9",
+    "p95_ms": "82.9",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1569,9 +1593,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "169",
-    "p50_ms": "54.9",
-    "p95_ms": "452.4",
+    "n": "173",
+    "p50_ms": "56.1",
+    "p95_ms": "450.5",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1641,7 +1665,7 @@
    },
    {
     "event": "select_map_area",
-    "n": "4",
+    "n": "5",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1665,7 +1689,7 @@
    },
    {
     "event": "session_start",
-    "n": "370",
+    "n": "374",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1673,7 +1697,7 @@
    },
    {
     "event": "start_tour",
-    "n": "299",
+    "n": "303",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1692,7 +1716,7 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "369"
+    "n": "378"
    },
    {
     "param": "taxa",
@@ -1768,6 +1792,11 @@
     "param": "taxa",
     "value": "Pacific krill (species: Euphausia pacifica)",
     "n": "6"
+   },
+   {
+    "param": "taxa",
+    "value": "(genus: Scomber)",
+    "n": "5"
    },
    {
     "param": "taxa",
@@ -2102,6 +2131,12 @@
     "n": "4",
     "first_seen": "2026-08-11",
     "last_seen": "2026-08-12"
+   },
+   {
+    "app_version": "fbe0941",
+    "n": "22",
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-03"
    },
    {
     "app_version": "latest",
