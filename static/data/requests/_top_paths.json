@@ -1,26 +1,22 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "top_paths": [
    {
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 151
+   },
+   {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 225
+    "n": 145
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 166
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 121
+    "n": 104
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.png",
-    "n": 119
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 79
+    "n": 64
    },
    {
     "path": "/erddap/index.html",
@@ -28,19 +24,23 @@
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 55
+    "n": 49
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 47
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 47
+    "n": 31
    },
    {
-    "path": "/erddap/tabledap/calcofi_bottle.csv",
-    "n": 47
+    "path": "/erddap/tabledap/calcofi_phytoplankton.png",
+    "n": 28
    },
    {
-    "path": "/",
-    "n": 34
+    "path": "/erddap/images/erddap2.css",
+    "n": 25
    }
   ]
  },
@@ -107,7 +107,7 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "top_paths": [
    {
     "path": "/",
@@ -115,39 +115,39 @@
    },
    {
     "path": "/robots.txt",
-    "n": 27
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 16
-   },
-   {
-    "path": "/sitemap.xml",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2017-01-33UD/6c4acb460caf1ba3a9dc327a/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2020-01-33UD/15a7e8d37456ed04d9a9cfcc/",
-    "n": 3
+    "n": 17
    },
    {
     "path": "/calcofi-db/ducklake/releases/",
+    "n": 4
+   },
+   {
+    "path": "/userfiles",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/measurement-media/keys/oxygen_ml_l_1/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2021-11-33P4/",
+    "path": "/calcofi-files-public/measurement-media/keys/phosphate/",
     "n": 3
    },
    {
-    "path": "/.env",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_mets_full/cruise_key=2017-01-33UD/529bd3d4010e8e1315e99184/",
-    "n": 2
+    "path": "/calcofi-db/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/measurement-media/keys/oxygen_ml_l_1_sta_corr/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/measurement-media/keys/sss_psu/",
+    "n": 3
    }
   ]
  },

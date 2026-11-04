@@ -7,23 +7,23 @@
  "first_day": "2026-08-10",
  "last_day": "2026-11-03",
  "totals_28d": {
-  "activeUsers": 51.0,
+  "activeUsers": 52.0,
   "newUsers": 26.0,
-  "sessions": 73.0,
-  "engagedSessions": 40.0,
-  "screenPageViews": 495.0,
-  "eventCount": 665.0,
-  "userEngagementDuration": 5295.0,
-  "avgEngagementSeconds": 103.8,
-  "engagedSessionRate": 0.5,
-  "viewsPerUser": 9.7
+  "sessions": 74.0,
+  "engagedSessions": 41.0,
+  "screenPageViews": 497.0,
+  "eventCount": 670.0,
+  "userEngagementDuration": 5297.0,
+  "avgEngagementSeconds": 101.9,
+  "engagedSessionRate": 0.6,
+  "viewsPerUser": 9.6
  },
  "delta_28d": {
-  "activeUsers": -20.3,
-  "sessions": -27.7,
-  "engagedSessions": -45.2,
-  "avgEngagementSeconds": -34.6,
-  "screenPageViews": -32.7
+  "activeUsers": -18.8,
+  "sessions": -26.7,
+  "engagedSessions": -43.8,
+  "avgEngagementSeconds": -35.8,
+  "screenPageViews": -32.5
  },
  "daily": [
   {
@@ -373,8 +373,8 @@
   },
   {
    "date": "2026-11-03",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -447,13 +447,13 @@
   2.29,
   2.14,
   2.43,
-  2.14
+  2.29
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 82.0
+   "activeUsers": 83.0
   },
   {
    "country": "Italy",
@@ -501,7 +501,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 50.0
+   "activeUsers": 51.0
   },
   {
    "country": "United States",
@@ -573,23 +573,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1724.0,
-   "users": 91.0
+   "count": 1726.0,
+   "users": 92.0
   },
   {
    "name": "scroll",
-   "count": 263.0,
-   "users": 65.0
+   "count": 264.0,
+   "users": 66.0
   },
   {
    "name": "session_start",
-   "count": 201.0,
-   "users": 81.0
+   "count": 202.0,
+   "users": 82.0
   },
   {
    "name": "user_engagement",
-   "count": 146.0,
-   "users": 40.0
+   "count": 147.0,
+   "users": 41.0
   },
   {
    "name": "first_visit",
