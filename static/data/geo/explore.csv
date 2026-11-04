@@ -2,7 +2,7 @@ country,countryId,region,activeUsers,sessions
 ,,,1,1
 (not set),(not set),Other,1,1
 Australia,AU,Other,1,1
-Canada,CA,Other,13,22
+Canada,CA,Other,13,23
 China,CN,,1,1
 China,CN,Other,7,7
 Germany,DE,Other,1,1
@@ -18,6 +18,6 @@ Singapore,SG,Other,9,9
 South Korea,KR,Other,1,1
 United Kingdom,GB,Other,1,2
 United States,US,,1,1
-United States,US,California,74,225
+United States,US,California,75,229
 United States,US,Other,47,63
 United States,US,Virginia,18,18

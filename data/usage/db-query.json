@@ -7,23 +7,23 @@
  "first_day": "2026-05-19",
  "last_day": "20260728",
  "totals_28d": {
-  "activeUsers": 80.0,
+  "activeUsers": 79.0,
   "newUsers": 74.0,
-  "sessions": 84.0,
-  "engagedSessions": 14.0,
-  "screenPageViews": 83.0,
-  "eventCount": 558.0,
-  "userEngagementDuration": 747.0,
-  "avgEngagementSeconds": 9.3,
+  "sessions": 83.0,
+  "engagedSessions": 13.0,
+  "screenPageViews": 82.0,
+  "eventCount": 549.0,
+  "userEngagementDuration": 618.0,
+  "avgEngagementSeconds": 7.8,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 321.1,
-  "sessions": 236.0,
-  "engagedSessions": 0.0,
-  "avgEngagementSeconds": -93.2,
-  "screenPageViews": 144.1
+  "activeUsers": 338.9,
+  "sessions": 245.8,
+  "engagedSessions": -7.1,
+  "avgEngagementSeconds": -94.5,
+  "screenPageViews": 156.2
  },
  "daily": [
   {
@@ -852,32 +852,32 @@
  "events": [
   {
    "name": "query_view",
-   "count": 156.0,
-   "users": 70.0
+   "count": 148.0,
+   "users": 69.0
   },
   {
    "name": "query_run",
-   "count": 149.0,
+   "count": 147.0,
    "users": 56.0
   },
   {
    "name": "page_view",
-   "count": 148.0,
-   "users": 98.0
-  },
-  {
-   "name": "scroll",
-   "count": 140.0,
-   "users": 93.0
-  },
-  {
-   "name": "session_start",
-   "count": 130.0,
+   "count": 144.0,
    "users": 97.0
   },
   {
+   "name": "scroll",
+   "count": 136.0,
+   "users": 92.0
+  },
+  {
+   "name": "session_start",
+   "count": 128.0,
+   "users": 96.0
+  },
+  {
    "name": "query_success",
-   "count": 108.0,
+   "count": 106.0,
    "users": 32.0
   },
   {
@@ -887,8 +887,8 @@
   },
   {
    "name": "user_engagement",
-   "count": 64.0,
-   "users": 27.0
+   "count": 61.0,
+   "users": 28.0
   },
   {
    "name": "query_from_url",
@@ -901,14 +901,14 @@
    "users": 13.0
   },
   {
-   "name": "form_start",
-   "count": 12.0,
-   "users": 6.0
-  },
-  {
    "name": "download",
    "count": 11.0,
    "users": 2.0
+  },
+  {
+   "name": "form_start",
+   "count": 10.0,
+   "users": 6.0
   }
  ]
 }

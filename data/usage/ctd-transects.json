@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-08-10",
- "last_day": "2026-11-02",
+ "last_day": "2026-11-03",
  "totals_28d": {
-  "activeUsers": 54.0,
-  "newUsers": 27.0,
-  "sessions": 78.0,
-  "engagedSessions": 45.0,
-  "screenPageViews": 537.0,
-  "eventCount": 714.0,
-  "userEngagementDuration": 6581.0,
-  "avgEngagementSeconds": 121.9,
-  "engagedSessionRate": 0.6,
-  "viewsPerUser": 9.9
+  "activeUsers": 51.0,
+  "newUsers": 26.0,
+  "sessions": 73.0,
+  "engagedSessions": 40.0,
+  "screenPageViews": 495.0,
+  "eventCount": 665.0,
+  "userEngagementDuration": 5295.0,
+  "avgEngagementSeconds": 103.8,
+  "engagedSessionRate": 0.5,
+  "viewsPerUser": 9.7
  },
  "delta_28d": {
-  "activeUsers": -12.9,
-  "sessions": -20.4,
-  "engagedSessions": -35.7,
-  "avgEngagementSeconds": -15.3,
-  "screenPageViews": -23.8
+  "activeUsers": -20.3,
+  "sessions": -27.7,
+  "engagedSessions": -45.2,
+  "avgEngagementSeconds": -34.6,
+  "screenPageViews": -32.7
  },
  "daily": [
   {
@@ -370,6 +370,11 @@
    "date": "2026-11-02",
    "activeUsers": 4.0,
    "sessions": 4.0
+  },
+  {
+   "date": "2026-11-03",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -441,13 +446,14 @@
   2.14,
   2.29,
   2.14,
-  2.43
+  2.43,
+  2.14
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 81.0
+   "activeUsers": 82.0
   },
   {
    "country": "Italy",
@@ -501,7 +507,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 17.0
+   "activeUsers": 18.0
   },
   {
    "country": "United States",
@@ -567,18 +573,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1723.0,
-   "users": 90.0
+   "count": 1724.0,
+   "users": 91.0
   },
   {
    "name": "scroll",
-   "count": 262.0,
-   "users": 64.0
+   "count": 263.0,
+   "users": 65.0
   },
   {
    "name": "session_start",
-   "count": 200.0,
-   "users": 80.0
+   "count": 201.0,
+   "users": 81.0
   },
   {
    "name": "user_engagement",
@@ -587,8 +593,8 @@
   },
   {
    "name": "first_visit",
-   "count": 65.0,
-   "users": 63.0
+   "count": 66.0,
+   "users": 64.0
   },
   {
    "name": "click",
