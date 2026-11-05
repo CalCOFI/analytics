@@ -986,58 +986,63 @@
    },
    {
     "date": "2026-11-04",
-    "requests": 1035.0,
-    "bytes": 4764777.0
+    "requests": 1880.0,
+    "bytes": 254625180.0
+   },
+   {
+    "date": "2026-11-05",
+    "requests": 480.0,
+    "bytes": 4876466.0
    }
   ],
   "totals_28d": {
-   "requests": 122015.0,
-   "bytes": 20968212448.0,
+   "requests": 123340.0,
+   "bytes": 21222949317.0,
    "clients": 6420.0,
-   "tool": 89992.0,
-   "browser": 32023.0
+   "tool": 90902.0,
+   "browser": 32438.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
+    "n": 55
    },
    {
     "path": "/robots.txt",
-    "n": 17
+    "n": 13
    },
    {
-    "path": "/calcofi-db/ducklake/releases/",
-    "n": 4
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 5
    },
    {
-    "path": "/userfiles",
-    "n": 4
+    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/v2026.07.30/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/measurement-media/keys/oxygen_ml_l_1/",
-    "n": 3
+    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=phosphate/bee921351c15a87c09b71d46/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/measurement-media/keys/phosphate/",
-    "n": 3
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/obs_env/measurement_type=chlorophyll_a/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0701JD_CTDFinalQC/asc-hdr/btl/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0401JD_CTDFinalQC/csvs-plots/orig/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/measurement-media/keys/oxygen_ml_l_1_sta_corr/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2408SR_CTDPrelim/csvs-plots/U_P/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/measurement-media/keys/sss_psu/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2408SR_CTDPrelim/csvs-plots/D_S/",
+    "n": 2
    }
   ]
  }
