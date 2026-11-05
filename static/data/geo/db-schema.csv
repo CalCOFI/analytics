@@ -1,10 +1,10 @@
 country,countryId,region,activeUsers,sessions
 Canada,CA,Other,1,1
-China,CN,Other,14,14
+China,CN,Other,15,15
 India,IN,Other,1,1
 Italy,IT,Other,7,70
 Mexico,MX,Other,2,2
-Singapore,SG,,6,6
+Singapore,SG,,1,1
 Singapore,SG,(not set),16,16
 Singapore,SG,Other,8,8
 United States,US,California,11,59

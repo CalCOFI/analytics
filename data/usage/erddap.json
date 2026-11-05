@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-30",
- "last_day": "2026-11-03",
+ "last_day": "2026-11-04",
  "totals_28d": {
-  "activeUsers": 5726.0,
-  "newUsers": 5702.0,
-  "sessions": 5736.0,
-  "engagedSessions": 342.0,
-  "screenPageViews": 5980.0,
-  "eventCount": 18817.0,
-  "userEngagementDuration": 1936.0,
+  "activeUsers": 5727.0,
+  "newUsers": 5704.0,
+  "sessions": 5735.0,
+  "engagedSessions": 341.0,
+  "screenPageViews": 5961.0,
+  "eventCount": 18769.0,
+  "userEngagementDuration": 1594.0,
   "avgEngagementSeconds": 0.3,
   "engagedSessionRate": 0.1,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 19644.8,
-  "sessions": 18403.2,
-  "engagedSessions": 1911.8,
-  "avgEngagementSeconds": -99.6,
-  "screenPageViews": 4430.3
+  "activeUsers": 21111.1,
+  "sessions": 19675.9,
+  "engagedSessions": 2031.2,
+  "avgEngagementSeconds": -99.7,
+  "screenPageViews": 3874.0
  },
  "daily": [
   {
@@ -378,8 +378,13 @@
   },
   {
    "date": "2026-11-03",
-   "activeUsers": 1176.0,
+   "activeUsers": 1178.0,
    "sessions": 1179.0
+  },
+  {
+   "date": "2026-11-04",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -453,23 +458,24 @@
   313.86,
   489.14,
   639.86,
-  807.57
+  807.86,
+  801.86
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 5394.0
+   "activeUsers": 5395.0
   },
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 226.0
+   "activeUsers": 256.0
   },
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 105.0
+   "activeUsers": 106.0
   },
   {
    "country": "Colombia",
@@ -497,13 +503,13 @@
    "activeUsers": 5.0
   },
   {
-   "country": "Argentina",
-   "countryId": "AR",
-   "activeUsers": 4.0
-  },
-  {
    "country": "Malaysia",
    "countryId": "MY",
+   "activeUsers": 5.0
+  },
+  {
+   "country": "Argentina",
+   "countryId": "AR",
    "activeUsers": 4.0
   },
   {
@@ -667,25 +673,19 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 4273.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 1115.0
+   "activeUsers": 5388.0
   },
   {
    "country": "China",
    "countryId": "CN",
    "region": "(not set)",
-   "activeUsers": 95.0
+   "activeUsers": 125.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 64.0
+   "activeUsers": 65.0
   },
   {
    "country": "China",
@@ -760,14 +760,14 @@
    "activeUsers": 5.0
   },
   {
-   "country": "Argentina",
-   "countryId": "AR",
-   "region": "Other",
-   "activeUsers": 4.0
-  },
-  {
    "country": "Malaysia",
    "countryId": "MY",
+   "region": "Other",
+   "activeUsers": 5.0
+  },
+  {
+   "country": "Argentina",
+   "countryId": "AR",
    "region": "Other",
    "activeUsers": 4.0
   },
@@ -934,6 +934,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Switzerland",
    "countryId": "CH",
    "region": "Other",
@@ -973,18 +979,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 6253.0,
-   "users": 5778.0
+   "count": 6256.0,
+   "users": 5781.0
   },
   {
    "name": "session_start",
-   "count": 5788.0,
-   "users": 5762.0
+   "count": 5791.0,
+   "users": 5765.0
   },
   {
    "name": "first_visit",
-   "count": 5757.0,
-   "users": 5752.0
+   "count": 5760.0,
+   "users": 5755.0
   },
   {
    "name": "scroll",
@@ -993,8 +999,8 @@
   },
   {
    "name": "user_engagement",
-   "count": 319.0,
-   "users": 52.0
+   "count": 320.0,
+   "users": 53.0
   },
   {
    "name": "form_start",
@@ -1511,11 +1517,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 118014.0,
-   "bytes": 4818962794.0,
+   "requests": 114849.0,
+   "bytes": 4747092349.0,
    "clients": 3472.0,
-   "tool": 50018.0,
-   "browser": 67996.0
+   "tool": 48008.0,
+   "browser": 66841.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
