@@ -1,5 +1,8 @@
 country,countryId,region,activeUsers,sessions
+Brazil,BR,Other,1,1
+Chile,CL,Other,1,1
 Italy,IT,Other,3,7
 Singapore,SG,,1,1
 Singapore,SG,Other,1,1
-United States,US,Other,5,6
+United Kingdom,GB,,1,1
+United States,US,Other,7,8

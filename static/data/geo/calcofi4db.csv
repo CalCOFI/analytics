@@ -8,7 +8,7 @@ Brazil,BR,Other,17,17
 Canada,CA,Other,3,3
 Chile,CL,Other,6,6
 China,CN,,3,3
-China,CN,Other,7,7
+China,CN,Other,10,10
 Colombia,CO,Other,1,1
 Ecuador,EC,Other,2,2
 France,FR,Other,3,3
@@ -33,10 +33,10 @@ Poland,PL,Other,1,1
 Portugal,PT,Other,1,1
 Qatar,QA,Other,1,1
 Romania,RO,Other,1,1
-Russia,RU,Other,2,7
+Russia,RU,Other,2,8
 Senegal,SN,Other,1,1
-Singapore,SG,,15,15
-Singapore,SG,(not set),1263,1260
+Singapore,SG,,5,5
+Singapore,SG,(not set),1278,1275
 Singapore,SG,Other,1,1
 South Africa,ZA,Other,2,2
 Spain,ES,Other,3,3
@@ -49,6 +49,6 @@ United States,US,,1,1
 United States,US,(not set),11,11
 United States,US,California,17,21
 United States,US,Colorado,12,12
-United States,US,Other,15,16
+United States,US,Other,20,21
 Venezuela,VE,Other,2,2
 Vietnam,VN,Other,4,4

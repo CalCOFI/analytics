@@ -1,12 +1,14 @@
 country,countryId,region,activeUsers,sessions
+Bahamas,BS,,1,1
 Canada,CA,Other,1,1
 China,CN,Other,15,15
 India,IN,Other,1,1
 Italy,IT,Other,7,70
 Mexico,MX,Other,2,2
+North Macedonia,MK,Other,1,1
 Singapore,SG,,1,1
-Singapore,SG,(not set),16,16
+Singapore,SG,(not set),17,17
 Singapore,SG,Other,8,8
-United States,US,California,11,59
-United States,US,Other,10,11
+United States,US,California,14,62
+United States,US,Other,11,12
 United States,US,Virginia,14,14

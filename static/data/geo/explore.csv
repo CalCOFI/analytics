@@ -1,25 +1,62 @@
 country,countryId,region,activeUsers,sessions
 ,,,1,1
 (not set),(not set),Other,1,1
-Argentina,AR,Other,1,1
+Algeria,DZ,Other,2,2
+Argentina,AR,Other,18,18
 Australia,AU,Other,1,1
-Canada,CA,Other,14,25
+Azerbaijan,AZ,Other,1,1
+Bahrain,BH,Other,1,1
+Bangladesh,BD,Other,3,3
+Brazil,BR,Other,22,22
+Brazil,BR,State of Sao Paulo,10,10
+Canada,CA,Other,15,26
+Chile,CL,Other,2,2
 China,CN,,1,1
-China,CN,Other,7,7
+China,CN,Other,19,19
+Colombia,CO,Other,8,8
+Dominican Republic,DO,,1,1
+Dominican Republic,DO,Other,1,1
+Ecuador,EC,Other,3,3
 Finland,FI,Other,1,1
-Germany,DE,Other,1,1
-Hong Kong,HK,,1,1
+France,FR,Other,1,1
+Gabon,GA,Other,1,1
+Germany,DE,Other,2,2
+Guatemala,GT,Other,1,1
+Hong Kong,HK,,3,3
 Hong Kong,HK,Other,1,1
-Italy,IT,Other,13,128
-Mexico,MX,Other,4,4
+India,IN,Other,2,2
+Indonesia,ID,Other,1,1
+Ireland,IE,Other,1,1
+Italy,IT,Other,13,130
+Jamaica,JM,Other,1,1
+Kazakhstan,KZ,Other,1,1
+Kenya,KE,Other,2,2
+Kuwait,KW,Other,1,1
+Malaysia,MY,Other,2,2
+Mexico,MX,Other,14,14
+Morocco,MA,Other,6,6
+Netherlands,NL,Other,1,1
 New Zealand,NZ,Other,1,8
-Russia,RU,Other,1,1
-Singapore,SG,,101,101
-Singapore,SG,(not set),69,69
+Nigeria,NG,Other,1,1
+Oman,OM,Other,1,1
+Pakistan,PK,Other,1,1
+Paraguay,PY,Other,1,1
+Philippines,PH,Other,2,2
+Russia,RU,Other,8,8
+Singapore,SG,,574,575
+Singapore,SG,(not set),179,179
 Singapore,SG,Other,9,9
+South Africa,ZA,Other,3,3
 South Korea,KR,Other,1,1
+Thailand,TH,Other,1,1
+Tunisia,TN,Other,2,2
+Türkiye,TR,Other,1,1
+Ukraine,UA,Other,1,1
+United Arab Emirates,AE,Other,4,4
 United Kingdom,GB,Other,1,2
 United States,US,,1,1
-United States,US,California,77,235
-United States,US,Other,47,63
-United States,US,Virginia,18,18
+United States,US,California,81,246
+United States,US,Other,50,66
+United States,US,Virginia,19,19
+Venezuela,VE,Other,3,3
+Vietnam,VN,Other,9,9

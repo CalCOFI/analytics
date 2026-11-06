@@ -1,8 +1,8 @@
 eventName,eventCount,activeUsers
 click,4,3
-first_visit,1022,1021
+first_visit,1025,1024
 form_start,3,2
-page_view,1793,1056
-scroll,1543,965
-session_start,1623,1042
-user_engagement,809,497
+page_view,1797,1059
+scroll,1547,968
+session_start,1628,1045
+user_engagement,810,497
