@@ -7,23 +7,23 @@
  "first_day": "2026-07-30",
  "last_day": "2026-11-05",
  "totals_28d": {
-  "activeUsers": 5738.0,
-  "newUsers": 5713.0,
-  "sessions": 5746.0,
-  "engagedSessions": 343.0,
-  "screenPageViews": 5986.0,
-  "eventCount": 18833.0,
-  "userEngagementDuration": 1837.0,
+  "activeUsers": 5741.0,
+  "newUsers": 5715.0,
+  "sessions": 5749.0,
+  "engagedSessions": 344.0,
+  "screenPageViews": 5989.0,
+  "eventCount": 18842.0,
+  "userEngagementDuration": 1884.0,
   "avgEngagementSeconds": 0.3,
   "engagedSessionRate": 0.1,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 21969.2,
-  "sessions": 20421.4,
-  "engagedSessions": 2043.8,
+  "activeUsers": 21980.8,
+  "sessions": 20432.1,
+  "engagedSessions": 2050.0,
   "avgEngagementSeconds": -99.7,
-  "screenPageViews": 4237.7
+  "screenPageViews": 4239.9
  },
  "daily": [
   {
@@ -388,8 +388,8 @@
   },
   {
    "date": "2026-11-05",
-   "activeUsers": 7.0,
-   "sessions": 7.0
+   "activeUsers": 10.0,
+   "sessions": 10.0
   }
  ],
  "daily_mean7": [
@@ -465,7 +465,7 @@
   639.86,
   807.86,
   802.57,
-  733.57
+  734.0
  ],
  "geo_country": [
   {
@@ -481,7 +481,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 111.0
+   "activeUsers": 113.0
   },
   {
    "country": "Colombia",
@@ -717,6 +717,12 @@
    "activeUsers": 20.0
   },
   {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Virginia",
+   "activeUsers": 17.0
+  },
+  {
    "country": "Colombia",
    "countryId": "CO",
    "region": "Other",
@@ -726,12 +732,6 @@
    "country": "Brazil",
    "countryId": "BR",
    "region": "Other",
-   "activeUsers": 15.0
-  },
-  {
-   "country": "United States",
-   "countryId": "US",
-   "region": "Virginia",
    "activeUsers": 15.0
   },
   {
@@ -996,18 +996,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 6282.0,
-   "users": 5794.0
+   "count": 6285.0,
+   "users": 5796.0
   },
   {
    "name": "session_start",
-   "count": 5799.0,
-   "users": 5774.0
+   "count": 5801.0,
+   "users": 5776.0
   },
   {
    "name": "first_visit",
-   "count": 5769.0,
-   "users": 5764.0
+   "count": 5771.0,
+   "users": 5766.0
   },
   {
    "name": "scroll",
@@ -1016,13 +1016,13 @@
   },
   {
    "name": "user_engagement",
-   "count": 334.0,
+   "count": 335.0,
    "users": 56.0
   },
   {
    "name": "form_start",
-   "count": 49.0,
-   "users": 11.0
+   "count": 50.0,
+   "users": 12.0
   },
   {
    "name": "click",
@@ -1534,58 +1534,63 @@
    },
    {
     "date": "2026-11-05",
-    "requests": 1087.0,
-    "bytes": 23872409.0
+    "requests": 4285.0,
+    "bytes": 39375304.0
+   },
+   {
+    "date": "2026-11-06",
+    "requests": 959.0,
+    "bytes": 34186023.0
    }
   ],
   "totals_28d": {
-   "requests": 114527.0,
-   "bytes": 4770684003.0,
+   "requests": 118684.0,
+   "bytes": 4820372921.0,
    "clients": 3472.0,
-   "tool": 47771.0,
-   "browser": 66756.0
+   "tool": 51238.0,
+   "browser": 67446.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 94
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 85
-   },
-   {
     "path": "/erddap/index.html",
-    "n": 60
+    "n": 67
    },
    {
-    "path": "/",
-    "n": 49
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.png",
-    "n": 49
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 51
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 44
+    "n": 35
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 38
-   },
-   {
-    "path": "/erddap/images/wz_tooltip.js",
+    "path": "/",
     "n": 25
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 22
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 21
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 20
+    "path": "/erddap/tabledap/calcofi_ctd-cast_full.csv",
+    "n": 18
+   },
+   {
+    "path": "/erddap",
+    "n": 17
+   },
+   {
+    "path": "/robots.txt",
+    "n": 17
+   },
+   {
+    "path": "/erddap/images/wz_tooltip.js",
+    "n": 15
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 15
    }
   ]
  }

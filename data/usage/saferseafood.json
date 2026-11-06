@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 15.0,
-  "newUsers": 13.0,
-  "sessions": 19.0,
+  "activeUsers": 16.0,
+  "newUsers": 14.0,
+  "sessions": 20.0,
   "engagedSessions": 5.0,
-  "screenPageViews": 17.0,
-  "eventCount": 64.0,
+  "screenPageViews": 18.0,
+  "eventCount": 68.0,
   "userEngagementDuration": 437.0,
-  "avgEngagementSeconds": 29.1,
-  "engagedSessionRate": 0.3,
+  "avgEngagementSeconds": 27.3,
+  "engagedSessionRate": 0.2,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 200.0,
-  "sessions": 280.0,
+  "activeUsers": 220.0,
+  "sessions": 300.0,
   "engagedSessions": 25.0,
-  "avgEngagementSeconds": -14.9,
-  "screenPageViews": 183.3
+  "avgEngagementSeconds": -20.2,
+  "screenPageViews": 200.0
  },
  "daily": [
   {
@@ -263,8 +263,8 @@
   },
   {
    "date": "2026-11-05",
-   "activeUsers": 10.0,
-   "sessions": 12.0
+   "activeUsers": 11.0,
+   "sessions": 13.0
   },
   {
    "date": "20260507",
@@ -450,13 +450,13 @@
   1.0,
   0.86,
   0.86,
-  2.14,
-  2.43,
-  2.43,
-  2.43,
+  2.29,
+  2.57,
   2.57,
   2.57,
   2.71,
+  2.71,
+  2.86,
   1.43,
   1.29,
   1.29,
@@ -483,7 +483,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 27.0
+   "activeUsers": 28.0
   },
   {
    "country": "Canada",
@@ -512,7 +512,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 6.0
+   "activeUsers": 7.0
   },
   {
    "country": "Canada",
@@ -542,18 +542,18 @@
  "events": [
   {
    "name": "session_start",
-   "count": 38.0,
-   "users": 28.0
+   "count": 39.0,
+   "users": 29.0
   },
   {
    "name": "page_view",
-   "count": 33.0,
-   "users": 28.0
+   "count": 34.0,
+   "users": 29.0
   },
   {
    "name": "first_visit",
-   "count": 27.0,
-   "users": 27.0
+   "count": 28.0,
+   "users": 28.0
   },
   {
    "name": "user_engagement",
@@ -562,8 +562,8 @@
   },
   {
    "name": "scroll",
-   "count": 11.0,
-   "users": 9.0
+   "count": 12.0,
+   "users": 10.0
   },
   {
    "name": "form_start",

@@ -1,62 +1,69 @@
 country,countryId,region,activeUsers,sessions
 ,,,1,1
 (not set),(not set),Other,1,1
-Algeria,DZ,Other,2,2
-Argentina,AR,Other,18,18
+Algeria,DZ,Other,4,4
+Argentina,AR,Buenos Aires Province,10,10
+Argentina,AR,Other,12,12
 Australia,AU,Other,1,1
 Azerbaijan,AZ,Other,1,1
 Bahrain,BH,Other,1,1
-Bangladesh,BD,Other,3,3
-Brazil,BR,Other,22,22
-Brazil,BR,State of Sao Paulo,10,10
+Bangladesh,BD,Other,6,6
+Brazil,BR,Other,33,33
+Brazil,BR,State of Minas Gerais,11,11
+Brazil,BR,State of Sao Paulo,16,16
 Canada,CA,Other,15,26
-Chile,CL,Other,2,2
-China,CN,,1,1
-China,CN,Other,19,19
-Colombia,CO,Other,8,8
+Chile,CL,Other,5,5
+China,CN,,3,3
+China,CN,Other,26,26
+Colombia,CO,Other,16,16
 Dominican Republic,DO,,1,1
-Dominican Republic,DO,Other,1,1
-Ecuador,EC,Other,3,3
+Dominican Republic,DO,Other,2,2
+Ecuador,EC,Other,8,8
 Finland,FI,Other,1,1
 France,FR,Other,1,1
 Gabon,GA,Other,1,1
+Georgia,GE,Other,1,1
 Germany,DE,Other,2,2
 Guatemala,GT,Other,1,1
+Honduras,HN,Other,1,1
 Hong Kong,HK,,3,3
 Hong Kong,HK,Other,1,1
 India,IN,Other,2,2
-Indonesia,ID,Other,1,1
+Indonesia,ID,Other,4,4
 Ireland,IE,Other,1,1
 Italy,IT,Other,13,130
 Jamaica,JM,Other,1,1
-Kazakhstan,KZ,Other,1,1
-Kenya,KE,Other,2,2
+Kazakhstan,KZ,Other,3,3
+Kenya,KE,Other,3,3
 Kuwait,KW,Other,1,1
 Malaysia,MY,Other,2,2
-Mexico,MX,Other,14,14
-Morocco,MA,Other,6,6
+Mexico,MX,Other,19,19
+Morocco,MA,Other,11,11
 Netherlands,NL,Other,1,1
 New Zealand,NZ,Other,1,8
-Nigeria,NG,Other,1,1
+Nigeria,NG,Other,2,2
 Oman,OM,Other,1,1
-Pakistan,PK,Other,1,1
+Pakistan,PK,Other,3,3
 Paraguay,PY,Other,1,1
-Philippines,PH,Other,2,2
-Russia,RU,Other,8,8
-Singapore,SG,,574,575
+Peru,PE,Other,1,1
+Philippines,PH,Other,4,4
+Russia,RU,Other,11,11
+Singapore,SG,,679,681
 Singapore,SG,(not set),179,179
 Singapore,SG,Other,9,9
-South Africa,ZA,Other,3,3
+South Africa,ZA,Other,5,5
 South Korea,KR,Other,1,1
+Spain,ES,Other,1,1
 Thailand,TH,Other,1,1
-Tunisia,TN,Other,2,2
+Tunisia,TN,Other,3,3
 Türkiye,TR,Other,1,1
-Ukraine,UA,Other,1,1
+Ukraine,UA,Other,2,2
 United Arab Emirates,AE,Other,4,4
 United Kingdom,GB,Other,1,2
 United States,US,,1,1
-United States,US,California,81,246
-United States,US,Other,50,66
+United States,US,California,82,249
+United States,US,Other,52,68
 United States,US,Virginia,19,19
-Venezuela,VE,Other,3,3
-Vietnam,VN,Other,9,9
+Uzbekistan,UZ,,1,1
+Venezuela,VE,Other,5,5
+Vietnam,VN,Other,11,11

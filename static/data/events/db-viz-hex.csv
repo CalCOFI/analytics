@@ -5,7 +5,7 @@ download_bundle,5,3
 download_integrated_bundle,2,2
 filter_no_results,101,9
 filter_submit,414,26
-first_visit,54,53
+first_visit,55,54
 form_start,5,2
 map_query_env,414,26
 map_query_env_poly,38,8
@@ -17,13 +17,13 @@ open_filters,102,16
 open_layers,49,14
 open_spatial,5,1
 open_transect,15,5
-page_view,620,73
-scroll,564,68
+page_view,621,74
+scroll,565,69
 select_agg_unit,48,8
 select_layers,43,7
 select_map_area,15,4
 select_tab,138,18
 select_theme,141,5
-session_start,805,72
-start_tour,279,63
+session_start,807,73
+start_tour,280,64
 user_engagement,358,43

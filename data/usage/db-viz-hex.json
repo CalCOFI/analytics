@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 32.0,
-  "newUsers": 25.0,
-  "sessions": 40.0,
+  "activeUsers": 33.0,
+  "newUsers": 26.0,
+  "sessions": 41.0,
   "engagedSessions": 19.0,
-  "screenPageViews": 36.0,
-  "eventCount": 359.0,
-  "userEngagementDuration": 2459.0,
-  "avgEngagementSeconds": 76.8,
+  "screenPageViews": 37.0,
+  "eventCount": 365.0,
+  "userEngagementDuration": 2462.0,
+  "avgEngagementSeconds": 74.6,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 52.4,
-  "sessions": 42.9,
+  "activeUsers": 57.1,
+  "sessions": 46.4,
   "engagedSessions": 5.6,
-  "avgEngagementSeconds": -40.7,
-  "screenPageViews": 2.9
+  "avgEngagementSeconds": -42.4,
+  "screenPageViews": 5.7
  },
  "daily": [
   {
@@ -428,8 +428,8 @@
   },
   {
    "date": "2026-11-05",
-   "activeUsers": 5.0,
-   "sessions": 5.0
+   "activeUsers": 6.0,
+   "sessions": 6.0
   },
   {
    "date": "20260701",
@@ -583,13 +583,13 @@
   2.14,
   2.14,
   2.0,
-  2.57,
-  2.29,
-  1.86,
-  2.29,
-  1.86,
-  1.86,
+  2.71,
   2.43,
+  2.0,
+  2.43,
+  2.0,
+  2.0,
+  2.57,
   2.0,
   2.14,
   2.29,
@@ -603,7 +603,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 58.0
+   "activeUsers": 59.0
   },
   {
    "country": "Italy",
@@ -687,7 +687,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 18.0
+   "activeUsers": 19.0
   },
   {
    "country": "Italy",
@@ -789,18 +789,18 @@
  "events": [
   {
    "name": "session_start",
-   "count": 805.0,
-   "users": 72.0
-  },
-  {
-   "name": "page_view",
-   "count": 620.0,
+   "count": 807.0,
    "users": 73.0
   },
   {
+   "name": "page_view",
+   "count": 621.0,
+   "users": 74.0
+  },
+  {
    "name": "scroll",
-   "count": 564.0,
-   "users": 68.0
+   "count": 565.0,
+   "users": 69.0
   },
   {
    "name": "filter_submit",
@@ -824,8 +824,8 @@
   },
   {
    "name": "start_tour",
-   "count": 279.0,
-   "users": 63.0
+   "count": 280.0,
+   "users": 64.0
   },
   {
    "name": "select_theme",
