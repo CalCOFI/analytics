@@ -2,4 +2,5 @@ country,countryId,region,activeUsers,sessions
 Germany,DE,Other,1,1
 Italy,IT,Other,2,4
 Singapore,SG,,1,1
-United States,US,Other,4,4
+Singapore,SG,Other,1,1
+United States,US,Other,5,5

@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 33.0,
+  "activeUsers": 34.0,
   "newUsers": 26.0,
   "sessions": 41.0,
   "engagedSessions": 19.0,
-  "screenPageViews": 37.0,
-  "eventCount": 365.0,
-  "userEngagementDuration": 2462.0,
-  "avgEngagementSeconds": 74.6,
+  "screenPageViews": 36.0,
+  "eventCount": 384.0,
+  "userEngagementDuration": 2253.0,
+  "avgEngagementSeconds": 66.3,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 57.1,
-  "sessions": 46.4,
-  "engagedSessions": 5.6,
-  "avgEngagementSeconds": -42.4,
-  "screenPageViews": 5.7
+  "activeUsers": 47.8,
+  "sessions": 32.3,
+  "engagedSessions": -5.0,
+  "avgEngagementSeconds": -54.0,
+  "screenPageViews": -5.3
  },
  "daily": [
   {
@@ -432,6 +432,11 @@
    "sessions": 6.0
   },
   {
+   "date": "2026-11-06",
+   "activeUsers": 3.0,
+   "sessions": 3.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -584,12 +589,13 @@
   2.14,
   2.0,
   2.71,
+  2.71,
+  2.29,
+  2.29,
+  2.29,
+  2.29,
   2.43,
-  2.0,
-  2.43,
-  2.0,
-  2.0,
-  2.57,
+  2.14,
   2.0,
   2.14,
   2.29,
@@ -603,7 +609,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 59.0
+   "activeUsers": 62.0
   },
   {
    "country": "Italy",
@@ -611,14 +617,14 @@
    "activeUsers": 11.0
   },
   {
-   "country": "United Kingdom",
-   "countryId": "GB",
-   "activeUsers": 4.0
-  },
-  {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 4.0
+   "activeUsers": 6.0
+  },
+  {
+   "country": "United Kingdom",
+   "countryId": "GB",
+   "activeUsers": 5.0
   },
   {
    "country": "Mexico",
@@ -681,7 +687,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 40.0
+   "activeUsers": 43.0
   },
   {
    "country": "United States",
@@ -696,14 +702,20 @@
    "activeUsers": 11.0
   },
   {
-   "country": "Mexico",
-   "countryId": "MX",
+   "country": "Singapore",
+   "countryId": "SG",
    "region": "Other",
-   "activeUsers": 3.0
+   "activeUsers": 4.0
   },
   {
    "country": "United Kingdom",
    "countryId": "GB",
+   "region": "Other",
+   "activeUsers": 4.0
+  },
+  {
+   "country": "Mexico",
+   "countryId": "MX",
    "region": "Other",
    "activeUsers": 3.0
   },
@@ -717,12 +729,6 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "",
-   "activeUsers": 2.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "Other",
    "activeUsers": 2.0
   },
   {
@@ -789,53 +795,53 @@
  "events": [
   {
    "name": "session_start",
-   "count": 807.0,
-   "users": 73.0
+   "count": 811.0,
+   "users": 75.0
   },
   {
    "name": "page_view",
-   "count": 621.0,
-   "users": 74.0
+   "count": 623.0,
+   "users": 76.0
   },
   {
    "name": "scroll",
-   "count": 565.0,
-   "users": 69.0
+   "count": 568.0,
+   "users": 72.0
   },
   {
    "name": "filter_submit",
-   "count": 414.0,
-   "users": 26.0
+   "count": 424.0,
+   "users": 28.0
   },
   {
    "name": "map_query_env",
-   "count": 414.0,
-   "users": 26.0
+   "count": 424.0,
+   "users": 28.0
   },
   {
    "name": "map_query_sp",
-   "count": 414.0,
-   "users": 26.0
+   "count": 424.0,
+   "users": 28.0
   },
   {
    "name": "user_engagement",
-   "count": 358.0,
-   "users": 43.0
+   "count": 359.0,
+   "users": 44.0
   },
   {
    "name": "start_tour",
-   "count": 280.0,
-   "users": 64.0
-  },
-  {
-   "name": "select_theme",
-   "count": 141.0,
-   "users": 5.0
+   "count": 282.0,
+   "users": 66.0
   },
   {
    "name": "select_tab",
-   "count": 138.0,
-   "users": 18.0
+   "count": 149.0,
+   "users": 20.0
+  },
+  {
+   "name": "select_theme",
+   "count": 143.0,
+   "users": 6.0
   },
   {
    "name": "open_filters",
@@ -1473,12 +1479,12 @@
    },
    {
     "date": "2026-11-06",
-    "events": "4",
-    "distinct_sessions": "2",
-    "distinct_clients": "2",
+    "events": "58",
+    "distinct_sessions": "5",
+    "distinct_clients": "5",
     "errors": "0",
-    "p50_ms": "",
-    "p95_ms": ""
+    "p50_ms": "36.1",
+    "p95_ms": "100.3"
    },
    {
     "date": "7/15/2026 ",
@@ -1604,7 +1610,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "173",
+    "n": "183",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1628,9 +1634,9 @@
    },
    {
     "event": "map_query_env",
-    "n": "172",
+    "n": "182",
     "p50_ms": "24.9",
-    "p95_ms": "82.9",
+    "p95_ms": "80.0",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1644,9 +1650,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "173",
-    "p50_ms": "56.1",
-    "p95_ms": "450.5",
+    "n": "183",
+    "p50_ms": "54.9",
+    "p95_ms": "444.4",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1716,7 +1722,7 @@
    },
    {
     "event": "select_map_area",
-    "n": "5",
+    "n": "10",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1724,7 +1730,7 @@
    },
    {
     "event": "select_tab",
-    "n": "95",
+    "n": "106",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1732,7 +1738,7 @@
    },
    {
     "event": "select_theme",
-    "n": "37",
+    "n": "39",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1740,7 +1746,7 @@
    },
    {
     "event": "session_start",
-    "n": "380",
+    "n": "383",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1748,7 +1754,7 @@
    },
    {
     "event": "start_tour",
-    "n": "309",
+    "n": "312",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1767,12 +1773,12 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "378"
+    "n": "396"
    },
    {
     "param": "taxa",
     "value": "Pacific sardine (pilchard) (species: Sardinops sagax)",
-    "n": "240"
+    "n": "258"
    },
    {
     "param": "taxa",
@@ -1791,6 +1797,11 @@
    },
    {
     "param": "taxa",
+    "value": "Dungeness crab (species: Metacarcinus magister)",
+    "n": "14"
+   },
+   {
+    "param": "taxa",
     "value": "California spiny lobster (species: Panulirus interruptus)",
     "n": "13"
    },
@@ -1798,11 +1809,6 @@
     "param": "taxa",
     "value": "Market squid (species: Doryteuthis opalescens)",
     "n": "13"
-   },
-   {
-    "param": "taxa",
-    "value": "Dungeness crab (species: Metacarcinus magister)",
-    "n": "12"
    },
    {
     "param": "env_var",
@@ -1833,6 +1839,11 @@
     "param": "layers",
     "value": "noaa_maritime_eez",
     "n": "7"
+   },
+   {
+    "param": "env_var",
+    "value": "ph",
+    "n": "6"
    },
    {
     "param": "taxa",
@@ -1867,11 +1878,6 @@
    {
     "param": "env_var",
     "value": "oxygen_umol_kg_ave_sta_corr",
-    "n": "4"
-   },
-   {
-    "param": "env_var",
-    "value": "ph",
     "n": "4"
    },
    {
@@ -2185,7 +2191,7 @@
    },
    {
     "app_version": "fbe0941",
-    "n": "38",
+    "n": "92",
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-06"
    },

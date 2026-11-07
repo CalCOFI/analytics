@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-11-05",
+ "last_day": "2026-11-06",
  "totals_28d": {
-  "activeUsers": 104.0,
-  "newUsers": 94.0,
-  "sessions": 106.0,
+  "activeUsers": 105.0,
+  "newUsers": 95.0,
+  "sessions": 107.0,
   "engagedSessions": 13.0,
-  "screenPageViews": 116.0,
-  "eventCount": 341.0,
+  "screenPageViews": 117.0,
+  "eventCount": 345.0,
   "userEngagementDuration": 309.0,
-  "avgEngagementSeconds": 3.0,
+  "avgEngagementSeconds": 2.9,
   "engagedSessionRate": 0.1,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 447.4,
-  "sessions": 307.7,
+  "activeUsers": 452.6,
+  "sessions": 311.5,
   "engagedSessions": -18.8,
-  "avgEngagementSeconds": -89.7,
-  "screenPageViews": 73.1
+  "avgEngagementSeconds": -90.0,
+  "screenPageViews": 74.6
  },
  "daily": [
   {
@@ -270,6 +270,11 @@
    "date": "2026-11-05",
    "activeUsers": 85.0,
    "sessions": 85.0
+  },
+  {
+   "date": "2026-11-06",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -321,13 +326,14 @@
   2.43,
   2.43,
   2.0,
-  13.86
+  13.86,
+  13.57
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 116.0
+   "activeUsers": 117.0
   },
   {
    "country": "Italy",
@@ -392,7 +398,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 10.0
+   "activeUsers": 11.0
   },
   {
    "country": "Italy",
@@ -470,13 +476,13 @@
  "events": [
   {
    "name": "page_view",
-   "count": 269.0,
-   "users": 128.0
+   "count": 270.0,
+   "users": 129.0
   },
   {
    "name": "session_start",
-   "count": 133.0,
-   "users": 124.0
+   "count": 134.0,
+   "users": 125.0
   },
   {
    "name": "user_engagement",
@@ -485,13 +491,13 @@
   },
   {
    "name": "first_visit",
-   "count": 118.0,
-   "users": 118.0
+   "count": 119.0,
+   "users": 119.0
   },
   {
    "name": "scroll",
-   "count": 74.0,
-   "users": 14.0
+   "count": 75.0,
+   "users": 15.0
   },
   {
    "name": "click",
@@ -1013,11 +1019,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 121882.0,
-   "bytes": 13182639313.0,
+   "requests": 117569.0,
+   "bytes": 9274126463.0,
    "clients": 6420.0,
-   "tool": 91789.0,
-   "browser": 30093.0
+   "tool": 90844.0,
+   "browser": 26725.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
