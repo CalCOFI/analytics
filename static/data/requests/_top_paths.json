@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 67
+    "n": 63
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 51
+    "n": 27
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 35
+    "path": "/robots.txt",
+    "n": 27
    },
    {
     "path": "/",
-    "n": 25
+    "n": 23
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
+    "n": 20
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 21
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd-cast_full.csv",
     "n": 18
    },
    {
     "path": "/erddap",
-    "n": 17
+    "n": 16
    },
    {
-    "path": "/robots.txt",
-    "n": 17
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 13
    },
    {
-    "path": "/erddap/images/wz_tooltip.js",
-    "n": 15
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 12
    },
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 15
+    "path": "/erddap/info/index.html",
+    "n": 10
    }
   ]
  },
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "top_paths": [
    {
     "path": "/",
-    "n": 57
+    "n": 53
    },
    {
     "path": "/robots.txt",
-    "n": 21
+    "n": 20
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 17
+    "n": 6
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
-    "n": 3
+    "path": "/calcofi-files-public",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/calcofi_ctd-cast.nc",
-    "n": 3
+    "path": "/calcofi-db/ducklake/releases",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/calcofi_ctd-cast_full.nc",
-    "n": 3
+    "path": "/calcofi-projects",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.09.11/calcofi_dic.nc",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.09.11/calcofi_mets.nc",
-    "n": 3
+    "path": "/calcofi-db/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.09.11/calcofi_phyllosoma.nc",
-    "n": 3
+    "path": "/calcofi-files-public/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/v2026.09.11/calcofi_phytoplankton.nc",
-    "n": 3
+    "path": "/calcofi-db/ducklake/releases/",
+    "n": 2
    }
   ]
  },

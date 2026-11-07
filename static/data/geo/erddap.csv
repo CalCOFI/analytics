@@ -34,8 +34,8 @@ Peru,PE,Other,1,1
 Philippines,PH,Other,3,3
 Qatar,QA,Other,1,1
 Russia,RU,Other,2,2
-Singapore,SG,,2,2
-Singapore,SG,(not set),5389,5352
+Singapore,SG,,1,1
+Singapore,SG,(not set),5390,5356
 Singapore,SG,Other,6,6
 South Korea,KR,Other,3,7
 Switzerland,CH,Other,1,1
@@ -43,7 +43,8 @@ Syria,SY,,1,1
 Syria,SY,Other,1,1
 Türkiye,TR,Other,2,2
 United Kingdom,GB,Other,2,2
-United States,US,California,20,46
+United States,US,,1,1
+United States,US,California,21,48
 United States,US,New York,11,11
 United States,US,Other,66,71
 United States,US,Virginia,17,18

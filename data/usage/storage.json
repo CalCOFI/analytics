@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-11-06",
  "totals_28d": {
-  "activeUsers": 105.0,
-  "newUsers": 95.0,
-  "sessions": 107.0,
+  "activeUsers": 106.0,
+  "newUsers": 96.0,
+  "sessions": 108.0,
   "engagedSessions": 13.0,
-  "screenPageViews": 117.0,
-  "eventCount": 345.0,
+  "screenPageViews": 118.0,
+  "eventCount": 348.0,
   "userEngagementDuration": 309.0,
   "avgEngagementSeconds": 2.9,
   "engagedSessionRate": 0.1,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 452.6,
-  "sessions": 311.5,
+  "activeUsers": 457.9,
+  "sessions": 315.4,
   "engagedSessions": -18.8,
   "avgEngagementSeconds": -90.0,
-  "screenPageViews": 74.6
+  "screenPageViews": 76.1
  },
  "daily": [
   {
@@ -273,8 +273,8 @@
   },
   {
    "date": "2026-11-06",
-   "activeUsers": 1.0,
-   "sessions": 1.0
+   "activeUsers": 2.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -327,13 +327,13 @@
   2.43,
   2.0,
   13.86,
-  13.57
+  13.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 117.0
+   "activeUsers": 118.0
   },
   {
    "country": "Italy",
@@ -386,7 +386,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 93.0
+   "activeUsers": 94.0
   },
   {
    "country": "United States",
@@ -476,13 +476,13 @@
  "events": [
   {
    "name": "page_view",
-   "count": 270.0,
-   "users": 129.0
+   "count": 271.0,
+   "users": 130.0
   },
   {
    "name": "session_start",
-   "count": 134.0,
-   "users": 125.0
+   "count": 135.0,
+   "users": 126.0
   },
   {
    "name": "user_engagement",
@@ -491,8 +491,8 @@
   },
   {
    "name": "first_visit",
-   "count": 119.0,
-   "users": 119.0
+   "count": 120.0,
+   "users": 120.0
   },
   {
    "name": "scroll",
@@ -1014,58 +1014,63 @@
    },
    {
     "date": "2026-11-06",
-    "requests": 510.0,
-    "bytes": 4632275.0
+    "requests": 2122.0,
+    "bytes": 260319899.0
+   },
+   {
+    "date": "2026-11-07",
+    "requests": 352.0,
+    "bytes": 2347970.0
    }
   ],
   "totals_28d": {
-   "requests": 117569.0,
-   "bytes": 9274126463.0,
+   "requests": 119533.0,
+   "bytes": 9532162057.0,
    "clients": 6420.0,
-   "tool": 90844.0,
-   "browser": 26725.0
+   "tool": 91818.0,
+   "browser": 27715.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 57
+    "n": 53
    },
    {
     "path": "/robots.txt",
-    "n": 21
+    "n": 20
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 17
+    "n": 6
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
-    "n": 3
+    "path": "/calcofi-files-public",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/calcofi_ctd-cast.nc",
-    "n": 3
+    "path": "/calcofi-db/ducklake/releases",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/calcofi_ctd-cast_full.nc",
-    "n": 3
+    "path": "/calcofi-projects",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.09.11/calcofi_dic.nc",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.09.11/calcofi_mets.nc",
-    "n": 3
+    "path": "/calcofi-db/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/v2026.09.11/calcofi_phyllosoma.nc",
-    "n": 3
+    "path": "/calcofi-files-public/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_phytoplankton/v2026.09.11/calcofi_phytoplankton.nc",
-    "n": 3
+    "path": "/calcofi-db/ducklake/releases/",
+    "n": 2
    }
   ]
  }

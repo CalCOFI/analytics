@@ -4,6 +4,7 @@ country,countryId,region,activeUsers,sessions
 Bangladesh,BD,,1,1
 Bangladesh,BD,Other,1,1
 Cambodia,KH,Other,1,1
+Canada,CA,,1,1
 Canada,CA,Other,6,7
 China,CN,,3,3
 China,CN,Other,33,33
@@ -34,4 +35,4 @@ United Arab Emirates,AE,Other,1,1
 United Kingdom,GB,Other,4,5
 United States,US,,1,1
 United States,US,California,72,176
-United States,US,Other,43,55
+United States,US,Other,45,57

@@ -114,13 +114,13 @@
    "activeUsers": 14.0
   },
   {
-   "country": "Hong Kong",
-   "countryId": "HK",
-   "activeUsers": 2.0
-  },
-  {
    "country": "Singapore",
    "countryId": "SG",
+   "activeUsers": 3.0
+  },
+  {
+   "country": "Hong Kong",
+   "countryId": "HK",
    "activeUsers": 2.0
   },
   {
@@ -142,6 +142,12 @@
    "activeUsers": 14.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
    "country": "Hong Kong",
    "countryId": "HK",
    "region": "",
@@ -169,12 +175,6 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "Other",
    "activeUsers": 1.0
   }
  ],

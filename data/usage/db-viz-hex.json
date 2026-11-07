@@ -8,13 +8,13 @@
  "last_day": "20260727",
  "totals_28d": {
   "activeUsers": 34.0,
-  "newUsers": 26.0,
+  "newUsers": 27.0,
   "sessions": 41.0,
   "engagedSessions": 19.0,
-  "screenPageViews": 36.0,
-  "eventCount": 384.0,
-  "userEngagementDuration": 2253.0,
-  "avgEngagementSeconds": 66.3,
+  "screenPageViews": 37.0,
+  "eventCount": 389.0,
+  "userEngagementDuration": 2256.0,
+  "avgEngagementSeconds": 66.4,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.1
  },
@@ -23,7 +23,7 @@
   "sessions": 32.3,
   "engagedSessions": -5.0,
   "avgEngagementSeconds": -54.0,
-  "screenPageViews": -5.3
+  "screenPageViews": -2.6
  },
  "daily": [
   {
@@ -795,13 +795,13 @@
  "events": [
   {
    "name": "session_start",
-   "count": 811.0,
-   "users": 75.0
+   "count": 813.0,
+   "users": 76.0
   },
   {
    "name": "page_view",
-   "count": 623.0,
-   "users": 76.0
+   "count": 624.0,
+   "users": 77.0
   },
   {
    "name": "scroll",
@@ -830,8 +830,8 @@
   },
   {
    "name": "start_tour",
-   "count": 282.0,
-   "users": 66.0
+   "count": 283.0,
+   "users": 67.0
   },
   {
    "name": "select_tab",

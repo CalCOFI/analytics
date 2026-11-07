@@ -1,89 +1,103 @@
 country,countryId,region,activeUsers,sessions
 ,,,1,1
 (not set),(not set),Other,1,1
-Albania,AL,Other,1,1
-Algeria,DZ,Other,9,9
-Argentina,AR,Buenos Aires Province,31,31
-Argentina,AR,Other,25,25
+Albania,AL,Other,2,2
+Algeria,DZ,Other,10,10
+Argentina,AR,Buenos Aires Province,39,39
+Argentina,AR,Other,35,35
+Armenia,AM,,1,1
 Australia,AU,Other,1,1
-Azerbaijan,AZ,Other,3,3
-Bahrain,BH,Other,2,2
-Bangladesh,BD,Dhaka Division,12,12
-Bangladesh,BD,Other,5,5
-Belarus,BY,Other,3,3
+Azerbaijan,AZ,Other,6,6
+Bahrain,BH,Other,4,4
+Bangladesh,BD,Dhaka Division,13,13
+Bangladesh,BD,Other,7,7
+Belarus,BY,Other,5,5
 Belgium,BE,Other,1,1
-Bolivia,BO,Other,1,1
-Brazil,BR,Other,55,55
-Brazil,BR,State of Minas Gerais,18,18
-Brazil,BR,State of Rio de Janeiro,13,13
-Brazil,BR,State of Sao Paulo,39,39
+Bolivia,BO,Other,2,2
+Botswana,BW,,1,1
+Brazil,BR,Other,60,60
+Brazil,BR,State of Minas Gerais,24,24
+Brazil,BR,State of Parana,11,11
+Brazil,BR,State of Rio Grande do Sul,13,13
+Brazil,BR,State of Rio de Janeiro,18,18
+Brazil,BR,State of Sao Paulo,54,54
 Brunei,BN,Other,2,2
-Canada,CA,Other,17,28
-Chile,CL,Other,8,8
-China,CN,,5,5
-China,CN,Guangdong Province,10,10
-China,CN,Other,62,62
+Canada,CA,British Columbia,10,21
+Canada,CA,Other,8,8
+Chile,CL,Other,12,12
+China,CN,,12,12
+China,CN,Guangdong Province,13,13
+China,CN,Other,64,64
+China,CN,Sichuan,13,13
+China,CN,Yunnan,10,10
 Colombia,CO,Antioquia,11,11
-Colombia,CO,Other,16,16
+Colombia,CO,Bogota,12,12
+Colombia,CO,Other,14,14
 Congo - Brazzaville,CG,Other,1,1
 Czechia,CZ,Other,1,1
 Denmark,DK,Other,1,1
 Dominican Republic,DO,,1,1
 Dominican Republic,DO,Other,4,4
-Ecuador,EC,Other,12,12
+Ecuador,EC,Other,21,21
+Egypt,EG,Other,1,1
 Finland,FI,Other,1,1
 France,FR,Other,1,1
 Gabon,GA,Other,3,3
 Georgia,GE,Other,1,1
-Germany,DE,Other,4,4
+Germany,DE,Other,8,8
 Guatemala,GT,Other,1,1
 Honduras,HN,Other,1,1
-Hong Kong,HK,,1,1
+Hong Kong,HK,,3,3
 Hong Kong,HK,Other,5,5
-India,IN,Other,10,10
-Indonesia,ID,Other,14,14
+India,IN,Other,13,13
+Indonesia,ID,Other,18,18
+Iran,IR,,1,1
 Iraq,IQ,Other,1,1
 Ireland,IE,Other,3,3
-Israel,IL,Other,1,1
-Italy,IT,Other,15,134
+Israel,IL,Other,2,2
+Italy,IT,Other,16,135
 Jamaica,JM,Other,2,2
-Japan,JP,Other,2,2
-Kazakhstan,KZ,Other,4,4
-Kenya,KE,Other,6,6
+Japan,JP,Other,3,3
+Kazakhstan,KZ,Other,5,5
+Kenya,KE,Other,8,8
 Kuwait,KW,Other,1,1
-Malaysia,MY,Other,4,4
-Mexico,MX,Other,37,37
-Morocco,MA,Casablanca-Settat,10,10
-Morocco,MA,Other,14,14
+Malaysia,MY,,1,1
+Malaysia,MY,Other,7,7
+Mexico,MX,Other,50,50
+Morocco,MA,Casablanca-Settat,15,15
+Morocco,MA,Other,16,16
+Nepal,NP,Other,1,1
 Netherlands,NL,Other,1,1
 New Zealand,NZ,Other,1,8
 Nigeria,NG,Other,3,3
 Oman,OM,Other,4,4
-Pakistan,PK,Other,15,15
-Paraguay,PY,Other,1,1
-Peru,PE,Other,6,6
-Philippines,PH,Other,5,5
-Russia,RU,Other,28,28
-Saudi Arabia,SA,Other,1,1
+Pakistan,PK,Other,12,12
+Pakistan,PK,Punjab,11,11
+Paraguay,PY,Other,2,2
+Peru,PE,Other,12,12
+Philippines,PH,Other,6,6
+Russia,RU,Other,31,31
+Saudi Arabia,SA,Other,2,2
 Senegal,SN,Other,1,1
-Singapore,SG,,569,570
+Singapore,SG,,994,995
 Singapore,SG,(not set),1067,1066
 Singapore,SG,Other,9,9
-South Africa,ZA,Other,19,19
+South Africa,ZA,Other,25,25
 South Korea,KR,Other,1,1
-Spain,ES,Other,2,2
+Spain,ES,Other,3,3
 Thailand,TH,Other,1,1
-Tunisia,TN,Other,9,9
-Türkiye,TR,Other,2,2
-Ukraine,UA,Other,6,6
-United Arab Emirates,AE,Other,13,13
-United Kingdom,GB,Other,3,4
+Togo,TG,Other,1,1
+Tunisia,TN,Other,13,13
+Türkiye,TR,Other,4,4
+Ukraine,UA,Other,9,9
+United Arab Emirates,AE,Other,15,15
+United Kingdom,GB,Other,5,6
 United States,US,,1,1
-United States,US,California,86,257
-United States,US,Other,63,79
-United States,US,Virginia,19,19
-Uzbekistan,UZ,,2,2
+United States,US,California,88,266
+United States,US,Other,69,85
+United States,US,Virginia,22,22
+Uzbekistan,UZ,,3,3
 Uzbekistan,UZ,Other,2,2
-Venezuela,VE,Other,11,11
-Vietnam,VN,Ho Chi Minh,11,11
-Vietnam,VN,Other,20,20
+Venezuela,VE,Other,18,18
+Vietnam,VN,Ho Chi Minh,14,14
+Vietnam,VN,Other,32,32
