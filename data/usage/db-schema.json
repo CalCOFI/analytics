@@ -477,7 +477,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 17.0
+   "activeUsers": 19.0
   },
   {
    "country": "China",
@@ -516,12 +516,6 @@
    "activeUsers": 7.0
   },
   {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 3.0
-  },
-  {
    "country": "Mexico",
    "countryId": "MX",
    "region": "Other",
@@ -555,6 +549,12 @@
    "country": "North Macedonia",
    "countryId": "MK",
    "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
    "activeUsers": 1.0
   }
  ],

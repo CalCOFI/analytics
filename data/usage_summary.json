@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-08T02:43:08+00:00",
+ "generated": "2026-11-08T11:17:59+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 1551.0,
-  "activeUsers": 11574.0,
-  "sessions": 11883.0
+  "engagedSessions": 1600.0,
+  "activeUsers": 11838.0,
+  "sessions": 12152.0
  },
  "n_mostly_automated": 2,
  "products": [
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 760.0,
-   "activeUsers": 3839.0,
-   "sessions": 3919.0,
+   "engagedSessions": 798.0,
+   "activeUsers": 4089.0,
+   "sessions": 4170.0,
    "engagementRate": 0.2,
-   "avgEngagementSeconds": 8.0,
-   "delta": 517.9,
+   "avgEngagementSeconds": 8.7,
+   "delta": 548.8,
    "spark": [
     2.0,
     2.0,
@@ -85,19 +85,20 @@
     115.0,
     1247.0,
     1670.0,
-    631.0
+    878.0,
+    3.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "erddap",
    "title": "erddap",
-   "engagedSessions": 347.0,
+   "engagedSessions": 348.0,
    "activeUsers": 5803.0,
    "sessions": 5812.0,
    "engagementRate": 0.1,
    "avgEngagementSeconds": 0.4,
-   "delta": 2068.8,
+   "delta": 2075.0,
    "spark": [
     3.0,
     1.0,
@@ -180,12 +181,12 @@
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 111.0,
-   "activeUsers": 204.0,
-   "sessions": 251.0,
-   "engagementRate": 0.4,
-   "avgEngagementSeconds": 49.9,
-   "delta": 16.8,
+   "engagedSessions": 114.0,
+   "activeUsers": 206.0,
+   "sessions": 253.0,
+   "engagementRate": 0.5,
+   "avgEngagementSeconds": 49.5,
+   "delta": 20.0,
    "spark": [
     1.0,
     2.0,
@@ -250,19 +251,19 @@
     5.0,
     11.0,
     5.0,
-    1.0
+    3.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 63.0,
+   "engagedSessions": 68.0,
    "activeUsers": 80.0,
-   "sessions": 119.0,
-   "engagementRate": 0.5,
-   "avgEngagementSeconds": 105.6,
-   "delta": -24.1,
+   "sessions": 122.0,
+   "engagementRate": 0.6,
+   "avgEngagementSeconds": 106.4,
+   "delta": -18.1,
    "spark": [
     2.0,
     3.0,
@@ -360,12 +361,12 @@
   {
    "slug": "ctd-transects",
    "title": "ctd-transects",
-   "engagedSessions": 51.0,
+   "engagedSessions": 53.0,
    "activeUsers": 62.0,
-   "sessions": 85.0,
+   "sessions": 87.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 159.4,
-   "delta": -33.8,
+   "avgEngagementSeconds": 168.9,
+   "delta": -31.2,
    "spark": [
     2.0,
     7.0,
@@ -543,7 +544,7 @@
    "slug": "docs",
    "title": "docs",
    "engagedSessions": 44.0,
-   "activeUsers": 444.0,
+   "activeUsers": 445.0,
    "sessions": 458.0,
    "engagementRate": 0.1,
    "avgEngagementSeconds": 2.2,
@@ -637,7 +638,7 @@
     9.0,
     43.0,
     258.0,
-    53.0,
+    54.0,
     5.0
    ],
    "mostly_automated": false
@@ -828,8 +829,8 @@
    "slug": "storage",
    "title": "storage",
    "engagedSessions": 13.0,
-   "activeUsers": 207.0,
-   "sessions": 209.0,
+   "activeUsers": 208.0,
+   "sessions": 210.0,
    "engagementRate": 0.1,
    "avgEngagementSeconds": 1.5,
    "delta": -18.8,
@@ -884,7 +885,7 @@
     1.0,
     85.0,
     7.0,
-    96.0
+    97.0
    ],
    "mostly_automated": false
   },
@@ -892,10 +893,10 @@
    "slug": "db-query",
    "title": "db-query",
    "engagedSessions": 13.0,
-   "activeUsers": 91.0,
-   "sessions": 95.0,
+   "activeUsers": 93.0,
+   "sessions": 97.0,
    "engagementRate": 0.1,
-   "avgEngagementSeconds": 6.4,
+   "avgEngagementSeconds": 6.3,
    "delta": 0.0,
    "spark": [
     2.0,
@@ -953,7 +954,7 @@
     1.0,
     7.0,
     2.0,
-    2.0,
+    4.0,
     1.0,
     1.0,
     0.0,
@@ -1056,8 +1057,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 7.0,
-   "activeUsers": 432.0,
-   "sessions": 442.0,
+   "activeUsers": 438.0,
+   "sessions": 448.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.5,
    "delta": -36.4,
@@ -1151,7 +1152,7 @@
     20.0,
     12.0,
     24.0,
-    9.0
+    15.0
    ],
    "mostly_automated": true
   },
@@ -1577,8 +1578,8 @@
    "slug": "calcofi4r",
    "title": "calcofi4r",
    "engagedSessions": 5.0,
-   "activeUsers": 123.0,
-   "sessions": 123.0,
+   "activeUsers": 125.0,
+   "sessions": 125.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.8,
    "delta": -76.2,
@@ -1672,7 +1673,7 @@
     7.0,
     9.0,
     6.0,
-    3.0
+    5.0
    ],
    "mostly_automated": true
   },

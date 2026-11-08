@@ -10,7 +10,7 @@
   "activeUsers": 5803.0,
   "newUsers": 5775.0,
   "sessions": 5812.0,
-  "engagedSessions": 347.0,
+  "engagedSessions": 348.0,
   "screenPageViews": 6067.0,
   "eventCount": 19073.0,
   "userEngagementDuration": 2138.0,
@@ -21,7 +21,7 @@
  "delta_28d": {
   "activeUsers": 20625.0,
   "sessions": 19273.3,
-  "engagedSessions": 2068.8,
+  "engagedSessions": 2075.0,
   "avgEngagementSeconds": -99.5,
   "screenPageViews": 4233.6
  },
@@ -483,7 +483,7 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 5397.0
+   "activeUsers": 5398.0
   },
   {
    "country": "China",
@@ -493,7 +493,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 175.0
+   "activeUsers": 176.0
   },
   {
    "country": "Colombia",
@@ -696,7 +696,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 5390.0
+   "activeUsers": 5391.0
   },
   {
    "country": "China",
@@ -714,7 +714,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 66.0
+   "activeUsers": 67.0
   },
   {
    "country": "China",
@@ -1562,58 +1562,63 @@
    },
    {
     "date": "2026-11-07",
-    "requests": 1120.0,
-    "bytes": 9620892.0
+    "requests": 1971.0,
+    "bytes": 65438654.0
+   },
+   {
+    "date": "2026-11-08",
+    "requests": 5169.0,
+    "bytes": 21151363.0
    }
   ],
   "totals_28d": {
-   "requests": 126577.0,
-   "bytes": 4905893942.0,
+   "requests": 132597.0,
+   "bytes": 4982863067.0,
    "clients": 3472.0,
-   "tool": 51720.0,
-   "browser": 74857.0
+   "tool": 56995.0,
+   "browser": 75602.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 63
+    "n": 70
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 27
+    "n": 61
    },
    {
-    "path": "/robots.txt",
-    "n": 27
-   },
-   {
-    "path": "/",
-    "n": 23
+    "path": "/erddap/subscriptions/add.html",
+    "n": 49
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 20
+    "n": 37
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 18
+    "path": "/",
+    "n": 36
    },
    {
     "path": "/erddap",
-    "n": 16
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 13
+    "n": 25
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 12
+    "n": 22
    },
    {
-    "path": "/erddap/info/index.html",
-    "n": 10
+    "path": "/robots.txt",
+    "n": 22
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 19
+   },
+   {
+    "path": "/css.php",
+    "n": 12
    }
   ]
  }

@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 63
+    "n": 70
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 27
+    "n": 61
    },
    {
-    "path": "/robots.txt",
-    "n": 27
-   },
-   {
-    "path": "/",
-    "n": 23
+    "path": "/erddap/subscriptions/add.html",
+    "n": 49
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 20
+    "n": 37
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 18
+    "path": "/",
+    "n": 36
    },
    {
     "path": "/erddap",
-    "n": 16
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 13
+    "n": 25
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 12
+    "n": 22
    },
    {
-    "path": "/erddap/info/index.html",
-    "n": 10
+    "path": "/robots.txt",
+    "n": 22
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 19
+   },
+   {
+    "path": "/css.php",
+    "n": 12
    }
   ]
  },
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "top_paths": [
    {
     "path": "/",
-    "n": 53
+    "n": 74
    },
    {
     "path": "/robots.txt",
-    "n": 20
+    "n": 16
+   },
+   {
+    "path": "/index%2ephp",
+    "n": 9
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 7
+   },
+   {
+    "path": "/%2eenv",
     "n": 6
    },
    {
-    "path": "/calcofi-files-public",
-    "n": 2
+    "path": "/api/v1/validate/code",
+    "n": 6
    },
    {
-    "path": "/calcofi-db/ducklake/releases",
-    "n": 2
+    "path": "/login",
+    "n": 5
    },
    {
-    "path": "/calcofi-projects",
-    "n": 2
+    "path": "/api",
+    "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0310NH_CTDFinalQC/csvs-plots/",
+    "n": 4
    },
    {
     "path": "/calcofi-files-public/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/",
-    "n": 2
+    "n": 4
    }
   ]
  },

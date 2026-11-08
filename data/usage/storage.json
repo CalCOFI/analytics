@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-11-07",
  "totals_28d": {
-  "activeUsers": 207.0,
-  "newUsers": 197.0,
-  "sessions": 209.0,
+  "activeUsers": 208.0,
+  "newUsers": 198.0,
+  "sessions": 210.0,
   "engagedSessions": 13.0,
-  "screenPageViews": 219.0,
-  "eventCount": 651.0,
+  "screenPageViews": 220.0,
+  "eventCount": 654.0,
   "userEngagementDuration": 309.0,
   "avgEngagementSeconds": 1.5,
   "engagedSessionRate": 0.1,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 989.5,
-  "sessions": 703.8,
+  "activeUsers": 994.7,
+  "sessions": 707.7,
   "engagedSessions": -18.8,
   "avgEngagementSeconds": -94.8,
-  "screenPageViews": 226.9
+  "screenPageViews": 228.4
  },
  "daily": [
   {
@@ -278,8 +278,8 @@
   },
   {
    "date": "2026-11-07",
-   "activeUsers": 96.0,
-   "sessions": 96.0
+   "activeUsers": 97.0,
+   "sessions": 97.0
   }
  ],
  "daily_mean7": [
@@ -333,13 +333,13 @@
   2.0,
   13.86,
   14.43,
-  28.0
+  28.14
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 219.0
+   "activeUsers": 220.0
   },
   {
    "country": "Italy",
@@ -392,7 +392,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 194.0
+   "activeUsers": 195.0
   },
   {
    "country": "United States",
@@ -482,18 +482,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 372.0,
-   "users": 231.0
+   "count": 373.0,
+   "users": 232.0
   },
   {
    "name": "session_start",
-   "count": 236.0,
-   "users": 227.0
+   "count": 237.0,
+   "users": 228.0
   },
   {
    "name": "first_visit",
-   "count": 221.0,
-   "users": 221.0
+   "count": 222.0,
+   "users": 222.0
   },
   {
    "name": "user_engagement",
@@ -1025,58 +1025,63 @@
    },
    {
     "date": "2026-11-07",
-    "requests": 352.0,
-    "bytes": 2347970.0
+    "requests": 2499.0,
+    "bytes": 151555069.0
+   },
+   {
+    "date": "2026-11-08",
+    "requests": 3543.0,
+    "bytes": 9426992.0
    }
   ],
   "totals_28d": {
-   "requests": 117602.0,
-   "bytes": 6008674989.0,
+   "requests": 123292.0,
+   "bytes": 6167309080.0,
    "clients": 6420.0,
-   "tool": 90357.0,
-   "browser": 27245.0
+   "tool": 95659.0,
+   "browser": 27633.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 53
+    "n": 74
    },
    {
     "path": "/robots.txt",
-    "n": 20
+    "n": 16
+   },
+   {
+    "path": "/index%2ephp",
+    "n": 9
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 7
+   },
+   {
+    "path": "/%2eenv",
     "n": 6
    },
    {
-    "path": "/calcofi-files-public",
-    "n": 2
+    "path": "/api/v1/validate/code",
+    "n": 6
    },
    {
-    "path": "/calcofi-db/ducklake/releases",
-    "n": 2
+    "path": "/login",
+    "n": 5
    },
    {
-    "path": "/calcofi-projects",
-    "n": 2
+    "path": "/api",
+    "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0310NH_CTDFinalQC/csvs-plots/",
+    "n": 4
    },
    {
     "path": "/calcofi-files-public/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/",
-    "n": 2
+    "n": 4
    }
   ]
  }
