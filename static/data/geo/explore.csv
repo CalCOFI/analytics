@@ -2,102 +2,125 @@ country,countryId,region,activeUsers,sessions
 ,,,1,1
 (not set),(not set),Other,1,1
 Albania,AL,Other,2,2
-Algeria,DZ,Other,10,10
-Argentina,AR,Buenos Aires Province,39,39
-Argentina,AR,Other,35,35
+Algeria,DZ,Other,12,12
+Argentina,AR,Buenos Aires Province,55,55
+Argentina,AR,Other,48,48
 Armenia,AM,,1,1
-Australia,AU,Other,1,1
-Azerbaijan,AZ,Other,6,6
-Bahrain,BH,Other,4,4
-Bangladesh,BD,Dhaka Division,13,13
-Bangladesh,BD,Other,7,7
-Belarus,BY,Other,5,5
+Armenia,AM,Other,1,1
+Australia,AU,Other,3,3
+Austria,AT,Other,1,1
+Azerbaijan,AZ,Other,7,7
+Bahrain,BH,Other,6,6
+Bangladesh,BD,,1,1
+Bangladesh,BD,Dhaka Division,17,17
+Bangladesh,BD,Other,10,10
+Belarus,BY,Other,10,10
 Belgium,BE,Other,1,1
-Bolivia,BO,Other,2,2
+Bolivia,BO,Other,4,4
 Botswana,BW,,1,1
-Brazil,BR,Other,60,60
-Brazil,BR,State of Minas Gerais,24,24
-Brazil,BR,State of Parana,11,11
-Brazil,BR,State of Rio Grande do Sul,13,13
-Brazil,BR,State of Rio de Janeiro,18,18
-Brazil,BR,State of Sao Paulo,54,54
+Botswana,BW,Other,1,1
+Brazil,BR,Other,54,54
+Brazil,BR,State of Goias,12,12
+Brazil,BR,State of Minas Gerais,36,36
+Brazil,BR,State of Parana,18,18
+Brazil,BR,State of Rio Grande do Sul,24,24
+Brazil,BR,State of Rio de Janeiro,23,23
+Brazil,BR,State of Santa Catarina,11,11
+Brazil,BR,State of Sao Paulo,89,89
 Brunei,BN,Other,2,2
+Cambodia,KH,Other,1,1
 Canada,CA,British Columbia,10,21
 Canada,CA,Other,8,8
-Chile,CL,Other,12,12
-China,CN,,12,12
-China,CN,Guangdong Province,13,13
-China,CN,Other,64,64
-China,CN,Sichuan,13,13
-China,CN,Yunnan,10,10
-Colombia,CO,Antioquia,11,11
-Colombia,CO,Bogota,12,12
-Colombia,CO,Other,14,14
+Chile,CL,Other,8,8
+Chile,CL,Santiago Metropolitan Region,13,13
+China,CN,,8,8
+China,CN,(not set),20,20
+China,CN,Guangdong Province,22,22
+China,CN,Hunan,10,10
+China,CN,Other,74,74
+China,CN,Sichuan,19,19
+China,CN,Yunnan,13,13
+Colombia,CO,Antioquia,14,14
+Colombia,CO,Bogota,21,21
+Colombia,CO,Other,18,18
 Congo - Brazzaville,CG,Other,1,1
 Czechia,CZ,Other,1,1
 Denmark,DK,Other,1,1
 Dominican Republic,DO,,1,1
-Dominican Republic,DO,Other,4,4
-Ecuador,EC,Other,21,21
+Dominican Republic,DO,Other,6,6
+Ecuador,EC,Other,34,34
 Egypt,EG,Other,1,1
 Finland,FI,Other,1,1
-France,FR,Other,1,1
-Gabon,GA,Other,3,3
+France,FR,Other,5,5
+Gabon,GA,Other,4,4
 Georgia,GE,Other,1,1
-Germany,DE,Other,8,8
+Germany,DE,Other,9,9
 Guatemala,GT,Other,1,1
-Honduras,HN,Other,1,1
+Honduras,HN,Other,2,2
 Hong Kong,HK,,3,3
-Hong Kong,HK,Other,5,5
-India,IN,Other,13,13
-Indonesia,ID,Other,18,18
+Hong Kong,HK,Other,9,9
+India,IN,Other,23,23
+Indonesia,ID,Other,20,20
 Iran,IR,,1,1
-Iraq,IQ,Other,1,1
+Iran,IR,Other,1,1
+Iraq,IQ,Other,2,2
 Ireland,IE,Other,3,3
-Israel,IL,Other,2,2
-Italy,IT,Other,16,135
+Israel,IL,Other,3,3
+Italy,IT,Other,17,137
 Jamaica,JM,Other,2,2
-Japan,JP,Other,3,3
-Kazakhstan,KZ,Other,5,5
-Kenya,KE,Other,8,8
-Kuwait,KW,Other,1,1
+Japan,JP,Other,5,5
+Kazakhstan,KZ,Other,7,7
+Kenya,KE,Other,11,11
+Kuwait,KW,Other,5,5
 Malaysia,MY,,1,1
-Malaysia,MY,Other,7,7
-Mexico,MX,Other,50,50
-Morocco,MA,Casablanca-Settat,15,15
+Malaysia,MY,Other,11,11
+Mexico,MX,Mexico City,10,10
+Mexico,MX,Other,43,43
+Mexico,MX,State of Mexico,10,10
+Morocco,MA,Casablanca-Settat,19,19
 Morocco,MA,Other,16,16
-Nepal,NP,Other,1,1
+Morocco,MA,Rabat-Sale-Kenitra,12,12
+Nepal,NP,,1,1
+Nepal,NP,Other,2,2
 Netherlands,NL,Other,1,1
 New Zealand,NZ,Other,1,8
-Nigeria,NG,Other,3,3
-Oman,OM,Other,4,4
-Pakistan,PK,Other,12,12
-Pakistan,PK,Punjab,11,11
-Paraguay,PY,Other,2,2
-Peru,PE,Other,12,12
-Philippines,PH,Other,6,6
-Russia,RU,Other,31,31
-Saudi Arabia,SA,Other,2,2
+Nigeria,NG,Other,7,7
+Oman,OM,Other,5,5
+Pakistan,PK,Other,7,7
+Pakistan,PK,Punjab,17,17
+Pakistan,PK,Sindh,10,10
+Panama,PA,Other,1,1
+Paraguay,PY,Other,4,4
+Peru,PE,Lima Province,11,11
+Peru,PE,Other,5,5
+Philippines,PH,Other,9,9
+Qatar,QA,Other,2,2
+Russia,RU,Other,51,51
+Saudi Arabia,SA,Other,5,5
 Senegal,SN,Other,1,1
-Singapore,SG,,994,995
-Singapore,SG,(not set),1067,1066
+Singapore,SG,,336,336
+Singapore,SG,(not set),2126,2128
 Singapore,SG,Other,9,9
-South Africa,ZA,Other,25,25
+South Africa,ZA,Gauteng,15,15
+South Africa,ZA,Other,13,13
+South Africa,ZA,Western Cape,13,13
 South Korea,KR,Other,1,1
 Spain,ES,Other,3,3
 Thailand,TH,Other,1,1
 Togo,TG,Other,1,1
-Tunisia,TN,Other,13,13
-Türkiye,TR,Other,4,4
-Ukraine,UA,Other,9,9
-United Arab Emirates,AE,Other,15,15
-United Kingdom,GB,Other,5,6
+Tunisia,TN,Other,9,9
+Tunisia,TN,Tunis Governorate,10,10
+Türkiye,TR,Other,6,6
+Ukraine,UA,Other,13,13
+United Arab Emirates,AE,Abu Dhabi,12,12
+United Arab Emirates,AE,Other,10,10
+United Kingdom,GB,Other,7,8
 United States,US,,1,1
-United States,US,California,88,266
-United States,US,Other,69,85
+United States,US,California,94,275
+United States,US,Other,74,90
 United States,US,Virginia,22,22
 Uzbekistan,UZ,,3,3
-Uzbekistan,UZ,Other,2,2
-Venezuela,VE,Other,18,18
-Vietnam,VN,Ho Chi Minh,14,14
-Vietnam,VN,Other,32,32
+Uzbekistan,UZ,Other,5,5
+Venezuela,VE,Other,25,25
+Vietnam,VN,Ho Chi Minh,16,16
+Vietnam,VN,Other,46,46

@@ -10,18 +10,18 @@
   "activeUsers": 7.0,
   "newUsers": 6.0,
   "sessions": 7.0,
-  "engagedSessions": 6.0,
+  "engagedSessions": 7.0,
   "screenPageViews": 14.0,
   "eventCount": 35.0,
   "userEngagementDuration": 79.0,
   "avgEngagementSeconds": 11.3,
-  "engagedSessionRate": 0.9,
+  "engagedSessionRate": 1.0,
   "viewsPerUser": 2.0
  },
  "delta_28d": {
   "activeUsers": 250.0,
   "sessions": 250.0,
-  "engagedSessions": 200.0,
+  "engagedSessions": 250.0,
   "avgEngagementSeconds": -74.0,
   "screenPageViews": 133.3
  },
@@ -114,13 +114,13 @@
    "activeUsers": 7.0
   },
   {
-   "country": "Italy",
-   "countryId": "IT",
-   "activeUsers": 3.0
-  },
-  {
    "country": "Singapore",
    "countryId": "SG",
+   "activeUsers": 4.0
+  },
+  {
+   "country": "Italy",
+   "countryId": "IT",
    "activeUsers": 3.0
   },
   {
@@ -156,7 +156,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "Other",
-   "activeUsers": 2.0
+   "activeUsers": 3.0
   },
   {
    "country": "Brazil",

@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-11-06",
+ "last_day": "2026-11-07",
  "totals_28d": {
-  "activeUsers": 106.0,
-  "newUsers": 96.0,
-  "sessions": 108.0,
+  "activeUsers": 207.0,
+  "newUsers": 197.0,
+  "sessions": 209.0,
   "engagedSessions": 13.0,
-  "screenPageViews": 118.0,
-  "eventCount": 348.0,
+  "screenPageViews": 219.0,
+  "eventCount": 651.0,
   "userEngagementDuration": 309.0,
-  "avgEngagementSeconds": 2.9,
+  "avgEngagementSeconds": 1.5,
   "engagedSessionRate": 0.1,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 457.9,
-  "sessions": 315.4,
+  "activeUsers": 989.5,
+  "sessions": 703.8,
   "engagedSessions": -18.8,
-  "avgEngagementSeconds": -90.0,
-  "screenPageViews": 76.1
+  "avgEngagementSeconds": -94.8,
+  "screenPageViews": 226.9
  },
  "daily": [
   {
@@ -273,8 +273,13 @@
   },
   {
    "date": "2026-11-06",
-   "activeUsers": 2.0,
-   "sessions": 2.0
+   "activeUsers": 7.0,
+   "sessions": 7.0
+  },
+  {
+   "date": "2026-11-07",
+   "activeUsers": 96.0,
+   "sessions": 96.0
   }
  ],
  "daily_mean7": [
@@ -327,13 +332,14 @@
   2.43,
   2.0,
   13.86,
-  13.71
+  14.43,
+  28.0
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 118.0
+   "activeUsers": 219.0
   },
   {
    "country": "Italy",
@@ -386,13 +392,13 @@
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 94.0
+   "activeUsers": 194.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 12.0
+   "activeUsers": 13.0
   },
   {
    "country": "United States",
@@ -476,23 +482,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 271.0,
-   "users": 130.0
+   "count": 372.0,
+   "users": 231.0
   },
   {
    "name": "session_start",
-   "count": 135.0,
-   "users": 126.0
+   "count": 236.0,
+   "users": 227.0
+  },
+  {
+   "name": "first_visit",
+   "count": 221.0,
+   "users": 221.0
   },
   {
    "name": "user_engagement",
    "count": 131.0,
    "users": 14.0
-  },
-  {
-   "name": "first_visit",
-   "count": 120.0,
-   "users": 120.0
   },
   {
    "name": "scroll",
@@ -1024,11 +1030,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 119533.0,
-   "bytes": 9532162057.0,
+   "requests": 117602.0,
+   "bytes": 6008674989.0,
    "clients": 6420.0,
-   "tool": 91818.0,
-   "browser": 27715.0
+   "tool": 90357.0,
+   "browser": 27245.0
   },
   "first_day": "2026-07-29",
   "top_paths": [

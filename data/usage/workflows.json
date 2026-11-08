@@ -380,12 +380,12 @@
  "events": [
   {
    "name": "page_view",
-   "count": 65.0,
+   "count": 64.0,
    "users": 14.0
   },
   {
    "name": "user_engagement",
-   "count": 43.0,
+   "count": 42.0,
    "users": 5.0
   },
   {
