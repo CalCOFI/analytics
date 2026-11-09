@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-11-07",
+ "last_day": "2026-11-08",
  "totals_28d": {
   "activeUsers": 206.0,
-  "newUsers": 121.0,
-  "sessions": 253.0,
+  "newUsers": 124.0,
+  "sessions": 254.0,
   "engagedSessions": 114.0,
-  "screenPageViews": 315.0,
-  "eventCount": 1022.0,
-  "userEngagementDuration": 10199.0,
-  "avgEngagementSeconds": 49.5,
-  "engagedSessionRate": 0.5,
-  "viewsPerUser": 1.5
+  "screenPageViews": 322.0,
+  "eventCount": 1045.0,
+  "userEngagementDuration": 10258.0,
+  "avgEngagementSeconds": 49.8,
+  "engagedSessionRate": 0.4,
+  "viewsPerUser": 1.6
  },
  "delta_28d": {
-  "activeUsers": 89.0,
-  "sessions": 76.9,
-  "engagedSessions": 20.0,
-  "avgEngagementSeconds": -11.1,
-  "screenPageViews": 49.3
+  "activeUsers": 98.1,
+  "sessions": 85.4,
+  "engagedSessions": 22.6,
+  "avgEngagementSeconds": -15.6,
+  "screenPageViews": 60.2
  },
  "daily": [
   {
@@ -345,6 +345,11 @@
    "date": "2026-11-07",
    "activeUsers": 3.0,
    "sessions": 4.0
+  },
+  {
+   "date": "2026-11-08",
+   "activeUsers": 7.0,
+   "sessions": 9.0
   }
  ],
  "daily_mean7": [
@@ -411,13 +416,14 @@
   6.86,
   7.86,
   7.14,
-  6.29
+  6.29,
+  6.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 120.0
+   "activeUsers": 122.0
   },
   {
    "country": "Singapore",
@@ -475,6 +481,11 @@
    "activeUsers": 2.0
   },
   {
+   "country": "France",
+   "countryId": "FR",
+   "activeUsers": 2.0
+  },
+  {
    "country": "Germany",
    "countryId": "DE",
    "activeUsers": 2.0
@@ -492,6 +503,11 @@
   {
    "country": "New Zealand",
    "countryId": "NZ",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Spain",
+   "countryId": "ES",
    "activeUsers": 2.0
   },
   {
@@ -525,13 +541,13 @@
    "activeUsers": 1.0
   },
   {
-   "country": "Colombia",
-   "countryId": "CO",
+   "country": "Chile",
+   "countryId": "CL",
    "activeUsers": 1.0
   },
   {
-   "country": "France",
-   "countryId": "FR",
+   "country": "Colombia",
+   "countryId": "CO",
    "activeUsers": 1.0
   },
   {
@@ -542,6 +558,11 @@
   {
    "country": "Switzerland",
    "countryId": "CH",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Taiwan",
+   "countryId": "TW",
    "activeUsers": 1.0
   },
   {
@@ -560,7 +581,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 74.0
+   "activeUsers": 76.0
   },
   {
    "country": "Singapore",
@@ -647,6 +668,12 @@
    "activeUsers": 2.0
   },
   {
+   "country": "France",
+   "countryId": "FR",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
    "country": "Germany",
    "countryId": "DE",
    "region": "Other",
@@ -667,6 +694,12 @@
   {
    "country": "New Zealand",
    "countryId": "NZ",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Spain",
+   "countryId": "ES",
    "region": "Other",
    "activeUsers": 2.0
   },
@@ -707,14 +740,14 @@
    "activeUsers": 1.0
   },
   {
-   "country": "Colombia",
-   "countryId": "CO",
+   "country": "Chile",
+   "countryId": "CL",
    "region": "Other",
    "activeUsers": 1.0
   },
   {
-   "country": "France",
-   "countryId": "FR",
+   "country": "Colombia",
+   "countryId": "CO",
    "region": "Other",
    "activeUsers": 1.0
   },
@@ -761,6 +794,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Taiwan",
+   "countryId": "TW",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "T\u00fcrkiye",
    "countryId": "TR",
    "region": "Other",
@@ -782,28 +821,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 671.0,
-   "users": 261.0
+   "count": 689.0,
+   "users": 268.0
   },
   {
    "name": "user_engagement",
-   "count": 522.0,
-   "users": 119.0
+   "count": 541.0,
+   "users": 125.0
   },
   {
    "name": "session_start",
-   "count": 317.0,
-   "users": 223.0
+   "count": 322.0,
+   "users": 228.0
   },
   {
    "name": "first_visit",
-   "count": 199.0,
-   "users": 199.0
+   "count": 203.0,
+   "users": 203.0
   },
   {
    "name": "scroll",
-   "count": 137.0,
-   "users": 61.0
+   "count": 141.0,
+   "users": 63.0
   },
   {
    "name": "click",

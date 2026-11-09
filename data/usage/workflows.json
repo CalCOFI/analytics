@@ -19,11 +19,11 @@
   "viewsPerUser": 1.2
  },
  "delta_28d": {
-  "activeUsers": -9.1,
-  "sessions": 25.0,
-  "engagedSessions": -18.2,
-  "avgEngagementSeconds": 66.7,
-  "screenPageViews": 9.1
+  "activeUsers": 0.0,
+  "sessions": 36.4,
+  "engagedSessions": -10.0,
+  "avgEngagementSeconds": 54.9,
+  "screenPageViews": 20.0
  },
  "daily": [
   {
@@ -380,12 +380,12 @@
  "events": [
   {
    "name": "page_view",
-   "count": 64.0,
+   "count": 63.0,
    "users": 14.0
   },
   {
    "name": "user_engagement",
-   "count": 42.0,
+   "count": 41.0,
    "users": 5.0
   },
   {

@@ -8,14 +8,14 @@ env_var,nitrite,10
 env_var,oxygen_saturation,7
 env_var,oxygen_umol_kg_ave_sta_corr,4
 env_var,par,2
-env_var,ph,6
+env_var,ph,14
 env_var,phosphate,3
 env_var,pressure,2
 env_var,salinity,2
 env_var,salinity_ave_corr,2
 env_var,spiciness0,4
 env_var,sst_c,4
-env_var,temperature,396
+env_var,temperature,398
 layers,ca_county_boundaries,3
 layers,ca_marine_protected_areas,1
 layers,ca_ports,1
@@ -41,6 +41,6 @@ taxa,Market squid (species: Doryteuthis opalescens),13
 taxa,Northern anchovy (species: Engraulis mordax),19
 taxa,Northern lampfish (species: Stenobrachius leucopsarus),16
 taxa,Pacific krill (species: Euphausia pacifica),6
-taxa,Pacific sardine (pilchard) (species: Sardinops sagax),258
+taxa,Pacific sardine (pilchard) (species: Sardinops sagax),262
 taxa,Sardinops sagax,1
 taxa,Sooty Shearwater (species: Ardenna grisea),2

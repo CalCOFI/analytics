@@ -7,23 +7,23 @@
  "first_day": "2026-05-19",
  "last_day": "20260728",
  "totals_28d": {
-  "activeUsers": 93.0,
+  "activeUsers": 92.0,
   "newUsers": 88.0,
-  "sessions": 97.0,
-  "engagedSessions": 13.0,
-  "screenPageViews": 96.0,
-  "eventCount": 619.0,
-  "userEngagementDuration": 586.0,
-  "avgEngagementSeconds": 6.3,
+  "sessions": 96.0,
+  "engagedSessions": 12.0,
+  "screenPageViews": 94.0,
+  "eventCount": 610.0,
+  "userEngagementDuration": 620.0,
+  "avgEngagementSeconds": 6.7,
   "engagedSessionRate": 0.1,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 416.7,
-  "sessions": 321.7,
-  "engagedSessions": 0.0,
-  "avgEngagementSeconds": -95.6,
-  "screenPageViews": 220.0
+  "activeUsers": 360.0,
+  "sessions": 284.0,
+  "engagedSessions": -20.0,
+  "avgEngagementSeconds": -95.0,
+  "screenPageViews": 176.5
  },
  "daily": [
   {
@@ -487,6 +487,11 @@
    "sessions": 4.0
   },
   {
+   "date": "2026-11-08",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260519",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -752,10 +757,11 @@
   2.57,
   2.57,
   2.57,
-  2.29,
+  2.43,
   2.29,
   1.43,
   1.29,
+  0.86,
   1.0,
   1.14,
   1.14,
@@ -789,7 +795,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 93.0
+   "activeUsers": 94.0
   },
   {
    "country": "Singapore",
@@ -838,7 +844,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 15.0
+   "activeUsers": 16.0
   },
   {
    "country": "China",
@@ -903,44 +909,44 @@
  ],
  "events": [
   {
-   "name": "query_view",
-   "count": 161.0,
-   "users": 82.0
-  },
-  {
    "name": "page_view",
-   "count": 160.0,
-   "users": 113.0
+   "count": 161.0,
+   "users": 114.0
   },
   {
    "name": "scroll",
-   "count": 152.0,
-   "users": 108.0
+   "count": 153.0,
+   "users": 109.0
   },
   {
    "name": "query_run",
+   "count": 148.0,
+   "users": 58.0
+  },
+  {
+   "name": "query_view",
    "count": 147.0,
-   "users": 57.0
+   "users": 83.0
   },
   {
    "name": "session_start",
-   "count": 142.0,
-   "users": 111.0
+   "count": 141.0,
+   "users": 112.0
   },
   {
    "name": "first_visit",
-   "count": 105.0,
-   "users": 105.0
+   "count": 106.0,
+   "users": 106.0
   },
   {
    "name": "query_success",
-   "count": 105.0,
-   "users": 32.0
+   "count": 106.0,
+   "users": 33.0
   },
   {
    "name": "user_engagement",
-   "count": 64.0,
-   "users": 31.0
+   "count": 66.0,
+   "users": 32.0
   },
   {
    "name": "query_from_url",
@@ -953,14 +959,14 @@
    "users": 13.0
   },
   {
+   "name": "form_start",
+   "count": 11.0,
+   "users": 7.0
+  },
+  {
    "name": "download",
    "count": 10.0,
    "users": 1.0
-  },
-  {
-   "name": "form_start",
-   "count": 10.0,
-   "users": 6.0
   }
  ]
 }

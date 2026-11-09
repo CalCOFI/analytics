@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 34.0,
-  "newUsers": 27.0,
-  "sessions": 41.0,
-  "engagedSessions": 20.0,
-  "screenPageViews": 37.0,
-  "eventCount": 389.0,
-  "userEngagementDuration": 2256.0,
-  "avgEngagementSeconds": 66.4,
+  "activeUsers": 35.0,
+  "newUsers": 28.0,
+  "sessions": 42.0,
+  "engagedSessions": 21.0,
+  "screenPageViews": 41.0,
+  "eventCount": 416.0,
+  "userEngagementDuration": 2429.0,
+  "avgEngagementSeconds": 69.4,
   "engagedSessionRate": 0.5,
-  "viewsPerUser": 1.1
+  "viewsPerUser": 1.2
  },
  "delta_28d": {
-  "activeUsers": 47.8,
-  "sessions": 32.3,
-  "engagedSessions": 0.0,
-  "avgEngagementSeconds": -54.0,
-  "screenPageViews": -2.6
+  "activeUsers": 52.2,
+  "sessions": 35.5,
+  "engagedSessions": 5.0,
+  "avgEngagementSeconds": -51.9,
+  "screenPageViews": 7.9
  },
  "daily": [
   {
@@ -437,6 +437,11 @@
    "sessions": 3.0
   },
   {
+   "date": "2026-11-08",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -592,10 +597,11 @@
   2.71,
   2.29,
   2.29,
-  2.29,
+  1.86,
   2.29,
   2.43,
-  2.14,
+  1.71,
+  1.86,
   2.0,
   2.14,
   2.29,
@@ -609,7 +615,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 62.0
+   "activeUsers": 63.0
   },
   {
    "country": "Italy",
@@ -687,7 +693,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 43.0
+   "activeUsers": 44.0
   },
   {
    "country": "United States",
@@ -795,47 +801,47 @@
  "events": [
   {
    "name": "session_start",
-   "count": 811.0,
-   "users": 76.0
+   "count": 809.0,
+   "users": 75.0
   },
   {
    "name": "page_view",
-   "count": 623.0,
-   "users": 77.0
+   "count": 624.0,
+   "users": 75.0
   },
   {
    "name": "scroll",
-   "count": 567.0,
-   "users": 72.0
+   "count": 565.0,
+   "users": 70.0
   },
   {
    "name": "filter_submit",
-   "count": 424.0,
-   "users": 28.0
+   "count": 428.0,
+   "users": 29.0
   },
   {
    "name": "map_query_env",
-   "count": 424.0,
-   "users": 28.0
+   "count": 428.0,
+   "users": 29.0
   },
   {
    "name": "map_query_sp",
-   "count": 424.0,
-   "users": 28.0
+   "count": 428.0,
+   "users": 29.0
   },
   {
    "name": "user_engagement",
-   "count": 358.0,
-   "users": 44.0
+   "count": 357.0,
+   "users": 43.0
   },
   {
    "name": "start_tour",
-   "count": 282.0,
-   "users": 67.0
+   "count": 281.0,
+   "users": 66.0
   },
   {
    "name": "select_tab",
-   "count": 149.0,
+   "count": 150.0,
    "users": 20.0
   },
   {
@@ -844,14 +850,14 @@
    "users": 6.0
   },
   {
-   "name": "open_filters",
-   "count": 102.0,
-   "users": 16.0
+   "name": "filter_no_results",
+   "count": 103.0,
+   "users": 10.0
   },
   {
-   "name": "filter_no_results",
+   "name": "open_filters",
    "count": 101.0,
-   "users": 9.0
+   "users": 16.0
   }
  ],
  "log": {
@@ -1487,6 +1493,15 @@
     "p95_ms": "100.3"
    },
    {
+    "date": "2026-11-09",
+    "events": "20",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "2",
+    "p50_ms": "31.2",
+    "p95_ms": "123.3"
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1602,7 +1617,7 @@
    },
    {
     "event": "filter_no_results",
-    "n": "42",
+    "n": "44",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "1.0",
@@ -1610,7 +1625,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "183",
+    "n": "187",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1634,9 +1649,9 @@
    },
    {
     "event": "map_query_env",
-    "n": "182",
+    "n": "186",
     "p50_ms": "24.9",
-    "p95_ms": "80.0",
+    "p95_ms": "78.8",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1650,9 +1665,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "183",
+    "n": "187",
     "p50_ms": "54.9",
-    "p95_ms": "444.4",
+    "p95_ms": "441.2",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1682,7 +1697,7 @@
    },
    {
     "event": "open_filters",
-    "n": "69",
+    "n": "70",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1730,7 +1745,7 @@
    },
    {
     "event": "select_tab",
-    "n": "106",
+    "n": "109",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1746,7 +1761,7 @@
    },
    {
     "event": "session_start",
-    "n": "383",
+    "n": "384",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1754,7 +1769,7 @@
    },
    {
     "event": "start_tour",
-    "n": "312",
+    "n": "313",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1773,12 +1788,12 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "396"
+    "n": "398"
    },
    {
     "param": "taxa",
     "value": "Pacific sardine (pilchard) (species: Sardinops sagax)",
-    "n": "258"
+    "n": "262"
    },
    {
     "param": "taxa",
@@ -1789,6 +1804,11 @@
     "param": "taxa",
     "value": "Northern lampfish (species: Stenobrachius leucopsarus)",
     "n": "16"
+   },
+   {
+    "param": "env_var",
+    "value": "ph",
+    "n": "14"
    },
    {
     "param": "taxa",
@@ -1839,11 +1859,6 @@
     "param": "layers",
     "value": "noaa_maritime_eez",
     "n": "7"
-   },
-   {
-    "param": "env_var",
-    "value": "ph",
-    "n": "6"
    },
    {
     "param": "taxa",
@@ -2191,9 +2206,9 @@
    },
    {
     "app_version": "fbe0941",
-    "n": "92",
+    "n": "112",
     "first_seen": "2026-11-02",
-    "last_seen": "2026-11-06"
+    "last_seen": "2026-11-09"
    },
    {
     "app_version": "latest",

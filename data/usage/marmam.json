@@ -19,11 +19,11 @@
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": -3.7,
-  "sessions": -6.2,
-  "engagedSessions": -60.0,
-  "avgEngagementSeconds": -68.5,
-  "screenPageViews": -9.4
+  "activeUsers": 0.0,
+  "sessions": -3.2,
+  "engagedSessions": -57.1,
+  "avgEngagementSeconds": -68.8,
+  "screenPageViews": -6.5
  },
  "daily": [
   {
@@ -539,12 +539,12 @@
  "events": [
   {
    "name": "page_view",
-   "count": 68.0,
+   "count": 67.0,
    "users": 54.0
   },
   {
    "name": "session_start",
-   "count": 68.0,
+   "count": 67.0,
    "users": 54.0
   },
   {
@@ -554,12 +554,12 @@
   },
   {
    "name": "scroll",
-   "count": 43.0,
+   "count": 42.0,
    "users": 38.0
   },
   {
    "name": "user_engagement",
-   "count": 29.0,
+   "count": 28.0,
    "users": 22.0
   },
   {

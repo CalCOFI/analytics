@@ -520,6 +520,11 @@
    "activeUsers": 2.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "activeUsers": 2.0
+  },
+  {
    "country": "Australia",
    "countryId": "AU",
    "activeUsers": 1.0
@@ -542,11 +547,6 @@
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
    "activeUsers": 1.0
   },
   {
@@ -622,6 +622,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "South Korea",
    "countryId": "KR",
    "region": "Other",
@@ -637,18 +643,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 40.0,
-   "users": 31.0
+   "count": 39.0,
+   "users": 30.0
   },
   {
    "name": "session_start",
-   "count": 36.0,
-   "users": 28.0
+   "count": 35.0,
+   "users": 27.0
   },
   {
    "name": "first_visit",
-   "count": 25.0,
-   "users": 25.0
+   "count": 24.0,
+   "users": 24.0
   },
   {
    "name": "scroll",
