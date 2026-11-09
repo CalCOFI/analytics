@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "2026-11-08",
  "totals_28d": {
-  "activeUsers": 122.0,
-  "newUsers": 121.0,
-  "sessions": 122.0,
+  "activeUsers": 124.0,
+  "newUsers": 123.0,
+  "sessions": 124.0,
   "engagedSessions": 5.0,
-  "screenPageViews": 124.0,
-  "eventCount": 378.0,
+  "screenPageViews": 126.0,
+  "eventCount": 384.0,
   "userEngagementDuration": 104.0,
-  "avgEngagementSeconds": 0.9,
+  "avgEngagementSeconds": 0.8,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 4.3,
-  "sessions": -3.2,
+  "activeUsers": 6.0,
+  "sessions": -1.6,
   "engagedSessions": -75.0,
-  "avgEngagementSeconds": -81.2,
-  "screenPageViews": -7.5
+  "avgEngagementSeconds": -83.3,
+  "screenPageViews": -6.0
  },
  "daily": [
   {
@@ -748,8 +748,8 @@
   },
   {
    "date": "2026-11-08",
-   "activeUsers": 2.0,
-   "sessions": 2.0
+   "activeUsers": 4.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -897,13 +897,13 @@
   7.71,
   7.86,
   4.57,
-  4.57
+  4.86
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 267.0
+   "activeUsers": 269.0
   },
   {
    "country": "United States",
@@ -1021,6 +1021,12 @@
   {
    "country": "Singapore",
    "countryId": "SG",
+   "region": "",
+   "activeUsers": 3.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
    "region": "Other",
    "activeUsers": 3.0
   },
@@ -1085,12 +1091,6 @@
    "activeUsers": 1.0
   },
   {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 1.0
-  },
-  {
    "country": "United Kingdom",
    "countryId": "GB",
    "region": "",
@@ -1118,18 +1118,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 397.0,
-   "users": 302.0
+   "count": 399.0,
+   "users": 304.0
   },
   {
    "name": "session_start",
-   "count": 324.0,
-   "users": 300.0
+   "count": 326.0,
+   "users": 302.0
   },
   {
    "name": "first_visit",
-   "count": 294.0,
-   "users": 294.0
+   "count": 296.0,
+   "users": 296.0
   },
   {
    "name": "user_engagement",

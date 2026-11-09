@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "top_paths": [
    {
-    "path": "/erddap/index.html",
-    "n": 70
-   },
-   {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 61
-   },
-   {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 49
+    "n": 221
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 37
+    "n": 81
+   },
+   {
+    "path": "/erddap/index.html",
+    "n": 53
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.html",
+    "n": 31
    },
    {
     "path": "/",
-    "n": 36
-   },
-   {
-    "path": "/erddap",
-    "n": 25
+    "n": 17
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 22
+    "n": 13
    },
    {
     "path": "/robots.txt",
-    "n": 22
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 19
-   },
-   {
-    "path": "/css.php",
     "n": 12
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 10
+   },
+   {
+    "path": "/erddap/tabledap/cce-lter_zooscan.html",
+    "n": 10
+   },
+   {
+    "path": "/erddap",
+    "n": 9
    }
   ]
  },
@@ -107,47 +107,47 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "top_paths": [
    {
     "path": "/",
-    "n": 74
+    "n": 47
    },
    {
     "path": "/robots.txt",
-    "n": 16
+    "n": 19
    },
    {
-    "path": "/index%2ephp",
-    "n": 9
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 7
-   },
-   {
-    "path": "/%2eenv",
-    "n": 6
-   },
-   {
-    "path": "/api/v1/validate/code",
-    "n": 6
-   },
-   {
-    "path": "/login",
-    "n": 5
-   },
-   {
-    "path": "/api",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0310NH_CTDFinalQC/csvs-plots/",
+    "path": "/calcofi-files-public/archive/cce-lter/zoodb/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/",
-    "n": 4
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=c14_mean/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=btl_depth/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=salinity_pss78/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=r_temperature/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=salinity_1/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=salinity_1/b4f72b81256b69c1b6b40a90/",
+    "n": 3
    }
   ]
  },
