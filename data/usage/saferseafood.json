@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 16.0,
-  "newUsers": 14.0,
-  "sessions": 18.0,
+  "activeUsers": 18.0,
+  "newUsers": 16.0,
+  "sessions": 20.0,
   "engagedSessions": 6.0,
-  "screenPageViews": 17.0,
-  "eventCount": 64.0,
+  "screenPageViews": 19.0,
+  "eventCount": 70.0,
   "userEngagementDuration": 437.0,
-  "avgEngagementSeconds": 27.3,
+  "avgEngagementSeconds": 24.3,
   "engagedSessionRate": 0.3,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 300.0,
-  "sessions": 200.0,
+  "activeUsers": 350.0,
+  "sessions": 233.3,
   "engagedSessions": 50.0,
-  "avgEngagementSeconds": -36.2,
-  "screenPageViews": 183.3
+  "avgEngagementSeconds": -43.2,
+  "screenPageViews": 216.7
  },
  "daily": [
   {
@@ -267,6 +267,11 @@
    "sessions": 13.0
   },
   {
+   "date": "2026-11-09",
+   "activeUsers": 2.0,
+   "sessions": 2.0
+  },
+  {
    "date": "20260507",
    "activeUsers": 2.0,
    "sessions": 3.0
@@ -452,11 +457,12 @@
   0.86,
   2.29,
   2.57,
-  2.57,
-  2.57,
+  2.71,
   2.71,
   2.71,
   2.86,
+  2.86,
+  1.57,
   1.43,
   1.29,
   1.29,
@@ -483,7 +489,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 29.0
+   "activeUsers": 31.0
   },
   {
    "country": "Canada",
@@ -512,7 +518,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 8.0
+   "activeUsers": 10.0
   },
   {
    "country": "Canada",
@@ -548,18 +554,18 @@
  "events": [
   {
    "name": "session_start",
-   "count": 38.0,
-   "users": 28.0
+   "count": 40.0,
+   "users": 30.0
   },
   {
    "name": "page_view",
-   "count": 33.0,
-   "users": 28.0
+   "count": 35.0,
+   "users": 30.0
   },
   {
    "name": "first_visit",
-   "count": 27.0,
-   "users": 27.0
+   "count": 29.0,
+   "users": 29.0
   },
   {
    "name": "user_engagement",

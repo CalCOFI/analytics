@@ -1047,58 +1047,63 @@
    },
    {
     "date": "2026-11-09",
-    "requests": 1409.0,
-    "bytes": 145461659.0
+    "requests": 2319.0,
+    "bytes": 154256889.0
+   },
+   {
+    "date": "2026-11-10",
+    "requests": 626.0,
+    "bytes": 9006754.0
    }
   ],
   "totals_28d": {
-   "requests": 107964.0,
-   "bytes": 5683951106.0,
+   "requests": 109500.0,
+   "bytes": 5701753090.0,
    "clients": 6420.0,
-   "tool": 81686.0,
-   "browser": 26278.0
+   "tool": 82462.0,
+   "browser": 27038.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 47
+    "n": 84
    },
    {
     "path": "/robots.txt",
-    "n": 19
+    "n": 18
    },
    {
-    "path": "/calcofi-files-public/archive/cce-lter/zoodb/",
-    "n": 4
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 18
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=c14_mean/",
+    "path": "/calcofi-files-public/archive/farallon/bird-mammal/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2001RL_CTDFinalQC/asc-hdr-btl/btl/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=btl_depth/",
+    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=c14_mean/329c74e4f533cf89d0e6e9db/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=salinity_pss78/",
-    "n": 3
+    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=transmissometer/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=r_temperature/",
-    "n": 3
+    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=light_pct/b933d5c578e9ea0a83d03e21/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=salinity_1/",
-    "n": 3
+    "path": "/calcofi-db/ducklake/releases/v2026.05.20/RELEASE_NOTES.md",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=salinity_1/b4f72b81256b69c1b6b40a90/",
-    "n": 3
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=isus_v/a9bdf35214a585a195c80c3b/",
+    "n": 2
    }
   ]
  }
