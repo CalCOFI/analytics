@@ -548,18 +548,18 @@
  "events": [
   {
    "name": "session_start",
-   "count": 39.0,
-   "users": 29.0
+   "count": 38.0,
+   "users": 28.0
   },
   {
    "name": "page_view",
-   "count": 34.0,
-   "users": 29.0
+   "count": 33.0,
+   "users": 28.0
   },
   {
    "name": "first_visit",
-   "count": 28.0,
-   "users": 28.0
+   "count": 27.0,
+   "users": 27.0
   },
   {
    "name": "user_engagement",
