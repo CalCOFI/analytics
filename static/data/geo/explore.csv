@@ -1,5 +1,6 @@
 country,countryId,region,activeUsers,sessions
 ,,,1,1
+,,Other,1,1
 (not set),(not set),Other,1,1
 Albania,AL,Other,3,3
 Algeria,DZ,Other,15,15
@@ -9,7 +10,7 @@ Armenia,AM,,1,1
 Armenia,AM,Other,1,1
 Australia,AU,Other,3,3
 Austria,AT,Other,1,1
-Azerbaijan,AZ,Other,9,9
+Azerbaijan,AZ,Other,10,10
 Bahrain,BH,Other,9,9
 Bangladesh,BD,,1,1
 Bangladesh,BD,Dhaka Division,22,22
@@ -45,7 +46,7 @@ China,CN,Yunnan,15,15
 China,CN,Zhejiang,10,10
 Colombia,CO,Antioquia,16,16
 Colombia,CO,Bogota,24,24
-Colombia,CO,Other,28,28
+Colombia,CO,Other,29,29
 Congo - Brazzaville,CG,Other,1,1
 Czechia,CZ,Other,1,1
 Denmark,DK,Other,1,1
@@ -58,14 +59,15 @@ Finland,FI,Other,1,1
 France,FR,Other,10,10
 Gabon,GA,Other,4,4
 Georgia,GE,Other,1,1
-Germany,DE,Other,12,12
+Germany,DE,Hessen,10,10
+Germany,DE,Other,3,3
 Guatemala,GT,Other,1,1
 Honduras,HN,Other,2,2
 Hong Kong,HK,,1,1
 Hong Kong,HK,(not set),18,18
 Hong Kong,HK,Other,9,9
-India,IN,Other,28,28
-Indonesia,ID,Other,17,17
+India,IN,Other,29,29
+Indonesia,ID,Other,18,18
 Indonesia,ID,Special Region of Yogyakarta,11,11
 Iran,IR,,1,1
 Iran,IR,Other,1,1
@@ -83,7 +85,7 @@ Kuwait,KW,Other,6,6
 Malaysia,MY,,1,1
 Malaysia,MY,Other,13,13
 Mexico,MX,Mexico City,14,14
-Mexico,MX,Other,52,52
+Mexico,MX,Other,53,53
 Mexico,MX,State of Mexico,13,13
 Moldova,MD,Other,1,1
 Morocco,MA,Casablanca-Settat,25,25
@@ -102,13 +104,13 @@ Panama,PA,Other,1,1
 Paraguay,PY,Other,5,5
 Peru,PE,Lima Province,13,13
 Peru,PE,Other,8,8
-Philippines,PH,Other,10,10
+Philippines,PH,Other,11,11
 Qatar,QA,Other,2,2
 Russia,RU,Other,62,62
 Saudi Arabia,SA,Other,6,6
 Senegal,SN,Other,1,1
 Serbia,RS,Other,1,1
-Singapore,SG,,2,2
+Singapore,SG,,3,3
 Singapore,SG,(not set),2668,2675
 Singapore,SG,Other,9,9
 South Africa,ZA,Gauteng,21,21
@@ -128,15 +130,15 @@ United Arab Emirates,AE,Other,15,15
 United Kingdom,GB,England,10,11
 United Kingdom,GB,Other,1,1
 United States,US,,1,1
-United States,US,California,118,330
-United States,US,Illinois,10,10
-United States,US,Other,85,101
-United States,US,Virginia,24,24
+United States,US,California,118,334
+United States,US,Illinois,11,11
+United States,US,Other,87,103
+United States,US,Virginia,26,26
 Uruguay,UY,Other,2,2
 Uzbekistan,UZ,,1,1
 Uzbekistan,UZ,Other,6,6
 Venezuela,VE,Other,29,29
 Vietnam,VN,Ha Noi,10,10
-Vietnam,VN,Ho Chi Minh,19,19
+Vietnam,VN,Ho Chi Minh,20,20
 Vietnam,VN,Other,47,47
 Western Sahara,EH,Other,1,1

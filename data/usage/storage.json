@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-11-10",
  "totals_28d": {
-  "activeUsers": 272.0,
-  "newUsers": 263.0,
-  "sessions": 271.0,
+  "activeUsers": 278.0,
+  "newUsers": 269.0,
+  "sessions": 277.0,
   "engagedSessions": 10.0,
-  "screenPageViews": 281.0,
-  "eventCount": 844.0,
+  "screenPageViews": 287.0,
+  "eventCount": 862.0,
   "userEngagementDuration": 251.0,
   "avgEngagementSeconds": 0.9,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 1411.1,
-  "sessions": 942.3,
+  "activeUsers": 1444.4,
+  "sessions": 965.4,
   "engagedSessions": -37.5,
   "avgEngagementSeconds": -92.4,
-  "screenPageViews": 836.7
+  "screenPageViews": 856.7
  },
  "daily": [
   {
@@ -293,8 +293,8 @@
   },
   {
    "date": "2026-11-10",
-   "activeUsers": 67.0,
-   "sessions": 67.0
+   "activeUsers": 73.0,
+   "sessions": 73.0
   }
  ],
  "daily_mean7": [
@@ -351,13 +351,13 @@
   28.14,
   27.57,
   27.57,
-  37.0
+  37.86
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 288.0
+   "activeUsers": 294.0
   },
   {
    "country": "Italy",
@@ -410,7 +410,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 262.0
+   "activeUsers": 268.0
   },
   {
    "country": "United States",
@@ -500,18 +500,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 433.0,
-   "users": 299.0
+   "count": 439.0,
+   "users": 305.0
   },
   {
    "name": "session_start",
-   "count": 304.0,
-   "users": 295.0
+   "count": 310.0,
+   "users": 301.0
   },
   {
    "name": "first_visit",
-   "count": 289.0,
-   "users": 289.0
+   "count": 295.0,
+   "users": 295.0
   },
   {
    "name": "user_engagement",
@@ -1058,58 +1058,63 @@
    },
    {
     "date": "2026-11-10",
-    "requests": 626.0,
-    "bytes": 9006754.0
+    "requests": 1334.0,
+    "bytes": 2085371300.0
+   },
+   {
+    "date": "2026-11-11",
+    "requests": 937.0,
+    "bytes": 1143589249.0
    }
   ],
   "totals_28d": {
-   "requests": 106971.0,
-   "bytes": 5673235876.0,
+   "requests": 108616.0,
+   "bytes": 8893189671.0,
    "clients": 6420.0,
-   "tool": 80601.0,
-   "browser": 26370.0
+   "tool": 81213.0,
+   "browser": 27403.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 84
+    "n": 45
    },
    {
     "path": "/robots.txt",
-    "n": 18
+    "n": 24
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 18
+    "n": 12
    },
    {
-    "path": "/calcofi-files-public/archive/farallon/bird-mammal/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2023-07-33P4/",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/whales-seabirds-turtles/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2001RL_CTDFinalQC/asc-hdr-btl/btl/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2301RL_CTDPrelim/csvs-plots/S_D/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=c14_mean/329c74e4f533cf89d0e6e9db/",
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=salinity_pss78/16073ba63c734c7047d9e051/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=transmissometer/",
-    "n": 2
+    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=salinity_btl/b9acdaa5c7eafef3a861cc13/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/explore-dev-root/explore-dev/tables/climatology/measurement_type=light_pct/b933d5c578e9ea0a83d03e21/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/v2026.09.11/cce-lter_zoodb.nc",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/releases/v2026.05.20/RELEASE_NOTES.md",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=isus_v/a9bdf35214a585a195c80c3b/",
-    "n": 2
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2001-07-32NM/",
+    "n": 3
    }
   ]
  }

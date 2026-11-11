@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "2026-11-10",
  "totals_28d": {
-  "activeUsers": 455.0,
-  "newUsers": 451.0,
-  "sessions": 461.0,
+  "activeUsers": 457.0,
+  "newUsers": 453.0,
+  "sessions": 463.0,
   "engagedSessions": 4.0,
-  "screenPageViews": 461.0,
-  "eventCount": 1384.0,
+  "screenPageViews": 463.0,
+  "eventCount": 1390.0,
   "userEngagementDuration": 101.0,
   "avgEngagementSeconds": 0.2,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 25.7,
-  "sessions": 25.6,
+  "activeUsers": 26.2,
+  "sessions": 26.2,
   "engagedSessions": -71.4,
   "avgEngagementSeconds": -81.8,
-  "screenPageViews": 25.6
+  "screenPageViews": 26.2
  },
  "daily": [
   {
@@ -693,8 +693,8 @@
   },
   {
    "date": "2026-11-10",
-   "activeUsers": 12.0,
-   "sessions": 12.0
+   "activeUsers": 14.0,
+   "sessions": 14.0
   }
  ],
  "daily_mean7": [
@@ -831,13 +831,13 @@
   21.14,
   17.43,
   15.71,
-  14.86
+  15.14
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 1351.0
+   "activeUsers": 1353.0
   },
   {
    "country": "United States",
@@ -1094,6 +1094,12 @@
    "activeUsers": 11.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 11.0
+  },
+  {
    "country": "United States",
    "countryId": "US",
    "region": "(not set)",
@@ -1104,12 +1110,6 @@
    "countryId": "US",
    "region": "Virginia",
    "activeUsers": 10.0
-  },
-  {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 9.0
   },
   {
    "country": "Chile",
@@ -1379,18 +1379,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1494.0,
-   "users": 1463.0
+   "count": 1496.0,
+   "users": 1465.0
   },
   {
    "name": "session_start",
-   "count": 1473.0,
-   "users": 1462.0
+   "count": 1475.0,
+   "users": 1464.0
   },
   {
    "name": "first_visit",
-   "count": 1459.0,
-   "users": 1459.0
+   "count": 1461.0,
+   "users": 1461.0
   },
   {
    "name": "scroll",
