@@ -15,7 +15,7 @@ Bangladesh,BD,,1,1
 Bangladesh,BD,Dhaka Division,22,22
 Bangladesh,BD,Other,19,19
 Belarus,BY,Other,12,12
-Belgium,BE,Other,3,3
+Belgium,BE,Other,4,7
 Bolivia,BO,Other,4,4
 Botswana,BW,,1,1
 Botswana,BW,Other,1,1
@@ -27,7 +27,7 @@ Brazil,BR,State of Parana,22,22
 Brazil,BR,State of Rio Grande do Sul,26,26
 Brazil,BR,State of Rio de Janeiro,31,31
 Brazil,BR,State of Santa Catarina,17,17
-Brazil,BR,State of Sao Paulo,113,113
+Brazil,BR,State of Sao Paulo,114,114
 Brunei,BN,Other,2,2
 Cambodia,KH,Other,1,1
 Canada,CA,British Columbia,10,21
@@ -38,9 +38,9 @@ China,CN,,2,2
 China,CN,(not set),33,33
 China,CN,Guangdong Province,26,26
 China,CN,Hunan,12,12
-China,CN,Other,81,81
+China,CN,Other,82,82
 China,CN,Shandong,10,10
-China,CN,Sichuan,25,25
+China,CN,Sichuan,26,26
 China,CN,Yunnan,15,15
 China,CN,Zhejiang,10,10
 Colombia,CO,Antioquia,16,16
@@ -52,33 +52,33 @@ Denmark,DK,Other,1,1
 Dominican Republic,DO,,1,1
 Dominican Republic,DO,Other,9,9
 Ecuador,EC,Guayas,11,11
-Ecuador,EC,Other,29,29
+Ecuador,EC,Other,30,30
 Egypt,EG,Other,2,2
 Finland,FI,Other,1,1
-France,FR,Other,9,9
+France,FR,Other,10,10
 Gabon,GA,Other,4,4
 Georgia,GE,Other,1,1
 Germany,DE,Other,12,12
 Guatemala,GT,Other,1,1
 Honduras,HN,Other,2,2
 Hong Kong,HK,,1,1
-Hong Kong,HK,(not set),17,17
+Hong Kong,HK,(not set),18,18
 Hong Kong,HK,Other,9,9
 India,IN,Other,28,28
-Indonesia,ID,Other,16,16
+Indonesia,ID,Other,17,17
 Indonesia,ID,Special Region of Yogyakarta,11,11
 Iran,IR,,1,1
 Iran,IR,Other,1,1
 Iraq,IQ,Other,2,2
 Ireland,IE,Other,3,3
-Israel,IL,Other,4,4
-Italy,IT,Lombardy,10,111
+Israel,IL,Other,5,5
+Italy,IT,Lombardy,11,115
 Italy,IT,Other,9,31
 Jamaica,JM,Other,2,2
 Japan,JP,Other,9,9
 Kazakhstan,KZ,,1,1
 Kazakhstan,KZ,Other,9,9
-Kenya,KE,Other,12,12
+Kenya,KE,Other,13,13
 Kuwait,KW,Other,6,6
 Malaysia,MY,,1,1
 Malaysia,MY,Other,13,13
@@ -86,7 +86,7 @@ Mexico,MX,Mexico City,14,14
 Mexico,MX,Other,52,52
 Mexico,MX,State of Mexico,13,13
 Moldova,MD,Other,1,1
-Morocco,MA,Casablanca-Settat,24,24
+Morocco,MA,Casablanca-Settat,25,25
 Morocco,MA,Other,20,20
 Morocco,MA,Rabat-Sale-Kenitra,18,18
 Nepal,NP,,1,1
@@ -109,32 +109,34 @@ Saudi Arabia,SA,Other,6,6
 Senegal,SN,Other,1,1
 Serbia,RS,Other,1,1
 Singapore,SG,,2,2
-Singapore,SG,(not set),2666,2673
+Singapore,SG,(not set),2668,2675
 Singapore,SG,Other,9,9
 South Africa,ZA,Gauteng,21,21
 South Africa,ZA,KwaZulu-Natal,10,10
 South Africa,ZA,Other,5,5
 South Africa,ZA,Western Cape,16,16
 South Korea,KR,Other,1,1
-Spain,ES,Other,4,4
+Spain,ES,Other,5,5
 Thailand,TH,Other,3,3
 Togo,TG,Other,2,2
 Tunisia,TN,Other,10,10
 Tunisia,TN,Tunis Governorate,12,12
-Türkiye,TR,Other,6,6
+Türkiye,TR,Other,7,7
 Ukraine,UA,Other,18,18
 United Arab Emirates,AE,Abu Dhabi,13,13
 United Arab Emirates,AE,Other,15,15
-United Kingdom,GB,Other,9,10
+United Kingdom,GB,England,10,11
+United Kingdom,GB,Other,1,1
 United States,US,,1,1
-United States,US,California,113,321
-United States,US,Other,86,102
-United States,US,Virginia,23,23
+United States,US,California,118,330
+United States,US,Illinois,10,10
+United States,US,Other,85,101
+United States,US,Virginia,24,24
 Uruguay,UY,Other,2,2
 Uzbekistan,UZ,,1,1
 Uzbekistan,UZ,Other,6,6
 Venezuela,VE,Other,29,29
 Vietnam,VN,Ha Noi,10,10
 Vietnam,VN,Ho Chi Minh,19,19
-Vietnam,VN,Other,46,46
+Vietnam,VN,Other,47,47
 Western Sahara,EH,Other,1,1

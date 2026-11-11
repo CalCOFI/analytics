@@ -5,25 +5,25 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-11-09",
+ "last_day": "2026-11-10",
  "totals_28d": {
-  "activeUsers": 4385.0,
-  "newUsers": 4313.0,
-  "sessions": 4476.0,
-  "engagedSessions": 854.0,
-  "screenPageViews": 8757.0,
-  "eventCount": 19018.0,
-  "userEngagementDuration": 51057.0,
-  "avgEngagementSeconds": 11.6,
+  "activeUsers": 4396.0,
+  "newUsers": 4323.0,
+  "sessions": 4483.0,
+  "engagedSessions": 839.0,
+  "screenPageViews": 8831.0,
+  "eventCount": 19129.0,
+  "userEngagementDuration": 52552.0,
+  "avgEngagementSeconds": 12.0,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 2.0
  },
  "delta_28d": {
-  "activeUsers": 3380.2,
-  "sessions": 2126.9,
-  "engagedSessions": 588.7,
-  "avgEngagementSeconds": -93.4,
-  "screenPageViews": 288.3
+  "activeUsers": 3062.6,
+  "sessions": 1947.0,
+  "engagedSessions": 490.8,
+  "avgEngagementSeconds": -93.3,
+  "screenPageViews": 249.7
  },
  "daily": [
   {
@@ -370,6 +370,11 @@
    "date": "2026-11-09",
    "activeUsers": 69.0,
    "sessions": 79.0
+  },
+  {
+   "date": "2026-11-10",
+   "activeUsers": 37.0,
+   "sessions": 44.0
   }
  ],
  "daily_mean7": [
@@ -441,28 +446,29 @@
   434.86,
   560.14,
   594.43,
-  603.57
+  603.57,
+  608.43
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 2677.0
+   "activeUsers": 2679.0
   },
   {
    "country": "Brazil",
    "countryId": "BR",
-   "activeUsers": 333.0
+   "activeUsers": 334.0
   },
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 223.0
+   "activeUsers": 238.0
   },
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 214.0
+   "activeUsers": 216.0
   },
   {
    "country": "Argentina",
@@ -477,7 +483,7 @@
   {
    "country": "Vietnam",
    "countryId": "VN",
-   "activeUsers": 75.0
+   "activeUsers": 76.0
   },
   {
    "country": "Colombia",
@@ -485,13 +491,13 @@
    "activeUsers": 68.0
   },
   {
-   "country": "Russia",
-   "countryId": "RU",
-   "activeUsers": 62.0
-  },
-  {
    "country": "Morocco",
    "countryId": "MA",
+   "activeUsers": 63.0
+  },
+  {
+   "country": "Russia",
+   "countryId": "RU",
    "activeUsers": 62.0
   },
   {
@@ -505,14 +511,14 @@
    "activeUsers": 42.0
   },
   {
-   "country": "Pakistan",
-   "countryId": "PK",
+   "country": "Ecuador",
+   "countryId": "EC",
    "activeUsers": 41.0
   },
   {
-   "country": "Ecuador",
-   "countryId": "EC",
-   "activeUsers": 40.0
+   "country": "Pakistan",
+   "countryId": "PK",
+   "activeUsers": 41.0
   },
   {
    "country": "Venezuela",
@@ -525,19 +531,19 @@
    "activeUsers": 28.0
   },
   {
-   "country": "United Arab Emirates",
-   "countryId": "AE",
-   "activeUsers": 28.0
-  },
-  {
    "country": "Hong Kong",
    "countryId": "HK",
-   "activeUsers": 27.0
+   "activeUsers": 28.0
   },
   {
    "country": "Indonesia",
    "countryId": "ID",
-   "activeUsers": 27.0
+   "activeUsers": 28.0
+  },
+  {
+   "country": "United Arab Emirates",
+   "countryId": "AE",
+   "activeUsers": 28.0
   },
   {
    "country": "Chile",
@@ -557,7 +563,7 @@
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 19.0
+   "activeUsers": 20.0
   },
   {
    "country": "Ukraine",
@@ -580,6 +586,11 @@
    "activeUsers": 14.0
   },
   {
+   "country": "Kenya",
+   "countryId": "KE",
+   "activeUsers": 13.0
+  },
+  {
    "country": "Belarus",
    "countryId": "BY",
    "activeUsers": 12.0
@@ -590,9 +601,14 @@
    "activeUsers": 12.0
   },
   {
-   "country": "Kenya",
-   "countryId": "KE",
-   "activeUsers": 12.0
+   "country": "United Kingdom",
+   "countryId": "GB",
+   "activeUsers": 11.0
+  },
+  {
+   "country": "France",
+   "countryId": "FR",
+   "activeUsers": 10.0
   },
   {
    "country": "Nigeria",
@@ -625,19 +641,14 @@
    "activeUsers": 9.0
   },
   {
-   "country": "France",
-   "countryId": "FR",
-   "activeUsers": 9.0
-  },
-  {
    "country": "Japan",
    "countryId": "JP",
    "activeUsers": 9.0
   },
   {
-   "country": "United Kingdom",
-   "countryId": "GB",
-   "activeUsers": 9.0
+   "country": "T\u00fcrkiye",
+   "countryId": "TR",
+   "activeUsers": 7.0
   },
   {
    "country": "Uzbekistan",
@@ -660,14 +671,24 @@
    "activeUsers": 6.0
   },
   {
-   "country": "T\u00fcrkiye",
-   "countryId": "TR",
-   "activeUsers": 6.0
+   "country": "Israel",
+   "countryId": "IL",
+   "activeUsers": 5.0
   },
   {
    "country": "Paraguay",
    "countryId": "PY",
    "activeUsers": 5.0
+  },
+  {
+   "country": "Spain",
+   "countryId": "ES",
+   "activeUsers": 5.0
+  },
+  {
+   "country": "Belgium",
+   "countryId": "BE",
+   "activeUsers": 4.0
   },
   {
    "country": "Bolivia",
@@ -677,16 +698,6 @@
   {
    "country": "Gabon",
    "countryId": "GA",
-   "activeUsers": 4.0
-  },
-  {
-   "country": "Israel",
-   "countryId": "IL",
-   "activeUsers": 4.0
-  },
-  {
-   "country": "Spain",
-   "countryId": "ES",
    "activeUsers": 4.0
   },
   {
@@ -702,11 +713,6 @@
   {
    "country": "Australia",
    "countryId": "AU",
-   "activeUsers": 3.0
-  },
-  {
-   "country": "Belgium",
-   "countryId": "BE",
    "activeUsers": 3.0
   },
   {
@@ -870,31 +876,31 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 2666.0
-  },
-  {
-   "country": "Brazil",
-   "countryId": "BR",
-   "region": "State of Sao Paulo",
-   "activeUsers": 113.0
+   "activeUsers": 2668.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 113.0
+   "activeUsers": 118.0
+  },
+  {
+   "country": "Brazil",
+   "countryId": "BR",
+   "region": "State of Sao Paulo",
+   "activeUsers": 114.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 86.0
+   "activeUsers": 85.0
   },
   {
    "country": "China",
    "countryId": "CN",
    "region": "Other",
-   "activeUsers": 81.0
+   "activeUsers": 82.0
   },
   {
    "country": "Argentina",
@@ -930,7 +936,7 @@
    "country": "Vietnam",
    "countryId": "VN",
    "region": "Other",
-   "activeUsers": 46.0
+   "activeUsers": 47.0
   },
   {
    "country": "Brazil",
@@ -954,7 +960,7 @@
    "country": "Ecuador",
    "countryId": "EC",
    "region": "Other",
-   "activeUsers": 29.0
+   "activeUsers": 30.0
   },
   {
    "country": "Venezuela",
@@ -990,6 +996,12 @@
    "country": "China",
    "countryId": "CN",
    "region": "Sichuan",
+   "activeUsers": 26.0
+  },
+  {
+   "country": "Morocco",
+   "countryId": "MA",
+   "region": "Casablanca-Settat",
    "activeUsers": 25.0
   },
   {
@@ -999,16 +1011,10 @@
    "activeUsers": 24.0
   },
   {
-   "country": "Morocco",
-   "countryId": "MA",
-   "region": "Casablanca-Settat",
-   "activeUsers": 24.0
-  },
-  {
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 23.0
+   "activeUsers": 24.0
   },
   {
    "country": "Bangladesh",
@@ -1053,6 +1059,12 @@
    "activeUsers": 19.0
   },
   {
+   "country": "Hong Kong",
+   "countryId": "HK",
+   "region": "(not set)",
+   "activeUsers": 18.0
+  },
+  {
    "country": "Morocco",
    "countryId": "MA",
    "region": "Rabat-Sale-Kenitra",
@@ -1071,21 +1083,15 @@
    "activeUsers": 17.0
   },
   {
-   "country": "Hong Kong",
-   "countryId": "HK",
-   "region": "(not set)",
+   "country": "Indonesia",
+   "countryId": "ID",
+   "region": "Other",
    "activeUsers": 17.0
   },
   {
    "country": "Colombia",
    "countryId": "CO",
    "region": "Antioquia",
-   "activeUsers": 16.0
-  },
-  {
-   "country": "Indonesia",
-   "countryId": "ID",
-   "region": "Other",
    "activeUsers": 16.0
   },
   {
@@ -1128,6 +1134,12 @@
    "country": "Brazil",
    "countryId": "BR",
    "region": "State of Goias",
+   "activeUsers": 13.0
+  },
+  {
+   "country": "Kenya",
+   "countryId": "KE",
+   "region": "Other",
    "activeUsers": 13.0
   },
   {
@@ -1179,12 +1191,6 @@
    "activeUsers": 12.0
   },
   {
-   "country": "Kenya",
-   "countryId": "KE",
-   "region": "Other",
-   "activeUsers": 12.0
-  },
-  {
    "country": "Pakistan",
    "countryId": "PK",
    "region": "Sindh",
@@ -1206,6 +1212,12 @@
    "country": "Indonesia",
    "countryId": "ID",
    "region": "Special Region of Yogyakarta",
+   "activeUsers": 11.0
+  },
+  {
+   "country": "Italy",
+   "countryId": "IT",
+   "region": "Lombardy",
    "activeUsers": 11.0
   },
   {
@@ -1233,9 +1245,9 @@
    "activeUsers": 10.0
   },
   {
-   "country": "Italy",
-   "countryId": "IT",
-   "region": "Lombardy",
+   "country": "France",
+   "countryId": "FR",
+   "region": "Other",
    "activeUsers": 10.0
   },
   {
@@ -1269,6 +1281,18 @@
    "activeUsers": 10.0
   },
   {
+   "country": "United Kingdom",
+   "countryId": "GB",
+   "region": "England",
+   "activeUsers": 10.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Illinois",
+   "activeUsers": 10.0
+  },
+  {
    "country": "Vietnam",
    "countryId": "VN",
    "region": "Ha Noi",
@@ -1289,12 +1313,6 @@
   {
    "country": "Dominican Republic",
    "countryId": "DO",
-   "region": "Other",
-   "activeUsers": 9.0
-  },
-  {
-   "country": "France",
-   "countryId": "FR",
    "region": "Other",
    "activeUsers": 9.0
   },
@@ -1329,12 +1347,6 @@
    "activeUsers": 9.0
   },
   {
-   "country": "United Kingdom",
-   "countryId": "GB",
-   "region": "Other",
-   "activeUsers": 9.0
-  },
-  {
    "country": "Canada",
    "countryId": "CA",
    "region": "Other",
@@ -1345,6 +1357,12 @@
    "countryId": "PE",
    "region": "Other",
    "activeUsers": 8.0
+  },
+  {
+   "country": "T\u00fcrkiye",
+   "countryId": "TR",
+   "region": "Other",
+   "activeUsers": 7.0
   },
   {
    "country": "Kuwait",
@@ -1365,16 +1383,16 @@
    "activeUsers": 6.0
   },
   {
-   "country": "T\u00fcrkiye",
-   "countryId": "TR",
-   "region": "Other",
-   "activeUsers": 6.0
-  },
-  {
    "country": "Uzbekistan",
    "countryId": "UZ",
    "region": "Other",
    "activeUsers": 6.0
+  },
+  {
+   "country": "Israel",
+   "countryId": "IL",
+   "region": "Other",
+   "activeUsers": 5.0
   },
   {
    "country": "Paraguay",
@@ -1389,6 +1407,18 @@
    "activeUsers": 5.0
   },
   {
+   "country": "Spain",
+   "countryId": "ES",
+   "region": "Other",
+   "activeUsers": 5.0
+  },
+  {
+   "country": "Belgium",
+   "countryId": "BE",
+   "region": "Other",
+   "activeUsers": 4.0
+  },
+  {
    "country": "Bolivia",
    "countryId": "BO",
    "region": "Other",
@@ -1401,18 +1431,6 @@
    "activeUsers": 4.0
   },
   {
-   "country": "Israel",
-   "countryId": "IL",
-   "region": "Other",
-   "activeUsers": 4.0
-  },
-  {
-   "country": "Spain",
-   "countryId": "ES",
-   "region": "Other",
-   "activeUsers": 4.0
-  },
-  {
    "country": "Albania",
    "countryId": "AL",
    "region": "Other",
@@ -1421,12 +1439,6 @@
   {
    "country": "Australia",
    "countryId": "AU",
-   "region": "Other",
-   "activeUsers": 3.0
-  },
-  {
-   "country": "Belgium",
-   "countryId": "BE",
    "region": "Other",
    "activeUsers": 3.0
   },
@@ -1683,6 +1695,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "United Kingdom",
+   "countryId": "GB",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "United States",
    "countryId": "US",
    "region": "",
@@ -1704,43 +1722,43 @@
  "events": [
   {
    "name": "page_view",
-   "count": 13084.0,
-   "users": 4434.0
+   "count": 13586.0,
+   "users": 4465.0
   },
   {
    "name": "session_start",
-   "count": 4786.0,
-   "users": 4421.0
+   "count": 4830.0,
+   "users": 4452.0
   },
   {
    "name": "first_visit",
-   "count": 4402.0,
-   "users": 4398.0
+   "count": 4433.0,
+   "users": 4429.0
   },
   {
    "name": "scroll",
-   "count": 1577.0,
-   "users": 899.0
+   "count": 1633.0,
+   "users": 923.0
   },
   {
    "name": "user_engagement",
-   "count": 630.0,
-   "users": 118.0
+   "count": 666.0,
+   "users": 122.0
   },
   {
    "name": "export",
-   "count": 71.0,
-   "users": 14.0
+   "count": 76.0,
+   "users": 16.0
   },
   {
    "name": "cite_ack",
-   "count": 56.0,
-   "users": 53.0
+   "count": 58.0,
+   "users": 55.0
   },
   {
    "name": "view_search_results",
-   "count": 35.0,
-   "users": 8.0
+   "count": 40.0,
+   "users": 9.0
   },
   {
    "name": "feedback",
@@ -1749,8 +1767,8 @@
   },
   {
    "name": "click",
-   "count": 20.0,
-   "users": 6.0
+   "count": 22.0,
+   "users": 7.0
   },
   {
    "name": "cite",

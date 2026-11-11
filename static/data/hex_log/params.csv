@@ -15,7 +15,7 @@ env_var,salinity,2
 env_var,salinity_ave_corr,2
 env_var,spiciness0,4
 env_var,sst_c,4
-env_var,temperature,398
+env_var,temperature,408
 layers,ca_county_boundaries,3
 layers,ca_marine_protected_areas,1
 layers,ca_ports,1
@@ -38,8 +38,9 @@ taxa,Dungeness crab (species: Metacarcinus magister),14
 taxa,Humpback Whale (species: Megaptera novaeangliae),5
 taxa,Killer Whale (species: Orcinus orca),2
 taxa,Market squid (species: Doryteuthis opalescens),13
-taxa,Northern anchovy (species: Engraulis mordax),19
+taxa,Northern anchovy (species: Engraulis mordax),21
 taxa,Northern lampfish (species: Stenobrachius leucopsarus),16
+taxa,Pacific halibut (species: Hippoglossus stenolepis),4
 taxa,Pacific krill (species: Euphausia pacifica),6
 taxa,Pacific sardine (pilchard) (species: Sardinops sagax),262
 taxa,Sardinops sagax,1

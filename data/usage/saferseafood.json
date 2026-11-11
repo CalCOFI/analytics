@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 18.0,
-  "newUsers": 16.0,
-  "sessions": 20.0,
-  "engagedSessions": 6.0,
-  "screenPageViews": 19.0,
-  "eventCount": 70.0,
-  "userEngagementDuration": 437.0,
-  "avgEngagementSeconds": 24.3,
+  "activeUsers": 20.0,
+  "newUsers": 18.0,
+  "sessions": 23.0,
+  "engagedSessions": 7.0,
+  "screenPageViews": 22.0,
+  "eventCount": 80.0,
+  "userEngagementDuration": 450.0,
+  "avgEngagementSeconds": 22.5,
   "engagedSessionRate": 0.3,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 350.0,
-  "sessions": 233.3,
-  "engagedSessions": 50.0,
-  "avgEngagementSeconds": -43.2,
-  "screenPageViews": 216.7
+  "activeUsers": 400.0,
+  "sessions": 283.3,
+  "engagedSessions": 75.0,
+  "avgEngagementSeconds": -47.4,
+  "screenPageViews": 266.7
  },
  "daily": [
   {
@@ -272,6 +272,11 @@
    "sessions": 2.0
   },
   {
+   "date": "2026-11-10",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
    "date": "20260507",
    "activeUsers": 2.0,
    "sessions": 3.0
@@ -458,10 +463,11 @@
   2.29,
   2.57,
   2.71,
-  2.71,
-  2.71,
   2.86,
   2.86,
+  2.86,
+  3.0,
+  1.57,
   1.57,
   1.43,
   1.29,
@@ -489,7 +495,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 31.0
+   "activeUsers": 33.0
   },
   {
    "country": "Canada",
@@ -512,7 +518,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 20.0
+   "activeUsers": 22.0
   },
   {
    "country": "United States",
@@ -554,12 +560,12 @@
  "events": [
   {
    "name": "session_start",
-   "count": 40.0,
+   "count": 38.0,
    "users": 30.0
   },
   {
    "name": "page_view",
-   "count": 35.0,
+   "count": 36.0,
    "users": 30.0
   },
   {
@@ -569,13 +575,13 @@
   },
   {
    "name": "user_engagement",
-   "count": 20.0,
+   "count": 19.0,
    "users": 16.0
   },
   {
    "name": "scroll",
-   "count": 12.0,
-   "users": 10.0
+   "count": 10.0,
+   "users": 8.0
   },
   {
    "name": "form_start",

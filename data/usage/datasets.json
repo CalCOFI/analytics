@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-11-09",
+ "last_day": "2026-11-10",
  "totals_28d": {
-  "activeUsers": 206.0,
-  "newUsers": 124.0,
-  "sessions": 255.0,
-  "engagedSessions": 117.0,
-  "screenPageViews": 333.0,
-  "eventCount": 1079.0,
-  "userEngagementDuration": 7827.0,
-  "avgEngagementSeconds": 38.0,
+  "activeUsers": 196.0,
+  "newUsers": 120.0,
+  "sessions": 244.0,
+  "engagedSessions": 111.0,
+  "screenPageViews": 326.0,
+  "eventCount": 1064.0,
+  "userEngagementDuration": 7957.0,
+  "avgEngagementSeconds": 40.6,
   "engagedSessionRate": 0.5,
-  "viewsPerUser": 1.6
+  "viewsPerUser": 1.7
  },
  "delta_28d": {
-  "activeUsers": 104.0,
-  "sessions": 88.9,
-  "engagedSessions": 27.2,
-  "avgEngagementSeconds": -58.1,
-  "screenPageViews": 71.6
+  "activeUsers": 73.5,
+  "sessions": 64.9,
+  "engagedSessions": 13.3,
+  "avgEngagementSeconds": -49.6,
+  "screenPageViews": 57.5
  },
  "daily": [
   {
@@ -355,6 +355,11 @@
    "date": "2026-11-09",
    "activeUsers": 3.0,
    "sessions": 4.0
+  },
+  {
+   "date": "2026-11-10",
+   "activeUsers": 3.0,
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -423,13 +428,14 @@
   7.14,
   6.29,
   6.71,
-  5.43
+  5.43,
+  5.29
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 123.0
+   "activeUsers": 125.0
   },
   {
    "country": "Singapore",
@@ -587,7 +593,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 77.0
+   "activeUsers": 78.0
   },
   {
    "country": "Singapore",
@@ -599,13 +605,19 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 45.0
+   "activeUsers": 36.0
   },
   {
    "country": "China",
    "countryId": "CN",
    "region": "Other",
    "activeUsers": 33.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Virginia",
+   "activeUsers": 10.0
   },
   {
    "country": "Canada",
@@ -827,38 +839,38 @@
  "events": [
   {
    "name": "page_view",
-   "count": 701.0,
-   "users": 269.0
+   "count": 711.0,
+   "users": 271.0
   },
   {
    "name": "user_engagement",
-   "count": 561.0,
-   "users": 126.0
+   "count": 569.0,
+   "users": 127.0
   },
   {
    "name": "session_start",
-   "count": 326.0,
-   "users": 229.0
+   "count": 329.0,
+   "users": 231.0
   },
   {
    "name": "first_visit",
-   "count": 203.0,
-   "users": 203.0
+   "count": 205.0,
+   "users": 205.0
   },
   {
    "name": "scroll",
-   "count": 148.0,
-   "users": 65.0
+   "count": 153.0,
+   "users": 66.0
   },
   {
    "name": "click",
-   "count": 81.0,
-   "users": 31.0
+   "count": 83.0,
+   "users": 32.0
   },
   {
    "name": "file_download",
-   "count": 46.0,
-   "users": 17.0
+   "count": 48.0,
+   "users": 18.0
   },
   {
    "name": "form_start",
