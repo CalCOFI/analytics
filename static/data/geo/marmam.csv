@@ -2,11 +2,11 @@ country,countryId,region,activeUsers,sessions
 Brazil,BR,Other,1,1
 Canada,CA,Other,3,4
 China,CN,,1,1
-China,CN,Other,2,2
+China,CN,Other,3,3
 India,IN,Other,1,3
 Italy,IT,Other,1,2
 Singapore,SG,,1,1
 Singapore,SG,Other,9,9
-United States,US,California,22,32
+United States,US,California,23,33
 United States,US,Other,11,12
 United States,US,Virginia,11,11

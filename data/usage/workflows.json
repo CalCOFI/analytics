@@ -386,22 +386,22 @@
  "events": [
   {
    "name": "page_view",
-   "count": 59.0,
+   "count": 55.0,
    "users": 11.0
   },
   {
    "name": "user_engagement",
-   "count": 40.0,
+   "count": 38.0,
    "users": 5.0
   },
   {
    "name": "session_start",
-   "count": 34.0,
+   "count": 32.0,
    "users": 8.0
   },
   {
    "name": "scroll",
-   "count": 19.0,
+   "count": 16.0,
    "users": 4.0
   },
   {
