@@ -9,21 +9,21 @@
  "totals_28d": {
   "activeUsers": 278.0,
   "newUsers": 270.0,
-  "sessions": 277.0,
-  "engagedSessions": 10.0,
-  "screenPageViews": 282.0,
-  "eventCount": 840.0,
-  "userEngagementDuration": 223.0,
+  "sessions": 278.0,
+  "engagedSessions": 11.0,
+  "screenPageViews": 284.0,
+  "eventCount": 843.0,
+  "userEngagementDuration": 233.0,
   "avgEngagementSeconds": 0.8,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
   "activeUsers": 1290.0,
-  "sessions": 889.3,
-  "engagedSessions": -41.2,
+  "sessions": 892.9,
+  "engagedSessions": -35.3,
   "avgEngagementSeconds": -93.9,
-  "screenPageViews": 662.2
+  "screenPageViews": 667.6
  },
  "daily": [
   {
@@ -299,7 +299,7 @@
   {
    "date": "2026-11-11",
    "activeUsers": 2.0,
-   "sessions": 2.0
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -506,7 +506,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 440.0,
+   "count": 442.0,
    "users": 306.0
   },
   {
@@ -521,7 +521,7 @@
   },
   {
    "name": "user_engagement",
-   "count": 128.0,
+   "count": 129.0,
    "users": 14.0
   },
   {
@@ -1069,58 +1069,63 @@
    },
    {
     "date": "2026-11-11",
-    "requests": 937.0,
-    "bytes": 1143589249.0
+    "requests": 2470.0,
+    "bytes": 1180532355.0
+   },
+   {
+    "date": "2026-11-12",
+    "requests": 1166.0,
+    "bytes": 255217987.0
    }
   ],
   "totals_28d": {
-   "requests": 101606.0,
-   "bytes": 8874712789.0,
+   "requests": 104305.0,
+   "bytes": 9166873882.0,
    "clients": 6420.0,
-   "tool": 74812.0,
-   "browser": 26794.0
+   "tool": 75501.0,
+   "browser": 28804.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 45
+    "n": 48
    },
    {
     "path": "/robots.txt",
-    "n": 24
+    "n": 19
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 12
+    "n": 9
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2023-07-33P4/",
-    "n": 4
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/calcofi_ctd-cast_full.nc",
+    "n": 6
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/whales-seabirds-turtles/",
-    "n": 3
+    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=ph/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2301RL_CTDPrelim/csvs-plots/S_D/",
-    "n": 3
+    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=ph/169fcdbbea5b4c17658b8a40/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=salinity_pss78/16073ba63c734c7047d9e051/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/cdfw/dungeness-crab",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=salinity_btl/b9acdaa5c7eafef3a861cc13/",
-    "n": 3
+    "path": "/calcofi-db/ingest/calcofi_2022-edna/",
+    "n": 2
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zoodb/v2026.09.11/cce-lter_zoodb.nc",
-    "n": 3
+    "path": "/calcofi-db/ingest/farallon_bird-mammal/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2001-07-32NM/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0711NH_CTDFinalQC/asc-hdr/",
+    "n": 2
    }
   ]
  }

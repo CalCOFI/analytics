@@ -5,7 +5,7 @@ country,countryId,region,activeUsers,sessions
 Albania,AL,Other,3,3
 Algeria,DZ,Other,15,15
 Argentina,AR,Buenos Aires Province,62,62
-Argentina,AR,Other,56,56
+Argentina,AR,Other,57,57
 Armenia,AM,,1,1
 Armenia,AM,Other,1,1
 Australia,AU,Other,4,4
@@ -36,12 +36,12 @@ Canada,CA,British Columbia,10,21
 Canada,CA,Other,9,9
 Chile,CL,Other,12,12
 Chile,CL,Santiago Metropolitan Region,15,15
-China,CN,,1,1
+China,CN,,2,2
 China,CN,(not set),33,33
 China,CN,Guangdong Province,26,26
 China,CN,Hunan,12,12
 China,CN,Other,82,82
-China,CN,Shandong,10,10
+China,CN,Shandong,11,11
 China,CN,Sichuan,26,26
 China,CN,Yunnan,15,15
 China,CN,Zhejiang,10,10
@@ -75,7 +75,7 @@ Iran,IR,Other,1,1
 Iraq,IQ,Other,2,2
 Ireland,IE,Other,3,3
 Israel,IL,Other,5,5
-Italy,IT,Lombardy,11,116
+Italy,IT,Lombardy,11,119
 Italy,IT,Other,9,31
 Jamaica,JM,Other,2,2
 Japan,JP,Other,9,9
@@ -111,7 +111,7 @@ Russia,RU,Other,62,62
 Saudi Arabia,SA,Other,7,7
 Senegal,SN,Other,1,1
 Serbia,RS,Other,1,1
-Singapore,SG,,4,4
+Singapore,SG,,13,13
 Singapore,SG,(not set),2671,2678
 Singapore,SG,Other,9,9
 South Africa,ZA,Gauteng,21,21
@@ -131,7 +131,7 @@ United Arab Emirates,AE,Other,15,15
 United Kingdom,GB,England,10,11
 United Kingdom,GB,Other,1,1
 United States,US,,1,1
-United States,US,California,120,341
+United States,US,California,121,353
 United States,US,Illinois,12,12
 United States,US,New York,10,11
 United States,US,Other,79,94

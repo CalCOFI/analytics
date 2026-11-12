@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 35.0,
-  "newUsers": 28.0,
-  "sessions": 43.0,
+  "activeUsers": 36.0,
+  "newUsers": 29.0,
+  "sessions": 44.0,
   "engagedSessions": 21.0,
-  "screenPageViews": 40.0,
-  "eventCount": 414.0,
+  "screenPageViews": 41.0,
+  "eventCount": 418.0,
   "userEngagementDuration": 2353.0,
-  "avgEngagementSeconds": 67.2,
+  "avgEngagementSeconds": 65.4,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 52.2,
-  "sessions": 38.7,
+  "activeUsers": 56.5,
+  "sessions": 41.9,
   "engagedSessions": -4.5,
-  "avgEngagementSeconds": -54.4,
-  "screenPageViews": 2.6
+  "avgEngagementSeconds": -55.6,
+  "screenPageViews": 5.1
  },
  "daily": [
   {
@@ -453,8 +453,8 @@
   },
   {
    "date": "2026-11-11",
-   "activeUsers": 1.0,
-   "sessions": 2.0
+   "activeUsers": 2.0,
+   "sessions": 3.0
   },
   {
    "date": "20260701",
@@ -613,13 +613,13 @@
   2.43,
   2.43,
   2.0,
-  2.0,
   2.14,
-  1.43,
+  2.29,
   1.57,
-  1.43,
-  1.43,
-  1.86,
+  1.71,
+  1.57,
+  1.57,
+  2.0,
   2.0,
   2.14,
   2.29,
@@ -643,7 +643,7 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 6.0
+   "activeUsers": 5.0
   },
   {
    "country": "United Kingdom",
@@ -750,12 +750,6 @@
    "activeUsers": 2.0
   },
   {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 2.0
-  },
-  {
    "country": "",
    "countryId": "",
    "region": "",
@@ -804,6 +798,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 1.0
+  },
+  {
    "country": "United Kingdom",
    "countryId": "GB",
    "region": "",
@@ -819,18 +819,18 @@
  "events": [
   {
    "name": "session_start",
-   "count": 815.0,
-   "users": 77.0
-  },
-  {
-   "name": "page_view",
-   "count": 627.0,
+   "count": 816.0,
    "users": 78.0
   },
   {
+   "name": "page_view",
+   "count": 628.0,
+   "users": 79.0
+  },
+  {
    "name": "scroll",
-   "count": 567.0,
-   "users": 73.0
+   "count": 568.0,
+   "users": 74.0
   },
   {
    "name": "filter_submit",

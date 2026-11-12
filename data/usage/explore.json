@@ -7,23 +7,23 @@
  "first_day": "2026-08-28",
  "last_day": "2026-11-11",
  "totals_28d": {
-  "activeUsers": 4427.0,
-  "newUsers": 4354.0,
-  "sessions": 4518.0,
-  "engagedSessions": 849.0,
-  "screenPageViews": 9438.0,
-  "eventCount": 19978.0,
-  "userEngagementDuration": 67420.0,
-  "avgEngagementSeconds": 15.2,
+  "activeUsers": 4443.0,
+  "newUsers": 4367.0,
+  "sessions": 4544.0,
+  "engagedSessions": 868.0,
+  "screenPageViews": 9723.0,
+  "eventCount": 20386.0,
+  "userEngagementDuration": 70076.0,
+  "avgEngagementSeconds": 15.8,
   "engagedSessionRate": 0.2,
-  "viewsPerUser": 2.1
+  "viewsPerUser": 2.2
  },
  "delta_28d": {
-  "activeUsers": 2995.8,
-  "sessions": 1917.0,
-  "engagedSessions": 481.5,
-  "avgEngagementSeconds": -91.5,
-  "screenPageViews": 266.1
+  "activeUsers": 3007.0,
+  "sessions": 1928.6,
+  "engagedSessions": 494.5,
+  "avgEngagementSeconds": -91.2,
+  "screenPageViews": 277.2
  },
  "daily": [
   {
@@ -378,8 +378,8 @@
   },
   {
    "date": "2026-11-11",
-   "activeUsers": 22.0,
-   "sessions": 22.0
+   "activeUsers": 38.0,
+   "sessions": 48.0
   }
  ],
  "daily_mean7": [
@@ -453,13 +453,13 @@
   594.43,
   603.57,
   610.71,
-  597.43
+  599.71
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 2684.0
+   "activeUsers": 2693.0
   },
   {
    "country": "Brazil",
@@ -469,17 +469,17 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 250.0
+   "activeUsers": 251.0
   },
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 215.0
+   "activeUsers": 217.0
   },
   {
    "country": "Argentina",
    "countryId": "AR",
-   "activeUsers": 118.0
+   "activeUsers": 119.0
   },
   {
    "country": "Mexico",
@@ -888,7 +888,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 120.0
+   "activeUsers": 121.0
   },
   {
    "country": "Brazil",
@@ -924,7 +924,7 @@
    "country": "Argentina",
    "countryId": "AR",
    "region": "Other",
-   "activeUsers": 56.0
+   "activeUsers": 57.0
   },
   {
    "country": "Mexico",
@@ -1167,6 +1167,12 @@
    "activeUsers": 13.0
   },
   {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 13.0
+  },
+  {
    "country": "United Arab Emirates",
    "countryId": "AE",
    "region": "Abu Dhabi",
@@ -1207,6 +1213,12 @@
    "countryId": "US",
    "region": "Illinois",
    "activeUsers": 12.0
+  },
+  {
+   "country": "China",
+   "countryId": "CN",
+   "region": "Shandong",
+   "activeUsers": 11.0
   },
   {
    "country": "Ecuador",
@@ -1254,12 +1266,6 @@
    "country": "Canada",
    "countryId": "CA",
    "region": "British Columbia",
-   "activeUsers": 10.0
-  },
-  {
-   "country": "China",
-   "countryId": "CN",
-   "region": "Shandong",
    "activeUsers": 10.0
   },
   {
@@ -1455,12 +1461,6 @@
    "activeUsers": 4.0
   },
   {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 4.0
-  },
-  {
    "country": "Albania",
    "countryId": "AL",
    "region": "Other",
@@ -1506,6 +1506,12 @@
    "country": "Brunei",
    "countryId": "BN",
    "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "China",
+   "countryId": "CN",
+   "region": "",
    "activeUsers": 2.0
   },
   {
@@ -1602,12 +1608,6 @@
    "country": "Cambodia",
    "countryId": "KH",
    "region": "Other",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "China",
-   "countryId": "CN",
-   "region": "",
    "activeUsers": 1.0
   },
   {
@@ -1752,28 +1752,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 14293.0,
-   "users": 4499.0
+   "count": 14578.0,
+   "users": 4511.0
   },
   {
    "name": "session_start",
-   "count": 4871.0,
-   "users": 4486.0
+   "count": 4897.0,
+   "users": 4498.0
   },
   {
    "name": "first_visit",
-   "count": 4467.0,
-   "users": 4463.0
+   "count": 4480.0,
+   "users": 4476.0
   },
   {
    "name": "scroll",
-   "count": 1730.0,
-   "users": 945.0
+   "count": 1778.0,
+   "users": 951.0
   },
   {
    "name": "user_engagement",
-   "count": 738.0,
-   "users": 124.0
+   "count": 774.0,
+   "users": 125.0
   },
   {
    "name": "export",
