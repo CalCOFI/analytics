@@ -15,15 +15,15 @@ France,FR,Other,2,2
 Germany,DE,Other,2,3
 Hong Kong,HK,,1,1
 Hong Kong,HK,Other,1,1
-India,IN,Other,5,5
+India,IN,Other,6,7
 Indonesia,ID,Other,2,2
 Israel,IL,Other,2,3
-Italy,IT,Other,5,53
+Italy,IT,Other,5,54
 Japan,JP,Other,4,5
 Malta,MT,,1,1
 Malta,MT,Other,1,1
 Mexico,MX,Other,5,8
-New Zealand,NZ,Other,2,15
+New Zealand,NZ,Other,2,16
 Portugal,PT,Other,1,1
 Russia,RU,Other,5,9
 Singapore,SG,,6,6
@@ -37,6 +37,6 @@ Türkiye,TR,Other,1,1
 United Arab Emirates,AE,Other,1,1
 United Kingdom,GB,Other,4,5
 United States,US,,1,1
-United States,US,California,78,190
-United States,US,Other,38,50
+United States,US,California,78,196
+United States,US,Other,39,51
 United States,US,Virginia,10,10

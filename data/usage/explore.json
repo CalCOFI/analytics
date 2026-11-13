@@ -5,25 +5,25 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-11-11",
+ "last_day": "2026-11-12",
  "totals_28d": {
-  "activeUsers": 4443.0,
-  "newUsers": 4367.0,
-  "sessions": 4544.0,
-  "engagedSessions": 868.0,
-  "screenPageViews": 9723.0,
-  "eventCount": 20386.0,
-  "userEngagementDuration": 70076.0,
-  "avgEngagementSeconds": 15.8,
+  "activeUsers": 4449.0,
+  "newUsers": 4368.0,
+  "sessions": 4558.0,
+  "engagedSessions": 876.0,
+  "screenPageViews": 9701.0,
+  "eventCount": 20406.0,
+  "userEngagementDuration": 69649.0,
+  "avgEngagementSeconds": 15.7,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 2.2
  },
  "delta_28d": {
-  "activeUsers": 3007.0,
-  "sessions": 1928.6,
-  "engagedSessions": 494.5,
-  "avgEngagementSeconds": -91.2,
-  "screenPageViews": 277.2
+  "activeUsers": 3011.2,
+  "sessions": 1943.9,
+  "engagedSessions": 484.0,
+  "avgEngagementSeconds": -91.7,
+  "screenPageViews": 265.4
  },
  "daily": [
   {
@@ -379,7 +379,12 @@
   {
    "date": "2026-11-11",
    "activeUsers": 38.0,
-   "sessions": 48.0
+   "sessions": 49.0
+  },
+  {
+   "date": "2026-11-12",
+   "activeUsers": 13.0,
+   "sessions": 21.0
   }
  ],
  "daily_mean7": [
@@ -453,7 +458,8 @@
   594.43,
   603.57,
   610.71,
-  599.71
+  599.71,
+  423.43
  ],
  "geo_country": [
   {
@@ -469,7 +475,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 251.0
+   "activeUsers": 257.0
   },
   {
    "country": "China",
@@ -888,7 +894,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 121.0
+   "activeUsers": 126.0
   },
   {
    "country": "Brazil",
@@ -981,16 +987,16 @@
    "activeUsers": 29.0
   },
   {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Virginia",
+   "activeUsers": 29.0
+  },
+  {
    "country": "Venezuela",
    "countryId": "VE",
    "region": "Other",
    "activeUsers": 29.0
-  },
-  {
-   "country": "United States",
-   "countryId": "US",
-   "region": "Virginia",
-   "activeUsers": 28.0
   },
   {
    "country": "Brazil",
@@ -1752,38 +1758,38 @@
  "events": [
   {
    "name": "page_view",
-   "count": 14578.0,
-   "users": 4511.0
+   "count": 14692.0,
+   "users": 4517.0
   },
   {
    "name": "session_start",
-   "count": 4897.0,
-   "users": 4498.0
+   "count": 4919.0,
+   "users": 4504.0
   },
   {
    "name": "first_visit",
-   "count": 4480.0,
-   "users": 4476.0
+   "count": 4486.0,
+   "users": 4482.0
   },
   {
    "name": "scroll",
-   "count": 1778.0,
-   "users": 951.0
+   "count": 1802.0,
+   "users": 957.0
   },
   {
    "name": "user_engagement",
-   "count": 774.0,
-   "users": 125.0
+   "count": 794.0,
+   "users": 128.0
   },
   {
    "name": "export",
-   "count": 93.0,
-   "users": 17.0
+   "count": 95.0,
+   "users": 18.0
   },
   {
    "name": "cite_ack",
-   "count": 58.0,
-   "users": 55.0
+   "count": 60.0,
+   "users": 56.0
   },
   {
    "name": "view_search_results",

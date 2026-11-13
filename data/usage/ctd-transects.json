@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-08-10",
- "last_day": "2026-11-11",
+ "last_day": "2026-11-12",
  "totals_28d": {
-  "activeUsers": 72.0,
-  "newUsers": 47.0,
-  "sessions": 95.0,
-  "engagedSessions": 57.0,
-  "screenPageViews": 911.0,
-  "eventCount": 1180.0,
-  "userEngagementDuration": 11357.0,
-  "avgEngagementSeconds": 157.7,
+  "activeUsers": 78.0,
+  "newUsers": 52.0,
+  "sessions": 106.0,
+  "engagedSessions": 67.0,
+  "screenPageViews": 938.0,
+  "eventCount": 1237.0,
+  "userEngagementDuration": 11730.0,
+  "avgEngagementSeconds": 150.4,
   "engagedSessionRate": 0.6,
-  "viewsPerUser": 12.7
+  "viewsPerUser": 12.0
  },
  "delta_28d": {
-  "activeUsers": 4.3,
-  "sessions": -15.9,
-  "engagedSessions": -24.0,
-  "avgEngagementSeconds": 12.5,
-  "screenPageViews": 6.9
+  "activeUsers": 11.4,
+  "sessions": -3.6,
+  "engagedSessions": -5.6,
+  "avgEngagementSeconds": 9.1,
+  "screenPageViews": 11.4
  },
  "daily": [
   {
@@ -413,8 +413,13 @@
   },
   {
    "date": "2026-11-11",
-   "activeUsers": 5.0,
-   "sessions": 6.0
+   "activeUsers": 7.0,
+   "sessions": 9.0
+  },
+  {
+   "date": "2026-11-12",
+   "activeUsers": 7.0,
+   "sessions": 12.0
   }
  ],
  "daily_mean7": [
@@ -495,13 +500,14 @@
   3.43,
   4.71,
   5.14,
-  5.43
+  5.71,
+  5.29
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 109.0
+   "activeUsers": 112.0
   },
   {
    "country": "Italy",
@@ -509,29 +515,29 @@
    "activeUsers": 6.0
   },
   {
+   "country": "Canada",
+   "countryId": "CA",
+   "activeUsers": 4.0
+  },
+  {
+   "country": "Germany",
+   "countryId": "DE",
+   "activeUsers": 4.0
+  },
+  {
    "country": "Singapore",
    "countryId": "SG",
    "activeUsers": 4.0
   },
   {
-   "country": "Canada",
-   "countryId": "CA",
+   "country": "France",
+   "countryId": "FR",
    "activeUsers": 3.0
   },
   {
    "country": "United Kingdom",
    "countryId": "GB",
    "activeUsers": 3.0
-  },
-  {
-   "country": "Germany",
-   "countryId": "DE",
-   "activeUsers": 2.0
-  },
-  {
-   "country": "France",
-   "countryId": "FR",
-   "activeUsers": 1.0
   },
   {
    "country": "Indonesia",
@@ -575,7 +581,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 25.0
+   "activeUsers": 27.0
   },
   {
    "country": "United States",
@@ -587,7 +593,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Arizona",
-   "activeUsers": 12.0
+   "activeUsers": 13.0
   },
   {
    "country": "Italy",
@@ -599,6 +605,18 @@
    "country": "Canada",
    "countryId": "CA",
    "region": "Other",
+   "activeUsers": 4.0
+  },
+  {
+   "country": "Germany",
+   "countryId": "DE",
+   "region": "Other",
+   "activeUsers": 4.0
+  },
+  {
+   "country": "France",
+   "countryId": "FR",
+   "region": "Other",
    "activeUsers": 3.0
   },
   {
@@ -608,22 +626,10 @@
    "activeUsers": 3.0
   },
   {
-   "country": "Germany",
-   "countryId": "DE",
-   "region": "Other",
-   "activeUsers": 2.0
-  },
-  {
    "country": "United Kingdom",
    "countryId": "GB",
    "region": "Other",
    "activeUsers": 2.0
-  },
-  {
-   "country": "France",
-   "countryId": "FR",
-   "region": "Other",
-   "activeUsers": 1.0
   },
   {
    "country": "Indonesia",
@@ -677,28 +683,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 2058.0,
-   "users": 118.0
+   "count": 2101.0,
+   "users": 123.0
   },
   {
    "name": "scroll",
-   "count": 287.0,
-   "users": 89.0
+   "count": 297.0,
+   "users": 94.0
   },
   {
    "name": "session_start",
-   "count": 239.0,
-   "users": 107.0
+   "count": 254.0,
+   "users": 112.0
   },
   {
    "name": "user_engagement",
-   "count": 154.0,
-   "users": 42.0
+   "count": 160.0,
+   "users": 43.0
   },
   {
    "name": "first_visit",
-   "count": 91.0,
-   "users": 88.0
+   "count": 98.0,
+   "users": 93.0
   },
   {
    "name": "click",

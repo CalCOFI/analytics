@@ -3,7 +3,7 @@ Argentina,AR,Other,5,5
 Bangladesh,BD,Other,4,4
 Belgium,BE,Other,2,2
 Bolivia,BO,Other,1,1
-Brazil,BR,Other,9,9
+Brazil,BR,Other,10,10
 Brazil,BR,State of Sao Paulo,10,10
 Canada,CA,Other,3,3
 China,CN,,9,9
@@ -30,13 +30,13 @@ Mexico,MX,Other,4,4
 Morocco,MA,Other,1,1
 Nepal,NP,Other,2,2
 Netherlands,NL,Other,1,1
-New Zealand,NZ,Other,1,1
+New Zealand,NZ,Other,1,2
 Pakistan,PK,Other,2,2
 Peru,PE,Other,1,1
 Philippines,PH,Other,3,3
 Qatar,QA,Other,1,1
 Russia,RU,Other,2,2
-Singapore,SG,,740,741
+Singapore,SG,,742,743
 Singapore,SG,(not set),6749,6696
 Singapore,SG,Other,6,6
 South Korea,KR,Other,3,7
@@ -47,9 +47,9 @@ Syria,SY,Other,1,1
 Türkiye,TR,Other,2,2
 United Kingdom,GB,Other,3,3
 United States,US,,1,1
-United States,US,California,27,54
+United States,US,California,28,55
 United States,US,New York,11,11
-United States,US,Other,82,87
+United States,US,Other,86,91
 United States,US,Virginia,98,99
 Uzbekistan,UZ,,1,1
 Uzbekistan,UZ,Other,1,1

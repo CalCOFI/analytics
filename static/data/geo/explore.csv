@@ -32,7 +32,7 @@ Brazil,BR,State of Santa Catarina,17,17
 Brazil,BR,State of Sao Paulo,115,115
 Brunei,BN,Other,2,2
 Cambodia,KH,Other,1,1
-Canada,CA,British Columbia,10,21
+Canada,CA,British Columbia,10,22
 Canada,CA,Other,9,9
 Chile,CL,Other,12,12
 Chile,CL,Santiago Metropolitan Region,15,15
@@ -75,7 +75,7 @@ Iran,IR,Other,1,1
 Iraq,IQ,Other,2,2
 Ireland,IE,Other,3,3
 Israel,IL,Other,5,5
-Italy,IT,Lombardy,11,119
+Italy,IT,Lombardy,11,123
 Italy,IT,Other,9,31
 Jamaica,JM,Other,2,2
 Japan,JP,Other,9,9
@@ -95,7 +95,7 @@ Morocco,MA,Rabat-Sale-Kenitra,18,18
 Nepal,NP,,1,1
 Nepal,NP,Other,3,3
 Netherlands,NL,Other,1,1
-New Zealand,NZ,Other,3,10
+New Zealand,NZ,Other,3,11
 Nigeria,NG,Other,10,10
 Oman,OM,Other,6,6
 Pakistan,PK,Other,10,10
@@ -131,11 +131,11 @@ United Arab Emirates,AE,Other,15,15
 United Kingdom,GB,England,10,11
 United Kingdom,GB,Other,1,1
 United States,US,,1,1
-United States,US,California,121,353
+United States,US,California,126,369
 United States,US,Illinois,12,12
 United States,US,New York,10,11
 United States,US,Other,79,94
-United States,US,Virginia,28,28
+United States,US,Virginia,29,29
 Uruguay,UY,Other,2,2
 Uzbekistan,UZ,,1,1
 Uzbekistan,UZ,Other,7,7

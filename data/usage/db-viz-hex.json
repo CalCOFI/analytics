@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 36.0,
-  "newUsers": 29.0,
-  "sessions": 44.0,
-  "engagedSessions": 21.0,
-  "screenPageViews": 41.0,
-  "eventCount": 418.0,
-  "userEngagementDuration": 2353.0,
-  "avgEngagementSeconds": 65.4,
+  "activeUsers": 35.0,
+  "newUsers": 28.0,
+  "sessions": 43.0,
+  "engagedSessions": 20.0,
+  "screenPageViews": 39.0,
+  "eventCount": 395.0,
+  "userEngagementDuration": 2157.0,
+  "avgEngagementSeconds": 61.6,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 56.5,
-  "sessions": 41.9,
-  "engagedSessions": -4.5,
-  "avgEngagementSeconds": -55.6,
-  "screenPageViews": 5.1
+  "activeUsers": 45.8,
+  "sessions": 34.4,
+  "engagedSessions": -13.0,
+  "avgEngagementSeconds": -58.7,
+  "screenPageViews": -4.9
  },
  "daily": [
   {
@@ -819,53 +819,53 @@
  "events": [
   {
    "name": "session_start",
-   "count": 816.0,
-   "users": 78.0
+   "count": 798.0,
+   "users": 77.0
   },
   {
    "name": "page_view",
-   "count": 628.0,
-   "users": 79.0
+   "count": 616.0,
+   "users": 78.0
   },
   {
    "name": "scroll",
-   "count": 568.0,
-   "users": 74.0
+   "count": 556.0,
+   "users": 73.0
   },
   {
    "name": "filter_submit",
-   "count": 434.0,
+   "count": 427.0,
    "users": 30.0
   },
   {
    "name": "map_query_env",
-   "count": 434.0,
+   "count": 427.0,
    "users": 30.0
   },
   {
    "name": "map_query_sp",
-   "count": 434.0,
+   "count": 427.0,
    "users": 30.0
   },
   {
    "name": "user_engagement",
-   "count": 359.0,
-   "users": 45.0
+   "count": 353.0,
+   "users": 44.0
   },
   {
    "name": "start_tour",
-   "count": 283.0,
-   "users": 69.0
-  },
-  {
-   "name": "select_tab",
-   "count": 152.0,
-   "users": 21.0
+   "count": 271.0,
+   "users": 68.0
   },
   {
    "name": "select_theme",
    "count": 143.0,
    "users": 6.0
+  },
+  {
+   "name": "select_tab",
+   "count": 127.0,
+   "users": 19.0
   },
   {
    "name": "filter_no_results",
@@ -874,7 +874,7 @@
   },
   {
    "name": "open_filters",
-   "count": 101.0,
+   "count": 93.0,
    "users": 16.0
   }
  ],
