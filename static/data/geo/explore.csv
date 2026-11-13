@@ -40,7 +40,7 @@ China,CN,,2,2
 China,CN,(not set),33,33
 China,CN,Guangdong Province,26,26
 China,CN,Hunan,12,12
-China,CN,Other,82,82
+China,CN,Other,83,83
 China,CN,Shandong,11,11
 China,CN,Sichuan,26,26
 China,CN,Yunnan,15,15
@@ -75,7 +75,7 @@ Iran,IR,Other,1,1
 Iraq,IQ,Other,2,2
 Ireland,IE,Other,3,3
 Israel,IL,Other,5,5
-Italy,IT,Lombardy,11,123
+Italy,IT,Lombardy,11,125
 Italy,IT,Other,9,31
 Jamaica,JM,Other,2,2
 Japan,JP,Other,9,9
@@ -131,7 +131,7 @@ United Arab Emirates,AE,Other,15,15
 United Kingdom,GB,England,10,11
 United Kingdom,GB,Other,1,1
 United States,US,,1,1
-United States,US,California,126,369
+United States,US,California,129,372
 United States,US,Illinois,12,12
 United States,US,New York,10,11
 United States,US,Other,79,94

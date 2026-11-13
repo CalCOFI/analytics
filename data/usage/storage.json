@@ -1091,58 +1091,63 @@
    },
    {
     "date": "2026-11-12",
-    "requests": 1166.0,
-    "bytes": 255217987.0
+    "requests": 2275.0,
+    "bytes": 527251545.0
+   },
+   {
+    "date": "2026-11-13",
+    "requests": 1114.0,
+    "bytes": 9770503.0
    }
   ],
   "totals_28d": {
-   "requests": 99706.0,
-   "bytes": 9030749171.0,
+   "requests": 101929.0,
+   "bytes": 9312553232.0,
    "clients": 6420.0,
-   "tool": 71640.0,
-   "browser": 28066.0
+   "tool": 72363.0,
+   "browser": 29566.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 48
+    "n": 59
    },
    {
     "path": "/robots.txt",
-    "n": 19
+    "n": 23
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2024-01-33UD/bcbed3449cb117579baf34f9/",
+    "n": 22
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 9
+    "n": 18
+   },
+   {
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=oxygen_ml_l_2_cruise_corr/",
+    "n": 12
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_bottle/v2026.09.11/calcofi_bottle.nc",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/calcofi_ctd-cast.nc",
+    "n": 5
    },
    {
     "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/calcofi_ctd-cast_full.nc",
-    "n": 6
+    "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=ph/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/v2026.09.11/calcofi_dic.nc",
+    "n": 5
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=ph/169fcdbbea5b4c17658b8a40/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/cdfw/dungeness-crab",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ingest/calcofi_2022-edna/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ingest/farallon_bird-mammal/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0711NH_CTDFinalQC/asc-hdr/",
-    "n": 2
+    "path": "/calcofi-files-public/netcdf/calcofi_mets/v2026.09.11/calcofi_mets.nc",
+    "n": 5
    }
   ]
  }

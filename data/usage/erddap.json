@@ -1645,58 +1645,63 @@
    },
    {
     "date": "2026-11-12",
-    "requests": 2244.0,
-    "bytes": 62537236.0
+    "requests": 6363.0,
+    "bytes": 168032516.0
+   },
+   {
+    "date": "2026-11-13",
+    "requests": 2354.0,
+    "bytes": 276264522.0
    }
   ],
   "totals_28d": {
-   "requests": 145651.0,
-   "bytes": 4005757427.0,
+   "requests": 152124.0,
+   "bytes": 4387517229.0,
    "clients": 3739.0,
-   "tool": 54441.0,
-   "browser": 91210.0
+   "tool": 56428.0,
+   "browser": 95696.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 394
-   },
-   {
     "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 381
+    "n": 192
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 155
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 145
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 189
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 97
+    "n": 123
    },
    {
-    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
-    "n": 54
-   },
-   {
-    "path": "/erddap/tabledap/farallon_bird-mammal.graph",
-    "n": 50
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 70
    },
    {
     "path": "/erddap/index.html",
-    "n": 48
+    "n": 65
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 28
+    "n": 57
    },
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 23
+    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
+    "n": 47
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.graph",
+    "n": 35
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.subset",
+    "n": 33
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_mets.graph",
+    "n": 28
    }
   ]
  }

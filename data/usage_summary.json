@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-13T03:36:25+00:00",
+ "generated": "2026-11-13T11:17:55+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 1757.0,
-  "activeUsers": 14603.0,
-  "sessions": 14940.0
+  "engagedSessions": 1762.0,
+  "activeUsers": 14610.0,
+  "sessions": 14949.0
  },
  "n_mostly_automated": 3,
  "products": [
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 876.0,
-   "activeUsers": 4449.0,
-   "sessions": 4558.0,
+   "engagedSessions": 881.0,
+   "activeUsers": 4453.0,
+   "sessions": 4564.0,
    "engagementRate": 0.2,
-   "avgEngagementSeconds": 15.7,
-   "delta": 484.0,
+   "avgEngagementSeconds": 15.8,
+   "delta": 487.3,
    "spark": [
     2.0,
     2.0,
@@ -90,7 +90,7 @@
     69.0,
     53.0,
     38.0,
-    13.0
+    17.0
    ],
    "mostly_automated": false
   },
@@ -857,10 +857,10 @@
    "slug": "db-query",
    "title": "db-query",
    "engagedSessions": 15.0,
-   "activeUsers": 97.0,
-   "sessions": 101.0,
+   "activeUsers": 100.0,
+   "sessions": 104.0,
    "engagementRate": 0.1,
-   "avgEngagementSeconds": 9.7,
+   "avgEngagementSeconds": 9.5,
    "delta": -6.2,
    "spark": [
     1.0,
@@ -918,7 +918,7 @@
     3.0,
     1.0,
     1.0,
-    2.0,
+    5.0,
     1.0,
     1.0,
     0.0,

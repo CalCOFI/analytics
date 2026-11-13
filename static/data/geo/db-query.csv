@@ -1,5 +1,5 @@
 country,countryId,region,activeUsers,sessions
-China,CN,Other,8,8
+China,CN,Other,10,10
 Germany,DE,Other,1,1
 Italy,IT,Other,6,34
 Russia,RU,Other,1,1
@@ -10,4 +10,4 @@ United Kingdom,GB,,1,1
 United Kingdom,GB,Other,1,1
 United States,US,California,16,40
 United States,US,Oregon,76,76
-United States,US,Other,6,8
+United States,US,Other,7,9
