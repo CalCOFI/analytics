@@ -819,42 +819,42 @@
  "events": [
   {
    "name": "session_start",
-   "count": 797.0,
-   "users": 77.0
+   "count": 793.0,
+   "users": 76.0
   },
   {
    "name": "page_view",
-   "count": 616.0,
-   "users": 78.0
+   "count": 614.0,
+   "users": 77.0
   },
   {
    "name": "scroll",
-   "count": 556.0,
-   "users": 73.0
+   "count": 554.0,
+   "users": 72.0
   },
   {
    "name": "filter_submit",
-   "count": 427.0,
+   "count": 426.0,
    "users": 30.0
   },
   {
    "name": "map_query_env",
-   "count": 427.0,
+   "count": 426.0,
    "users": 30.0
   },
   {
    "name": "map_query_sp",
-   "count": 427.0,
+   "count": 426.0,
    "users": 30.0
   },
   {
    "name": "user_engagement",
-   "count": 352.0,
+   "count": 351.0,
    "users": 44.0
   },
   {
    "name": "start_tour",
-   "count": 271.0,
+   "count": 270.0,
    "users": 68.0
   },
   {

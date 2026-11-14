@@ -1,10 +1,10 @@
 country,countryId,region,activeUsers,sessions
-Canada,CA,Other,4,5
+Canada,CA,Other,2,3
 France,FR,Other,3,3
-Germany,DE,Other,6,6
+Germany,DE,Other,4,4
 Indonesia,ID,Other,1,1
 Israel,IL,Other,1,1
-Italy,IT,Other,6,63
+Italy,IT,Other,6,61
 Mexico,MX,Other,1,1
 Poland,PL,Other,1,1
 Singapore,SG,,1,1
@@ -14,7 +14,7 @@ United Arab Emirates,AE,Other,1,1
 United Kingdom,GB,,1,1
 United Kingdom,GB,Other,2,2
 United States,US,Arizona,32,32
-United States,US,California,59,223
+United States,US,California,59,222
 United States,US,Colorado,21,21
 United States,US,Other,26,31
 United States,US,Virginia,16,15

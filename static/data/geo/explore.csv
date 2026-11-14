@@ -5,10 +5,10 @@ country,countryId,region,activeUsers,sessions
 Albania,AL,Other,3,3
 Algeria,DZ,Other,15,15
 Argentina,AR,Buenos Aires Province,62,62
-Argentina,AR,Other,57,57
+Argentina,AR,Other,56,56
 Armenia,AM,,1,1
 Armenia,AM,Other,1,1
-Australia,AU,Other,4,4
+Australia,AU,Other,3,3
 Austria,AT,Other,1,1
 Azerbaijan,AZ,Other,10,10
 Bahrain,BH,Other,9,9
@@ -20,7 +20,7 @@ Belgium,BE,Other,4,7
 Bolivia,BO,Other,4,4
 Botswana,BW,,1,1
 Botswana,BW,Other,1,1
-Brazil,BR,Other,50,50
+Brazil,BR,Other,59,59
 Brazil,BR,State of Bahia,10,10
 Brazil,BR,State of Goias,13,13
 Brazil,BR,State of Minas Gerais,42,42
@@ -29,11 +29,11 @@ Brazil,BR,State of Pernambuco,10,10
 Brazil,BR,State of Rio Grande do Sul,26,26
 Brazil,BR,State of Rio de Janeiro,31,31
 Brazil,BR,State of Santa Catarina,17,17
-Brazil,BR,State of Sao Paulo,115,115
+Brazil,BR,State of Sao Paulo,114,114
 Brunei,BN,Other,2,2
 Cambodia,KH,Other,1,1
 Canada,CA,British Columbia,10,22
-Canada,CA,Other,9,9
+Canada,CA,Other,8,8
 Chile,CL,Other,12,12
 Chile,CL,Santiago Metropolitan Region,15,15
 China,CN,,2,2
@@ -41,12 +41,12 @@ China,CN,(not set),33,33
 China,CN,Guangdong Province,26,26
 China,CN,Hunan,12,12
 China,CN,Other,83,83
-China,CN,Shandong,11,11
+China,CN,Shandong,10,10
 China,CN,Sichuan,27,27
 China,CN,Yunnan,15,15
 China,CN,Zhejiang,10,10
 Colombia,CO,Antioquia,16,16
-Colombia,CO,Bogota,25,25
+Colombia,CO,Bogota,24,24
 Colombia,CO,Other,29,29
 Congo - Brazzaville,CG,Other,1,1
 Czechia,CZ,Other,1,1
@@ -75,7 +75,7 @@ Iran,IR,Other,1,1
 Iraq,IQ,Other,2,2
 Ireland,IE,Other,3,3
 Israel,IL,Other,5,5
-Italy,IT,Lombardy,11,127
+Italy,IT,Lombardy,11,123
 Italy,IT,Other,9,31
 Jamaica,JM,Other,2,2
 Japan,JP,Other,9,9
@@ -99,7 +99,7 @@ New Zealand,NZ,Other,3,11
 Nigeria,NG,Other,10,10
 Oman,OM,Other,6,6
 Pakistan,PK,Other,10,10
-Pakistan,PK,Punjab,20,20
+Pakistan,PK,Punjab,19,19
 Pakistan,PK,Sindh,12,12
 Panama,PA,Other,1,1
 Paraguay,PY,Other,5,5
@@ -108,7 +108,7 @@ Peru,PE,Other,8,8
 Philippines,PH,Other,11,11
 Qatar,QA,Other,2,2
 Russia,RU,Other,62,62
-Saudi Arabia,SA,Other,7,7
+Saudi Arabia,SA,Other,6,6
 Senegal,SN,Other,1,1
 Serbia,RS,Other,1,1
 Singapore,SG,,13,13
@@ -131,11 +131,11 @@ United Arab Emirates,AE,Other,15,15
 United Kingdom,GB,England,10,11
 United Kingdom,GB,Other,1,1
 United States,US,,1,1
-United States,US,California,132,377
-United States,US,Illinois,12,12
+United States,US,California,129,365
+United States,US,Illinois,11,11
 United States,US,New York,10,11
-United States,US,Other,79,94
-United States,US,Virginia,29,29
+United States,US,Other,87,103
+United States,US,Virginia,27,27
 Uruguay,UY,Other,2,2
 Uzbekistan,UZ,,1,1
 Uzbekistan,UZ,Other,7,7

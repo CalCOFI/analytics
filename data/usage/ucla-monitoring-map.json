@@ -1000,17 +1000,17 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1815.0,
+   "count": 1814.0,
    "users": 1068.0
   },
   {
    "name": "session_start",
-   "count": 1648.0,
+   "count": 1647.0,
    "users": 1053.0
   },
   {
    "name": "scroll",
-   "count": 1564.0,
+   "count": 1563.0,
    "users": 977.0
   },
   {

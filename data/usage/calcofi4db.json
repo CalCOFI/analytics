@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "2026-11-13",
  "totals_28d": {
-  "activeUsers": 485.0,
-  "newUsers": 481.0,
-  "sessions": 490.0,
+  "activeUsers": 489.0,
+  "newUsers": 485.0,
+  "sessions": 494.0,
   "engagedSessions": 4.0,
-  "screenPageViews": 490.0,
-  "eventCount": 1472.0,
+  "screenPageViews": 494.0,
+  "eventCount": 1484.0,
   "userEngagementDuration": 101.0,
   "avgEngagementSeconds": 0.2,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 37.0,
-  "sessions": 36.1,
+  "activeUsers": 38.1,
+  "sessions": 37.2,
   "engagedSessions": -71.4,
   "avgEngagementSeconds": -81.8,
-  "screenPageViews": 36.1
+  "screenPageViews": 37.2
  },
  "daily": [
   {
@@ -708,8 +708,8 @@
   },
   {
    "date": "2026-11-13",
-   "activeUsers": 6.0,
-   "sessions": 6.0
+   "activeUsers": 10.0,
+   "sessions": 10.0
   }
  ],
  "daily_mean7": [
@@ -849,13 +849,13 @@
   15.14,
   14.86,
   14.14,
-  11.57
+  12.14
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 1382.0
+   "activeUsers": 1369.0
   },
   {
    "country": "United States",
@@ -870,7 +870,7 @@
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 17.0
+   "activeUsers": 16.0
   },
   {
    "country": "Argentina",
@@ -1081,12 +1081,6 @@
    "activeUsers": 1352.0
   },
   {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 29.0
-  },
-  {
    "country": "Brazil",
    "countryId": "BR",
    "region": "Other",
@@ -1099,16 +1093,22 @@
    "activeUsers": 17.0
   },
   {
-   "country": "China",
-   "countryId": "CN",
-   "region": "Other",
-   "activeUsers": 14.0
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
+   "activeUsers": 16.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
    "activeUsers": 14.0
+  },
+  {
+   "country": "China",
+   "countryId": "CN",
+   "region": "Other",
+   "activeUsers": 13.0
   },
   {
    "country": "United States",
@@ -1408,18 +1408,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1496.0,
-   "users": 1467.0
+   "count": 1482.0,
+   "users": 1453.0
   },
   {
    "name": "session_start",
-   "count": 1475.0,
-   "users": 1465.0
+   "count": 1461.0,
+   "users": 1451.0
   },
   {
    "name": "first_visit",
-   "count": 1463.0,
-   "users": 1463.0
+   "count": 1449.0,
+   "users": 1449.0
   },
   {
    "name": "scroll",

@@ -585,28 +585,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 150.0,
-   "users": 82.0
+   "count": 144.0,
+   "users": 81.0
   },
   {
    "name": "user_engagement",
-   "count": 94.0,
+   "count": 91.0,
    "users": 40.0
   },
   {
    "name": "session_start",
-   "count": 83.0,
-   "users": 65.0
+   "count": 82.0,
+   "users": 64.0
   },
   {
    "name": "first_visit",
-   "count": 60.0,
-   "users": 60.0
+   "count": 59.0,
+   "users": 59.0
   },
   {
    "name": "scroll",
-   "count": 43.0,
-   "users": 21.0
+   "count": 42.0,
+   "users": 20.0
   },
   {
    "name": "click",

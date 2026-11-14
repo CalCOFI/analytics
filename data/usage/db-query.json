@@ -7,23 +7,23 @@
  "first_day": "2026-05-19",
  "last_day": "20260728",
  "totals_28d": {
-  "activeUsers": 104.0,
-  "newUsers": 95.0,
-  "sessions": 108.0,
+  "activeUsers": 105.0,
+  "newUsers": 96.0,
+  "sessions": 109.0,
   "engagedSessions": 15.0,
-  "screenPageViews": 114.0,
-  "eventCount": 698.0,
+  "screenPageViews": 115.0,
+  "eventCount": 701.0,
   "userEngagementDuration": 954.0,
-  "avgEngagementSeconds": 9.2,
+  "avgEngagementSeconds": 9.1,
   "engagedSessionRate": 0.1,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 372.7,
-  "sessions": 272.4,
+  "activeUsers": 377.3,
+  "sessions": 275.9,
   "engagedSessions": -6.2,
-  "avgEngagementSeconds": -92.4,
-  "screenPageViews": 216.7
+  "avgEngagementSeconds": -92.5,
+  "screenPageViews": 219.4
  },
  "daily": [
   {
@@ -513,8 +513,8 @@
   },
   {
    "date": "2026-11-13",
-   "activeUsers": 4.0,
-   "sessions": 4.0
+   "activeUsers": 5.0,
+   "sessions": 5.0
   },
   {
    "date": "20260519",
@@ -785,13 +785,13 @@
   2.86,
   2.86,
   2.57,
-  2.86,
+  3.0,
+  2.57,
   2.43,
-  2.29,
-  1.86,
-  1.86,
-  1.86,
-  1.29,
+  2.0,
+  2.0,
+  2.0,
+  1.43,
   1.0,
   1.14,
   1.14,
@@ -946,42 +946,42 @@
  "events": [
   {
    "name": "page_view",
-   "count": 176.0,
-   "users": 126.0
+   "count": 174.0,
+   "users": 127.0
   },
   {
    "name": "scroll",
-   "count": 165.0,
+   "count": 162.0,
    "users": 117.0
   },
   {
    "name": "query_view",
-   "count": 157.0,
+   "count": 153.0,
    "users": 89.0
   },
   {
+   "name": "session_start",
+   "count": 146.0,
+   "users": 124.0
+  },
+  {
    "name": "query_run",
-   "count": 148.0,
+   "count": 145.0,
    "users": 59.0
   },
   {
-   "name": "session_start",
-   "count": 145.0,
-   "users": 123.0
-  },
-  {
    "name": "first_visit",
-   "count": 116.0,
-   "users": 116.0
+   "count": 117.0,
+   "users": 117.0
   },
   {
    "name": "query_success",
-   "count": 105.0,
+   "count": 102.0,
    "users": 33.0
   },
   {
    "name": "user_engagement",
-   "count": 76.0,
+   "count": 74.0,
    "users": 36.0
   },
   {
