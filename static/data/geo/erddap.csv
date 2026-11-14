@@ -1,16 +1,17 @@
 country,countryId,region,activeUsers,sessions
-Argentina,AR,Other,5,5
+Argentina,AR,Other,6,6
 Bangladesh,BD,Other,4,4
 Belgium,BE,Other,2,2
 Bolivia,BO,Other,1,1
+Bosnia & Herzegovina,BA,Other,1,1
 Brazil,BR,Other,10,10
 Brazil,BR,State of Sao Paulo,10,10
 Canada,CA,Other,3,3
-China,CN,,9,9
+China,CN,,25,25
 China,CN,(not set),157,157
-China,CN,Beijing,103,103
+China,CN,Beijing,122,122
 China,CN,Other,48,49
-Colombia,CO,Other,18,18
+Colombia,CO,Other,19,19
 Costa Rica,CR,Other,1,1
 Ecuador,EC,Other,4,4
 France,FR,Other,2,2
@@ -22,7 +23,7 @@ Indonesia,ID,Other,4,4
 Ireland,IE,Other,1,1
 Israel,IL,Other,2,2
 Italy,IT,Other,6,34
-Japan,JP,Other,4,4
+Japan,JP,Other,5,5
 Kuwait,KW,Other,1,1
 Lithuania,LT,Other,1,1
 Malaysia,MY,Other,5,5
@@ -31,12 +32,12 @@ Morocco,MA,Other,1,1
 Nepal,NP,Other,2,2
 Netherlands,NL,Other,1,1
 New Zealand,NZ,Other,1,2
-Pakistan,PK,Other,2,2
+Pakistan,PK,Other,3,3
 Peru,PE,Other,1,1
 Philippines,PH,Other,3,3
 Qatar,QA,Other,1,1
 Russia,RU,Other,2,2
-Singapore,SG,,742,743
+Singapore,SG,,1543,1543
 Singapore,SG,(not set),6749,6696
 Singapore,SG,Other,6,6
 South Korea,KR,Other,3,7
@@ -47,11 +48,11 @@ Syria,SY,Other,1,1
 Türkiye,TR,Other,2,2
 United Kingdom,GB,Other,3,3
 United States,US,,1,1
-United States,US,California,28,55
-United States,US,New York,11,11
-United States,US,Other,86,91
+United States,US,California,30,57
+United States,US,New York,12,12
+United States,US,Other,87,92
 United States,US,Virginia,98,99
 Uzbekistan,UZ,,1,1
 Uzbekistan,UZ,Other,1,1
-Venezuela,VE,Other,1,1
-Vietnam,VN,Other,7,7
+Venezuela,VE,Other,2,2
+Vietnam,VN,Other,9,9

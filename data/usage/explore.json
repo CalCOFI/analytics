@@ -5,25 +5,25 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-11-12",
+ "last_day": "2026-11-13",
  "totals_28d": {
-  "activeUsers": 4453.0,
-  "newUsers": 4372.0,
-  "sessions": 4564.0,
-  "engagedSessions": 881.0,
-  "screenPageViews": 9742.0,
-  "eventCount": 20464.0,
-  "userEngagementDuration": 70303.0,
-  "avgEngagementSeconds": 15.8,
+  "activeUsers": 4458.0,
+  "newUsers": 4374.0,
+  "sessions": 4570.0,
+  "engagedSessions": 885.0,
+  "screenPageViews": 9766.0,
+  "eventCount": 20503.0,
+  "userEngagementDuration": 70747.0,
+  "avgEngagementSeconds": 15.9,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 2.2
  },
  "delta_28d": {
-  "activeUsers": 3014.0,
-  "sessions": 1946.6,
-  "engagedSessions": 487.3,
-  "avgEngagementSeconds": -91.6,
-  "screenPageViews": 266.9
+  "activeUsers": 3277.3,
+  "sessions": 2076.2,
+  "engagedSessions": 502.0,
+  "avgEngagementSeconds": -90.8,
+  "screenPageViews": 338.5
  },
  "daily": [
   {
@@ -385,6 +385,11 @@
    "date": "2026-11-12",
    "activeUsers": 17.0,
    "sessions": 27.0
+  },
+  {
+   "date": "2026-11-13",
+   "activeUsers": 6.0,
+   "sessions": 8.0
   }
  ],
  "daily_mean7": [
@@ -459,7 +464,8 @@
   603.57,
   610.71,
   599.71,
-  424.0
+  424.0,
+  186.29
  ],
  "geo_country": [
   {
@@ -475,12 +481,12 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 260.0
+   "activeUsers": 263.0
   },
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 218.0
+   "activeUsers": 219.0
   },
   {
    "country": "Argentina",
@@ -894,7 +900,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 129.0
+   "activeUsers": 132.0
   },
   {
    "country": "Brazil",
@@ -999,6 +1005,12 @@
    "activeUsers": 29.0
   },
   {
+   "country": "China",
+   "countryId": "CN",
+   "region": "Sichuan",
+   "activeUsers": 27.0
+  },
+  {
    "country": "Brazil",
    "countryId": "BR",
    "region": "State of Rio Grande do Sul",
@@ -1008,12 +1020,6 @@
    "country": "China",
    "countryId": "CN",
    "region": "Guangdong Province",
-   "activeUsers": 26.0
-  },
-  {
-   "country": "China",
-   "countryId": "CN",
-   "region": "Sichuan",
    "activeUsers": 26.0
   },
   {
@@ -1758,28 +1764,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 14733.0,
-   "users": 4521.0
+   "count": 14763.0,
+   "users": 4525.0
   },
   {
    "name": "session_start",
-   "count": 4925.0,
-   "users": 4508.0
+   "count": 4933.0,
+   "users": 4512.0
   },
   {
    "name": "first_visit",
-   "count": 4490.0,
-   "users": 4486.0
+   "count": 4493.0,
+   "users": 4489.0
   },
   {
    "name": "scroll",
-   "count": 1807.0,
-   "users": 960.0
+   "count": 1812.0,
+   "users": 963.0
   },
   {
    "name": "user_engagement",
-   "count": 795.0,
-   "users": 129.0
+   "count": 800.0,
+   "users": 132.0
   },
   {
    "name": "export",

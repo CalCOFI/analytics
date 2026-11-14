@@ -523,18 +523,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 447.0,
-   "users": 308.0
+   "count": 445.0,
+   "users": 306.0
   },
   {
    "name": "session_start",
-   "count": 315.0,
-   "users": 304.0
+   "count": 313.0,
+   "users": 302.0
   },
   {
    "name": "first_visit",
-   "count": 297.0,
-   "users": 297.0
+   "count": 295.0,
+   "users": 295.0
   },
   {
    "name": "user_engagement",
@@ -1101,11 +1101,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 101929.0,
-   "bytes": 9312553232.0,
+   "requests": 93667.0,
+   "bytes": 9287153696.0,
    "clients": 6420.0,
-   "tool": 72363.0,
-   "browser": 29566.0
+   "tool": 65223.0,
+   "browser": 28444.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
