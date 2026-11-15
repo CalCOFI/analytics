@@ -459,12 +459,12 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 44.0
+   "activeUsers": 45.0
   },
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 10.0
+   "activeUsers": 20.0
   },
   {
    "country": "China",
@@ -497,7 +497,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 22.0
+   "activeUsers": 23.0
   },
   {
    "country": "United States",
@@ -510,6 +510,12 @@
    "countryId": "US",
    "region": "Virginia",
    "activeUsers": 11.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "(not set)",
+   "activeUsers": 10.0
   },
   {
    "country": "Singapore",
@@ -563,23 +569,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 70.0,
-   "users": 56.0
+   "count": 72.0,
+   "users": 58.0
   },
   {
    "name": "session_start",
-   "count": 70.0,
-   "users": 56.0
+   "count": 72.0,
+   "users": 58.0
   },
   {
    "name": "first_visit",
-   "count": 50.0,
-   "users": 50.0
+   "count": 52.0,
+   "users": 52.0
   },
   {
    "name": "scroll",
-   "count": 46.0,
-   "users": 41.0
+   "count": 48.0,
+   "users": 43.0
   },
   {
    "name": "user_engagement",

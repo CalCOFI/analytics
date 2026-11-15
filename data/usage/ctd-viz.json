@@ -7,23 +7,23 @@
  "first_day": "2026-07-27",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 8.0,
-  "newUsers": 5.0,
-  "sessions": 8.0,
+  "activeUsers": 9.0,
+  "newUsers": 6.0,
+  "sessions": 9.0,
   "engagedSessions": 3.0,
-  "screenPageViews": 8.0,
-  "eventCount": 31.0,
+  "screenPageViews": 9.0,
+  "eventCount": 34.0,
   "userEngagementDuration": 1056.0,
-  "avgEngagementSeconds": 132.0,
-  "engagedSessionRate": 0.4,
+  "avgEngagementSeconds": 117.3,
+  "engagedSessionRate": 0.3,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 700.0,
-  "sessions": 700.0,
+  "activeUsers": 800.0,
+  "sessions": 800.0,
   "engagedSessions": 200.0,
-  "avgEngagementSeconds": -84.5,
-  "screenPageViews": 100.0
+  "avgEngagementSeconds": -86.2,
+  "screenPageViews": 125.0
  },
  "daily": [
   {
@@ -177,6 +177,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-11-14",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260727",
    "activeUsers": 4.0,
    "sessions": 4.0
@@ -213,6 +218,7 @@
   1.43,
   1.43,
   1.43,
+  1.43,
   1.86
  ],
  "geo_country": [
@@ -225,6 +231,11 @@
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 4.0
+  },
+  {
+   "country": "Germany",
+   "countryId": "DE",
+   "activeUsers": 1.0
   },
   {
    "country": "Mexico",
@@ -252,6 +263,12 @@
    "activeUsers": 4.0
   },
   {
+   "country": "Germany",
+   "countryId": "DE",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Mexico",
    "countryId": "MX",
    "region": "Other",
@@ -267,23 +284,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 166.0,
-   "users": 17.0
+   "count": 159.0,
+   "users": 18.0
   },
   {
    "name": "scroll",
-   "count": 165.0,
+   "count": 157.0,
    "users": 17.0
   },
   {
    "name": "user_engagement",
-   "count": 140.0,
+   "count": 133.0,
    "users": 11.0
   },
   {
    "name": "session_start",
-   "count": 40.0,
-   "users": 15.0
+   "count": 38.0,
+   "users": 16.0
   },
   {
    "name": "first_visit",
@@ -292,8 +309,8 @@
   },
   {
    "name": "click",
-   "count": 4.0,
-   "users": 3.0
+   "count": 3.0,
+   "users": 2.0
   }
  ]
 }

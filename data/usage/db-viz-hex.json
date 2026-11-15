@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 35.0,
-  "newUsers": 28.0,
-  "sessions": 42.0,
+  "activeUsers": 36.0,
+  "newUsers": 29.0,
+  "sessions": 43.0,
   "engagedSessions": 20.0,
-  "screenPageViews": 39.0,
-  "eventCount": 393.0,
+  "screenPageViews": 40.0,
+  "eventCount": 397.0,
   "userEngagementDuration": 2157.0,
-  "avgEngagementSeconds": 61.6,
+  "avgEngagementSeconds": 59.9,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 52.2,
-  "sessions": 31.2,
+  "activeUsers": 56.5,
+  "sessions": 34.4,
   "engagedSessions": -9.1,
-  "avgEngagementSeconds": -60.1,
-  "screenPageViews": -2.5
+  "avgEngagementSeconds": -61.2,
+  "screenPageViews": 0.0
  },
  "daily": [
   {
@@ -457,6 +457,11 @@
    "sessions": 3.0
   },
   {
+   "date": "2026-11-14",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -616,10 +621,11 @@
   2.14,
   2.29,
   1.57,
-  1.71,
+  1.29,
   1.57,
   1.57,
-  2.0,
+  1.57,
+  1.86,
   2.0,
   2.14,
   2.29,
@@ -643,7 +649,7 @@
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 5.0
+   "activeUsers": 6.0
   },
   {
    "country": "United Kingdom",
@@ -668,6 +674,11 @@
   {
    "country": "(not set)",
    "countryId": "(not set)",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Bahrain",
+   "countryId": "BH",
    "activeUsers": 1.0
   },
   {
@@ -729,7 +740,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "Other",
-   "activeUsers": 4.0
+   "activeUsers": 5.0
   },
   {
    "country": "United Kingdom",
@@ -758,6 +769,12 @@
   {
    "country": "(not set)",
    "countryId": "(not set)",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Bahrain",
+   "countryId": "BH",
    "region": "Other",
    "activeUsers": 1.0
   },
@@ -819,32 +836,32 @@
  "events": [
   {
    "name": "session_start",
-   "count": 793.0,
-   "users": 76.0
+   "count": 795.0,
+   "users": 78.0
   },
   {
    "name": "page_view",
-   "count": 614.0,
-   "users": 77.0
+   "count": 615.0,
+   "users": 79.0
   },
   {
    "name": "scroll",
-   "count": 554.0,
-   "users": 72.0
+   "count": 555.0,
+   "users": 74.0
   },
   {
    "name": "filter_submit",
-   "count": 426.0,
+   "count": 427.0,
    "users": 30.0
   },
   {
    "name": "map_query_env",
-   "count": 426.0,
+   "count": 427.0,
    "users": 30.0
   },
   {
    "name": "map_query_sp",
-   "count": 426.0,
+   "count": 427.0,
    "users": 30.0
   },
   {
@@ -854,7 +871,7 @@
   },
   {
    "name": "start_tour",
-   "count": 270.0,
+   "count": 269.0,
    "users": 68.0
   },
   {

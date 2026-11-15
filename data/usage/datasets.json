@@ -5,24 +5,24 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-11-13",
+ "last_day": "2026-11-14",
  "totals_28d": {
-  "activeUsers": 182.0,
-  "newUsers": 102.0,
-  "sessions": 223.0,
-  "engagedSessions": 112.0,
+  "activeUsers": 185.0,
+  "newUsers": 107.0,
+  "sessions": 226.0,
+  "engagedSessions": 111.0,
   "screenPageViews": 312.0,
-  "eventCount": 1004.0,
-  "userEngagementDuration": 7863.0,
-  "avgEngagementSeconds": 43.2,
+  "eventCount": 998.0,
+  "userEngagementDuration": 7690.0,
+  "avgEngagementSeconds": 41.6,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.7
  },
  "delta_28d": {
-  "activeUsers": 23.8,
-  "sessions": 15.5,
-  "engagedSessions": 0.0,
-  "avgEngagementSeconds": -38.0,
+  "activeUsers": 27.6,
+  "sessions": 18.3,
+  "engagedSessions": 0.9,
+  "avgEngagementSeconds": -42.0,
   "screenPageViews": 17.7
  },
  "daily": [
@@ -374,7 +374,12 @@
   {
    "date": "2026-11-13",
    "activeUsers": 5.0,
-   "sessions": 5.0
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-11-14",
+   "activeUsers": 6.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -447,13 +452,14 @@
   5.57,
   6.0,
   6.0,
-  6.0
+  6.0,
+  6.43
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 131.0
+   "activeUsers": 132.0
   },
   {
    "country": "Singapore",
@@ -473,7 +479,7 @@
   {
    "country": "India",
    "countryId": "IN",
-   "activeUsers": 6.0
+   "activeUsers": 7.0
   },
   {
    "country": "Italy",
@@ -566,6 +572,16 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Argentina",
+   "countryId": "AR",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Brazil",
+   "countryId": "BR",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Cambodia",
    "countryId": "KH",
    "activeUsers": 1.0
@@ -578,6 +594,11 @@
   {
    "country": "Colombia",
    "countryId": "CO",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Pakistan",
+   "countryId": "PK",
    "activeUsers": 1.0
   },
   {
@@ -603,6 +624,11 @@
   {
    "country": "United Arab Emirates",
    "countryId": "AE",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Vietnam",
+   "countryId": "VN",
    "activeUsers": 1.0
   }
  ],
@@ -635,7 +661,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 10.0
+   "activeUsers": 11.0
   },
   {
    "country": "Canada",
@@ -647,7 +673,7 @@
    "country": "India",
    "countryId": "IN",
    "region": "Other",
-   "activeUsers": 6.0
+   "activeUsers": 7.0
   },
   {
    "country": "Singapore",
@@ -758,6 +784,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Argentina",
+   "countryId": "AR",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Bangladesh",
    "countryId": "BD",
    "region": "",
@@ -766,6 +798,12 @@
   {
    "country": "Bangladesh",
    "countryId": "BD",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Brazil",
+   "countryId": "BR",
    "region": "Other",
    "activeUsers": 1.0
   },
@@ -818,6 +856,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Pakistan",
+   "countryId": "PK",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Portugal",
    "countryId": "PT",
    "region": "Other",
@@ -852,33 +896,39 @@
    "countryId": "US",
    "region": "",
    "activeUsers": 1.0
+  },
+  {
+   "country": "Vietnam",
+   "countryId": "VN",
+   "region": "Other",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 743.0,
-   "users": 277.0
+   "count": 750.0,
+   "users": 283.0
   },
   {
    "name": "user_engagement",
-   "count": 600.0,
-   "users": 133.0
+   "count": 602.0,
+   "users": 134.0
   },
   {
    "name": "session_start",
-   "count": 339.0,
-   "users": 238.0
+   "count": 345.0,
+   "users": 244.0
   },
   {
    "name": "first_visit",
-   "count": 210.0,
-   "users": 210.0
+   "count": 216.0,
+   "users": 216.0
   },
   {
    "name": "scroll",
-   "count": 162.0,
-   "users": 71.0
+   "count": 164.0,
+   "users": 72.0
   },
   {
    "name": "click",

@@ -1,6 +1,7 @@
 country,countryId,region,activeUsers,sessions
 ,,,1,1
 (not set),(not set),Other,1,1
+Bahrain,BH,Other,1,1
 Canada,CA,Other,1,1
 China,CN,Other,2,2
 Colombia,CO,Other,0,1
@@ -12,8 +13,8 @@ Latvia,LV,Other,1,1
 Mexico,MX,Other,3,5
 New Zealand,NZ,Other,1,3
 Singapore,SG,,1,1
-Singapore,SG,Other,4,4
+Singapore,SG,Other,5,5
 United Kingdom,GB,,1,1
 United Kingdom,GB,Other,4,4
-United States,US,California,45,191
+United States,US,California,45,193
 United States,US,Other,21,28
