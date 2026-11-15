@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-15T03:06:05+00:00",
+ "generated": "2026-11-15T11:17:38+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 1825.0,
-  "activeUsers": 15894.0,
-  "sessions": 16248.0
+  "engagedSessions": 1834.0,
+  "activeUsers": 15912.0,
+  "sessions": 16271.0
  },
  "n_mostly_automated": 4,
  "products": [
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 891.0,
-   "activeUsers": 4463.0,
-   "sessions": 4578.0,
+   "engagedSessions": 893.0,
+   "activeUsers": 4464.0,
+   "sessions": 4580.0,
    "engagementRate": 0.2,
    "avgEngagementSeconds": 15.9,
-   "delta": 527.5,
+   "delta": 528.9,
    "spark": [
     2.0,
     2.0,
@@ -92,19 +92,19 @@
     38.0,
     17.0,
     9.0,
-    2.0
+    3.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "erddap",
    "title": "erddap",
-   "engagedSessions": 428.0,
-   "activeUsers": 9227.0,
-   "sessions": 9233.0,
+   "engagedSessions": 429.0,
+   "activeUsers": 9230.0,
+   "sessions": 9237.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.2,
-   "delta": 1683.3,
+   "delta": 1687.5,
    "spark": [
     3.0,
     1.0,
@@ -187,19 +187,19 @@
     783.0,
     197.0,
     965.0,
-    11.0
+    14.0
    ],
    "mostly_automated": true
   },
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 111.0,
-   "activeUsers": 185.0,
-   "sessions": 226.0,
+   "engagedSessions": 115.0,
+   "activeUsers": 188.0,
+   "sessions": 232.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 41.6,
-   "delta": 0.9,
+   "avgEngagementSeconds": 41.5,
+   "delta": 4.5,
    "spark": [
     1.0,
     2.0,
@@ -271,7 +271,7 @@
     8.0,
     11.0,
     5.0,
-    6.0
+    9.0
    ],
    "mostly_automated": false
   },
@@ -372,12 +372,12 @@
   {
    "slug": "docs",
    "title": "docs",
-   "engagedSessions": 75.0,
-   "activeUsers": 494.0,
-   "sessions": 525.0,
+   "engagedSessions": 76.0,
+   "activeUsers": 495.0,
+   "sessions": 526.0,
    "engagementRate": 0.1,
    "avgEngagementSeconds": 5.3,
-   "delta": 11.9,
+   "delta": 13.4,
    "spark": [
     10.0,
     3.0,
@@ -468,19 +468,19 @@
     8.0,
     9.0,
     20.0,
-    4.0
+    5.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 68.0,
-   "activeUsers": 89.0,
-   "sessions": 130.0,
+   "engagedSessions": 69.0,
+   "activeUsers": 92.0,
+   "sessions": 133.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 102.6,
-   "delta": -12.8,
+   "avgEngagementSeconds": 99.3,
+   "delta": -11.5,
    "spark": [
     1.0,
     1.0,
@@ -571,7 +571,7 @@
     4.0,
     6.0,
     1.0,
-    8.0
+    11.0
    ],
    "mostly_automated": false
   },
@@ -1104,10 +1104,10 @@
    "slug": "calcofi4r",
    "title": "calcofi4r",
    "engagedSessions": 7.0,
-   "activeUsers": 157.0,
-   "sessions": 158.0,
+   "activeUsers": 162.0,
+   "sessions": 163.0,
    "engagementRate": 0.0,
-   "avgEngagementSeconds": 1.0,
+   "avgEngagementSeconds": 0.9,
    "delta": -65.0,
    "spark": [
     2.0,
@@ -1199,7 +1199,7 @@
     6.0,
     2.0,
     6.0,
-    3.0
+    8.0
    ],
    "mostly_automated": true
   },
@@ -1207,10 +1207,10 @@
    "slug": "saferseafood",
    "title": "SaferSeafood App",
    "engagedSessions": 7.0,
-   "activeUsers": 22.0,
-   "sessions": 25.0,
+   "activeUsers": 23.0,
+   "sessions": 26.0,
    "engagementRate": 0.3,
-   "avgEngagementSeconds": 22.6,
+   "avgEngagementSeconds": 21.7,
    "delta": 40.0,
    "spark": [
     2.0,
@@ -1265,6 +1265,7 @@
     2.0,
     1.0,
     2.0,
+    1.0,
     2.0,
     1.0,
     1.0,
@@ -1637,8 +1638,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 3.0,
-   "activeUsers": 480.0,
-   "sessions": 485.0,
+   "activeUsers": 481.0,
+   "sessions": 486.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.2,
    "delta": -80.0,
@@ -1732,7 +1733,7 @@
     18.0,
     7.0,
     10.0,
-    3.0
+    4.0
    ],
    "mostly_automated": true
   },

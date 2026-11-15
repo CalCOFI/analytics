@@ -519,12 +519,17 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 154.0
+   "activeUsers": 148.0
   },
   {
    "country": "Italy",
    "countryId": "IT",
    "activeUsers": 6.0
+  },
+  {
+   "country": "Canada",
+   "countryId": "CA",
+   "activeUsers": 4.0
   },
   {
    "country": "Germany",
@@ -545,11 +550,6 @@
    "country": "United Kingdom",
    "countryId": "GB",
    "activeUsers": 3.0
-  },
-  {
-   "country": "Canada",
-   "countryId": "CA",
-   "activeUsers": 2.0
   },
   {
    "country": "Indonesia",
@@ -593,18 +593,18 @@
    "country": "United States",
    "countryId": "US",
    "region": "Arizona",
-   "activeUsers": 32.0
-  },
-  {
-   "country": "United States",
-   "countryId": "US",
-   "region": "Other",
-   "activeUsers": 26.0
+   "activeUsers": 31.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Colorado",
+   "activeUsers": 21.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Other",
    "activeUsers": 21.0
   },
   {
@@ -618,6 +618,12 @@
    "countryId": "IT",
    "region": "Other",
    "activeUsers": 6.0
+  },
+  {
+   "country": "Canada",
+   "countryId": "CA",
+   "region": "Other",
+   "activeUsers": 4.0
   },
   {
    "country": "Germany",
@@ -636,12 +642,6 @@
    "countryId": "SG",
    "region": "Other",
    "activeUsers": 3.0
-  },
-  {
-   "country": "Canada",
-   "countryId": "CA",
-   "region": "Other",
-   "activeUsers": 2.0
   },
   {
    "country": "United Kingdom",
@@ -701,28 +701,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 2113.0,
-   "users": 163.0
+   "count": 2154.0,
+   "users": 158.0
   },
   {
    "name": "scroll",
-   "count": 338.0,
-   "users": 133.0
+   "count": 335.0,
+   "users": 128.0
   },
   {
    "name": "session_start",
-   "count": 294.0,
-   "users": 151.0
+   "count": 283.0,
+   "users": 145.0
   },
   {
    "name": "user_engagement",
-   "count": 163.0,
-   "users": 49.0
+   "count": 167.0,
+   "users": 48.0
   },
   {
    "name": "first_visit",
-   "count": 136.0,
-   "users": 132.0
+   "count": 132.0,
+   "users": 126.0
   },
   {
    "name": "click",

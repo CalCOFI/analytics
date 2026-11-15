@@ -7,23 +7,23 @@
  "first_day": "2026-07-30",
  "last_day": "2026-11-14",
  "totals_28d": {
-  "activeUsers": 9227.0,
-  "newUsers": 9200.0,
-  "sessions": 9233.0,
-  "engagedSessions": 428.0,
-  "screenPageViews": 9295.0,
-  "eventCount": 29343.0,
-  "userEngagementDuration": 2286.0,
+  "activeUsers": 9230.0,
+  "newUsers": 9202.0,
+  "sessions": 9237.0,
+  "engagedSessions": 429.0,
+  "screenPageViews": 9301.0,
+  "eventCount": 29358.0,
+  "userEngagementDuration": 2306.0,
   "avgEngagementSeconds": 0.2,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 27860.6,
-  "sessions": 23574.4,
-  "engagedSessions": 1683.3,
+  "activeUsers": 27869.7,
+  "sessions": 23584.6,
+  "engagedSessions": 1687.5,
   "avgEngagementSeconds": -99.7,
-  "screenPageViews": 2617.8
+  "screenPageViews": 2619.6
  },
  "daily": [
   {
@@ -419,7 +419,7 @@
   {
    "date": "2026-11-11",
    "activeUsers": 783.0,
-   "sessions": 784.0
+   "sessions": 785.0
   },
   {
    "date": "2026-11-12",
@@ -433,8 +433,8 @@
   },
   {
    "date": "2026-11-14",
-   "activeUsers": 11.0,
-   "sessions": 11.0
+   "activeUsers": 14.0,
+   "sessions": 14.0
   }
  ],
  "daily_mean7": [
@@ -519,33 +519,33 @@
   334.0,
   360.71,
   497.29,
-  491.0
+  491.43
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 7849.0
+   "activeUsers": 8437.0
   },
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 338.0
+   "activeUsers": 348.0
   },
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 229.0
-  },
-  {
-   "country": "Brazil",
-   "countryId": "BR",
-   "activeUsers": 26.0
+   "activeUsers": 237.0
   },
   {
    "country": "Colombia",
    "countryId": "CO",
-   "activeUsers": 19.0
+   "activeUsers": 20.0
+  },
+  {
+   "country": "Brazil",
+   "countryId": "BR",
+   "activeUsers": 20.0
   },
   {
    "country": "Vietnam",
@@ -568,6 +568,11 @@
    "activeUsers": 6.0
   },
   {
+   "country": "Ecuador",
+   "countryId": "EC",
+   "activeUsers": 5.0
+  },
+  {
    "country": "Germany",
    "countryId": "DE",
    "activeUsers": 5.0
@@ -588,8 +593,8 @@
    "activeUsers": 5.0
   },
   {
-   "country": "Ecuador",
-   "countryId": "EC",
+   "country": "Bangladesh",
+   "countryId": "BD",
    "activeUsers": 4.0
   },
   {
@@ -598,8 +603,8 @@
    "activeUsers": 4.0
   },
   {
-   "country": "Bangladesh",
-   "countryId": "BD",
+   "country": "Canada",
+   "countryId": "CA",
    "activeUsers": 3.0
   },
   {
@@ -623,8 +628,13 @@
    "activeUsers": 3.0
   },
   {
-   "country": "Canada",
-   "countryId": "CA",
+   "country": "Belgium",
+   "countryId": "BE",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "France",
+   "countryId": "FR",
    "activeUsers": 2.0
   },
   {
@@ -668,11 +678,6 @@
    "activeUsers": 2.0
   },
   {
-   "country": "Belgium",
-   "countryId": "BE",
-   "activeUsers": 1.0
-  },
-  {
    "country": "Bolivia",
    "countryId": "BO",
    "activeUsers": 1.0
@@ -685,11 +690,6 @@
   {
    "country": "Costa Rica",
    "countryId": "CR",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "France",
-   "countryId": "FR",
    "activeUsers": 1.0
   },
   {
@@ -758,25 +758,25 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 6749.0
+   "activeUsers": 7514.0
   },
   {
    "country": "Singapore",
    "countryId": "SG",
    "region": "",
-   "activeUsers": 1094.0
+   "activeUsers": 917.0
   },
   {
    "country": "China",
    "countryId": "CN",
    "region": "(not set)",
-   "activeUsers": 157.0
+   "activeUsers": 166.0
   },
   {
    "country": "China",
    "countryId": "CN",
    "region": "Beijing",
-   "activeUsers": 110.0
+   "activeUsers": 117.0
   },
   {
    "country": "United States",
@@ -788,7 +788,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 88.0
+   "activeUsers": 87.0
   },
   {
    "country": "China",
@@ -800,25 +800,19 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 29.0
-  },
-  {
-   "country": "China",
-   "countryId": "CN",
-   "region": "",
-   "activeUsers": 23.0
+   "activeUsers": 28.0
   },
   {
    "country": "Colombia",
    "countryId": "CO",
    "region": "Other",
-   "activeUsers": 19.0
+   "activeUsers": 20.0
   },
   {
-   "country": "Brazil",
-   "countryId": "BR",
-   "region": "Other",
-   "activeUsers": 16.0
+   "country": "China",
+   "countryId": "CN",
+   "region": "",
+   "activeUsers": 17.0
   },
   {
    "country": "United States",
@@ -829,7 +823,19 @@
   {
    "country": "Brazil",
    "countryId": "BR",
+   "region": "Other",
+   "activeUsers": 10.0
+  },
+  {
+   "country": "Brazil",
+   "countryId": "BR",
    "region": "State of Sao Paulo",
+   "activeUsers": 10.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Texas",
    "activeUsers": 10.0
   },
   {
@@ -863,6 +869,12 @@
    "activeUsers": 6.0
   },
   {
+   "country": "Ecuador",
+   "countryId": "EC",
+   "region": "Other",
+   "activeUsers": 5.0
+  },
+  {
    "country": "Germany",
    "countryId": "DE",
    "region": "Other",
@@ -887,8 +899,8 @@
    "activeUsers": 5.0
   },
   {
-   "country": "Ecuador",
-   "countryId": "EC",
+   "country": "Bangladesh",
+   "countryId": "BD",
    "region": "Other",
    "activeUsers": 4.0
   },
@@ -899,8 +911,8 @@
    "activeUsers": 4.0
   },
   {
-   "country": "Bangladesh",
-   "countryId": "BD",
+   "country": "Canada",
+   "countryId": "CA",
    "region": "Other",
    "activeUsers": 3.0
   },
@@ -929,8 +941,14 @@
    "activeUsers": 3.0
   },
   {
-   "country": "Canada",
-   "countryId": "CA",
+   "country": "Belgium",
+   "countryId": "BE",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "France",
+   "countryId": "FR",
    "region": "Other",
    "activeUsers": 2.0
   },
@@ -971,12 +989,6 @@
    "activeUsers": 2.0
   },
   {
-   "country": "Belgium",
-   "countryId": "BE",
-   "region": "Other",
-   "activeUsers": 1.0
-  },
-  {
    "country": "Bolivia",
    "countryId": "BO",
    "region": "Other",
@@ -991,12 +1003,6 @@
   {
    "country": "Costa Rica",
    "countryId": "CR",
-   "region": "Other",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "France",
-   "countryId": "FR",
    "region": "Other",
    "activeUsers": 1.0
   },
@@ -1106,27 +1112,27 @@
  "events": [
   {
    "name": "page_view",
-   "count": 8981.0,
-   "users": 8449.0
+   "count": 9572.0,
+   "users": 9070.0
   },
   {
    "name": "session_start",
-   "count": 8502.0,
-   "users": 8425.0
+   "count": 9091.0,
+   "users": 9045.0
   },
   {
    "name": "first_visit",
-   "count": 8479.0,
-   "users": 8417.0
+   "count": 9069.0,
+   "users": 9039.0
   },
   {
    "name": "scroll",
-   "count": 1699.0,
-   "users": 1434.0
+   "count": 1758.0,
+   "users": 1493.0
   },
   {
    "name": "user_engagement",
-   "count": 344.0,
+   "count": 347.0,
    "users": 62.0
   },
   {
@@ -1689,58 +1695,63 @@
    },
    {
     "date": "2026-11-14",
-    "requests": 1393.0,
-    "bytes": 29489599.0
+    "requests": 3321.0,
+    "bytes": 79107721.0
+   },
+   {
+    "date": "2026-11-15",
+    "requests": 2118.0,
+    "bytes": 65488191.0
    }
   ],
   "totals_28d": {
-   "requests": 152005.0,
-   "bytes": 4486855203.0,
+   "requests": 156051.0,
+   "bytes": 4601961516.0,
    "clients": 3739.0,
-   "tool": 55023.0,
-   "browser": 96982.0
+   "tool": 57170.0,
+   "browser": 98881.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 122
-   },
-   {
     "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 95
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 84
-   },
-   {
-    "path": "/erddap/index.html",
-    "n": 55
+    "n": 219
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 55
+    "n": 58
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 40
+    "path": "/erddap/index.html",
+    "n": 53
    },
    {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.graph",
-    "n": 36
+    "path": "/erddap/subscriptions/add.html",
+    "n": 45
    },
    {
-    "path": "/erddap/tabledap/farallon_bird-mammal.html",
-    "n": 32
+    "path": "/erddap/tabledap/swfsc_ichthyo.graph",
+    "n": 37
    },
    {
     "path": "/robots.txt",
-    "n": 31
+    "n": 33
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.html",
+    "n": 30
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 31
+    "n": 28
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 28
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_bottle.graph",
+    "n": 21
    }
   ]
  }

@@ -369,7 +369,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 295.0
+   "activeUsers": 294.0
   },
   {
    "country": "Italy",
@@ -377,13 +377,13 @@
    "activeUsers": 7.0
   },
   {
-   "country": "China",
-   "countryId": "CN",
-   "activeUsers": 5.0
-  },
-  {
    "country": "Singapore",
    "countryId": "SG",
+   "activeUsers": 6.0
+  },
+  {
+   "country": "China",
+   "countryId": "CN",
    "activeUsers": 5.0
   },
   {
@@ -427,7 +427,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 269.0
+   "activeUsers": 268.0
   },
   {
    "country": "United States",
@@ -448,14 +448,14 @@
    "activeUsers": 7.0
   },
   {
-   "country": "China",
-   "countryId": "CN",
-   "region": "Other",
-   "activeUsers": 4.0
-  },
-  {
    "country": "Singapore",
    "countryId": "SG",
+   "region": "Other",
+   "activeUsers": 5.0
+  },
+  {
+   "country": "China",
+   "countryId": "CN",
    "region": "Other",
    "activeUsers": 4.0
   },
@@ -523,13 +523,13 @@
  "events": [
   {
    "name": "page_view",
-   "count": 441.0,
-   "users": 305.0
+   "count": 440.0,
+   "users": 304.0
   },
   {
    "name": "session_start",
-   "count": 312.0,
-   "users": 301.0
+   "count": 308.0,
+   "users": 300.0
   },
   {
    "name": "first_visit",
@@ -539,16 +539,16 @@
   {
    "name": "user_engagement",
    "count": 129.0,
-   "users": 15.0
+   "users": 14.0
   },
   {
    "name": "scroll",
-   "count": 69.0,
-   "users": 16.0
+   "count": 68.0,
+   "users": 15.0
   },
   {
    "name": "click",
-   "count": 25.0,
+   "count": 24.0,
    "users": 4.0
   },
   {
@@ -1101,58 +1101,63 @@
    },
    {
     "date": "2026-11-14",
-    "requests": 447.0,
-    "bytes": 280938058.0
+    "requests": 3360.0,
+    "bytes": 316812872.0
+   },
+   {
+    "date": "2026-11-15",
+    "requests": 1428.0,
+    "bytes": 5076132.0
    }
   ],
   "totals_28d": {
-   "requests": 87716.0,
-   "bytes": 10345829242.0,
+   "requests": 92057.0,
+   "bytes": 10386780188.0,
    "clients": 5668.0,
-   "tool": 59291.0,
-   "browser": 28425.0
+   "tool": 61864.0,
+   "browser": 30193.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 58
+    "n": 45
    },
    {
     "path": "/robots.txt",
-    "n": 19
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=light_pct/b9ef3976162d637d922b7729/",
-    "n": 12
+    "n": 27
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 12
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake-staging/releases/v2026.09.05/parquet/obs_env/measurement_type=bottom_depth_m/",
-    "n": 10
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/",
+    "path": "/calcofi-db/ducklake-staging/tables/region/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2408SR_CTDPrelim/csvs-plots/U_S/",
+    "path": "/calcofi-db/ducklake/tables/taxon_group/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake/releases/",
+    "path": "/calcofi-db/ducklake-staging/tables/lookup/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-1203SH_CTDFinalQC/metadata/regression_plots/",
+    "path": "/calcofi-db/publish/dwca/cce-lter_zooscan/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/README.md",
-    "n": 2
+    "path": "/calcofi-db/ducklake/tables/climatology/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/publish/dwca/calcofi_phytoplankton/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/pg/ctd_scan_raw/study=9812SP/",
+    "n": 3
    }
   ]
  }

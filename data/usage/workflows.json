@@ -350,7 +350,7 @@
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 7.0
+   "activeUsers": 6.0
   },
   {
    "country": "Singapore",
@@ -380,7 +380,7 @@
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
-   "activeUsers": 7.0
+   "activeUsers": 6.0
   },
   {
    "country": "China",
@@ -404,7 +404,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 56.0,
+   "count": 54.0,
    "users": 10.0
   },
   {
@@ -414,17 +414,17 @@
   },
   {
    "name": "session_start",
-   "count": 30.0,
+   "count": 31.0,
    "users": 7.0
   },
   {
    "name": "scroll",
-   "count": 18.0,
-   "users": 5.0
+   "count": 17.0,
+   "users": 4.0
   },
   {
    "name": "click",
-   "count": 15.0,
+   "count": 14.0,
    "users": 3.0
   },
   {

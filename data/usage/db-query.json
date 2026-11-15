@@ -825,12 +825,12 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 101.0
+   "activeUsers": 100.0
   },
   {
    "country": "China",
    "countryId": "CN",
-   "activeUsers": 12.0
+   "activeUsers": 10.0
   },
   {
    "country": "Singapore",
@@ -880,7 +880,7 @@
    "country": "China",
    "countryId": "CN",
    "region": "Other",
-   "activeUsers": 11.0
+   "activeUsers": 9.0
   },
   {
    "country": "Singapore",
@@ -889,14 +889,14 @@
    "activeUsers": 8.0
   },
   {
-   "country": "United States",
-   "countryId": "US",
-   "region": "Other",
-   "activeUsers": 7.0
-  },
-  {
    "country": "Italy",
    "countryId": "IT",
+   "region": "Other",
+   "activeUsers": 6.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
    "region": "Other",
    "activeUsers": 6.0
   },
@@ -946,33 +946,33 @@
  "events": [
   {
    "name": "page_view",
-   "count": 178.0,
-   "users": 127.0
+   "count": 167.0,
+   "users": 123.0
   },
   {
    "name": "scroll",
-   "count": 166.0,
-   "users": 117.0
+   "count": 157.0,
+   "users": 115.0
   },
   {
    "name": "query_view",
-   "count": 158.0,
-   "users": 89.0
+   "count": 148.0,
+   "users": 87.0
   },
   {
    "name": "query_run",
-   "count": 148.0,
-   "users": 59.0
+   "count": 147.0,
+   "users": 58.0
   },
   {
    "name": "session_start",
-   "count": 146.0,
-   "users": 124.0
+   "count": 141.0,
+   "users": 121.0
   },
   {
    "name": "first_visit",
-   "count": 117.0,
-   "users": 117.0
+   "count": 114.0,
+   "users": 114.0
   },
   {
    "name": "query_success",
@@ -981,13 +981,13 @@
   },
   {
    "name": "user_engagement",
-   "count": 77.0,
-   "users": 36.0
+   "count": 69.0,
+   "users": 34.0
   },
   {
    "name": "query_from_url",
-   "count": 71.0,
-   "users": 65.0
+   "count": 67.0,
+   "users": 64.0
   },
   {
    "name": "query_error",

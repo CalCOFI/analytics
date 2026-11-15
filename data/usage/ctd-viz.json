@@ -225,7 +225,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 19.0
+   "activeUsers": 18.0
   },
   {
    "country": "Italy",
@@ -254,7 +254,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 6.0
+   "activeUsers": 5.0
   },
   {
    "country": "Italy",
@@ -284,23 +284,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 159.0,
-   "users": 18.0
-  },
-  {
-   "name": "scroll",
-   "count": 157.0,
+   "count": 158.0,
    "users": 17.0
   },
   {
+   "name": "scroll",
+   "count": 156.0,
+   "users": 16.0
+  },
+  {
    "name": "user_engagement",
-   "count": 133.0,
-   "users": 11.0
+   "count": 132.0,
+   "users": 10.0
   },
   {
    "name": "session_start",
-   "count": 38.0,
-   "users": 16.0
+   "count": 37.0,
+   "users": 15.0
   },
   {
    "name": "first_visit",
