@@ -1106,58 +1106,63 @@
    },
    {
     "date": "2026-11-15",
-    "requests": 1428.0,
-    "bytes": 5076132.0
+    "requests": 1904.0,
+    "bytes": 8395906.0
+   },
+   {
+    "date": "2026-11-16",
+    "requests": 303.0,
+    "bytes": 1541703.0
    }
   ],
   "totals_28d": {
-   "requests": 80130.0,
-   "bytes": 10297089620.0,
+   "requests": 80909.0,
+   "bytes": 10301951097.0,
    "clients": 4649.0,
-   "tool": 50777.0,
-   "browser": 29353.0
+   "tool": 51129.0,
+   "browser": 29780.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 45
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 27
+    "n": 12
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 4
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/region/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/cce-lter/zooscan/by_taxon/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake/tables/taxon_group/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1008NH_CTDFinalQC/csvs-plots/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/lookup/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/19-9807NH_CTDFinalQC/metadata/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/publish/dwca/cce-lter_zooscan/",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake/tables/climatology/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1902RL_CTDFinalQC/asc-hdr-btl/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/publish/dwca/calcofi_phytoplankton/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1601RL_CTDFinalQC/csvs-plots/",
+    "n": 2
    },
    {
-    "path": "/calcofi-db/pg/ctd_scan_raw/study=9812SP/",
-    "n": 3
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1407NH_CTDFinalQC/csv_qc/",
+    "n": 2
    }
   ]
  }

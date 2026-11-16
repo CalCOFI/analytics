@@ -7,23 +7,23 @@
  "first_day": "2026-05-19",
  "last_day": "20260728",
  "totals_28d": {
-  "activeUsers": 113.0,
-  "newUsers": 104.0,
-  "sessions": 116.0,
+  "activeUsers": 117.0,
+  "newUsers": 108.0,
+  "sessions": 120.0,
   "engagedSessions": 15.0,
-  "screenPageViews": 122.0,
-  "eventCount": 734.0,
+  "screenPageViews": 126.0,
+  "eventCount": 755.0,
   "userEngagementDuration": 953.0,
-  "avgEngagementSeconds": 8.4,
+  "avgEngagementSeconds": 8.1,
   "engagedSessionRate": 0.1,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 438.1,
-  "sessions": 300.0,
+  "activeUsers": 457.1,
+  "sessions": 313.8,
   "engagedSessions": -11.8,
-  "avgEngagementSeconds": -93.4,
-  "screenPageViews": 238.9
+  "avgEngagementSeconds": -93.6,
+  "screenPageViews": 250.0
  },
  "daily": [
   {
@@ -518,8 +518,8 @@
   },
   {
    "date": "2026-11-15",
-   "activeUsers": 8.0,
-   "sessions": 8.0
+   "activeUsers": 12.0,
+   "sessions": 12.0
   },
   {
    "date": "20260519",
@@ -791,13 +791,13 @@
   2.86,
   2.57,
   3.14,
+  4.29,
+  4.14,
+  3.86,
   3.71,
-  3.57,
-  3.29,
+  3.71,
   3.14,
-  3.14,
-  2.57,
-  1.86,
+  2.43,
   1.0,
   1.14,
   1.14,
@@ -831,7 +831,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 109.0
+   "activeUsers": 113.0
   },
   {
    "country": "China",
@@ -874,7 +874,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Oregon",
-   "activeUsers": 85.0
+   "activeUsers": 89.0
   },
   {
    "country": "United States",
@@ -952,23 +952,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 182.0,
-   "users": 133.0
+   "count": 186.0,
+   "users": 137.0
   },
   {
    "name": "scroll",
-   "count": 170.0,
-   "users": 123.0
+   "count": 174.0,
+   "users": 127.0
   },
   {
    "name": "query_view",
-   "count": 156.0,
-   "users": 92.0
+   "count": 159.0,
+   "users": 95.0
   },
   {
    "name": "session_start",
-   "count": 151.0,
-   "users": 130.0
+   "count": 155.0,
+   "users": 134.0
   },
   {
    "name": "query_run",
@@ -977,8 +977,8 @@
   },
   {
    "name": "first_visit",
-   "count": 123.0,
-   "users": 123.0
+   "count": 127.0,
+   "users": 127.0
   },
   {
    "name": "query_success",
@@ -986,14 +986,14 @@
    "users": 33.0
   },
   {
+   "name": "query_from_url",
+   "count": 76.0,
+   "users": 70.0
+  },
+  {
    "name": "user_engagement",
    "count": 76.0,
    "users": 36.0
-  },
-  {
-   "name": "query_from_url",
-   "count": 74.0,
-   "users": 68.0
   },
   {
    "name": "query_error",
