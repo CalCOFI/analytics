@@ -4,32 +4,32 @@ country,countryId,region,activeUsers,sessions
 Argentina,AR,Other,1,1
 Bangladesh,BD,,1,1
 Bangladesh,BD,Other,1,1
-Brazil,BR,Other,1,1
+Brazil,BR,Other,2,2
 Cambodia,KH,Other,1,1
 Canada,CA,,1,1
 Canada,CA,Other,7,8
 Chile,CL,Other,1,1
 China,CN,,3,3
 China,CN,Other,33,33
-Colombia,CO,Other,1,1
+Colombia,CO,Other,2,2
 Denmark,DK,Other,2,2
 France,FR,Other,2,2
 Germany,DE,Other,2,3
 Hong Kong,HK,,1,1
 Hong Kong,HK,Other,1,1
-India,IN,Other,6,6
+India,IN,Other,7,8
 Indonesia,ID,Other,2,2
 Israel,IL,Other,2,3
-Italy,IT,Other,5,53
+Italy,IT,Other,5,55
 Japan,JP,Other,4,5
 Malta,MT,,1,1
 Malta,MT,Other,1,1
 Mexico,MX,Other,5,8
-New Zealand,NZ,Other,2,15
+New Zealand,NZ,Other,2,16
 Pakistan,PK,Other,1,1
 Portugal,PT,Other,1,1
 Russia,RU,Other,5,9
-Singapore,SG,,6,6
+Singapore,SG,,2,2
 Singapore,SG,(not set),69,69
 Singapore,SG,Other,6,6
 South Korea,KR,Other,3,6
@@ -40,7 +40,7 @@ Türkiye,TR,Other,1,1
 United Arab Emirates,AE,Other,1,1
 United Kingdom,GB,Other,4,5
 United States,US,,1,1
-United States,US,California,79,199
-United States,US,Other,39,51
+United States,US,California,79,206
+United States,US,Other,42,54
 United States,US,Virginia,12,12
 Vietnam,VN,Other,1,1

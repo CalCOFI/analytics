@@ -19,11 +19,11 @@
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 275.0,
-  "sessions": 425.0,
-  "engagedSessions": 225.0,
-  "avgEngagementSeconds": 122.1,
-  "screenPageViews": 325.0
+  "activeUsers": 400.0,
+  "sessions": 600.0,
+  "engagedSessions": 333.3,
+  "avgEngagementSeconds": 67.8,
+  "screenPageViews": 466.7
  },
  "daily": [
   {
@@ -350,7 +350,7 @@
   {
    "country": "Italy",
    "countryId": "IT",
-   "activeUsers": 6.0
+   "activeUsers": 7.0
   },
   {
    "country": "Singapore",
@@ -380,7 +380,7 @@
    "country": "Italy",
    "countryId": "IT",
    "region": "Other",
-   "activeUsers": 6.0
+   "activeUsers": 7.0
   },
   {
    "country": "China",
@@ -404,12 +404,12 @@
  "events": [
   {
    "name": "page_view",
-   "count": 54.0,
+   "count": 55.0,
    "users": 10.0
   },
   {
    "name": "user_engagement",
-   "count": 39.0,
+   "count": 40.0,
    "users": 5.0
   },
   {
@@ -420,11 +420,11 @@
   {
    "name": "scroll",
    "count": 17.0,
-   "users": 4.0
+   "users": 5.0
   },
   {
    "name": "click",
-   "count": 14.0,
+   "count": 15.0,
    "users": 3.0
   },
   {

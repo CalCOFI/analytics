@@ -19,11 +19,11 @@
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 1378.9,
-  "sessions": 951.9,
-  "engagedSessions": -17.6,
-  "avgEngagementSeconds": -93.4,
-  "screenPageViews": 702.8
+  "activeUsers": 1461.1,
+  "sessions": 992.3,
+  "engagedSessions": -12.5,
+  "avgEngagementSeconds": -93.8,
+  "screenPageViews": 750.0
  },
  "daily": [
   {
@@ -369,7 +369,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 294.0
+   "activeUsers": 295.0
   },
   {
    "country": "Italy",
@@ -427,7 +427,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 268.0
+   "activeUsers": 269.0
   },
   {
    "country": "United States",
@@ -523,32 +523,32 @@
  "events": [
   {
    "name": "page_view",
-   "count": 440.0,
-   "users": 304.0
+   "count": 445.0,
+   "users": 306.0
   },
   {
    "name": "session_start",
-   "count": 308.0,
-   "users": 300.0
+   "count": 313.0,
+   "users": 302.0
   },
   {
    "name": "first_visit",
-   "count": 294.0,
-   "users": 294.0
+   "count": 295.0,
+   "users": 295.0
   },
   {
    "name": "user_engagement",
-   "count": 129.0,
-   "users": 14.0
-  },
-  {
-   "name": "scroll",
-   "count": 68.0,
+   "count": 131.0,
    "users": 15.0
   },
   {
+   "name": "scroll",
+   "count": 69.0,
+   "users": 16.0
+  },
+  {
    "name": "click",
-   "count": 24.0,
+   "count": 25.0,
    "users": 4.0
   },
   {
@@ -1111,11 +1111,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 92057.0,
-   "bytes": 10386780188.0,
-   "clients": 5668.0,
-   "tool": 61864.0,
-   "browser": 30193.0
+   "requests": 80130.0,
+   "bytes": 10297089620.0,
+   "clients": 4649.0,
+   "tool": 50777.0,
+   "browser": 29353.0
   },
   "first_day": "2026-07-29",
   "top_paths": [

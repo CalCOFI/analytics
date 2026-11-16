@@ -661,28 +661,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 35.0,
-   "users": 30.0
+   "count": 34.0,
+   "users": 29.0
   },
   {
    "name": "session_start",
-   "count": 35.0,
-   "users": 27.0
+   "count": 34.0,
+   "users": 26.0
   },
   {
    "name": "first_visit",
-   "count": 25.0,
-   "users": 25.0
+   "count": 24.0,
+   "users": 24.0
   },
   {
    "name": "user_engagement",
-   "count": 20.0,
-   "users": 16.0
+   "count": 19.0,
+   "users": 15.0
   },
   {
    "name": "scroll",
-   "count": 18.0,
-   "users": 16.0
+   "count": 17.0,
+   "users": 15.0
   },
   {
    "name": "click",
