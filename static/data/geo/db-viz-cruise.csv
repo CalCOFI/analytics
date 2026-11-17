@@ -1,11 +1,12 @@
 country,countryId,region,activeUsers,sessions
-Brazil,BR,Other,1,1
+Brazil,BR,Other,2,2
 Chile,CL,Other,1,1
 Colombia,CO,Other,1,1
 Italy,IT,Other,3,7
+Malaysia,MY,Other,1,1
 Nepal,NP,Other,1,1
 Singapore,SG,,1,1
 Singapore,SG,Other,3,3
 United Kingdom,GB,,1,1
 United Kingdom,GB,Other,1,1
-United States,US,Other,7,8
+United States,US,Other,8,9

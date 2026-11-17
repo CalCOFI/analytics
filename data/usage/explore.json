@@ -5,25 +5,25 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-11-15",
+ "last_day": "2026-11-16",
  "totals_28d": {
-  "activeUsers": 4465.0,
-  "newUsers": 4377.0,
-  "sessions": 4579.0,
-  "engagedSessions": 892.0,
-  "screenPageViews": 9900.0,
-  "eventCount": 20679.0,
-  "userEngagementDuration": 72269.0,
-  "avgEngagementSeconds": 16.2,
+  "activeUsers": 4474.0,
+  "newUsers": 4375.0,
+  "sessions": 4602.0,
+  "engagedSessions": 904.0,
+  "screenPageViews": 9980.0,
+  "eventCount": 20827.0,
+  "userEngagementDuration": 74988.0,
+  "avgEngagementSeconds": 16.8,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 2.2
  },
  "delta_28d": {
-  "activeUsers": 3472.0,
-  "sessions": 2144.6,
-  "engagedSessions": 523.8,
+  "activeUsers": 3597.5,
+  "sessions": 2236.0,
+  "engagedSessions": 555.1,
   "avgEngagementSeconds": -91.0,
-  "screenPageViews": 357.9
+  "screenPageViews": 362.5
  },
  "daily": [
   {
@@ -398,8 +398,13 @@
   },
   {
    "date": "2026-11-15",
-   "activeUsers": 3.0,
-   "sessions": 4.0
+   "activeUsers": 4.0,
+   "sessions": 6.0
+  },
+  {
+   "date": "2026-11-16",
+   "activeUsers": 10.0,
+   "sessions": 23.0
   }
  ],
  "daily_mean7": [
@@ -477,7 +482,8 @@
   424.0,
   186.71,
   61.71,
-  27.43
+  27.57,
+  19.14
  ],
  "geo_country": [
   {
@@ -681,6 +687,11 @@
    "activeUsers": 8.0
   },
   {
+   "country": "Belgium",
+   "countryId": "BE",
+   "activeUsers": 7.0
+  },
+  {
    "country": "Saudi Arabia",
    "countryId": "SA",
    "activeUsers": 7.0
@@ -718,11 +729,6 @@
   {
    "country": "Australia",
    "countryId": "AU",
-   "activeUsers": 4.0
-  },
-  {
-   "country": "Belgium",
-   "countryId": "BE",
    "activeUsers": 4.0
   },
   {
@@ -1407,6 +1413,12 @@
    "activeUsers": 8.0
   },
   {
+   "country": "Belgium",
+   "countryId": "BE",
+   "region": "Other",
+   "activeUsers": 7.0
+  },
+  {
    "country": "Saudi Arabia",
    "countryId": "SA",
    "region": "Other",
@@ -1463,12 +1475,6 @@
   {
    "country": "Australia",
    "countryId": "AU",
-   "region": "Other",
-   "activeUsers": 4.0
-  },
-  {
-   "country": "Belgium",
-   "countryId": "BE",
    "region": "Other",
    "activeUsers": 4.0
   },
@@ -1776,12 +1782,12 @@
  "events": [
   {
    "name": "page_view",
-   "count": 14917.0,
+   "count": 15060.0,
    "users": 4528.0
   },
   {
    "name": "session_start",
-   "count": 4947.0,
+   "count": 4972.0,
    "users": 4515.0
   },
   {
@@ -1791,17 +1797,17 @@
   },
   {
    "name": "scroll",
-   "count": 1832.0,
+   "count": 1859.0,
    "users": 966.0
   },
   {
    "name": "user_engagement",
-   "count": 808.0,
+   "count": 829.0,
    "users": 134.0
   },
   {
    "name": "export",
-   "count": 98.0,
+   "count": 100.0,
    "users": 18.0
   },
   {
@@ -1811,7 +1817,7 @@
   },
   {
    "name": "view_search_results",
-   "count": 49.0,
+   "count": 50.0,
    "users": 9.0
   },
   {

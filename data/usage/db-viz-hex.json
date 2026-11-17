@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 41.0,
-  "newUsers": 33.0,
-  "sessions": 47.0,
+  "activeUsers": 47.0,
+  "newUsers": 38.0,
+  "sessions": 53.0,
   "engagedSessions": 21.0,
-  "screenPageViews": 44.0,
-  "eventCount": 416.0,
+  "screenPageViews": 50.0,
+  "eventCount": 440.0,
   "userEngagementDuration": 2170.0,
-  "avgEngagementSeconds": 52.9,
+  "avgEngagementSeconds": 46.2,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 78.3,
-  "sessions": 42.4,
-  "engagedSessions": -4.5,
-  "avgEngagementSeconds": -65.7,
-  "screenPageViews": 7.3
+  "activeUsers": 113.6,
+  "sessions": 65.6,
+  "engagedSessions": 0.0,
+  "avgEngagementSeconds": -71.3,
+  "screenPageViews": 25.0
  },
  "daily": [
   {
@@ -467,6 +467,11 @@
    "sessions": 5.0
   },
   {
+   "date": "2026-11-16",
+   "activeUsers": 6.0,
+   "sessions": 6.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -626,12 +631,13 @@
   2.14,
   2.29,
   2.14,
-  1.86,
-  1.71,
-  2.14,
-  2.14,
-  2.0,
+  2.57,
   2.43,
+  2.43,
+  2.86,
+  2.71,
+  2.71,
+  2.57,
   2.0,
   2.14,
   2.29,
@@ -645,7 +651,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 69.0
+   "activeUsers": 71.0
   },
   {
    "country": "Italy",
@@ -670,6 +676,11 @@
   {
    "country": "China",
    "countryId": "CN",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "France",
+   "countryId": "FR",
    "activeUsers": 2.0
   },
   {
@@ -698,8 +709,8 @@
    "activeUsers": 1.0
   },
   {
-   "country": "France",
-   "countryId": "FR",
+   "country": "Ecuador",
+   "countryId": "EC",
    "activeUsers": 1.0
   },
   {
@@ -723,6 +734,11 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Vietnam",
+   "countryId": "VN",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Colombia",
    "countryId": "CO",
    "activeUsers": 0.0
@@ -739,7 +755,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 24.0
+   "activeUsers": 26.0
   },
   {
    "country": "Italy",
@@ -772,6 +788,12 @@
    "activeUsers": 2.0
   },
   {
+   "country": "France",
+   "countryId": "FR",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
    "country": "",
    "countryId": "",
    "region": "",
@@ -802,8 +824,8 @@
    "activeUsers": 1.0
   },
   {
-   "country": "France",
-   "countryId": "FR",
+   "country": "Ecuador",
+   "countryId": "EC",
    "region": "Other",
    "activeUsers": 1.0
   },
@@ -844,6 +866,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Vietnam",
+   "countryId": "VN",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Colombia",
    "countryId": "CO",
    "region": "Other",
@@ -853,18 +881,18 @@
  "events": [
   {
    "name": "session_start",
-   "count": 797.0,
-   "users": 82.0
+   "count": 804.0,
+   "users": 87.0
   },
   {
    "name": "page_view",
-   "count": 617.0,
-   "users": 83.0
+   "count": 623.0,
+   "users": 88.0
   },
   {
    "name": "scroll",
-   "count": 556.0,
-   "users": 77.0
+   "count": 561.0,
+   "users": 81.0
   },
   {
    "name": "filter_submit",
@@ -888,7 +916,7 @@
   },
   {
    "name": "start_tour",
-   "count": 267.0,
+   "count": 268.0,
    "users": 68.0
   },
   {
@@ -1581,6 +1609,15 @@
     "p95_ms": "238.1"
    },
    {
+    "date": "2026-11-16",
+    "events": "4",
+    "distinct_sessions": "2",
+    "distinct_clients": "2",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1840,7 +1877,7 @@
    },
    {
     "event": "session_start",
-    "n": "389",
+    "n": "391",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1848,7 +1885,7 @@
    },
    {
     "event": "start_tour",
-    "n": "318",
+    "n": "320",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -2295,9 +2332,9 @@
    },
    {
     "app_version": "fbe0941",
-    "n": "145",
+    "n": "149",
     "first_seen": "2026-11-02",
-    "last_seen": "2026-11-15"
+    "last_seen": "2026-11-16"
    },
    {
     "app_version": "latest",
