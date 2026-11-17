@@ -7,23 +7,23 @@
  "first_day": "2026-09-05",
  "last_day": "2026-11-16",
  "totals_28d": {
-  "activeUsers": 177.0,
-  "newUsers": 101.0,
-  "sessions": 223.0,
-  "engagedSessions": 115.0,
-  "screenPageViews": 320.0,
-  "eventCount": 1001.0,
-  "userEngagementDuration": 7768.0,
-  "avgEngagementSeconds": 43.9,
+  "activeUsers": 180.0,
+  "newUsers": 103.0,
+  "sessions": 226.0,
+  "engagedSessions": 116.0,
+  "screenPageViews": 323.0,
+  "eventCount": 1011.0,
+  "userEngagementDuration": 7797.0,
+  "avgEngagementSeconds": 43.3,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 1.8
  },
  "delta_28d": {
-  "activeUsers": 7.3,
-  "sessions": 3.7,
-  "engagedSessions": -0.9,
-  "avgEngagementSeconds": -31.9,
-  "screenPageViews": 12.3
+  "activeUsers": 9.1,
+  "sessions": 5.1,
+  "engagedSessions": 0.0,
+  "avgEngagementSeconds": -32.9,
+  "screenPageViews": 13.3
  },
  "daily": [
   {
@@ -388,8 +388,8 @@
   },
   {
    "date": "2026-11-16",
-   "activeUsers": 5.0,
-   "sessions": 12.0
+   "activeUsers": 8.0,
+   "sessions": 15.0
   }
  ],
  "daily_mean7": [
@@ -465,13 +465,13 @@
   6.0,
   6.86,
   7.14,
-  7.43
+  7.86
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 138.0
+   "activeUsers": 140.0
   },
   {
    "country": "Singapore",
@@ -678,7 +678,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Virginia",
-   "activeUsers": 12.0
+   "activeUsers": 14.0
   },
   {
    "country": "Canada",
@@ -930,27 +930,27 @@
  "events": [
   {
    "name": "page_view",
-   "count": 808.0,
-   "users": 302.0
+   "count": 811.0,
+   "users": 304.0
   },
   {
    "name": "user_engagement",
-   "count": 637.0,
+   "count": 638.0,
    "users": 135.0
   },
   {
    "name": "session_start",
-   "count": 365.0,
-   "users": 262.0
+   "count": 368.0,
+   "users": 264.0
   },
   {
    "name": "first_visit",
-   "count": 234.0,
-   "users": 234.0
+   "count": 236.0,
+   "users": 236.0
   },
   {
    "name": "scroll",
-   "count": 173.0,
+   "count": 174.0,
    "users": 75.0
   },
   {
