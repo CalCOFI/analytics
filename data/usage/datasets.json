@@ -7,23 +7,23 @@
  "first_day": "2026-09-05",
  "last_day": "2026-11-17",
  "totals_28d": {
-  "activeUsers": 182.0,
+  "activeUsers": 183.0,
   "newUsers": 100.0,
-  "sessions": 228.0,
-  "engagedSessions": 121.0,
-  "screenPageViews": 333.0,
-  "eventCount": 1044.0,
-  "userEngagementDuration": 8388.0,
-  "avgEngagementSeconds": 46.1,
+  "sessions": 231.0,
+  "engagedSessions": 124.0,
+  "screenPageViews": 353.0,
+  "eventCount": 1089.0,
+  "userEngagementDuration": 8780.0,
+  "avgEngagementSeconds": 48.0,
   "engagedSessionRate": 0.5,
-  "viewsPerUser": 1.8
+  "viewsPerUser": 1.9
  },
  "delta_28d": {
-  "activeUsers": 7.7,
-  "sessions": 4.1,
-  "engagedSessions": 4.3,
-  "avgEngagementSeconds": -27.4,
-  "screenPageViews": 16.4
+  "activeUsers": 8.3,
+  "sessions": 5.5,
+  "engagedSessions": 6.9,
+  "avgEngagementSeconds": -24.4,
+  "screenPageViews": 23.4
  },
  "daily": [
   {
@@ -393,8 +393,8 @@
   },
   {
    "date": "2026-11-17",
-   "activeUsers": 10.0,
-   "sessions": 12.0
+   "activeUsers": 11.0,
+   "sessions": 15.0
   }
  ],
  "daily_mean7": [
@@ -471,13 +471,13 @@
   6.86,
   7.14,
   7.86,
-  8.57
+  8.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 143.0
+   "activeUsers": 144.0
   },
   {
    "country": "Singapore",
@@ -660,7 +660,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 83.0
+   "activeUsers": 84.0
   },
   {
    "country": "Singapore",
@@ -936,17 +936,17 @@
  "events": [
   {
    "name": "page_view",
-   "count": 831.0,
-   "users": 307.0
+   "count": 851.0,
+   "users": 308.0
   },
   {
    "name": "user_engagement",
-   "count": 660.0,
-   "users": 138.0
+   "count": 673.0,
+   "users": 139.0
   },
   {
    "name": "session_start",
-   "count": 374.0,
+   "count": 375.0,
    "users": 267.0
   },
   {
@@ -956,17 +956,17 @@
   },
   {
    "name": "scroll",
-   "count": 187.0,
-   "users": 78.0
+   "count": 194.0,
+   "users": 79.0
   },
   {
    "name": "click",
-   "count": 93.0,
+   "count": 95.0,
    "users": 35.0
   },
   {
    "name": "file_download",
-   "count": 51.0,
+   "count": 52.0,
    "users": 20.0
   },
   {
@@ -975,13 +975,13 @@
    "users": 4.0
   },
   {
-   "name": "feedback",
+   "name": "dataset_download",
    "count": 2.0,
-   "users": 1.0
+   "users": 2.0
   },
   {
-   "name": "dataset_download",
-   "count": 1.0,
+   "name": "feedback",
+   "count": 2.0,
    "users": 1.0
   }
  ]
