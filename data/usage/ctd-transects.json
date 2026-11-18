@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-08-10",
- "last_day": "2026-11-16",
+ "last_day": "2026-11-17",
  "totals_28d": {
-  "activeUsers": 148.0,
-  "newUsers": 118.0,
-  "sessions": 181.0,
-  "engagedSessions": 96.0,
-  "screenPageViews": 1090.0,
-  "eventCount": 1629.0,
-  "userEngagementDuration": 13675.0,
-  "avgEngagementSeconds": 92.4,
+  "activeUsers": 152.0,
+  "newUsers": 119.0,
+  "sessions": 186.0,
+  "engagedSessions": 100.0,
+  "screenPageViews": 1114.0,
+  "eventCount": 1662.0,
+  "userEngagementDuration": 13928.0,
+  "avgEngagementSeconds": 91.6,
   "engagedSessionRate": 0.5,
-  "viewsPerUser": 7.4
+  "viewsPerUser": 7.3
  },
  "delta_28d": {
-  "activeUsers": 124.2,
-  "sessions": 79.2,
-  "engagedSessions": 45.5,
-  "avgEngagementSeconds": -34.7,
-  "screenPageViews": 35.6
+  "activeUsers": 145.2,
+  "sessions": 100.0,
+  "engagedSessions": 69.5,
+  "avgEngagementSeconds": -35.2,
+  "screenPageViews": 47.7
  },
  "daily": [
   {
@@ -440,6 +440,11 @@
    "date": "2026-11-16",
    "activeUsers": 21.0,
    "sessions": 21.0
+  },
+  {
+   "date": "2026-11-17",
+   "activeUsers": 4.0,
+   "sessions": 5.0
   }
  ],
  "daily_mean7": [
@@ -525,13 +530,14 @@
   11.71,
   11.71,
   11.71,
-  12.86
+  12.86,
+  12.71
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 176.0
+   "activeUsers": 177.0
   },
   {
    "country": "Germany",
@@ -562,6 +568,11 @@
    "country": "United Kingdom",
    "countryId": "GB",
    "activeUsers": 3.0
+  },
+  {
+   "country": "Belgium",
+   "countryId": "BE",
+   "activeUsers": 1.0
   },
   {
    "country": "Indonesia",
@@ -611,7 +622,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Colorado",
-   "activeUsers": 32.0
+   "activeUsers": 33.0
   },
   {
    "country": "United States",
@@ -668,6 +679,12 @@
    "activeUsers": 2.0
   },
   {
+   "country": "Belgium",
+   "countryId": "BE",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Indonesia",
    "countryId": "ID",
    "region": "Other",
@@ -719,22 +736,22 @@
  "events": [
   {
    "name": "page_view",
-   "count": 2232.0,
+   "count": 2245.0,
    "users": 186.0
   },
   {
    "name": "scroll",
-   "count": 367.0,
-   "users": 157.0
+   "count": 365.0,
+   "users": 158.0
   },
   {
    "name": "session_start",
-   "count": 323.0,
+   "count": 325.0,
    "users": 173.0
   },
   {
    "name": "user_engagement",
-   "count": 176.0,
+   "count": 178.0,
    "users": 53.0
   },
   {

@@ -5,10 +5,10 @@ click,26,8
 export,100,18
 feedback,24,3
 file_download,1,1
-first_visit,4496,4492
-page_view,15060,4528
-scroll,1859,966
-session_start,4973,4515
+first_visit,4500,4496
+page_view,15169,4532
+scroll,1879,970
+session_start,4988,4519
 share,9,3
-user_engagement,830,134
+user_engagement,844,136
 view_search_results,50,9

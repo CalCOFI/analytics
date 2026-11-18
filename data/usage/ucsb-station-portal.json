@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-08-08",
- "last_day": "2026-11-12",
+ "last_day": "2026-11-17",
  "totals_28d": {
   "activeUsers": 10.0,
-  "newUsers": 8.0,
+  "newUsers": 9.0,
   "sessions": 13.0,
   "engagedSessions": 2.0,
   "screenPageViews": 13.0,
-  "eventCount": 43.0,
-  "userEngagementDuration": 56.0,
-  "avgEngagementSeconds": 5.6,
+  "eventCount": 46.0,
+  "userEngagementDuration": 68.0,
+  "avgEngagementSeconds": 6.8,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 1.3
  },
  "delta_28d": {
-  "activeUsers": 400.0,
-  "sessions": 550.0,
-  "engagedSessions": 0.0,
-  "avgEngagementSeconds": -30.0,
-  "screenPageViews": 550.0
+  "activeUsers": 233.3,
+  "sessions": 333.3,
+  "engagedSessions": -33.3,
+  "avgEngagementSeconds": 28.3,
+  "screenPageViews": 333.3
  },
  "daily": [
   {
@@ -100,6 +100,11 @@
    "date": "2026-11-12",
    "activeUsers": 1.0,
    "sessions": 4.0
+  },
+  {
+   "date": "2026-11-17",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -117,13 +122,14 @@
   1.0,
   1.57,
   1.57,
+  1.57,
   1.57
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 16.0
+   "activeUsers": 17.0
   },
   {
    "country": "Singapore",
@@ -188,33 +194,39 @@
    "countryId": "SG",
    "region": "",
    "activeUsers": 1.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "",
+   "activeUsers": 1.0
   }
  ],
  "events": [
   {
    "name": "page_view",
-   "count": 19.0,
-   "users": 16.0
+   "count": 20.0,
+   "users": 17.0
   },
   {
    "name": "session_start",
-   "count": 16.0,
-   "users": 14.0
+   "count": 17.0,
+   "users": 15.0
   },
   {
    "name": "first_visit",
-   "count": 13.0,
-   "users": 13.0
+   "count": 14.0,
+   "users": 14.0
   },
   {
    "name": "scroll",
-   "count": 12.0,
-   "users": 9.0
+   "count": 13.0,
+   "users": 10.0
   },
   {
    "name": "user_engagement",
-   "count": 8.0,
-   "users": 5.0
+   "count": 9.0,
+   "users": 6.0
   },
   {
    "name": "click",

@@ -16,7 +16,7 @@ Bangladesh,BD,,1,1
 Bangladesh,BD,Dhaka Division,22,22
 Bangladesh,BD,Other,19,19
 Belarus,BY,Other,12,12
-Belgium,BE,Other,7,15
+Belgium,BE,Other,9,22
 Bolivia,BO,Other,4,4
 Botswana,BW,,1,1
 Botswana,BW,Other,1,1
@@ -36,7 +36,7 @@ Canada,CA,British Columbia,10,22
 Canada,CA,Other,9,9
 Chile,CL,Other,12,12
 Chile,CL,Santiago Metropolitan Region,15,15
-China,CN,,2,2
+China,CN,,1,1
 China,CN,(not set),35,35
 China,CN,Guangdong Province,26,26
 China,CN,Hunan,12,12
@@ -75,7 +75,7 @@ Iran,IR,Other,1,1
 Iraq,IQ,Other,2,2
 Ireland,IE,Other,3,3
 Israel,IL,Other,5,5
-Italy,IT,Lombardy,11,127
+Italy,IT,Lombardy,11,128
 Italy,IT,Other,9,31
 Jamaica,JM,Other,2,2
 Japan,JP,Other,9,9
@@ -131,7 +131,7 @@ United Arab Emirates,AE,Other,15,15
 United Kingdom,GB,England,10,11
 United Kingdom,GB,Other,1,1
 United States,US,,1,1
-United States,US,California,132,404
+United States,US,California,133,410
 United States,US,Illinois,13,13
 United States,US,New York,10,11
 United States,US,Other,79,94

@@ -284,12 +284,12 @@
  "events": [
   {
    "name": "page_view",
-   "count": 92.0,
+   "count": 91.0,
    "users": 18.0
   },
   {
    "name": "scroll",
-   "count": 92.0,
+   "count": 90.0,
    "users": 17.0
   },
   {
@@ -299,7 +299,7 @@
   },
   {
    "name": "session_start",
-   "count": 23.0,
+   "count": 22.0,
    "users": 16.0
   },
   {
