@@ -7,23 +7,23 @@
  "first_day": "2026-07-29",
  "last_day": "2026-11-18",
  "totals_28d": {
-  "activeUsers": 84.0,
+  "activeUsers": 85.0,
   "newUsers": 47.0,
-  "sessions": 136.0,
-  "engagedSessions": 30.0,
-  "screenPageViews": 114.0,
-  "eventCount": 446.0,
-  "userEngagementDuration": 1262.0,
+  "sessions": 138.0,
+  "engagedSessions": 32.0,
+  "screenPageViews": 116.0,
+  "eventCount": 452.0,
+  "userEngagementDuration": 1274.0,
   "avgEngagementSeconds": 15.0,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": -39.1,
-  "sessions": -30.3,
-  "engagedSessions": -66.3,
+  "activeUsers": -38.4,
+  "sessions": -29.2,
+  "engagedSessions": -64.0,
   "avgEngagementSeconds": -66.1,
-  "screenPageViews": -44.4
+  "screenPageViews": -43.4
  },
  "daily": [
   {
@@ -483,8 +483,8 @@
   },
   {
    "date": "2026-11-18",
-   "activeUsers": 4.0,
-   "sessions": 9.0
+   "activeUsers": 5.0,
+   "sessions": 11.0
   }
  ],
  "daily_mean7": [
@@ -579,7 +579,7 @@
   2.0,
   3.43,
   3.57,
-  3.43
+  3.57
  ],
  "geo_country": [
   {
@@ -1041,7 +1041,7 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1802.0,
+   "count": 1804.0,
    "users": 1073.0
   },
   {
@@ -1051,7 +1051,7 @@
   },
   {
    "name": "scroll",
-   "count": 1555.0,
+   "count": 1557.0,
    "users": 982.0
   },
   {
@@ -1061,7 +1061,7 @@
   },
   {
    "name": "user_engagement",
-   "count": 810.0,
+   "count": 812.0,
    "users": 507.0
   },
   {
