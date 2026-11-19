@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-05-07",
- "last_day": "2026-11-17",
+ "last_day": "2026-11-18",
  "totals_28d": {
-  "activeUsers": 167.0,
-  "newUsers": 162.0,
-  "sessions": 168.0,
-  "engagedSessions": 9.0,
-  "screenPageViews": 170.0,
-  "eventCount": 518.0,
-  "userEngagementDuration": 163.0,
-  "avgEngagementSeconds": 1.0,
+  "activeUsers": 166.0,
+  "newUsers": 160.0,
+  "sessions": 167.0,
+  "engagedSessions": 10.0,
+  "screenPageViews": 171.0,
+  "eventCount": 520.0,
+  "userEngagementDuration": 177.0,
+  "avgEngagementSeconds": 1.1,
   "engagedSessionRate": 0.1,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 65.3,
-  "sessions": 54.1,
-  "engagedSessions": -50.0,
-  "avgEngagementSeconds": -80.4,
-  "screenPageViews": 46.6
+  "activeUsers": 67.7,
+  "sessions": 57.5,
+  "engagedSessions": -41.2,
+  "avgEngagementSeconds": -78.8,
+  "screenPageViews": 50.0
  },
  "daily": [
   {
@@ -795,6 +795,11 @@
    "date": "2026-11-17",
    "activeUsers": 5.0,
    "sessions": 5.0
+  },
+  {
+   "date": "2026-11-18",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -951,13 +956,14 @@
   7.29,
   7.29,
   6.14,
-  4.86
+  4.86,
+  4.14
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 313.0
+   "activeUsers": 317.0
   },
   {
    "country": "United States",
@@ -1045,7 +1051,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 306.0
+   "activeUsers": 310.0
   },
   {
    "country": "United States",
@@ -1189,22 +1195,22 @@
  "events": [
   {
    "name": "page_view",
-   "count": 417.0,
-   "users": 348.0
+   "count": 414.0,
+   "users": 343.0
   },
   {
    "name": "session_start",
-   "count": 365.0,
-   "users": 346.0
+   "count": 360.0,
+   "users": 341.0
   },
   {
    "name": "first_visit",
-   "count": 339.0,
-   "users": 339.0
+   "count": 334.0,
+   "users": 334.0
   },
   {
    "name": "user_engagement",
-   "count": 71.0,
+   "count": 72.0,
    "users": 18.0
   },
   {

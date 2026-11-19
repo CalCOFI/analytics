@@ -19,11 +19,11 @@
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 100.0,
-  "sessions": 57.6,
-  "engagedSessions": 0.0,
-  "avgEngagementSeconds": -69.3,
-  "screenPageViews": 19.5
+  "activeUsers": 109.1,
+  "sessions": 67.7,
+  "engagedSessions": 5.0,
+  "avgEngagementSeconds": -57.1,
+  "screenPageViews": 25.6
  },
  "daily": [
   {
@@ -881,43 +881,43 @@
  "events": [
   {
    "name": "session_start",
-   "count": 804.0,
-   "users": 87.0
+   "count": 793.0,
+   "users": 85.0
   },
   {
    "name": "page_view",
-   "count": 623.0,
-   "users": 88.0
+   "count": 617.0,
+   "users": 86.0
   },
   {
    "name": "scroll",
-   "count": 561.0,
-   "users": 81.0
+   "count": 555.0,
+   "users": 79.0
   },
   {
    "name": "filter_submit",
-   "count": 428.0,
-   "users": 30.0
+   "count": 426.0,
+   "users": 29.0
   },
   {
    "name": "map_query_env",
-   "count": 428.0,
-   "users": 30.0
+   "count": 426.0,
+   "users": 29.0
   },
   {
    "name": "map_query_sp",
-   "count": 428.0,
-   "users": 30.0
+   "count": 426.0,
+   "users": 29.0
   },
   {
    "name": "user_engagement",
-   "count": 349.0,
-   "users": 44.0
+   "count": 344.0,
+   "users": 42.0
   },
   {
    "name": "start_tour",
-   "count": 268.0,
-   "users": 68.0
+   "count": 262.0,
+   "users": 66.0
   },
   {
    "name": "select_theme",
@@ -926,8 +926,8 @@
   },
   {
    "name": "select_tab",
-   "count": 127.0,
-   "users": 19.0
+   "count": 124.0,
+   "users": 17.0
   },
   {
    "name": "filter_no_results",
@@ -936,8 +936,8 @@
   },
   {
    "name": "open_filters",
-   "count": 93.0,
-   "users": 16.0
+   "count": 87.0,
+   "users": 14.0
   }
  ],
  "log": {

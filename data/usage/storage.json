@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-11-16",
+ "last_day": "2026-11-18",
  "totals_28d": {
-  "activeUsers": 279.0,
+  "activeUsers": 280.0,
   "newUsers": 270.0,
-  "sessions": 282.0,
-  "engagedSessions": 13.0,
-  "screenPageViews": 288.0,
-  "eventCount": 854.0,
-  "userEngagementDuration": 252.0,
-  "avgEngagementSeconds": 0.9,
-  "engagedSessionRate": 0.0,
+  "sessions": 284.0,
+  "engagedSessions": 15.0,
+  "screenPageViews": 289.0,
+  "eventCount": 856.0,
+  "userEngagementDuration": 289.0,
+  "avgEngagementSeconds": 1.0,
+  "engagedSessionRate": 0.1,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": 1450.0,
-  "sessions": 984.6,
-  "engagedSessions": -27.8,
-  "avgEngagementSeconds": -93.6,
-  "screenPageViews": 700.0
+  "activeUsers": 1455.6,
+  "sessions": 1036.0,
+  "engagedSessions": -16.7,
+  "avgEngagementSeconds": -92.9,
+  "screenPageViews": 725.7
  },
  "daily": [
   {
@@ -310,6 +310,11 @@
    "date": "2026-11-16",
    "activeUsers": 1.0,
    "sessions": 1.0
+  },
+  {
+   "date": "2026-11-18",
+   "activeUsers": 1.0,
+   "sessions": 2.0
   }
  ],
  "daily_mean7": [
@@ -369,7 +374,8 @@
   37.86,
   38.0,
   26.29,
-  25.43
+  25.43,
+  11.71
  ],
  "geo_country": [
   {
@@ -541,21 +547,21 @@
   {
    "name": "page_view",
    "count": 448.0,
-   "users": 306.0
+   "users": 305.0
   },
   {
    "name": "session_start",
-   "count": 313.0,
-   "users": 302.0
+   "count": 312.0,
+   "users": 301.0
   },
   {
    "name": "first_visit",
-   "count": 295.0,
-   "users": 295.0
+   "count": 294.0,
+   "users": 294.0
   },
   {
    "name": "user_engagement",
-   "count": 132.0,
+   "count": 133.0,
    "users": 15.0
   },
   {
@@ -1133,11 +1139,11 @@
    }
   ],
   "totals_28d": {
-   "requests": 67127.0,
-   "bytes": 9325491676.0,
-   "clients": 2732.0,
-   "tool": 41581.0,
-   "browser": 25546.0
+   "requests": 60883.0,
+   "bytes": 9299230879.0,
+   "clients": 2608.0,
+   "tool": 38500.0,
+   "browser": 22383.0
   },
   "first_day": "2026-07-29",
   "top_paths": [

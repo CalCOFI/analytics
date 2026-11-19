@@ -1,11 +1,11 @@
 country,countryId,region,activeUsers,sessions
-Belgium,BE,Other,1,1
+Belgium,BE,Other,1,2
 China,CN,,1,1
 China,CN,Other,4,4
 Colombia,CO,Other,1,1
 Germany,DE,Other,1,1
 India,IN,Other,1,2
-Italy,IT,Other,7,56
+Italy,IT,Other,7,57
 Nepal,NP,Other,1,1
 Singapore,SG,,1,1
 Singapore,SG,Other,5,5

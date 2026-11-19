@@ -1,5 +1,5 @@
 country,countryId,region,activeUsers,sessions
-Belgium,BE,Other,1,1
+Belgium,BE,Other,1,2
 Brazil,BR,Other,5,5
 Bulgaria,BG,Other,1,1
 Chile,CL,Other,1,1
@@ -13,7 +13,7 @@ Mexico,MX,Other,3,5
 New Zealand,NZ,Other,2,4
 Poland,PL,Other,1,1
 Singapore,SG,,4,4
-Singapore,SG,(not set),306,306
+Singapore,SG,(not set),310,310
 Singapore,SG,Other,3,3
 United Kingdom,GB,,1,1
 United Kingdom,GB,Other,1,1
