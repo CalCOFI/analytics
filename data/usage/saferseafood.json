@@ -7,23 +7,23 @@
  "first_day": "2026-05-07",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 24.0,
-  "newUsers": 20.0,
-  "sessions": 28.0,
-  "engagedSessions": 9.0,
-  "screenPageViews": 27.0,
-  "eventCount": 98.0,
-  "userEngagementDuration": 613.0,
-  "avgEngagementSeconds": 25.5,
-  "engagedSessionRate": 0.3,
-  "viewsPerUser": 1.1
+  "activeUsers": 26.0,
+  "newUsers": 21.0,
+  "sessions": 31.0,
+  "engagedSessions": 12.0,
+  "screenPageViews": 36.0,
+  "eventCount": 117.0,
+  "userEngagementDuration": 680.0,
+  "avgEngagementSeconds": 26.2,
+  "engagedSessionRate": 0.4,
+  "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": 300.0,
-  "sessions": 250.0,
-  "engagedSessions": 80.0,
-  "avgEngagementSeconds": -14.4,
-  "screenPageViews": 237.5
+  "activeUsers": 333.3,
+  "sessions": 287.5,
+  "engagedSessions": 140.0,
+  "avgEngagementSeconds": -12.1,
+  "screenPageViews": 350.0
  },
  "daily": [
   {
@@ -297,6 +297,11 @@
    "sessions": 3.0
   },
   {
+   "date": "2026-11-19",
+   "activeUsers": 2.0,
+   "sessions": 3.0
+  },
+  {
    "date": "20260507",
    "activeUsers": 2.0,
    "sessions": 3.0
@@ -488,10 +493,11 @@
   2.86,
   3.0,
   1.71,
+  1.71,
   1.57,
-  1.43,
   1.57,
-  1.43,
+  1.57,
+  1.57,
   1.57,
   1.43,
   1.29,
@@ -519,7 +525,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 37.0
+   "activeUsers": 40.0
   },
   {
    "country": "Canada",
@@ -553,7 +559,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 13.0
+   "activeUsers": 16.0
   },
   {
    "country": "Canada",
@@ -594,13 +600,13 @@
  ],
  "events": [
   {
-   "name": "session_start",
-   "count": 44.0,
+   "name": "page_view",
+   "count": 50.0,
    "users": 33.0
   },
   {
-   "name": "page_view",
-   "count": 42.0,
+   "name": "session_start",
+   "count": 47.0,
    "users": 33.0
   },
   {
@@ -610,8 +616,8 @@
   },
   {
    "name": "user_engagement",
-   "count": 22.0,
-   "users": 17.0
+   "count": 25.0,
+   "users": 18.0
   },
   {
    "name": "scroll",
@@ -620,13 +626,13 @@
   },
   {
    "name": "form_start",
-   "count": 2.0,
-   "users": 2.0
+   "count": 3.0,
+   "users": 3.0
   },
   {
    "name": "click",
-   "count": 1.0,
-   "users": 1.0
+   "count": 2.0,
+   "users": 2.0
   }
  ]
 }

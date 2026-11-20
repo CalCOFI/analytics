@@ -881,18 +881,18 @@
  "events": [
   {
    "name": "session_start",
-   "count": 793.0,
-   "users": 85.0
+   "count": 788.0,
+   "users": 84.0
   },
   {
    "name": "page_view",
-   "count": 617.0,
-   "users": 86.0
+   "count": 614.0,
+   "users": 85.0
   },
   {
    "name": "scroll",
-   "count": 555.0,
-   "users": 79.0
+   "count": 552.0,
+   "users": 78.0
   },
   {
    "name": "filter_submit",
@@ -911,13 +911,13 @@
   },
   {
    "name": "user_engagement",
-   "count": 344.0,
-   "users": 42.0
+   "count": 341.0,
+   "users": 41.0
   },
   {
    "name": "start_tour",
-   "count": 262.0,
-   "users": 66.0
+   "count": 259.0,
+   "users": 65.0
   },
   {
    "name": "select_theme",
@@ -926,8 +926,8 @@
   },
   {
    "name": "select_tab",
-   "count": 124.0,
-   "users": 17.0
+   "count": 118.0,
+   "users": 16.0
   },
   {
    "name": "filter_no_results",
@@ -1618,6 +1618,15 @@
     "p95_ms": ""
    },
    {
+    "date": "2026-11-20",
+    "events": "2",
+    "distinct_sessions": "1",
+    "distinct_clients": "1",
+    "errors": "0",
+    "p50_ms": "",
+    "p95_ms": ""
+   },
+   {
     "date": "7/15/2026 ",
     "events": "24",
     "distinct_sessions": "0",
@@ -1877,7 +1886,7 @@
    },
    {
     "event": "session_start",
-    "n": "391",
+    "n": "392",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1885,7 +1894,7 @@
    },
    {
     "event": "start_tour",
-    "n": "320",
+    "n": "321",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -2332,9 +2341,9 @@
    },
    {
     "app_version": "fbe0941",
-    "n": "149",
+    "n": "151",
     "first_seen": "2026-11-02",
-    "last_seen": "2026-11-16"
+    "last_seen": "2026-11-20"
    },
    {
     "app_version": "latest",

@@ -284,28 +284,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 90.0,
-   "users": 18.0
+   "count": 25.0,
+   "users": 14.0
   },
   {
    "name": "scroll",
-   "count": 89.0,
-   "users": 17.0
-  },
-  {
-   "name": "user_engagement",
-   "count": 73.0,
-   "users": 11.0
+   "count": 24.0,
+   "users": 13.0
   },
   {
    "name": "session_start",
-   "count": 21.0,
-   "users": 16.0
+   "count": 13.0,
+   "users": 12.0
+  },
+  {
+   "name": "user_engagement",
+   "count": 11.0,
+   "users": 7.0
   },
   {
    "name": "first_visit",
-   "count": 11.0,
-   "users": 11.0
+   "count": 8.0,
+   "users": 8.0
   },
   {
    "name": "click",
