@@ -1,46 +1,46 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 130
+    "path": "/erddap/subscriptions/add.html",
+    "n": 202
    },
    {
-    "path": "/erddap/index.html",
-    "n": 62
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 98
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 55
+    "n": 89
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 72
+   },
+   {
+    "path": "/erddap/tabledap/farallon_bird-mammal.html",
+    "n": 65
+   },
+   {
+    "path": "/erddap/index.html",
+    "n": 58
+   },
+   {
+    "path": "/robots.txt",
     "n": 34
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 31
-   },
-   {
-    "path": "/robots.txt",
-    "n": 26
+    "n": 33
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 24
+    "n": 29
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 22
-   },
-   {
-    "path": "/",
-    "n": 19
-   },
-   {
-    "path": "/erddap",
-    "n": 15
+    "n": 23
    }
   ]
  },
@@ -107,11 +107,11 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "top_paths": [
    {
     "path": "/",
-    "n": 57
+    "n": 53
    },
    {
     "path": "/robots.txt",
@@ -119,18 +119,22 @@
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 16
+    "n": 10
    },
    {
-    "path": "/calcofi-files-public/_sync/calcofi/bottle/CalCOFI_Database_194903-202105_csv_16October2023/194903-202105_Bottle.csv",
-    "n": 14
+    "path": "/calcofi-files-public/_spatial/",
+    "n": 6
    },
    {
-    "path": "/calcofi-files-public/netcdf/cce-lter_zooscan/d2484a84cff86877a015a759/cce-lter_zooscan.nc",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_2022-edna/cb55210bcbcfebcafad0e035/calcofi_2022-edna.nc",
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.11/",
     "n": 4
    },
    {
@@ -138,15 +142,11 @@
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/9f6af4347265cbf15d6562da/calcofi_ctd-cast.nc",
+    "path": "/calcofi-files-public/netcdf/swfsc_cufes/v2026.09.11/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/52e55e8f898d71a626b3b993/calcofi_ctd-cast_full.nc",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_dic/6ad81a63b4d0c63b51d10c6d/calcofi_dic.nc",
+    "path": "/calcofi-files-public/netcdf/cdfw_dungeness-crab/v2026.09.11/",
     "n": 4
    }
   ]

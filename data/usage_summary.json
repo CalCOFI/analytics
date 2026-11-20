@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-20T04:20:36+00:00",
+ "generated": "2026-11-20T11:18:01+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 1987.0,
-  "activeUsers": 15976.0,
-  "sessions": 16422.0
+  "engagedSessions": 1996.0,
+  "activeUsers": 15985.0,
+  "sessions": 16436.0
  },
  "n_mostly_automated": 2,
  "products": [
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 931.0,
-   "activeUsers": 4491.0,
-   "sessions": 4637.0,
+   "engagedSessions": 933.0,
+   "activeUsers": 4494.0,
+   "sessions": 4642.0,
    "engagementRate": 0.2,
-   "avgEngagementSeconds": 17.7,
-   "delta": 569.8,
+   "avgEngagementSeconds": 17.9,
+   "delta": 571.2,
    "spark": [
     2.0,
     2.0,
@@ -97,7 +97,8 @@
     10.0,
     10.0,
     8.0,
-    7.0
+    9.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -292,12 +293,12 @@
   {
    "slug": "docs",
    "title": "docs",
-   "engagedSessions": 117.0,
-   "activeUsers": 541.0,
-   "sessions": 583.0,
+   "engagedSessions": 118.0,
+   "activeUsers": 543.0,
+   "sessions": 585.0,
    "engagementRate": 0.2,
-   "avgEngagementSeconds": 7.8,
-   "delta": 134.0,
+   "avgEngagementSeconds": 7.7,
+   "delta": 136.0,
    "spark": [
     6.0,
     1.0,
@@ -388,19 +389,19 @@
     24.0,
     12.0,
     11.0,
-    5.0
+    7.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "ctd-transects",
    "title": "ctd-transects",
-   "engagedSessions": 110.0,
-   "activeUsers": 174.0,
-   "sessions": 214.0,
+   "engagedSessions": 114.0,
+   "activeUsers": 177.0,
+   "sessions": 218.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 83.5,
-   "delta": 93.0,
+   "avgEngagementSeconds": 82.5,
+   "delta": 100.0,
    "spark": [
     2.0,
     7.0,
@@ -487,19 +488,19 @@
     21.0,
     4.0,
     6.0,
-    20.0
+    23.0
    ],
    "mostly_automated": false
   },
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 81.0,
+   "engagedSessions": 82.0,
    "activeUsers": 95.0,
-   "sessions": 146.0,
+   "sessions": 148.0,
    "engagementRate": 0.6,
    "avgEngagementSeconds": 127.9,
-   "delta": 1.2,
+   "delta": 2.5,
    "spark": [
     2.0,
     3.0,
@@ -700,14 +701,13 @@
   {
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
-   "engagedSessions": 21.0,
-   "activeUsers": 46.0,
-   "sessions": 52.0,
+   "engagedSessions": 22.0,
+   "activeUsers": 47.0,
+   "sessions": 53.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 47.2,
-   "delta": 5.0,
+   "avgEngagementSeconds": 46.2,
+   "delta": 10.0,
    "spark": [
-    5.0,
     1.0,
     2.0,
     2.0,
@@ -783,6 +783,7 @@
     1.0,
     5.0,
     6.0,
+    1.0,
     1.0,
     1.0,
     4.0,

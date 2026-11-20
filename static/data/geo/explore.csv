@@ -60,6 +60,7 @@ Finland,FI,Other,1,1
 France,FR,Other,10,10
 Gabon,GA,Other,4,4
 Georgia,GE,Other,1,1
+Germany,DE,,1,1
 Germany,DE,Hessen,10,10
 Germany,DE,Other,3,3
 Guatemala,GT,Other,1,1
@@ -131,10 +132,10 @@ United Arab Emirates,AE,Other,15,15
 United Kingdom,GB,England,10,11
 United Kingdom,GB,Other,1,1
 United States,US,,1,1
-United States,US,California,137,433
+United States,US,California,137,435
 United States,US,Illinois,13,13
-United States,US,New York,10,11
-United States,US,Other,80,95
+United States,US,New York,11,12
+United States,US,Other,81,96
 United States,US,Virginia,30,30
 Uruguay,UY,Other,2,2
 Uzbekistan,UZ,,1,1
