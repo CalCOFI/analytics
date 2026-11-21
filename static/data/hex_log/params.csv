@@ -15,7 +15,7 @@ env_var,salinity,2
 env_var,salinity_ave_corr,2
 env_var,spiciness0,4
 env_var,sst_c,4
-env_var,temperature,412
+env_var,temperature,420
 layers,ca_county_boundaries,3
 layers,ca_marine_protected_areas,1
 layers,ca_ports,1
@@ -33,6 +33,7 @@ taxa,AMPHIPODA GAMMARIDEA (suborder: Gammaridea),2
 taxa,AMPHIPODA HYPERIIDEA (suborder: Hyperiidea),14
 taxa,American White Pelican (species: Pelecanus erythrorhynchos),2
 taxa,Baird's Beaked Whale (species: Berardius bairdii),2
+taxa,Brandt's Cormorant (species: Urile penicillatus),6
 taxa,California spiny lobster (species: Panulirus interruptus),13
 taxa,Decapods (order: Decapoda),2
 taxa,Dungeness crab (species: Metacarcinus magister),14
@@ -42,7 +43,7 @@ taxa,Market squid (species: Doryteuthis opalescens),13
 taxa,Northern anchovy (species: Engraulis mordax),21
 taxa,Northern lampfish (species: Stenobrachius leucopsarus),16
 taxa,Pacific halibut (species: Hippoglossus stenolepis),4
-taxa,Pacific krill (species: Euphausia pacifica),6
+taxa,Pacific krill (species: Euphausia pacifica),8
 taxa,Pacific sardine (pilchard) (species: Sardinops sagax),264
 taxa,Sardinops sagax,1
 taxa,Sooty Shearwater (species: Ardenna grisea),2

@@ -1,14 +1,14 @@
 eventName,eventCount,activeUsers
 click,2,2
 download,10,1
-first_visit,128,128
+first_visit,129,129
 form_start,9,6
-page_view,189,138
+page_view,190,139
 query_error,28,14
 query_from_url,77,71
 query_run,151,60
 query_success,104,34
 query_view,169,96
 scroll,177,128
-session_start,156,135
+session_start,157,136
 user_engagement,77,37

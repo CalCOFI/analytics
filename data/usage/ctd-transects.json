@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-08-10",
- "last_day": "2026-11-19",
+ "last_day": "2026-11-20",
  "totals_28d": {
-  "activeUsers": 177.0,
-  "newUsers": 139.0,
-  "sessions": 218.0,
+  "activeUsers": 178.0,
+  "newUsers": 140.0,
+  "sessions": 219.0,
   "engagedSessions": 114.0,
-  "screenPageViews": 1166.0,
-  "eventCount": 1796.0,
-  "userEngagementDuration": 14607.0,
-  "avgEngagementSeconds": 82.5,
+  "screenPageViews": 1168.0,
+  "eventCount": 1802.0,
+  "userEngagementDuration": 14609.0,
+  "avgEngagementSeconds": 82.1,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 6.6
  },
  "delta_28d": {
-  "activeUsers": 181.0,
-  "sessions": 142.2,
-  "engagedSessions": 100.0,
-  "avgEngagementSeconds": -41.5,
-  "screenPageViews": 48.5
+  "activeUsers": 173.8,
+  "sessions": 138.0,
+  "engagedSessions": 96.6,
+  "avgEngagementSeconds": -40.1,
+  "screenPageViews": 48.4
  },
  "daily": [
   {
@@ -455,6 +455,11 @@
    "date": "2026-11-19",
    "activeUsers": 23.0,
    "sessions": 29.0
+  },
+  {
+   "date": "2026-11-20",
+   "activeUsers": 3.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -543,7 +548,8 @@
   12.86,
   12.71,
   12.57,
-  14.0
+  14.0,
+  8.43
  ],
  "geo_country": [
   {
@@ -572,6 +578,11 @@
    "activeUsers": 4.0
   },
   {
+   "country": "China",
+   "countryId": "CN",
+   "activeUsers": 4.0
+  },
+  {
    "country": "France",
    "countryId": "FR",
    "activeUsers": 3.0
@@ -584,11 +595,6 @@
   {
    "country": "Belgium",
    "countryId": "BE",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "China",
-   "countryId": "CN",
    "activeUsers": 1.0
   },
   {
@@ -684,6 +690,12 @@
    "activeUsers": 4.0
   },
   {
+   "country": "China",
+   "countryId": "CN",
+   "region": "Other",
+   "activeUsers": 3.0
+  },
+  {
    "country": "France",
    "countryId": "FR",
    "region": "Other",
@@ -704,7 +716,7 @@
   {
    "country": "China",
    "countryId": "CN",
-   "region": "Other",
+   "region": "",
    "activeUsers": 1.0
   },
   {
@@ -759,28 +771,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 2338.0,
-   "users": 209.0
+   "count": 2342.0,
+   "users": 211.0
   },
   {
    "name": "scroll",
-   "count": 389.0,
-   "users": 177.0
+   "count": 392.0,
+   "users": 180.0
   },
   {
    "name": "session_start",
-   "count": 357.0,
-   "users": 197.0
+   "count": 360.0,
+   "users": 199.0
+  },
+  {
+   "name": "first_visit",
+   "count": 187.0,
+   "users": 179.0
   },
   {
    "name": "user_engagement",
    "count": 186.0,
-   "users": 58.0
-  },
-  {
-   "name": "first_visit",
-   "count": 185.0,
-   "users": 177.0
+   "users": 60.0
   },
   {
    "name": "click",

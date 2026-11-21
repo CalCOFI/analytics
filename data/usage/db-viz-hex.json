@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 47.0,
-  "newUsers": 37.0,
-  "sessions": 53.0,
-  "engagedSessions": 22.0,
-  "screenPageViews": 50.0,
-  "eventCount": 438.0,
-  "userEngagementDuration": 2170.0,
-  "avgEngagementSeconds": 46.2,
+  "activeUsers": 45.0,
+  "newUsers": 35.0,
+  "sessions": 51.0,
+  "engagedSessions": 21.0,
+  "screenPageViews": 49.0,
+  "eventCount": 427.0,
+  "userEngagementDuration": 2308.0,
+  "avgEngagementSeconds": 51.3,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 113.6,
-  "sessions": 71.0,
-  "engagedSessions": 10.0,
-  "avgEngagementSeconds": -58.0,
-  "screenPageViews": 28.2
+  "activeUsers": 80.0,
+  "sessions": 50.0,
+  "engagedSessions": -4.5,
+  "avgEngagementSeconds": -49.7,
+  "screenPageViews": 16.7
  },
  "daily": [
   {
@@ -477,6 +477,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-11-20",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -640,9 +645,10 @@
   2.43,
   2.43,
   2.43,
-  2.71,
+  2.29,
   2.71,
   2.14,
+  1.43,
   1.86,
   2.0,
   2.14,
@@ -657,7 +663,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 72.0
+   "activeUsers": 73.0
   },
   {
    "country": "Italy",
@@ -755,7 +761,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 45.0
+   "activeUsers": 46.0
   },
   {
    "country": "United States",
@@ -887,43 +893,43 @@
  "events": [
   {
    "name": "session_start",
-   "count": 789.0,
-   "users": 85.0
-  },
-  {
-   "name": "page_view",
-   "count": 615.0,
+   "count": 791.0,
    "users": 86.0
   },
   {
+   "name": "page_view",
+   "count": 617.0,
+   "users": 87.0
+  },
+  {
    "name": "scroll",
-   "count": 553.0,
-   "users": 79.0
+   "count": 554.0,
+   "users": 80.0
   },
   {
    "name": "filter_submit",
-   "count": 426.0,
-   "users": 29.0
+   "count": 428.0,
+   "users": 30.0
   },
   {
    "name": "map_query_env",
-   "count": 426.0,
-   "users": 29.0
+   "count": 428.0,
+   "users": 30.0
   },
   {
    "name": "map_query_sp",
-   "count": 426.0,
-   "users": 29.0
+   "count": 428.0,
+   "users": 30.0
   },
   {
    "name": "user_engagement",
-   "count": 341.0,
-   "users": 41.0
+   "count": 342.0,
+   "users": 42.0
   },
   {
    "name": "start_tour",
-   "count": 260.0,
-   "users": 66.0
+   "count": 261.0,
+   "users": 67.0
   },
   {
    "name": "select_theme",
@@ -932,8 +938,8 @@
   },
   {
    "name": "select_tab",
-   "count": 118.0,
-   "users": 16.0
+   "count": 121.0,
+   "users": 17.0
   },
   {
    "name": "filter_no_results",
@@ -942,8 +948,8 @@
   },
   {
    "name": "open_filters",
-   "count": 87.0,
-   "users": 14.0
+   "count": 89.0,
+   "users": 15.0
   }
  ],
  "log": {
@@ -1625,12 +1631,12 @@
    },
    {
     "date": "2026-11-20",
-    "events": "2",
-    "distinct_sessions": "1",
-    "distinct_clients": "1",
+    "events": "20",
+    "distinct_sessions": "2",
+    "distinct_clients": "2",
     "errors": "0",
-    "p50_ms": "",
-    "p95_ms": ""
+    "p50_ms": "28179.8",
+    "p95_ms": "73423.6"
    },
    {
     "date": "7/15/2026 ",
@@ -1732,19 +1738,19 @@
    },
    {
     "event": "download_bundle",
-    "n": "4",
-    "p50_ms": "35161.9",
-    "p95_ms": "47975.9",
+    "n": "6",
+    "p50_ms": "44998.6",
+    "p95_ms": "76425.7",
     "error_rate": "0.0",
-    "median_n_rows": "18.5"
+    "median_n_rows": "17.0"
    },
    {
     "event": "download_integrated_bundle",
-    "n": "3",
-    "p50_ms": "20994.5",
-    "p95_ms": "23676.0",
+    "n": "5",
+    "p50_ms": "22484.2",
+    "p95_ms": "72079.5",
     "error_rate": "0.0",
-    "median_n_rows": "12.0"
+    "median_n_rows": "13.0"
    },
    {
     "event": "filter_no_results",
@@ -1756,7 +1762,7 @@
    },
    {
     "event": "filter_submit",
-    "n": "194",
+    "n": "196",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1780,9 +1786,9 @@
    },
    {
     "event": "map_query_env",
-    "n": "193",
+    "n": "195",
     "p50_ms": "24.7",
-    "p95_ms": "76.8",
+    "p95_ms": "76.2",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1796,9 +1802,9 @@
    },
    {
     "event": "map_query_sp",
-    "n": "194",
-    "p50_ms": "55.5",
-    "p95_ms": "435.5",
+    "n": "196",
+    "p50_ms": "57.0",
+    "p95_ms": "433.9",
     "error_rate": "0.0",
     "median_n_rows": ""
    },
@@ -1812,7 +1818,7 @@
    },
    {
     "event": "open_cite_data",
-    "n": "1",
+    "n": "2",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1828,7 +1834,7 @@
    },
    {
     "event": "open_filters",
-    "n": "70",
+    "n": "72",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1876,7 +1882,7 @@
    },
    {
     "event": "select_tab",
-    "n": "111",
+    "n": "114",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1892,7 +1898,7 @@
    },
    {
     "event": "session_start",
-    "n": "392",
+    "n": "393",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1900,7 +1906,7 @@
    },
    {
     "event": "start_tour",
-    "n": "321",
+    "n": "322",
     "p50_ms": "",
     "p95_ms": "",
     "error_rate": "0.0",
@@ -1919,7 +1925,7 @@
    {
     "param": "env_var",
     "value": "temperature",
-    "n": "412"
+    "n": "420"
    },
    {
     "param": "taxa",
@@ -1982,6 +1988,11 @@
     "n": "9"
    },
    {
+    "param": "taxa",
+    "value": "Pacific krill (species: Euphausia pacifica)",
+    "n": "8"
+   },
+   {
     "param": "env_var",
     "value": "oxygen_saturation",
     "n": "7"
@@ -1998,7 +2009,7 @@
    },
    {
     "param": "taxa",
-    "value": "Pacific krill (species: Euphausia pacifica)",
+    "value": "Brandt's Cormorant (species: Urile penicillatus)",
     "n": "6"
    },
    {
@@ -2347,7 +2358,7 @@
    },
    {
     "app_version": "fbe0941",
-    "n": "151",
+    "n": "169",
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-20"
    },

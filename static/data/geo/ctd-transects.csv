@@ -1,7 +1,8 @@
 country,countryId,region,activeUsers,sessions
 Belgium,BE,Other,1,2
 Canada,CA,Other,4,5
-China,CN,Other,1,1
+China,CN,,1,1
+China,CN,Other,3,3
 France,FR,Other,3,3
 Germany,DE,Other,6,6
 Indonesia,ID,Other,1,1
@@ -16,7 +17,7 @@ United Arab Emirates,AE,Other,1,1
 United Kingdom,GB,,1,1
 United Kingdom,GB,Other,2,2
 United States,US,Arizona,45,45
-United States,US,California,67,248
+United States,US,California,67,249
 United States,US,Colorado,40,40
 United States,US,Other,18,22
 United States,US,Virginia,18,18
