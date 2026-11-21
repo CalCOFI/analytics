@@ -9,10 +9,10 @@
  "totals_28d": {
   "activeUsers": 9227.0,
   "newUsers": 9199.0,
-  "sessions": 9232.0,
+  "sessions": 9233.0,
   "engagedSessions": 425.0,
-  "screenPageViews": 9292.0,
-  "eventCount": 29331.0,
+  "screenPageViews": 9293.0,
+  "eventCount": 29333.0,
   "userEngagementDuration": 1793.0,
   "avgEngagementSeconds": 0.2,
   "engagedSessionRate": 0.0,
@@ -20,10 +20,10 @@
  },
  "delta_28d": {
   "activeUsers": 17992.2,
-  "sessions": 15547.5,
+  "sessions": 15549.2,
   "engagedSessions": 1271.0,
   "avgEngagementSeconds": -99.7,
-  "screenPageViews": 2431.9
+  "screenPageViews": 2432.2
  },
  "daily": [
   {
@@ -459,7 +459,7 @@
   {
    "date": "2026-11-20",
    "activeUsers": 3.0,
-   "sessions": 3.0
+   "sessions": 4.0
   }
  ],
  "daily_mean7": [
@@ -1148,12 +1148,12 @@
  "events": [
   {
    "name": "page_view",
-   "count": 9742.0,
+   "count": 9743.0,
    "users": 9268.0
   },
   {
    "name": "session_start",
-   "count": 9295.0,
+   "count": 9296.0,
    "users": 9243.0
   },
   {
@@ -1761,58 +1761,63 @@
    },
    {
     "date": "2026-11-20",
-    "requests": 4025.0,
-    "bytes": 46419752.0
+    "requests": 6048.0,
+    "bytes": 175487341.0
+   },
+   {
+    "date": "2026-11-21",
+    "requests": 1061.0,
+    "bytes": 23793190.0
    }
   ],
   "totals_28d": {
-   "requests": 135762.0,
-   "bytes": 4145273435.0,
+   "requests": 138846.0,
+   "bytes": 4298134214.0,
    "clients": 3739.0,
-   "tool": 55328.0,
-   "browser": 80434.0
+   "tool": 56548.0,
+   "browser": 82298.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
-    "path": "/erddap/subscriptions/add.html",
-    "n": 202
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 135
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 98
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 103
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
     "n": 89
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 72
-   },
-   {
-    "path": "/erddap/tabledap/farallon_bird-mammal.html",
-    "n": 65
-   },
-   {
     "path": "/erddap/index.html",
-    "n": 58
-   },
-   {
-    "path": "/robots.txt",
-    "n": 34
+    "n": 48
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 33
+    "n": 37
+   },
+   {
+    "path": "/robots.txt",
+    "n": 30
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 29
+    "n": 22
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
+    "n": 17
    },
    {
     "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
-    "n": 23
+    "n": 16
+   },
+   {
+    "path": "/erddap/tabledap/cce-lter_zooscan.graph",
+    "n": 13
    }
   ]
  }

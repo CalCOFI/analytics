@@ -1166,58 +1166,63 @@
    },
    {
     "date": "2026-11-20",
-    "requests": 1411.0,
-    "bytes": 806494427.0
+    "requests": 3329.0,
+    "bytes": 812430030.0
+   },
+   {
+    "date": "2026-11-21",
+    "requests": 1745.0,
+    "bytes": 18217042.0
    }
   ],
   "totals_28d": {
-   "requests": 58271.0,
-   "bytes": 10650377082.0,
+   "requests": 61934.0,
+   "bytes": 10674529727.0,
    "clients": 2053.0,
-   "tool": 34916.0,
-   "browser": 23355.0
+   "tool": 35690.0,
+   "browser": 26244.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 53
+    "n": 51
    },
    {
     "path": "/robots.txt",
-    "n": 27
+    "n": 21
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2025-01-33UD/3deab325df6d05f115cab978/",
+    "n": 4
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 10
-   },
-   {
-    "path": "/calcofi-files-public/_spatial/",
-    "n": 6
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast/v2026.09.11/",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/v2026.09.11/",
-    "n": 5
-   },
-   {
-    "path": "/calcofi-files-public/netcdf/swfsc_ichthyo/v2026.09.11/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/calcofi_bottle/dd8ea00ff9ff3cc7d207c7ee/calcofi_bottle.nc",
+    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2025-07-33P4/ab2d6fb9297b98f766c90491/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/netcdf/swfsc_cufes/v2026.09.11/",
-    "n": 4
+    "path": "/calcofi-files-public/archive/2026-09-26_003050/swfsc/ichthyo/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/cdfw_dungeness-crab/v2026.09.11/",
-    "n": 4
+    "path": "/calcofi-db/ducklake/releases/v2026.11.18/metadata.json",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=par_surf/",
+    "n": 3
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2311SR_CTDPrelim/csvs-plots/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2009-01-32NM/213083e71715153ebbd0f375/",
+    "n": 2
    }
   ]
  }

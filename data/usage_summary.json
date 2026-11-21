@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-21T04:17:35+00:00",
+ "generated": "2026-11-21T11:18:03+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 2017.0,
-  "activeUsers": 15998.0,
-  "sessions": 16452.0
+  "engagedSessions": 2019.0,
+  "activeUsers": 16000.0,
+  "sessions": 16457.0
  },
  "n_mostly_automated": 2,
  "products": [
@@ -107,7 +107,7 @@
    "title": "erddap",
    "engagedSessions": 425.0,
    "activeUsers": 9227.0,
-   "sessions": 9232.0,
+   "sessions": 9233.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.2,
    "delta": 1271.0,
@@ -205,12 +205,12 @@
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 144.0,
+   "engagedSessions": 145.0,
    "activeUsers": 204.0,
-   "sessions": 263.0,
+   "sessions": 264.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 49.4,
-   "delta": 20.0,
+   "avgEngagementSeconds": 49.5,
+   "delta": 20.8,
    "spark": [
     1.0,
     2.0,
@@ -295,12 +295,12 @@
   {
    "slug": "docs",
    "title": "docs",
-   "engagedSessions": 125.0,
-   "activeUsers": 547.0,
-   "sessions": 589.0,
+   "engagedSessions": 126.0,
+   "activeUsers": 549.0,
+   "sessions": 591.0,
    "engagementRate": 0.2,
-   "avgEngagementSeconds": 7.9,
-   "delta": 150.0,
+   "avgEngagementSeconds": 8.0,
+   "delta": 152.0,
    "spark": [
     1.0,
     3.0,
@@ -391,7 +391,7 @@
     12.0,
     11.0,
     7.0,
-    6.0
+    8.0
    ],
    "mostly_automated": false
   },
@@ -400,7 +400,7 @@
    "title": "ctd-transects",
    "engagedSessions": 114.0,
    "activeUsers": 178.0,
-   "sessions": 219.0,
+   "sessions": 220.0,
    "engagementRate": 0.5,
    "avgEngagementSeconds": 82.1,
    "delta": 96.6,
