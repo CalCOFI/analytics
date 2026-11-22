@@ -5,25 +5,25 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-11-20",
+ "last_day": "2026-11-21",
  "totals_28d": {
-  "activeUsers": 4513.0,
-  "newUsers": 4398.0,
-  "sessions": 4661.0,
-  "engagedSessions": 940.0,
-  "screenPageViews": 10394.0,
-  "eventCount": 21452.0,
-  "userEngagementDuration": 80322.0,
-  "avgEngagementSeconds": 17.8,
+  "activeUsers": 4455.0,
+  "newUsers": 4341.0,
+  "sessions": 4602.0,
+  "engagedSessions": 931.0,
+  "screenPageViews": 10307.0,
+  "eventCount": 21244.0,
+  "userEngagementDuration": 80161.0,
+  "avgEngagementSeconds": 18.0,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 2.3
  },
  "delta_28d": {
-  "activeUsers": 3481.7,
-  "sessions": 2278.1,
-  "engagedSessions": 566.7,
-  "avgEngagementSeconds": -89.4,
-  "screenPageViews": 358.1
+  "activeUsers": 2257.1,
+  "sessions": 1663.2,
+  "engagedSessions": 504.5,
+  "avgEngagementSeconds": -84.3,
+  "screenPageViews": 330.5
  },
  "daily": [
   {
@@ -425,6 +425,11 @@
    "date": "2026-11-20",
    "activeUsers": 29.0,
    "sessions": 29.0
+  },
+  {
+   "date": "2026-11-21",
+   "activeUsers": 5.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -507,7 +512,8 @@
   13.0,
   8.71,
   7.57,
-  10.43
+  10.43,
+  10.71
  ],
  "geo_country": [
   {
@@ -523,7 +529,7 @@
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 279.0
+   "activeUsers": 282.0
   },
   {
    "country": "China",
@@ -566,6 +572,11 @@
    "activeUsers": 52.0
   },
   {
+   "country": "Germany",
+   "countryId": "DE",
+   "activeUsers": 51.0
+  },
+  {
    "country": "Bangladesh",
    "countryId": "BD",
    "activeUsers": 42.0
@@ -579,11 +590,6 @@
    "country": "Ecuador",
    "countryId": "EC",
    "activeUsers": 41.0
-  },
-  {
-   "country": "Germany",
-   "countryId": "DE",
-   "activeUsers": 33.0
   },
   {
    "country": "India",
@@ -626,13 +632,13 @@
    "activeUsers": 21.0
   },
   {
-   "country": "Italy",
-   "countryId": "IT",
-   "activeUsers": 20.0
-  },
-  {
    "country": "Canada",
    "countryId": "CA",
+   "activeUsers": 21.0
+  },
+  {
+   "country": "Italy",
+   "countryId": "IT",
    "activeUsers": 20.0
   },
   {
@@ -942,7 +948,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "California",
-   "activeUsers": 140.0
+   "activeUsers": 142.0
   },
   {
    "country": "Brazil",
@@ -960,7 +966,7 @@
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 74.0
+   "activeUsers": 75.0
   },
   {
    "country": "Argentina",
@@ -1125,6 +1131,12 @@
    "activeUsers": 18.0
   },
   {
+   "country": "Germany",
+   "countryId": "DE",
+   "region": "(not set)",
+   "activeUsers": 18.0
+  },
+  {
    "country": "Hong Kong",
    "countryId": "HK",
    "region": "(not set)",
@@ -1275,6 +1287,12 @@
    "activeUsers": 12.0
   },
   {
+   "country": "Canada",
+   "countryId": "CA",
+   "region": "Other",
+   "activeUsers": 11.0
+  },
+  {
    "country": "China",
    "countryId": "CN",
    "region": "Shandong",
@@ -1338,12 +1356,6 @@
    "country": "Canada",
    "countryId": "CA",
    "region": "British Columbia",
-   "activeUsers": 10.0
-  },
-  {
-   "country": "Canada",
-   "countryId": "CA",
-   "region": "Other",
    "activeUsers": 10.0
   },
   {
@@ -1818,28 +1830,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 15740.0,
-   "users": 4567.0
+   "count": 15778.0,
+   "users": 4571.0
   },
   {
    "name": "session_start",
-   "count": 5050.0,
-   "users": 4554.0
+   "count": 5056.0,
+   "users": 4558.0
   },
   {
    "name": "first_visit",
-   "count": 4535.0,
-   "users": 4531.0
+   "count": 4539.0,
+   "users": 4535.0
   },
   {
    "name": "scroll",
-   "count": 1936.0,
-   "users": 985.0
+   "count": 1941.0,
+   "users": 989.0
   },
   {
    "name": "user_engagement",
-   "count": 887.0,
-   "users": 147.0
+   "count": 890.0,
+   "users": 149.0
   },
   {
    "name": "export",
@@ -1848,8 +1860,8 @@
   },
   {
    "name": "cite_ack",
-   "count": 68.0,
-   "users": 64.0
+   "count": 71.0,
+   "users": 67.0
   },
   {
    "name": "view_search_results",

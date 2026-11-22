@@ -33,7 +33,7 @@ Brazil,BR,State of Sao Paulo,115,115
 Brunei,BN,Other,2,2
 Cambodia,KH,Other,1,1
 Canada,CA,British Columbia,10,22
-Canada,CA,Other,10,10
+Canada,CA,Other,11,11
 Chile,CL,Other,12,12
 Chile,CL,Santiago Metropolitan Region,15,15
 China,CN,,1,1
@@ -61,6 +61,7 @@ France,FR,Other,10,10
 Gabon,GA,Other,4,4
 Georgia,GE,Other,1,1
 Germany,DE,,18,18
+Germany,DE,(not set),18,18
 Germany,DE,Hessen,10,10
 Germany,DE,Other,5,5
 Guatemala,GT,Other,1,1
@@ -132,11 +133,11 @@ United Arab Emirates,AE,Other,15,15
 United Kingdom,GB,England,10,11
 United Kingdom,GB,Other,1,1
 United States,US,,1,1
-United States,US,California,140,440
+United States,US,California,142,443
 United States,US,Florida,10,15
 United States,US,Illinois,13,13
 United States,US,New York,11,12
-United States,US,Other,74,84
+United States,US,Other,75,86
 United States,US,Virginia,30,30
 Uruguay,UY,Other,2,2
 Uzbekistan,UZ,,1,1
