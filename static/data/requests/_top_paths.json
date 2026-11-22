@@ -1,51 +1,51 @@
 {
  "erddap.calcofi.io": {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "top_paths": [
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 135
+    "path": "/erddap/index.html",
+    "n": 50
    },
    {
-    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 103
+    "path": "/erddap/tabledap/calcofi_bottle.csv",
+    "n": 27
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 21
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 89
-   },
-   {
-    "path": "/erddap/index.html",
-    "n": 48
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 37
-   },
-   {
-    "path": "/robots.txt",
-    "n": 30
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
-    "n": 22
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_ctd-cast.html",
-    "n": 17
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.subset",
     "n": 16
    },
    {
-    "path": "/erddap/tabledap/cce-lter_zooscan.graph",
-    "n": 13
+    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
+    "n": 16
+   },
+   {
+    "path": "/robots.txt",
+    "n": 16
+   },
+   {
+    "path": "/erddap/tabledap/swfsc_ichthyo.subset",
+    "n": 14
+   },
+   {
+    "path": "/erddap/info/cce-lter_zoodb/index.csv",
+    "n": 11
+   },
+   {
+    "path": "/",
+    "n": 10
+   },
+   {
+    "path": "/erddap/info/calcofi_phyllosoma/index.csv",
+    "n": 10
    }
   ]
  },
  "erddap.calcofi.io:443": {
-  "date": "2026-11-03",
+  "date": "2026-11-22",
   "top_paths": [
    {
     "path": "/",
@@ -107,46 +107,46 @@
   ]
  },
  "storage.calcofi.io": {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "top_paths": [
    {
     "path": "/",
-    "n": 51
+    "n": 50
    },
    {
     "path": "/robots.txt",
-    "n": 21
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2025-01-33UD/3deab325df6d05f115cab978/",
-    "n": 4
+    "n": 24
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
+    "n": 21
+   },
+   {
+    "path": "/calcofi-files-public/archive/calcofi/dic/",
     "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake/tables/obs_ctd_full/cruise_key=2025-07-33P4/ab2d6fb9297b98f766c90491/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-09-26_003050/swfsc/ichthyo/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/v2026.11.18/metadata.json",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=par_surf/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-2311SR_CTDPrelim/csvs-plots/",
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=oxygen_ml_l_2/004563330d6ffb3a900046b8/",
     "n": 2
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2009-01-32NM/213083e71715153ebbd0f375/",
+    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=picoeukaryotes/e4b726721361acf0c7bc56dc/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2211SR_CTDPrelim/metadata/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/README.md",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=isus_v/a9bdf35214a585a195c80c3b/",
+    "n": 2
+   },
+   {
+    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2000-07-32NM/fe14caaa22eef65ca9860f1a/",
     "n": 2
    }
   ]

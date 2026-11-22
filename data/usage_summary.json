@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-22T03:29:51+00:00",
+ "generated": "2026-11-22T11:17:38+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 1994.0,
-  "activeUsers": 15848.0,
-  "sessions": 16301.0
+  "engagedSessions": 1997.0,
+  "activeUsers": 15854.0,
+  "sessions": 16308.0
  },
  "n_mostly_automated": 2,
  "products": [
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 931.0,
+   "engagedSessions": 932.0,
    "activeUsers": 4455.0,
-   "sessions": 4602.0,
+   "sessions": 4603.0,
    "engagementRate": 0.2,
    "avgEngagementSeconds": 18.0,
-   "delta": 504.5,
+   "delta": 505.2,
    "spark": [
     2.0,
     2.0,
@@ -207,12 +207,12 @@
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 143.0,
-   "activeUsers": 202.0,
-   "sessions": 263.0,
+   "engagedSessions": 144.0,
+   "activeUsers": 203.0,
+   "sessions": 264.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 50.1,
-   "delta": 19.2,
+   "avgEngagementSeconds": 50.0,
+   "delta": 20.0,
    "spark": [
     1.0,
     2.0,
@@ -291,7 +291,7 @@
     13.0,
     12.0,
     10.0,
-    3.0
+    4.0
    ],
    "mostly_automated": false
   },
@@ -299,13 +299,12 @@
    "slug": "docs",
    "title": "docs",
    "engagedSessions": 124.0,
-   "activeUsers": 547.0,
-   "sessions": 589.0,
+   "activeUsers": 548.0,
+   "sessions": 590.0,
    "engagementRate": 0.2,
    "avgEngagementSeconds": 7.9,
    "delta": 153.1,
    "spark": [
-    1.0,
     3.0,
     7.0,
     1.0,
@@ -394,7 +393,8 @@
     12.0,
     11.0,
     7.0,
-    8.0
+    8.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -501,14 +501,13 @@
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 81.0,
-   "activeUsers": 91.0,
-   "sessions": 143.0,
+   "engagedSessions": 82.0,
+   "activeUsers": 93.0,
+   "sessions": 145.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 132.2,
-   "delta": -2.4,
+   "avgEngagementSeconds": 129.4,
+   "delta": -1.2,
    "spark": [
-    3.0,
     1.0,
     8.0,
     15.0,
@@ -596,6 +595,7 @@
     6.0,
     2.0,
     3.0,
+    2.0,
     2.0,
     2.0
    ],
@@ -1075,10 +1075,10 @@
    "slug": "workflows",
    "title": "workflows",
    "engagedSessions": 14.0,
-   "activeUsers": 13.0,
-   "sessions": 19.0,
+   "activeUsers": 14.0,
+   "sessions": 20.0,
    "engagementRate": 0.7,
-   "avgEngagementSeconds": 21.1,
+   "avgEngagementSeconds": 20.0,
    "delta": 133.3,
    "spark": [
     4.0,
@@ -1132,6 +1132,7 @@
     1.0,
     1.0,
     2.0,
+    1.0,
     1.0,
     1.0,
     1.0
@@ -1238,8 +1239,8 @@
    "slug": "calcofi4r",
    "title": "calcofi4r",
    "engagedSessions": 11.0,
-   "activeUsers": 157.0,
-   "sessions": 158.0,
+   "activeUsers": 158.0,
+   "sessions": 159.0,
    "engagementRate": 0.1,
    "avgEngagementSeconds": 1.3,
    "delta": -31.2,
@@ -1333,7 +1334,7 @@
     3.0,
     5.0,
     1.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
