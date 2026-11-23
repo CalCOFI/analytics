@@ -1193,16 +1193,21 @@
    },
    {
     "date": "2026-11-22",
-    "requests": 2168.0,
-    "bytes": 52466671.0
+    "requests": 7446.0,
+    "bytes": 137518342.0
+   },
+   {
+    "date": "2026-11-23",
+    "requests": 2471.0,
+    "bytes": 254742952.0
    }
   ],
   "totals_28d": {
-   "requests": 60650.0,
-   "bytes": 9436000978.0,
+   "requests": 68399.0,
+   "bytes": 9775795601.0,
    "clients": 2053.0,
-   "tool": 32288.0,
-   "browser": 28362.0
+   "tool": 34654.0,
+   "browser": 33745.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
@@ -1212,38 +1217,38 @@
    },
    {
     "path": "/robots.txt",
-    "n": 24
+    "n": 28
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 21
+    "n": 14
    },
    {
-    "path": "/calcofi-files-public/archive/calcofi/dic/",
+    "path": "/calcofi-files-public/netcdf/",
     "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=oxygen_ml_l_2/004563330d6ffb3a900046b8/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0711NH_CTDFinalQC/metadata/",
+    "n": 4
    },
    {
-    "path": "/calcofi-db/ducklake/tables/climatology/measurement_type=picoeukaryotes/e4b726721361acf0c7bc56dc/",
-    "n": 2
+    "path": "/calcofi-db/ducklake/releases/v2026.11.05/RELEASE_NOTES.html",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-2211SR_CTDPrelim/metadata/",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1207OS_CTDFinalQC/asc-hdr/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/BOEM-WindPlanningAreas/README.md",
-    "n": 2
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1202NH_CTDFinalQC/asc-hdr/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=isus_v/a9bdf35214a585a195c80c3b/",
-    "n": 2
+    "path": "/calcofi-files-public/_spatial/",
+    "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_ctd_full/cruise_key=2000-07-32NM/fe14caaa22eef65ca9860f1a/",
+    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0307NH_CTDFinalQC/",
     "n": 2
    }
   ]

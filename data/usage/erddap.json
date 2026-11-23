@@ -1777,58 +1777,63 @@
    },
    {
     "date": "2026-11-22",
-    "requests": 744.0,
-    "bytes": 20066498.0
+    "requests": 3642.0,
+    "bytes": 79288765.0
+   },
+   {
+    "date": "2026-11-23",
+    "requests": 868.0,
+    "bytes": 45046418.0
    }
   ],
   "totals_28d": {
-   "requests": 127574.0,
-   "bytes": 3951429391.0,
+   "requests": 131340.0,
+   "bytes": 4055698076.0,
    "clients": 3739.0,
-   "tool": 52882.0,
-   "browser": 74692.0
+   "tool": 55231.0,
+   "browser": 76109.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/erddap/index.html",
-    "n": 50
-   },
-   {
-    "path": "/erddap/tabledap/calcofi_bottle.csv",
-    "n": 27
-   },
-   {
-    "path": "/erddap/tabledap/swfsc_ichthyo.html",
-    "n": 21
+    "n": 56
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.graph",
-    "n": 16
+    "n": 53
    },
    {
-    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
-    "n": 16
+    "path": "/erddap/tabledap/swfsc_ichthyo.html",
+    "n": 52
    },
    {
     "path": "/robots.txt",
-    "n": 16
+    "n": 32
    },
    {
     "path": "/erddap/tabledap/swfsc_ichthyo.subset",
-    "n": 14
+    "n": 29
    },
    {
-    "path": "/erddap/info/cce-lter_zoodb/index.csv",
-    "n": 11
+    "path": "/erddap/tabledap/cce-lter_zoodb.csv",
+    "n": 23
+   },
+   {
+    "path": "/erddap/subscriptions/add.html",
+    "n": 17
    },
    {
     "path": "/",
-    "n": 10
+    "n": 14
    },
    {
-    "path": "/erddap/info/calcofi_phyllosoma/index.csv",
-    "n": 10
+    "path": "/erddap/tabledap/calcofi_phytoplankton.html",
+    "n": 12
+   },
+   {
+    "path": "/erddap/tabledap/calcofi_phytoplankton.graph",
+    "n": 12
    }
   ]
  }
