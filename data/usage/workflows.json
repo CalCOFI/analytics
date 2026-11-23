@@ -444,18 +444,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 54.0,
-   "users": 9.0
+   "count": 52.0,
+   "users": 8.0
   },
   {
    "name": "user_engagement",
-   "count": 39.0,
+   "count": 38.0,
    "users": 5.0
   },
   {
    "name": "session_start",
-   "count": 30.0,
-   "users": 7.0
+   "count": 29.0,
+   "users": 6.0
   },
   {
    "name": "scroll",
@@ -469,8 +469,8 @@
   },
   {
    "name": "first_visit",
-   "count": 4.0,
-   "users": 4.0
+   "count": 3.0,
+   "users": 3.0
   }
  ]
 }

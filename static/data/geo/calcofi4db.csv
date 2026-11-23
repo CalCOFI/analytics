@@ -2,6 +2,7 @@ country,countryId,region,activeUsers,sessions
 Argentina,AR,Other,11,11
 Armenia,AM,,1,1
 Armenia,AM,Other,1,1
+Austria,AT,Other,1,1
 Bangladesh,BD,Other,2,2
 Bolivia,BO,Other,1,1
 Brazil,BR,Other,17,17
@@ -37,7 +38,7 @@ Romania,RO,Other,1,1
 Russia,RU,Other,2,8
 Senegal,SN,Other,1,1
 Singapore,SG,,2,2
-Singapore,SG,(not set),1404,1402
+Singapore,SG,(not set),1406,1404
 Singapore,SG,Other,1,1
 South Africa,ZA,Other,2,2
 Spain,ES,Other,3,3
