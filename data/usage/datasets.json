@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-09-05",
- "last_day": "2026-11-22",
+ "last_day": "2026-11-23",
  "totals_28d": {
-  "activeUsers": 200.0,
+  "activeUsers": 198.0,
   "newUsers": 117.0,
-  "sessions": 256.0,
-  "engagedSessions": 139.0,
-  "screenPageViews": 404.0,
-  "eventCount": 1249.0,
-  "userEngagementDuration": 9773.0,
-  "avgEngagementSeconds": 48.9,
+  "sessions": 255.0,
+  "engagedSessions": 138.0,
+  "screenPageViews": 400.0,
+  "eventCount": 1248.0,
+  "userEngagementDuration": 9659.0,
+  "avgEngagementSeconds": 48.8,
   "engagedSessionRate": 0.5,
   "viewsPerUser": 2.0
  },
  "delta_28d": {
-  "activeUsers": 7.0,
-  "sessions": 5.3,
-  "engagedSessions": 10.3,
-  "avgEngagementSeconds": -16.7,
-  "screenPageViews": 29.9
+  "activeUsers": 5.3,
+  "sessions": 5.4,
+  "engagedSessions": 9.5,
+  "avgEngagementSeconds": -16.3,
+  "screenPageViews": 28.6
  },
  "daily": [
   {
@@ -420,6 +420,11 @@
    "date": "2026-11-22",
    "activeUsers": 7.0,
    "sessions": 7.0
+  },
+  {
+   "date": "2026-11-23",
+   "activeUsers": 2.0,
+   "sessions": 3.0
   }
  ],
  "daily_mean7": [
@@ -501,7 +506,8 @@
   9.57,
   10.29,
   9.57,
-  9.29
+  9.29,
+  8.43
  ],
  "geo_country": [
   {
@@ -560,6 +566,11 @@
    "activeUsers": 4.0
   },
   {
+   "country": "Brazil",
+   "countryId": "BR",
+   "activeUsers": 3.0
+  },
+  {
    "country": "Indonesia",
    "countryId": "ID",
    "activeUsers": 3.0
@@ -577,11 +588,6 @@
   {
    "country": "Belgium",
    "countryId": "BE",
-   "activeUsers": 2.0
-  },
-  {
-   "country": "Brazil",
-   "countryId": "BR",
    "activeUsers": 2.0
   },
   {
@@ -776,6 +782,12 @@
    "activeUsers": 4.0
   },
   {
+   "country": "Brazil",
+   "countryId": "BR",
+   "region": "Other",
+   "activeUsers": 3.0
+  },
+  {
    "country": "Indonesia",
    "countryId": "ID",
    "region": "Other",
@@ -796,12 +808,6 @@
   {
    "country": "Belgium",
    "countryId": "BE",
-   "region": "Other",
-   "activeUsers": 2.0
-  },
-  {
-   "country": "Brazil",
-   "countryId": "BR",
    "region": "Other",
    "activeUsers": 2.0
   },
@@ -977,27 +983,27 @@
  "events": [
   {
    "name": "page_view",
-   "count": 947.0,
-   "users": 345.0
+   "count": 950.0,
+   "users": 346.0
   },
   {
    "name": "user_engagement",
-   "count": 758.0,
-   "users": 166.0
+   "count": 762.0,
+   "users": 167.0
   },
   {
    "name": "session_start",
-   "count": 423.0,
-   "users": 299.0
+   "count": 425.0,
+   "users": 300.0
   },
   {
    "name": "first_visit",
-   "count": 268.0,
-   "users": 268.0
+   "count": 269.0,
+   "users": 269.0
   },
   {
    "name": "scroll",
-   "count": 233.0,
+   "count": 235.0,
    "users": 90.0
   },
   {
