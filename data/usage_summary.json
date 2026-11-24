@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-24T07:06:40+00:00",
+ "generated": "2026-11-24T11:18:36+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 1960.0,
-  "activeUsers": 15801.0,
-  "sessions": 16224.0
+  "engagedSessions": 1967.0,
+  "activeUsers": 15810.0,
+  "sessions": 16233.0
  },
  "n_mostly_automated": 2,
  "products": [
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 923.0,
-   "activeUsers": 4450.0,
-   "sessions": 4590.0,
+   "engagedSessions": 924.0,
+   "activeUsers": 4451.0,
+   "sessions": 4591.0,
    "engagementRate": 0.2,
-   "avgEngagementSeconds": 17.1,
-   "delta": 456.0,
+   "avgEngagementSeconds": 17.2,
+   "delta": 456.6,
    "spark": [
     2.0,
     2.0,
@@ -100,7 +100,7 @@
     9.0,
     29.0,
     5.0,
-    9.0
+    10.0
    ],
    "mostly_automated": false
   },
@@ -209,12 +209,12 @@
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 138.0,
-   "activeUsers": 198.0,
-   "sessions": 255.0,
-   "engagementRate": 0.5,
-   "avgEngagementSeconds": 48.8,
-   "delta": 9.5,
+   "engagedSessions": 144.0,
+   "activeUsers": 205.0,
+   "sessions": 262.0,
+   "engagementRate": 0.6,
+   "avgEngagementSeconds": 49.1,
+   "delta": 14.3,
    "spark": [
     1.0,
     2.0,
@@ -294,6 +294,7 @@
     12.0,
     10.0,
     4.0,
+    7.0,
     7.0,
     2.0
    ],
@@ -1512,8 +1513,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 4.0,
-   "activeUsers": 341.0,
-   "sessions": 344.0,
+   "activeUsers": 342.0,
+   "sessions": 345.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.3,
    "delta": -66.7,
@@ -1607,7 +1608,7 @@
     1.0,
     2.0,
     1.0,
-    2.0
+    3.0
    ],
    "mostly_automated": true
   },

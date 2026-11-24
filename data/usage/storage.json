@@ -1204,49 +1204,54 @@
    },
    {
     "date": "2026-11-23",
-    "requests": 2471.0,
-    "bytes": 254742952.0
+    "requests": 4619.0,
+    "bytes": 293573186.0
+   },
+   {
+    "date": "2026-11-24",
+    "requests": 573.0,
+    "bytes": 368908297.0
    }
   ],
   "totals_28d": {
-   "requests": 64999.0,
-   "bytes": 9712621963.0,
+   "requests": 67720.0,
+   "bytes": 10120360494.0,
    "clients": 2053.0,
-   "tool": 32078.0,
-   "browser": 32921.0
+   "tool": 32491.0,
+   "browser": 35229.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 50
+    "n": 58
    },
    {
     "path": "/robots.txt",
-    "n": 28
+    "n": 33
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 14
    },
    {
+    "path": "/calcofi-files-public/netcdf/calcofi_ctd-cast_full/52e55e8f898d71a626b3b993/calcofi_ctd-cast_full.nc",
+    "n": 8
+   },
+   {
+    "path": "/sitemap.xml",
+    "n": 4
+   },
+   {
     "path": "/calcofi-files-public/netcdf/",
     "n": 4
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0711NH_CTDFinalQC/metadata/",
-    "n": 4
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/v2026.11.05/RELEASE_NOTES.html",
+    "path": "/calcofi-files-public/archive/sio/pic-zooplankton/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1207OS_CTDFinalQC/asc-hdr/",
-    "n": 3
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1202NH_CTDFinalQC/asc-hdr/",
+    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/19-9807NH_CTDFinalQC/csv_plots/dual/1stTSplots/",
     "n": 3
    },
    {
@@ -1254,7 +1259,7 @@
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/archive/2026-06-08_170035/calcofi/ctd-cast/download/20-0307NH_CTDFinalQC/",
+    "path": "/calcofi-projects/",
     "n": 2
    }
   ]
