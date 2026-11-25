@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-25T05:41:05+00:00",
+ "generated": "2026-11-25T11:17:37+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 1966.0,
-  "activeUsers": 15731.0,
-  "sessions": 16155.0
+  "engagedSessions": 1970.0,
+  "activeUsers": 15739.0,
+  "sessions": 16164.0
  },
  "n_mostly_automated": 2,
  "products": [
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 930.0,
-   "activeUsers": 4454.0,
-   "sessions": 4599.0,
+   "engagedSessions": 931.0,
+   "activeUsers": 4455.0,
+   "sessions": 4601.0,
    "engagementRate": 0.2,
    "avgEngagementSeconds": 17.3,
-   "delta": 456.9,
+   "delta": 457.5,
    "spark": [
     2.0,
     2.0,
@@ -101,7 +101,7 @@
     29.0,
     5.0,
     10.0,
-    7.0
+    8.0
    ],
    "mostly_automated": false
   },
@@ -109,8 +109,8 @@
    "slug": "erddap",
    "title": "erddap",
    "engagedSessions": 406.0,
-   "activeUsers": 9157.0,
-   "sessions": 9162.0,
+   "activeUsers": 9158.0,
+   "sessions": 9163.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.2,
    "delta": 728.6,
@@ -204,19 +204,19 @@
     4.0,
     1.0,
     1.0,
-    3.0
+    4.0
    ],
    "mostly_automated": true
   },
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 144.0,
-   "activeUsers": 207.0,
-   "sessions": 266.0,
+   "engagedSessions": 146.0,
+   "activeUsers": 209.0,
+   "sessions": 268.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 50.3,
-   "delta": 12.5,
+   "avgEngagementSeconds": 50.7,
+   "delta": 14.1,
    "spark": [
     1.0,
     2.0,
@@ -298,7 +298,7 @@
     4.0,
     7.0,
     7.0,
-    11.0
+    13.0
    ],
    "mostly_automated": false
   },
@@ -510,12 +510,12 @@
   {
    "slug": "db-viz-station",
    "title": "db-viz-station",
-   "engagedSessions": 80.0,
-   "activeUsers": 91.0,
-   "sessions": 137.0,
+   "engagedSessions": 81.0,
+   "activeUsers": 92.0,
+   "sessions": 138.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 122.8,
-   "delta": 5.3,
+   "avgEngagementSeconds": 121.5,
+   "delta": 6.6,
    "spark": [
     15.0,
     1.0,
@@ -606,7 +606,7 @@
     2.0,
     2.0,
     1.0,
-    4.0
+    5.0
    ],
    "mostly_automated": false
   },
@@ -820,10 +820,10 @@
    "slug": "db-query",
    "title": "db-query",
    "engagedSessions": 17.0,
-   "activeUsers": 83.0,
-   "sessions": 89.0,
+   "activeUsers": 85.0,
+   "sessions": 91.0,
    "engagementRate": 0.2,
-   "avgEngagementSeconds": 10.3,
+   "avgEngagementSeconds": 10.0,
    "delta": 21.4,
    "spark": [
     1.0,
@@ -881,7 +881,7 @@
     1.0,
     2.0,
     5.0,
-    9.0,
+    11.0,
     1.0,
     1.0,
     0.0,
@@ -1490,8 +1490,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 5.0,
-   "activeUsers": 305.0,
-   "sessions": 308.0,
+   "activeUsers": 306.0,
+   "sessions": 309.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.4,
    "delta": -58.3,
@@ -1585,7 +1585,7 @@
     2.0,
     1.0,
     3.0,
-    9.0
+    10.0
    ],
    "mostly_automated": true
   },
