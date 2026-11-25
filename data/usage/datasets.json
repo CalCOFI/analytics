@@ -7,23 +7,23 @@
  "first_day": "2026-09-05",
  "last_day": "2026-11-24",
  "totals_28d": {
-  "activeUsers": 205.0,
-  "newUsers": 122.0,
-  "sessions": 262.0,
+  "activeUsers": 207.0,
+  "newUsers": 124.0,
+  "sessions": 266.0,
   "engagedSessions": 144.0,
-  "screenPageViews": 467.0,
-  "eventCount": 1441.0,
-  "userEngagementDuration": 10075.0,
-  "avgEngagementSeconds": 49.1,
-  "engagedSessionRate": 0.6,
+  "screenPageViews": 481.0,
+  "eventCount": 1488.0,
+  "userEngagementDuration": 10418.0,
+  "avgEngagementSeconds": 50.3,
+  "engagedSessionRate": 0.5,
   "viewsPerUser": 2.3
  },
  "delta_28d": {
-  "activeUsers": 9.0,
-  "sessions": 8.3,
-  "engagedSessions": 14.3,
-  "avgEngagementSeconds": -15.8,
-  "screenPageViews": 50.2
+  "activeUsers": 7.8,
+  "sessions": 8.1,
+  "engagedSessions": 12.5,
+  "avgEngagementSeconds": -12.7,
+  "screenPageViews": 52.2
  },
  "daily": [
   {
@@ -428,8 +428,8 @@
   },
   {
    "date": "2026-11-24",
-   "activeUsers": 2.0,
-   "sessions": 2.0
+   "activeUsers": 11.0,
+   "sessions": 14.0
   }
  ],
  "daily_mean7": [
@@ -513,18 +513,18 @@
   9.57,
   9.29,
   9.14,
-  7.86
+  9.14
  ],
  "geo_country": [
   {
    "country": "United States",
    "countryId": "US",
-   "activeUsers": 167.0
+   "activeUsers": 173.0
   },
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 86.0
+   "activeUsers": 87.0
   },
   {
    "country": "China",
@@ -594,6 +594,11 @@
   {
    "country": "Belgium",
    "countryId": "BE",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Bermuda",
+   "countryId": "BM",
    "activeUsers": 2.0
   },
   {
@@ -713,13 +718,13 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 79.0
+   "activeUsers": 80.0
   },
   {
    "country": "United States",
    "countryId": "US",
    "region": "Other",
-   "activeUsers": 54.0
+   "activeUsers": 46.0
   },
   {
    "country": "China",
@@ -732,6 +737,12 @@
    "countryId": "US",
    "region": "Virginia",
    "activeUsers": 17.0
+  },
+  {
+   "country": "United States",
+   "countryId": "US",
+   "region": "Oregon",
+   "activeUsers": 14.0
   },
   {
    "country": "Canada",
@@ -814,6 +825,12 @@
   {
    "country": "Belgium",
    "countryId": "BE",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
+   "country": "Bermuda",
+   "countryId": "BM",
    "region": "Other",
    "activeUsers": 2.0
   },
@@ -989,52 +1006,52 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1017.0,
-   "users": 352.0
+   "count": 1040.0,
+   "users": 359.0
   },
   {
    "name": "user_engagement",
-   "count": 863.0,
-   "users": 169.0
+   "count": 888.0,
+   "users": 175.0
   },
   {
    "name": "session_start",
-   "count": 430.0,
-   "users": 305.0
+   "count": 438.0,
+   "users": 311.0
   },
   {
    "name": "first_visit",
-   "count": 274.0,
-   "users": 274.0
+   "count": 280.0,
+   "users": 280.0
   },
   {
    "name": "scroll",
-   "count": 243.0,
-   "users": 92.0
+   "count": 250.0,
+   "users": 93.0
   },
   {
    "name": "click",
-   "count": 107.0,
+   "count": 110.0,
    "users": 44.0
   },
   {
    "name": "file_download",
-   "count": 62.0,
+   "count": 64.0,
    "users": 28.0
   },
   {
    "name": "dataset_download",
-   "count": 12.0,
+   "count": 13.0,
    "users": 10.0
   },
   {
    "name": "form_start",
-   "count": 7.0,
+   "count": 8.0,
    "users": 4.0
   },
   {
    "name": "feedback",
-   "count": 3.0,
+   "count": 4.0,
    "users": 1.0
   }
  ]

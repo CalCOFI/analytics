@@ -284,23 +284,23 @@
  "events": [
   {
    "name": "page_view",
-   "count": 18.0,
-   "users": 4.0
+   "count": 15.0,
+   "users": 3.0
   },
   {
    "name": "session_start",
-   "count": 5.0,
-   "users": 4.0
+   "count": 4.0,
+   "users": 3.0
   },
   {
    "name": "scroll",
-   "count": 4.0,
-   "users": 4.0
+   "count": 3.0,
+   "users": 3.0
   },
   {
    "name": "user_engagement",
-   "count": 3.0,
-   "users": 3.0
+   "count": 2.0,
+   "users": 2.0
   },
   {
    "name": "first_visit",
