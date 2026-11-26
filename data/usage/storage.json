@@ -1220,58 +1220,63 @@
    },
    {
     "date": "2026-11-25",
-    "requests": 972.0,
-    "bytes": 6887566.0
+    "requests": 2916.0,
+    "bytes": 71560992.0
+   },
+   {
+    "date": "2026-11-26",
+    "requests": 1445.0,
+    "bytes": 156400403.0
    }
   ],
   "totals_28d": {
-   "requests": 66968.0,
-   "bytes": 10053621617.0,
+   "requests": 70357.0,
+   "bytes": 10274695446.0,
    "clients": 2053.0,
-   "tool": 31226.0,
-   "browser": 35742.0
+   "tool": 32706.0,
+   "browser": 37651.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 53
+    "n": 62
    },
    {
     "path": "/robots.txt",
-    "n": 25
-   },
-   {
-    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 9
-   },
-   {
-    "path": "/xmlrpc.php",
-    "n": 6
+    "n": 20
    },
    {
     "path": "/.git/config",
+    "n": 6
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/RELEASES.html",
     "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-0707NH_CTDFinalQC/csvs-plots/secondary/",
-    "n": 4
+    "path": "/calcofi-files-public/netcdf/calcofi_2022-edna/cb55210bcbcfebcafad0e035/calcofi_2022-edna.nc",
+    "n": 5
    },
    {
-    "path": "/sitemap.xml",
-    "n": 4
+    "path": "/calcofi-files-public/netcdf/calcofi_dic/6ad81a63b4d0c63b51d10c6d/calcofi_dic.nc",
+    "n": 5
    },
    {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1911OC_CTDFinalQC/csvs-plots/Primary/",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/calcofi_phyllosoma/0afc000ef87d3e6d1dbbf0f2/calcofi_phyllosoma.nc",
+    "n": 5
    },
    {
-    "path": "/.svn/format",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/cce-lter_euphausiids/06095ee1f2689619ae3b01fc/cce-lter_euphausiids.nc",
+    "n": 5
    },
    {
-    "path": "/.svn/wc.db",
-    "n": 3
+    "path": "/calcofi-files-public/netcdf/farallon_bird-mammal/e3cb6423ac2814c288e6637f/farallon_bird-mammal.nc",
+    "n": 5
+   },
+   {
+    "path": "/calcofi-files-public/netcdf/sio_mesopelagic-fish/61855df5e3875805a88c365d/sio_mesopelagic-fish.nc",
+    "n": 5
    }
   ]
  }
