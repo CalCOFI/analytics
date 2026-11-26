@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 42.0,
-  "newUsers": 34.0,
-  "sessions": 47.0,
-  "engagedSessions": 19.0,
-  "screenPageViews": 46.0,
-  "eventCount": 383.0,
-  "userEngagementDuration": 2142.0,
-  "avgEngagementSeconds": 51.0,
+  "activeUsers": 39.0,
+  "newUsers": 31.0,
+  "sessions": 44.0,
+  "engagedSessions": 16.0,
+  "screenPageViews": 43.0,
+  "eventCount": 351.0,
+  "userEngagementDuration": 1973.0,
+  "avgEngagementSeconds": 50.6,
   "engagedSessionRate": 0.4,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 82.6,
-  "sessions": 46.9,
-  "engagedSessions": -5.0,
-  "avgEngagementSeconds": -51.4,
-  "screenPageViews": 24.3
+  "activeUsers": 50.0,
+  "sessions": 25.7,
+  "engagedSessions": -30.4,
+  "avgEngagementSeconds": -49.1,
+  "screenPageViews": 7.5
  },
  "daily": [
   {
@@ -893,52 +893,52 @@
  "events": [
   {
    "name": "session_start",
-   "count": 780.0,
-   "users": 84.0
+   "count": 748.0,
+   "users": 82.0
   },
   {
    "name": "page_view",
-   "count": 609.0,
-   "users": 84.0
+   "count": 590.0,
+   "users": 82.0
   },
   {
    "name": "scroll",
-   "count": 546.0,
-   "users": 77.0
+   "count": 527.0,
+   "users": 75.0
   },
   {
    "name": "filter_submit",
-   "count": 428.0,
+   "count": 427.0,
    "users": 30.0
   },
   {
    "name": "map_query_env",
-   "count": 428.0,
+   "count": 427.0,
    "users": 30.0
   },
   {
    "name": "map_query_sp",
-   "count": 428.0,
+   "count": 427.0,
    "users": 30.0
   },
   {
    "name": "user_engagement",
-   "count": 337.0,
-   "users": 42.0
+   "count": 323.0,
+   "users": 41.0
   },
   {
    "name": "start_tour",
-   "count": 254.0,
-   "users": 65.0
+   "count": 249.0,
+   "users": 63.0
   },
   {
    "name": "select_theme",
-   "count": 143.0,
+   "count": 133.0,
    "users": 6.0
   },
   {
    "name": "select_tab",
-   "count": 121.0,
+   "count": 117.0,
    "users": 17.0
   },
   {
@@ -948,7 +948,7 @@
   },
   {
    "name": "open_filters",
-   "count": 89.0,
+   "count": 84.0,
    "users": 15.0
   }
  ],

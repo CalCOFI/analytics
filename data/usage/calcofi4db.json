@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-05-07",
- "last_day": "2026-11-24",
+ "last_day": "2026-11-25",
  "totals_28d": {
-  "activeUsers": 306.0,
-  "newUsers": 304.0,
-  "sessions": 309.0,
-  "engagedSessions": 5.0,
-  "screenPageViews": 314.0,
-  "eventCount": 942.0,
-  "userEngagementDuration": 113.0,
+  "activeUsers": 292.0,
+  "newUsers": 290.0,
+  "sessions": 295.0,
+  "engagedSessions": 4.0,
+  "screenPageViews": 300.0,
+  "eventCount": 898.0,
+  "userEngagementDuration": 103.0,
   "avgEngagementSeconds": 0.4,
   "engagedSessionRate": 0.0,
   "viewsPerUser": 1.0
  },
  "delta_28d": {
-  "activeUsers": -24.3,
-  "sessions": -24.8,
-  "engagedSessions": -58.3,
-  "avgEngagementSeconds": -55.6,
-  "screenPageViews": -23.4
+  "activeUsers": -27.5,
+  "sessions": -28.0,
+  "engagedSessions": -60.0,
+  "avgEngagementSeconds": -50.0,
+  "screenPageViews": -26.7
  },
  "daily": [
   {
@@ -760,6 +760,11 @@
    "date": "2026-11-24",
    "activeUsers": 10.0,
    "sessions": 10.0
+  },
+  {
+   "date": "2026-11-25",
+   "activeUsers": 6.0,
+   "sessions": 6.0
   }
  ],
  "daily_mean7": [
@@ -909,13 +914,14 @@
   3.57,
   3.14,
   2.29,
-  3.0
+  3.0,
+  3.71
  ],
  "geo_country": [
   {
    "country": "Singapore",
    "countryId": "SG",
-   "activeUsers": 1419.0
+   "activeUsers": 1425.0
   },
   {
    "country": "United States",
@@ -1148,7 +1154,7 @@
    "country": "Singapore",
    "countryId": "SG",
    "region": "(not set)",
-   "activeUsers": 1409.0
+   "activeUsers": 1418.0
   },
   {
    "country": "Brazil",
@@ -1199,12 +1205,6 @@
    "activeUsers": 10.0
   },
   {
-   "country": "Singapore",
-   "countryId": "SG",
-   "region": "",
-   "activeUsers": 9.0
-  },
-  {
    "country": "Chile",
    "countryId": "CL",
    "region": "Other",
@@ -1214,6 +1214,12 @@
    "country": "Pakistan",
    "countryId": "PK",
    "region": "Other",
+   "activeUsers": 6.0
+  },
+  {
+   "country": "Singapore",
+   "countryId": "SG",
+   "region": "",
    "activeUsers": 6.0
   },
   {
@@ -1490,18 +1496,18 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1432.0,
-   "users": 1410.0
+   "count": 1437.0,
+   "users": 1415.0
   },
   {
    "name": "session_start",
-   "count": 1417.0,
-   "users": 1407.0
+   "count": 1422.0,
+   "users": 1412.0
   },
   {
    "name": "first_visit",
-   "count": 1405.0,
-   "users": 1405.0
+   "count": 1410.0,
+   "users": 1410.0
   },
   {
    "name": "scroll",

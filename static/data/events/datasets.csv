@@ -3,9 +3,9 @@ click,110,44
 dataset_download,13,10
 feedback,4,1
 file_download,64,28
-first_visit,281,281
+first_visit,282,282
 form_start,8,4
-page_view,1050,360
-scroll,255,94
-session_start,439,312
-user_engagement,898,176
+page_view,1058,363
+scroll,259,96
+session_start,441,313
+user_engagement,904,179

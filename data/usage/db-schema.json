@@ -637,12 +637,12 @@
  "events": [
   {
    "name": "page_view",
-   "count": 125.0,
+   "count": 124.0,
    "users": 81.0
   },
   {
    "name": "session_start",
-   "count": 80.0,
+   "count": 79.0,
    "users": 64.0
   },
   {
