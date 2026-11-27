@@ -672,14 +672,14 @@
  ],
  "events": [
   {
-   "name": "page_view",
-   "count": 36.0,
-   "users": 31.0
-  },
-  {
    "name": "session_start",
    "count": 36.0,
    "users": 28.0
+  },
+  {
+   "name": "page_view",
+   "count": 35.0,
+   "users": 30.0
   },
   {
    "name": "first_visit",
@@ -687,14 +687,14 @@
    "users": 26.0
   },
   {
-   "name": "user_engagement",
-   "count": 20.0,
-   "users": 16.0
-  },
-  {
    "name": "scroll",
    "count": 19.0,
    "users": 17.0
+  },
+  {
+   "name": "user_engagement",
+   "count": 19.0,
+   "users": 15.0
   },
   {
    "name": "click",

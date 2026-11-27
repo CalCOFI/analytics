@@ -2610,8 +2610,8 @@
  "events": [
   {
    "name": "page_view",
-   "count": 53.0,
-   "users": 35.0
+   "count": 52.0,
+   "users": 34.0
   },
   {
    "name": "session_start",
@@ -2620,8 +2620,8 @@
   },
   {
    "name": "user_engagement",
-   "count": 29.0,
-   "users": 21.0
+   "count": 28.0,
+   "users": 20.0
   },
   {
    "name": "first_visit",
