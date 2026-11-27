@@ -7,23 +7,23 @@
  "first_day": "2026-07-01",
  "last_day": "20260727",
  "totals_28d": {
-  "activeUsers": 35.0,
-  "newUsers": 27.0,
-  "sessions": 39.0,
+  "activeUsers": 36.0,
+  "newUsers": 28.0,
+  "sessions": 40.0,
   "engagedSessions": 13.0,
-  "screenPageViews": 39.0,
-  "eventCount": 315.0,
-  "userEngagementDuration": 1278.0,
-  "avgEngagementSeconds": 36.5,
+  "screenPageViews": 40.0,
+  "eventCount": 321.0,
+  "userEngagementDuration": 1279.0,
+  "avgEngagementSeconds": 35.5,
   "engagedSessionRate": 0.3,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 25.0,
-  "sessions": 5.4,
+  "activeUsers": 28.6,
+  "sessions": 8.1,
   "engagedSessions": -43.5,
-  "avgEngagementSeconds": -68.7,
-  "screenPageViews": -4.9
+  "avgEngagementSeconds": -69.6,
+  "screenPageViews": -2.4
  },
  "daily": [
   {
@@ -482,6 +482,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-11-26",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -646,8 +651,9 @@
   2.43,
   2.43,
   2.29,
-  2.71,
+  2.29,
   2.14,
+  1.43,
   1.43,
   1.86,
   2.0,
@@ -686,6 +692,11 @@
    "activeUsers": 3.0
   },
   {
+   "country": "Brazil",
+   "countryId": "BR",
+   "activeUsers": 2.0
+  },
+  {
    "country": "China",
    "countryId": "CN",
    "activeUsers": 2.0
@@ -708,11 +719,6 @@
   {
    "country": "Bahrain",
    "countryId": "BH",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "Brazil",
-   "countryId": "BR",
    "activeUsers": 1.0
   },
   {
@@ -794,6 +800,12 @@
    "activeUsers": 3.0
   },
   {
+   "country": "Brazil",
+   "countryId": "BR",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
    "country": "China",
    "countryId": "CN",
    "region": "Other",
@@ -820,12 +832,6 @@
   {
    "country": "Bahrain",
    "countryId": "BH",
-   "region": "Other",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "Brazil",
-   "countryId": "BR",
    "region": "Other",
    "activeUsers": 1.0
   },
@@ -893,18 +899,18 @@
  "events": [
   {
    "name": "session_start",
-   "count": 739.0,
-   "users": 81.0
+   "count": 741.0,
+   "users": 82.0
   },
   {
    "name": "page_view",
-   "count": 585.0,
-   "users": 81.0
+   "count": 586.0,
+   "users": 82.0
   },
   {
    "name": "scroll",
-   "count": 522.0,
-   "users": 74.0
+   "count": 523.0,
+   "users": 75.0
   },
   {
    "name": "filter_submit",
@@ -928,8 +934,8 @@
   },
   {
    "name": "start_tour",
-   "count": 244.0,
-   "users": 62.0
+   "count": 245.0,
+   "users": 63.0
   },
   {
    "name": "select_theme",

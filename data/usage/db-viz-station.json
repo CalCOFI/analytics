@@ -5,25 +5,25 @@
  "property": "site",
  "has_data": true,
  "first_day": "2026-07-29",
- "last_day": "2026-11-25",
+ "last_day": "2026-11-26",
  "totals_28d": {
-  "activeUsers": 90.0,
-  "newUsers": 32.0,
-  "sessions": 134.0,
+  "activeUsers": 91.0,
+  "newUsers": 33.0,
+  "sessions": 135.0,
   "engagedSessions": 80.0,
-  "screenPageViews": 136.0,
-  "eventCount": 524.0,
+  "screenPageViews": 137.0,
+  "eventCount": 528.0,
   "userEngagementDuration": 10998.0,
-  "avgEngagementSeconds": 122.2,
+  "avgEngagementSeconds": 120.9,
   "engagedSessionRate": 0.6,
   "viewsPerUser": 1.5
  },
  "delta_28d": {
-  "activeUsers": 12.5,
-  "sessions": 24.1,
+  "activeUsers": 13.8,
+  "sessions": 25.0,
   "engagedSessions": 17.6,
-  "avgEngagementSeconds": 43.3,
-  "screenPageViews": 25.9
+  "avgEngagementSeconds": 41.7,
+  "screenPageViews": 26.9
  },
  "daily": [
   {
@@ -560,6 +560,11 @@
    "date": "2026-11-25",
    "activeUsers": 3.0,
    "sessions": 3.0
+  },
+  {
+   "date": "2026-11-26",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -669,7 +674,8 @@
   2.86,
   2.57,
   2.43,
-  2.57
+  2.57,
+  2.29
  ],
  "geo_country": [
   {
@@ -703,6 +709,11 @@
    "activeUsers": 2.0
   },
   {
+   "country": "India",
+   "countryId": "IN",
+   "activeUsers": 2.0
+  },
+  {
    "country": "South Korea",
    "countryId": "KR",
    "activeUsers": 2.0
@@ -730,11 +741,6 @@
   {
    "country": "Dominican Republic",
    "countryId": "DO",
-   "activeUsers": 1.0
-  },
-  {
-   "country": "India",
-   "countryId": "IN",
    "activeUsers": 1.0
   },
   {
@@ -820,6 +826,12 @@
    "activeUsers": 2.0
   },
   {
+   "country": "India",
+   "countryId": "IN",
+   "region": "Other",
+   "activeUsers": 2.0
+  },
+  {
    "country": "South Korea",
    "countryId": "KR",
    "region": "Other",
@@ -856,12 +868,6 @@
    "activeUsers": 1.0
   },
   {
-   "country": "India",
-   "countryId": "IN",
-   "region": "Other",
-   "activeUsers": 1.0
-  },
-  {
    "country": "Israel",
    "countryId": "IL",
    "region": "Other",
@@ -889,13 +895,13 @@
  "events": [
   {
    "name": "page_view",
-   "count": 392.0,
-   "users": 127.0
+   "count": 393.0,
+   "users": 128.0
   },
   {
    "name": "scroll",
-   "count": 359.0,
-   "users": 104.0
+   "count": 360.0,
+   "users": 105.0
   },
   {
    "name": "user_engagement",
@@ -904,8 +910,8 @@
   },
   {
    "name": "session_start",
-   "count": 253.0,
-   "users": 111.0
+   "count": 254.0,
+   "users": 112.0
   },
   {
    "name": "click",
@@ -914,8 +920,8 @@
   },
   {
    "name": "first_visit",
-   "count": 80.0,
-   "users": 80.0
+   "count": 81.0,
+   "users": 81.0
   },
   {
    "name": "form_start",

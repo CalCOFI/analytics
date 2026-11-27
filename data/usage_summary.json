@@ -1,23 +1,23 @@
 {
- "generated": "2026-11-27T05:22:02+00:00",
+ "generated": "2026-11-27T11:18:00+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
-  "engagedSessions": 1875.0,
-  "activeUsers": 14541.0,
-  "sessions": 14955.0
+  "engagedSessions": 1878.0,
+  "activeUsers": 14549.0,
+  "sessions": 14963.0
  },
  "n_mostly_automated": 2,
  "products": [
   {
    "slug": "explore",
    "title": "explore",
-   "engagedSessions": 930.0,
-   "activeUsers": 4454.0,
-   "sessions": 4601.0,
+   "engagedSessions": 931.0,
+   "activeUsers": 4455.0,
+   "sessions": 4602.0,
    "engagementRate": 0.2,
    "avgEngagementSeconds": 16.9,
-   "delta": 481.2,
+   "delta": 481.9,
    "spark": [
     2.0,
     2.0,
@@ -103,7 +103,7 @@
     10.0,
     8.0,
     6.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
@@ -213,12 +213,12 @@
   {
    "slug": "datasets",
    "title": "Dataset Catalog",
-   "engagedSessions": 146.0,
-   "activeUsers": 209.0,
-   "sessions": 267.0,
+   "engagedSessions": 147.0,
+   "activeUsers": 210.0,
+   "sessions": 268.0,
    "engagementRate": 0.5,
-   "avgEngagementSeconds": 50.8,
-   "delta": 17.7,
+   "avgEngagementSeconds": 50.9,
+   "delta": 18.5,
    "spark": [
     1.0,
     2.0,
@@ -302,7 +302,7 @@
     7.0,
     14.0,
     5.0,
-    8.0
+    9.0
    ],
    "mostly_automated": false
   },
@@ -516,13 +516,12 @@
    "slug": "db-viz-station",
    "title": "db-viz-station",
    "engagedSessions": 80.0,
-   "activeUsers": 90.0,
-   "sessions": 134.0,
+   "activeUsers": 91.0,
+   "sessions": 135.0,
    "engagementRate": 0.6,
-   "avgEngagementSeconds": 122.2,
+   "avgEngagementSeconds": 120.9,
    "delta": 17.6,
    "spark": [
-    1.0,
     10.0,
     7.0,
     2.0,
@@ -611,7 +610,8 @@
     2.0,
     1.0,
     5.0,
-    3.0
+    3.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -869,10 +869,10 @@
    "slug": "db-schema",
    "title": "db-schema",
    "engagedSessions": 15.0,
-   "activeUsers": 31.0,
-   "sessions": 34.0,
+   "activeUsers": 32.0,
+   "sessions": 35.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 43.7,
+   "avgEngagementSeconds": 42.3,
    "delta": -21.1,
    "spark": [
     1.0,
@@ -950,7 +950,7 @@
     1.0,
     1.0,
     1.0,
-    1.0
+    2.0
    ],
    "mostly_automated": false
   },
@@ -1061,13 +1061,12 @@
    "slug": "db-viz-hex",
    "title": "db-viz-hex",
    "engagedSessions": 13.0,
-   "activeUsers": 35.0,
-   "sessions": 39.0,
+   "activeUsers": 36.0,
+   "sessions": 40.0,
    "engagementRate": 0.3,
-   "avgEngagementSeconds": 36.5,
+   "avgEngagementSeconds": 35.5,
    "delta": -43.5,
    "spark": [
-    2.0,
     2.0,
     1.0,
     1.0,
@@ -1141,6 +1140,7 @@
     1.0,
     5.0,
     6.0,
+    1.0,
     1.0,
     1.0,
     1.0,
@@ -1494,43 +1494,14 @@
    "mostly_automated": false
   },
   {
-   "slug": "pollutants",
-   "title": "pollutants",
-   "engagedSessions": 5.0,
-   "activeUsers": 5.0,
-   "sessions": 5.0,
-   "engagementRate": 1.0,
-   "avgEngagementSeconds": 4.6,
-   "delta": 400.0,
-   "spark": [
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    4.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0,
-    1.0
-   ],
-   "mostly_automated": false
-  },
-  {
    "slug": "calcofi4db",
    "title": "calcofi4db",
-   "engagedSessions": 4.0,
-   "activeUsers": 286.0,
-   "sessions": 289.0,
+   "engagedSessions": 5.0,
+   "activeUsers": 289.0,
+   "sessions": 292.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.4,
-   "delta": -42.9,
+   "delta": -28.6,
    "spark": [
     1.0,
     9.0,
@@ -1621,9 +1592,38 @@
     3.0,
     10.0,
     7.0,
-    6.0
+    9.0
    ],
    "mostly_automated": true
+  },
+  {
+   "slug": "pollutants",
+   "title": "pollutants",
+   "engagedSessions": 5.0,
+   "activeUsers": 5.0,
+   "sessions": 5.0,
+   "engagementRate": 1.0,
+   "avgEngagementSeconds": 4.6,
+   "delta": 400.0,
+   "spark": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    4.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "mostly_automated": false
   },
   {
    "slug": "capstone",
