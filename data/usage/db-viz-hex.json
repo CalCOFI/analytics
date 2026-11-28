@@ -12,18 +12,18 @@
   "sessions": 40.0,
   "engagedSessions": 13.0,
   "screenPageViews": 40.0,
-  "eventCount": 321.0,
+  "eventCount": 322.0,
   "userEngagementDuration": 1279.0,
   "avgEngagementSeconds": 35.5,
   "engagedSessionRate": 0.3,
   "viewsPerUser": 1.1
  },
  "delta_28d": {
-  "activeUsers": 28.6,
-  "sessions": 8.1,
+  "activeUsers": 24.1,
+  "sessions": 5.3,
   "engagedSessions": -43.5,
-  "avgEngagementSeconds": -69.6,
-  "screenPageViews": -2.4
+  "avgEngagementSeconds": -68.5,
+  "screenPageViews": -4.8
  },
  "daily": [
   {
@@ -487,6 +487,11 @@
    "sessions": 1.0
   },
   {
+   "date": "2026-11-27",
+   "activeUsers": 1.0,
+   "sessions": 1.0
+  },
+  {
    "date": "20260701",
    "activeUsers": 1.0,
    "sessions": 1.0
@@ -652,7 +657,8 @@
   2.43,
   2.29,
   2.29,
-  2.14,
+  1.71,
+  1.43,
   1.43,
   1.43,
   1.86,
@@ -749,6 +755,11 @@
   {
    "country": "New Zealand",
    "countryId": "NZ",
+   "activeUsers": 1.0
+  },
+  {
+   "country": "Venezuela",
+   "countryId": "VE",
    "activeUsers": 1.0
   },
   {
@@ -884,6 +895,12 @@
    "activeUsers": 1.0
   },
   {
+   "country": "Venezuela",
+   "countryId": "VE",
+   "region": "Other",
+   "activeUsers": 1.0
+  },
+  {
    "country": "Vietnam",
    "countryId": "VN",
    "region": "Other",
@@ -899,63 +916,63 @@
  "events": [
   {
    "name": "session_start",
-   "count": 741.0,
+   "count": 678.0,
    "users": 82.0
   },
   {
    "name": "page_view",
-   "count": 586.0,
+   "count": 539.0,
    "users": 82.0
   },
   {
    "name": "scroll",
-   "count": 523.0,
+   "count": 479.0,
    "users": 75.0
   },
   {
    "name": "filter_submit",
-   "count": 427.0,
+   "count": 392.0,
    "users": 30.0
   },
   {
    "name": "map_query_env",
-   "count": 427.0,
+   "count": 392.0,
    "users": 30.0
   },
   {
    "name": "map_query_sp",
-   "count": 427.0,
+   "count": 392.0,
    "users": 30.0
   },
   {
    "name": "user_engagement",
-   "count": 318.0,
+   "count": 292.0,
    "users": 41.0
   },
   {
    "name": "start_tour",
-   "count": 245.0,
+   "count": 222.0,
    "users": 63.0
   },
   {
    "name": "select_theme",
-   "count": 130.0,
-   "users": 6.0
+   "count": 121.0,
+   "users": 5.0
   },
   {
    "name": "select_tab",
-   "count": 117.0,
+   "count": 111.0,
    "users": 17.0
   },
   {
-   "name": "filter_no_results",
-   "count": 103.0,
-   "users": 10.0
+   "name": "open_filters",
+   "count": 76.0,
+   "users": 15.0
   },
   {
-   "name": "open_filters",
-   "count": 84.0,
-   "users": 15.0
+   "name": "filter_no_results",
+   "count": 73.0,
+   "users": 10.0
   }
  ],
  "log": {

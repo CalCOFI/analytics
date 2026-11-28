@@ -19,11 +19,11 @@
   "viewsPerUser": 1.4
  },
  "delta_28d": {
-  "activeUsers": -50.4,
-  "sessions": -50.5,
-  "engagedSessions": -72.4,
-  "avgEngagementSeconds": -61.7,
-  "screenPageViews": -55.3
+  "activeUsers": -48.4,
+  "sessions": -49.2,
+  "engagedSessions": -70.8,
+  "avgEngagementSeconds": -62.6,
+  "screenPageViews": -54.2
  },
  "daily": [
   {
@@ -1083,33 +1083,33 @@
  "events": [
   {
    "name": "page_view",
-   "count": 1075.0,
-   "users": 524.0
+   "count": 948.0,
+   "users": 445.0
   },
   {
    "name": "session_start",
-   "count": 1002.0,
-   "users": 512.0
+   "count": 890.0,
+   "users": 433.0
   },
   {
    "name": "scroll",
-   "count": 900.0,
-   "users": 465.0
+   "count": 797.0,
+   "users": 393.0
   },
   {
    "name": "user_engagement",
-   "count": 495.0,
-   "users": 255.0
+   "count": 458.0,
+   "users": 224.0
   },
   {
    "name": "first_visit",
-   "count": 475.0,
-   "users": 474.0
+   "count": 395.0,
+   "users": 394.0
   },
   {
    "name": "click",
-   "count": 3.0,
-   "users": 2.0
+   "count": 1.0,
+   "users": 1.0
   },
   {
    "name": "form_start",

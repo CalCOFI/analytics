@@ -5,15 +5,15 @@
  "property": "apps",
  "has_data": true,
  "first_day": "2026-08-28",
- "last_day": "2026-11-26",
+ "last_day": "2026-11-27",
  "totals_28d": {
   "activeUsers": 4455.0,
-  "newUsers": 4342.0,
+  "newUsers": 4343.0,
   "sessions": 4602.0,
-  "engagedSessions": 931.0,
-  "screenPageViews": 10004.0,
-  "eventCount": 20916.0,
-  "userEngagementDuration": 75153.0,
+  "engagedSessions": 932.0,
+  "screenPageViews": 10001.0,
+  "eventCount": 20915.0,
+  "userEngagementDuration": 75131.0,
   "avgEngagementSeconds": 16.9,
   "engagedSessionRate": 0.2,
   "viewsPerUser": 2.2
@@ -21,9 +21,9 @@
  "delta_28d": {
   "activeUsers": 2173.0,
   "sessions": 1643.2,
-  "engagedSessions": 481.9,
+  "engagedSessions": 482.5,
   "avgEngagementSeconds": -88.4,
-  "screenPageViews": 244.7
+  "screenPageViews": 244.0
  },
  "daily": [
   {
@@ -450,6 +450,11 @@
    "date": "2026-11-26",
    "activeUsers": 2.0,
    "sessions": 2.0
+  },
+  {
+   "date": "2026-11-27",
+   "activeUsers": 1.0,
+   "sessions": 1.0
   }
  ],
  "daily_mean7": [
@@ -537,7 +542,8 @@
   11.57,
   11.29,
   10.71,
-  9.86
+  9.86,
+  8.71
  ],
  "geo_country": [
   {
@@ -568,7 +574,7 @@
   {
    "country": "Mexico",
    "countryId": "MX",
-   "activeUsers": 80.0
+   "activeUsers": 81.0
   },
   {
    "country": "Vietnam",
@@ -1014,7 +1020,7 @@
    "country": "Mexico",
    "countryId": "MX",
    "region": "Other",
-   "activeUsers": 53.0
+   "activeUsers": 54.0
   },
   {
    "country": "Brazil",
@@ -1854,12 +1860,12 @@
  "events": [
   {
    "name": "page_view",
-   "count": 16264.0,
+   "count": 16153.0,
    "users": 4580.0
   },
   {
    "name": "session_start",
-   "count": 5090.0,
+   "count": 5085.0,
    "users": 4567.0
   },
   {
@@ -1869,18 +1875,18 @@
   },
   {
    "name": "scroll",
-   "count": 1975.0,
+   "count": 1958.0,
    "users": 997.0
   },
   {
    "name": "user_engagement",
-   "count": 912.0,
+   "count": 900.0,
    "users": 154.0
   },
   {
    "name": "export",
-   "count": 122.0,
-   "users": 20.0
+   "count": 121.0,
+   "users": 21.0
   },
   {
    "name": "cite_ack",
@@ -1889,17 +1895,17 @@
   },
   {
    "name": "view_search_results",
-   "count": 57.0,
+   "count": 55.0,
    "users": 12.0
   },
   {
    "name": "click",
-   "count": 27.0,
+   "count": 24.0,
    "users": 8.0
   },
   {
    "name": "feedback",
-   "count": 24.0,
+   "count": 18.0,
    "users": 3.0
   },
   {

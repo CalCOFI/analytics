@@ -569,28 +569,28 @@
  "events": [
   {
    "name": "page_view",
-   "count": 69.0,
-   "users": 55.0
+   "count": 68.0,
+   "users": 54.0
   },
   {
    "name": "session_start",
-   "count": 69.0,
-   "users": 55.0
+   "count": 68.0,
+   "users": 54.0
   },
   {
    "name": "first_visit",
-   "count": 49.0,
-   "users": 49.0
+   "count": 48.0,
+   "users": 48.0
   },
   {
    "name": "scroll",
-   "count": 46.0,
-   "users": 41.0
+   "count": 45.0,
+   "users": 40.0
   },
   {
    "name": "user_engagement",
-   "count": 26.0,
-   "users": 20.0
+   "count": 25.0,
+   "users": 19.0
   },
   {
    "name": "form_start",
