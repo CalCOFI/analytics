@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-28T04:58:17+00:00",
+ "generated": "2026-11-28T11:17:42+00:00",
  "has_data": true,
  "n_products": 24,
  "totals_28d": {
   "engagedSessions": 1806.0,
-  "activeUsers": 13522.0,
-  "sessions": 13939.0
+  "activeUsers": 13525.0,
+  "sessions": 13942.0
  },
  "n_mostly_automated": 2,
  "products": [
@@ -112,8 +112,8 @@
    "slug": "erddap",
    "title": "erddap",
    "engagedSessions": 255.0,
-   "activeUsers": 7045.0,
-   "sessions": 7053.0,
+   "activeUsers": 7046.0,
+   "sessions": 7054.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.2,
    "delta": 26.9,
@@ -207,7 +207,7 @@
     4.0,
     3.0,
     4.0,
-    1.0
+    2.0
    ],
    "mostly_automated": true
   },
@@ -974,10 +974,10 @@
    "slug": "db-schema",
    "title": "db-schema",
    "engagedSessions": 15.0,
-   "activeUsers": 32.0,
-   "sessions": 35.0,
+   "activeUsers": 33.0,
+   "sessions": 36.0,
    "engagementRate": 0.4,
-   "avgEngagementSeconds": 42.3,
+   "avgEngagementSeconds": 41.1,
    "delta": -21.1,
    "spark": [
     1.0,
@@ -1055,7 +1055,8 @@
     1.0,
     1.0,
     1.0,
-    2.0
+    2.0,
+    1.0
    ],
    "mostly_automated": false
   },
@@ -1499,8 +1500,8 @@
    "slug": "calcofi4db",
    "title": "calcofi4db",
    "engagedSessions": 5.0,
-   "activeUsers": 275.0,
-   "sessions": 278.0,
+   "activeUsers": 276.0,
+   "sessions": 279.0,
    "engagementRate": 0.0,
    "avgEngagementSeconds": 0.4,
    "delta": -16.7,
@@ -1594,7 +1595,7 @@
     10.0,
     7.0,
     9.0,
-    2.0
+    3.0
    ],
    "mostly_automated": true
   },

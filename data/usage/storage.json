@@ -1230,58 +1230,63 @@
    },
    {
     "date": "2026-11-27",
-    "requests": 706.0,
-    "bytes": 3124596.0
+    "requests": 1879.0,
+    "bytes": 6843721.0
+   },
+   {
+    "date": "2026-11-28",
+    "requests": 1016.0,
+    "bytes": 572925633.0
    }
   ],
   "totals_28d": {
-   "requests": 69164.0,
-   "bytes": 10149034944.0,
+   "requests": 71353.0,
+   "bytes": 10725679702.0,
    "clients": 2053.0,
-   "tool": 31889.0,
-   "browser": 37275.0
+   "tool": 32964.0,
+   "browser": 38389.0
   },
   "first_day": "2026-07-29",
   "top_paths": [
    {
     "path": "/",
-    "n": 61
+    "n": 52
    },
    {
     "path": "/robots.txt",
-    "n": 16
+    "n": 21
+   },
+   {
+    "path": "/calcofi-db/ducklake/releases/",
+    "n": 4
    },
    {
     "path": "/calcofi-db/ducklake/releases/RELEASES.html",
-    "n": 6
+    "n": 4
    },
    {
     "path": "/sitemap.xml",
+    "n": 4
+   },
+   {
+    "path": "/calcofi-files-public/species-media/",
     "n": 3
    },
    {
-    "path": "/calcofi-db/ducklake-staging/tables/obs_env/measurement_type=phaeopigment/",
+    "path": "/calcofi-files-public/_sync/",
     "n": 3
    },
    {
-    "path": "/calcofi-files-public/_sync/calcofi/bottle/",
-    "n": 2
+    "path": "/calcofi-db/pg/ctd_scan_raw/",
+    "n": 3
    },
    {
-    "path": "/calcofi-files-public/netcdf/",
-    "n": 2
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=iso_est_nitrate_sta_corr/5ee476806913e73fe7c8f3e2/",
+    "n": 3
    },
    {
-    "path": "/favicon.ico",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-files-public/archive/2026-02-02_121557/calcofi.org/ctd-cast/download/20-1411NH_CTDFinalQC/csv_qc/",
-    "n": 2
-   },
-   {
-    "path": "/calcofi-db/ducklake/tables/obs_env/measurement_type=light_pct/6b6b2157c9b82c4c3c5d01ed/",
-    "n": 2
+    "path": "/calcofi-db/ducklake-staging/tables/climatology/measurement_type=iso_spiciness0/c090b1fc13ebc5b54504127a/",
+    "n": 3
    }
   ]
  }
